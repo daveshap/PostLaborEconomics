@@ -7,7 +7,7 @@
 ### Introduction
 
 
-Machines will soon be better, faster, cheaper, and safer than humans at most economically significant activities. This assertion is the bedrock assumption of this book. While I could point to some clues and evidence that this will be the likely path forward – at the time of writing, we have already seen white collar layoffs due to AI – it is still speculative to say that AI will totally replace human labor sooner rather than later. 
+Machines will soon be better, faster, cheaper, and safer than humans at most economically significant activities. This assertion is the bedrock assumption of this book. While I could point to some clues and evidence that this will be the likely path forward—at the time of writing, we have already seen white collar layoffs due to AI—it is still speculative to say that AI will totally replace human labor sooner rather than later. 
 
 
 Thus, for the sake of argument, I am asking you to create an analytical third space in your mind. Imagine that machines do become better, faster, cheaper, and safer than humans from the perspective of economic productivity. What then? Imagine that the value of most human labor, broadly, drops to zero. Or, more accurately, that machines are hundreds of times cheaper than human labor, and thus it would be difficult to justify the premium of hiring humans in most cases. 
@@ -22,7 +22,7 @@ Many of you reading this will be thinking “Yeah, sure, but my job is clearly s
 Various entities, from Goldman Sachs to the IMF have estimated that everywhere from 25% of jobs to 80% of jobs will at least be partially or totally replaced by AI in the foreseeable future. I personally believe these estimates might be conservative. There are a couple of ways to look at this. 
 
 
-First, there is the supply side – the supply of labor and the capabilities required to perform economically meaningful activities. When you characterize human abilities and behaviors this way, you can quickly identify cognitive abilities and physical skills that make humans valuable to businesses and the economy. We can solve problems, learn a variety of skills, and use tools and computers. With the rapid rise of bipedal robots that can operate in dynamic environments, combined with the meteoric progress of transformer-style deep neural networks such as LLMs and the up-and-coming multimodal models (collectively called “transformers” from here on out) we should expect to see a steady, predictable expansion of machine capabilities. This is called the ”frontier of automation” which we will discuss in greater detail in chapter three. 
+First, there is the supply side—the supply of labor and the capabilities required to perform economically meaningful activities. When you characterize human abilities and behaviors this way, you can quickly identify cognitive abilities and physical skills that make humans valuable to businesses and the economy. We can solve problems, learn a variety of skills, and use tools and computers. With the rapid rise of bipedal robots that can operate in dynamic environments, combined with the meteoric progress of transformer-style deep neural networks such as LLMs and the up-and-coming multimodal models (collectively called “transformers” from here on out) we should expect to see a steady, predictable expansion of machine capabilities. This is called the ”frontier of automation” which we will discuss in greater detail in chapter three. 
 
 
 Better, faster, cheaper, safer. That’s the mantra. If that happens, what’s next?
@@ -38,13 +38,13 @@ At the same time as unemployment and NEETs (people Not in Education, Employment,
 ### Chapter 1: Goods and Services
 
 
-The simplest definition of “the economy” according to Thomas Sowell is “the allocation of scarce resources with multiple uses.” There is a finite amount of wood that can be produced in any given time and place. Wood can be used to build homes, furniture, and paper. Free market economics allows the market to price the raw material – timber – to allow for the efficient allocation of the use of wood. Price signals tell people what is in demand and what is scarce. 
+The simplest definition of “the economy” according to Thomas Sowell is “the allocation of scarce resources with multiple uses.” There is a finite amount of wood that can be produced in any given time and place. Wood can be used to build homes, furniture, and paper. Free market economics allows the market to price the raw material—timber—to allow for the efficient allocation of the use of wood. Price signals tell people what is in demand and what is scarce. 
 
 
 In places where wood is abundant and cheap, such as in Scandinavia, it is more cost effective to burn excess wood to heat your home than it is to use fossil fuels or electricity. The dense forests of Sweden provide an effective hyper-abundance to the local inhabitants. There’s more wood than they know what to do with, so the raw material is practically free, save for the labor of felling, cutting, splitting, and seasoning it. 
 
 
-In Baghdad, however, wood is expensive, so homes are made of local materials – sand, stone, and concrete.
+In Baghdad, however, wood is expensive, so homes are made of local materials—sand, stone, and concrete.
 
 
 Heavy, bulky goods that come from the Earth tend to be reliable in terms of economic value. A barrel of oil is a relatively stable commodity, as is wood and stone. These, however, are just raw materials. Finished goods, such as cars, televisions, medical equipment, houses, and medicines require countless material and labor inputs.
@@ -53,7 +53,7 @@ Heavy, bulky goods that come from the Earth tend to be reliable in terms of econ
 A general rule of thumb, though, is that technology lowers the cost of goods and services. This impact is not equal. Gold, for instance, as a scarce raw material, is almost invulnerable to technological disruptions, hence why it is used extensively as a hedge against market volatility. That is, until Elon Musk dispatches a rocket to a gold-rich asteroid and brings back a quadrillion tons of gold, which may or may not happen in the next century. I wouldn’t bet on it. 
 
 
-Free markets set prices by supply and demand. Supply of a resource, its relative scarcity or abundance, is compared with demand – how much is wanted and needed. Supply of resources is either elastic or inelastic – it can be easily scaled or not at all. The amount of sunlight hitting the earth is inelastic, as there’s almost nothing we can do. The amount of fresh water on the planet is likewise largely inelastic. The amount of strawberries, however, is totally elastic. If, for instance, the demand for strawberries skyrocketed, it would only take a few months for growers to adapt, following the price signal and making a simple calculation that they can increase profits by switching from asparagus to strawberries. 
+Free markets set prices by supply and demand. Supply of a resource, its relative scarcity or abundance, is compared with demand—how much is wanted and needed. Supply of resources is either elastic or inelastic—it can be easily scaled or not at all. The amount of sunlight hitting the earth is inelastic, as there’s almost nothing we can do. The amount of fresh water on the planet is likewise largely inelastic. The amount of strawberries, however, is totally elastic. If, for instance, the demand for strawberries skyrocketed, it would only take a few months for growers to adapt, following the price signal and making a simple calculation that they can increase profits by switching from asparagus to strawberries. 
 
 
 While some goods are resistant to technological innovation, others are not. Previous industrial revolutions, such as the introduction of diesel farm equipment combined with agricultural sciences, the overall labor inputs to farming have collapsed over the last two centuries. In 1800, 90% of labor was on the farm. Today, it’s closer to 2%.
