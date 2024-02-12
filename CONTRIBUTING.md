@@ -36,7 +36,7 @@ You may submit a PR. Your PR must include specific notes as to what you're chang
 
 ## Ethos
 
-Please see [C3P0.txt|C3P0.txt] for the full code of ethics. The TLDR is:
+Please see `C3P0.txt` for the full code of ethics. The TLDR is:
 
 1. Don't waste time
 2. Do no harm
