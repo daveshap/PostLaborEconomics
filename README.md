@@ -20,6 +20,6 @@ As mentioned above, this repo will be the first output, which is published under
 
 ## Repo Contents
 
-- [PostLaborEconomics.md|PostLaborEconomics.md] - This is the manuscript, the centerpiece of this repo.
+- [[PostLaborEconomics.md|PostLaborEconomics.md]] - This is the manuscript, the centerpiece of this repo.
 - [CONTRIBUTING.md|CONTRIBUTING.md] - You must read this before contributing to the project.
 - [C3P0.txt|C3P0.txt] - This is the community ethos and code of conduct.
