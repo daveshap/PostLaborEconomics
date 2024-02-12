@@ -5,7 +5,7 @@
 Here are some ways you can contribute:
 
 1. **Copy Editing for Clarity:** Feel free to point out confusing, unclear, or opaque passages. We want to be impactful, clear, and engaging.
-2. **Citations for an Air Tight Argument:** Add inline citations to shore up our argument and make it as compelling as possible.
+2. **Citations for an Air Tight Argument:** Add inline citations to shore up our argument and make it as compelling as possible. For an example of a citation PR check here: https://github.com/daveshap/PostLaborEconomics/pull/9 
 3. **Charts and Graphs for Clarity:** We need high resolution (300DPI) images for charts and graphs where it makes sense
 4. **Cover Art & Jacket:** We need a high quality PDF for the paperback. Size TBD
 5. **Accuracy and Correctness:** Bring up issues and submit PRs to increase accuracy and correctness.
