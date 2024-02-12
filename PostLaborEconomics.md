@@ -6,8 +6,8 @@
 
 ### Introduction
 
-
-Machines will soon be better, faster, cheaper, and safer than humans at most economically significant activities. This assertion is the bedrock assumption of this book. While I could point to some clues and evidence that this will be the likely path forward—at the time of writing, we have already seen white collar layoffs due to AI—it is still speculative to say that AI will totally replace human labor sooner rather than later.[<sup>[1]</sup>](#1)<a name="1'"></a>
+<a id="ref--x-alexisohanian-one-person-billion-company"></a>
+Machines will soon be better, faster, cheaper, and safer than humans at most economically significant activities. This assertion is the bedrock assumption of this book. While I could point to some clues and evidence that this will be the likely path forward—at the time of writing, we have already seen white collar layoffs due to AI—it is still speculative to say that AI will totally replace human labor sooner rather than later.[<sup>[citation]</sup>](#cite--x-alexisohanian-one-person-billion-company)
 
 
 Thus, for the sake of argument, I am asking you to create an analytical third space in your mind. Imagine that machines do become better, faster, cheaper, and safer than humans from the perspective of economic productivity. What then? Imagine that the value of most human labor, broadly, drops to zero. Or, more accurately, that machines are hundreds of times cheaper than human labor, and thus it would be difficult to justify the premium of hiring humans in most cases. 
@@ -303,8 +303,8 @@ Exploring the future of labor and the economy in the age of AI and automation re
 
 To address this question, it's instructive to consider the demand side of the equation. Specifically, we must ask ourselves: For which jobs are we, as a society, willing to pay a premium to ensure they are performed by humans? This perspective is likely to reveal a set of roles that are durable and permanent, rooted in our intrinsic social nature and affinity for human connection.
 
-
-Anton Korinek, a leading thinker in the economics of AI, posits that "sentimental" jobs, such as those of priests and politicians, are likely to endure. Building on this idea, we can identify several categories of jobs that may remain uniquely human:
+<a id="ref--korinek-juelfs-nostalgic-jobs"></a>
+Anton Korinek, a leading thinker in the economics of AI, posits that "nostalgic" jobs, such as those of priests and politicians, are likely to endure. Building on this idea, we can identify several categories of jobs that may remain uniquely human: [<sup>citation</sup>](#cite--korinek-juelfs-nostalgic-jobs)
 
 
 1.	Sentimental Jobs: These roles, including religious leaders and elected officials, rely heavily on emotional intelligence, empathy, and the ability to connect with others on a deeply personal level.
@@ -1179,7 +1179,8 @@ In essence, these emerging narratives offer a framework for collective reflectio
 
 ## Bibliography
 
-<a name="1"></a> 1. [^](#1') @alexisohanian (2024-01-31T14:00Z). ["A decade ago we would've thought a single-person-company had no chance of reaching a billion dollar valuation 💸 But now thanks to all this AI, it is. You heard it straight from @OpenAI CEO @sama ↓"](https://twitter.com/alexisohanian/status/1752753792058294725?t=zHQCBTtfz3hXdhbfUsgEAg) (Post) – via X.
+- <a id="cite--x-alexisohanian-one-person-billion-company"></a> [^](#ref--x-alexisohanian-one-person-billion-company) @alexisohanian (2024-01-31T14:00Z). ["A decade ago we would've thought a single-person-company had no chance of reaching a billion dollar valuation 💸 But now thanks to all this AI, it is. You heard it straight from @OpenAI CEO @sama ↓"](https://twitter.com/alexisohanian/status/1752753792058294725?t=zHQCBTtfz3hXdhbfUsgEAg) (Post) – via X.
+- <a id="cite--korinek-juelfs-nostalgic-jobs"></a> [^](#ref--korinek-juelfs-nostalgic-jobs) Anton Korinek, Megan Juelfs (2022) *Preparing for the (non-existent?) future of work* -- [Working Paper](https://www.brookings.edu/wp-content/uploads/2022/08/2022.08.10_Korinek-Juelfs-Final.pdf)
 
 ## Contributors
 
