@@ -8,7 +8,7 @@ The Fourth Industrial Revolution (4IR) is ramping up, and with it will come inev
 
 This books aims to be a 21st century version of Adam Smith's _The Wealth of Nations_. As such, it must be robust, polished, accessible, and well-cited. Therefore, I am creating an open source project to collaboratively edit, cite, and revise this book. Once the drafting is done, I will keep it available for free in digital format here. I will also make it available as widely as possible as an audiobook and paperback. The reason for this is that the most influential and thoughtful people in the world are prodigious readers. A good book, widely read (such as _Wealth of Nations_) can serve as a bedrock narrative, a coordinating solution. In other words, it gets everyone on the same page. 
 
-The goal with this repo is to produce a refined draft of a book with excellent readability and citations. To that end, we will use every relevant tool that GitHub offers for change control, discussion, and so on. See [contributing.md|contributing.md] for specific guidelines and processes. 
+The goal with this repo is to produce a refined draft of a book with excellent readability and citations. To that end, we will use every relevant tool that GitHub offers for change control, discussion, and so on. See [CONTRIBUTING.md](CONTRIBUTING.md) for specific guidelines and processes. 
 
 ## Theory
 
