@@ -18,6 +18,10 @@ The underpinning assertion of this book is simple: machines will soon be better,
 
 As mentioned above, this repo will be the first output, which is published under the CC0 license, meaning that anyone can use it for anything they want, including to make money. This idea is too important not to share. At the same time, my plan is to package up the final result as a paperback and audiobook for mass distribution, to make it even more accessible. Ostensibly, I'd like to get on Bill Gates' and Barack Obama's reading list, or at least the NPR recommended reading list. That is the level of quality and impact I'm aiming for. If we can create a coherent and compelling narrative, we can probably work towards that goal.
 
+## Strategy
+
+The strategy for making an impact comes directly from _A Brief History of Neoliberalism_ by David Harvey. As an influential thinker and creator, I already have a rather large, global audience. This is the first step. The second step is to create a coherent, singular artifact in everyone's hands so they can all "get on the same page" literally and figuratively. Everyone from students to captains of industry to politicians, through reading and sharing powerful ideas, will adopt the new narrative. This is exactly how the seeds of neoliberalism were sown. These kinds of economic theories must be planted before they are needed, and then once they catch on, they become the defacto doctrine. This book can influence countless entreprenuers, business elite, politicians, and educators, thus solving the coordination problem. 
+
 ## Repo Contents
 
 - `PostLaborEconomics.md` - This is the manuscript, the centerpiece of this repo.
