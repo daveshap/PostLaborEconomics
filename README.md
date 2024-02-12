@@ -17,3 +17,9 @@ The underpinning assertion of this book is simple: machines will soon be better,
 ## Output
 
 As mentioned above, this repo will be the first output, which is published under the CC0 license, meaning that anyone can use it for anything they want, including to make money. This idea is too important not to share. At the same time, my plan is to package up the final result as a paperback and audiobook for mass distribution, to make it even more accessible. Ostensibly, I'd like to get on Bill Gates' and Barack Obama's reading list, or at least the NPR recommended reading list. That is the level of quality and impact I'm aiming for. If we can create a coherent and compelling narrative, we can probably work towards that goal.
+
+## Repo Contents
+
+- [PostLaborEconomics.md|PostLaborEconomics.md] - This is the manuscript, the centerpiece of this repo.
+- [CONTRIBUTING.md|CONTRIBUTING.md] - You must read this before contributing to the project.
+- [C3P0.txt|C3P0.txt] - This is the community ethos and code of conduct.
