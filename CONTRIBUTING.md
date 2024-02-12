@@ -33,3 +33,11 @@ If there's a specific concern that you can cite, you may also create an issue. K
 ### Pull Requests
 
 You may submit a PR. Your PR must include specific notes as to what you're changing or why. All PRs without good notes will be deleted. 
+
+## Ethos
+
+Please see [C3P0.txt|C3P0.txt] for the full code of ethics. The TLDR is:
+
+1. Don't waste time
+2. Do no harm
+3. Add value
