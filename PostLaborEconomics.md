@@ -17,7 +17,7 @@ Thus, for the sake of argument, I am asking you to create an analytical third sp
 This last condition is already true in many businesses. Having been plugged into the industry with my position as a public communicator, I have plenty of anecdotes (which aren’t data, but still) of business leaders who have halted hiring, while explicitly trying to avoid raising headcount in favor of finding AI tools. Sam Altman, the legendary CEO of OpenAI, has recently said that he expects a billion dollar unicorn to exist soon that has no employees. 
 
 
-=======
+
 This last condition is already true in many businesses. Having been plugged into the industry with my position as a public communicator, I have plenty of anecdotes (which aren’t data, but still) of business leaders who have halted hiring, while explicitly trying to avoid raising headcount in favor of finding AI tools. Sam Altman, the legendary CEO of OpenAI, has recently said that he expects a billion dollar unicorn to exist soon that has no employees. 
 
 Many of you reading this will be thinking “Yeah, sure, but my job is clearly safe!” To that I will point out that we have been dead wrong about any predictions as to what would be safe. Ten years ago, we thought that creative jobs would be the last to go. Instead, they were the first. We thought that CEOs would be difficult to replace, but already we’ve seen “ChatGPT for CEO” memes go viral, and it turns out that LLMs have pretty good business sense. We thought that white collar workers would also be after blue collar workers, but it turns out this is also reversed, due to Moravec’s Paradox. 
@@ -36,7 +36,7 @@ Better, faster, cheaper, safer. That’s the mantra. If that happens, what’s n
 We would expect to see layoffs rise, a steady rise of unemployment, and eventually a steady decline of total employment in absolute terms. At the time of writing, America has 167.45 million laborers in the workforce. This is down from an all time high of 168.13 million just a few months prior. In the grand scheme of things, this is a blip, and should not be a portent of things to come. However, total employment numbers will be the key metric to watch, as well as layoffs and unemployment numbers. 
 
 
-=======
+
 First, there is the supply side – the supply of labor and the capabilities required to perform economically meaningful activities. When you characterize human abilities and behaviors this way, you can quickly identify cognitive abilities and physical skills that make humans valuable to businesses and the economy. We can solve problems, learn a variety of skills, and use tools and computers. With the rapid rise of bipedal robots that can operate in dynamic environments, combined with the meteoric progress of transformer-style deep neural networks such as LLMs and the up-and-coming multimodal models (collectively called “transformers” from here on out) we should expect to see a steady, predictable expansion of machine capabilities. This is called the ”frontier of automation” which we will discuss in greater detail in chapter three. 
 
 Better, faster, cheaper, safer. That’s the mantra. If that happens, what’s next?
@@ -55,7 +55,7 @@ The simplest definition of “the economy” according to Thomas Sowell is “th
 
 
 
-=======
+
 
 In places where wood is abundant and cheap, such as in Scandinavia, it is more cost effective to burn excess wood to heat your home than it is to use fossil fuels or electricity. The dense forests of Sweden provide an effective hyper-abundance to the local inhabitants. There’s more wood than they know what to do with, so the raw material is practically free, save for the labor of felling, cutting, splitting, and seasoning it. 
 
@@ -103,7 +103,7 @@ According to statistics from the Bureau of Labor Statistics (BLS), the significa
 The implications of this shift are profound. High-friction work, such as farming and manufacturing, remains essential; these sectors continue to provide the foundational goods and infrastructure upon which the service and knowledge economy builds. However, the bulk of economic activity and value creation now resides in the realm of mental labor. This transition has not only reshaped the job market but has also led to significant changes in education and training, with an increasing emphasis on developing skills and expertise in fields that support the knowledge economy.
 
 
-=======
+
 Heavy, bulky goods that come from the Earth tend to be reliable in terms of economic value. A barrel of oil is a relatively stable commodity, as is wood and stone. These, however, are just raw materials. Finished goods, such as cars, televisions, medical equipment, houses, and medicines require countless material and labor inputs.
 
 A general rule of thumb, though, is that technology lowers the cost of goods and services. This impact is not equal. Gold, for instance, as a scarce raw material, is almost invulnerable to technological disruptions, hence why it is used extensively as a hedge against market volatility. That is, until Elon Musk dispatches a rocket to a gold-rich asteroid and brings back a quadrillion tons of gold, which may or may not happen in the next century. I wouldn’t bet on it. 
@@ -1216,6 +1216,6 @@ In essence, these emerging narratives offer a framework for collective reflectio
 
 
 WIP
-=======
+
 WIP
 
