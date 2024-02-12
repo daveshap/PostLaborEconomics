@@ -23,3 +23,5 @@ As mentioned above, this repo will be the first output, which is published under
 - `PostLaborEconomics.md` - This is the manuscript, the centerpiece of this repo.
 - `CONTRIBUTING.md` - You must read this before contributing to the project.
 - `C3P0.txt` - This is the community ethos and code of conduct.
+- `LICENSE` - Creative Commons Zero License
+- `README.md` - This file
