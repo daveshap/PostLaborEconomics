@@ -7,7 +7,7 @@
 ### Introduction
 
 
-Machines will soon be better, faster, cheaper, and safer than humans at most economically significant activities. This assertion is the bedrock assumption of this book. While I could point to some clues and evidence that this will be the likely path forward—at the time of writing, we have already seen white collar layoffs due to AI—it is still speculative to say that AI will totally replace human labor sooner rather than later.
+Machines will soon be better, faster, cheaper, and safer than humans at most economically significant activities. This assertion is the bedrock assumption of this book. While I could point to some clues and evidence that this will be the likely path forwardAt the time of writing, we have already seen white collar layoffs due to AI, although it is still speculative to say that AI will totally replace human labor sooner rather than later.
 
 
 Thus, for the sake of argument, I am asking you to create an analytical third space in your mind. Imagine that machines do become better, faster, cheaper, and safer than humans from the perspective of economic productivity. What then? Imagine that the value of most human labor, broadly, drops to zero. Or, more accurately, that machines are hundreds of times cheaper than human labor, and thus it would be difficult to justify the premium of hiring humans in most cases. 
