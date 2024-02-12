@@ -7,7 +7,7 @@
 ### Introduction
 
 
-Machines will soon be better, faster, cheaper, and safer than humans at most economically significant activities. This assertion is the bedrock assumption of this book. While I could point to some clues and evidence that this will be the likely path forward—at the time of writing, we have already seen white collar layoffs due to AI—it is still speculative to say that AI will totally replace human labor sooner rather than later.
+Machines will soon be better, faster, cheaper, and safer than humans at most economically significant activities. This assertion is the bedrock assumption of this book. While I could point to some clues and evidence that this will be the likely path forward. At the time of writing, we have already seen white collar layoffs due to AI, although it is still speculative to say that AI will totally replace human labor sooner rather than later.
 
 
 Thus, for the sake of argument, I am asking you to create an analytical third space in your mind. Imagine that machines do become better, faster, cheaper, and safer than humans from the perspective of economic productivity. What then? Imagine that the value of most human labor, broadly, drops to zero. Or, more accurately, that machines are hundreds of times cheaper than human labor, and thus it would be difficult to justify the premium of hiring humans in most cases. 
@@ -16,8 +16,8 @@ Thus, for the sake of argument, I am asking you to create an analytical third sp
 <a id="ref--x-alexisohanian-one-person-billion-company"></a>
 This last condition is already true in many businesses. Having been plugged into the industry with my position as a public communicator, I have plenty of anecdotes (which aren’t data, but still) of business leaders who have halted hiring, while explicitly trying to avoid raising headcount in favor of finding AI tools. Sam Altman, the legendary CEO of OpenAI, has recently said that he expects a billion dollar unicorn to exist soon that has no employees.[<sup>[citation]</sup>](#cite--x-alexisohanian-one-person-billion-company)
 
-
-Many of you reading this will be thinking “Yeah, sure, but my job is clearly safe!” To that I will point out that we have been dead wrong about any predictions as to what would be safe. Ten years ago, we thought that creative jobs would be the last to go. Instead, they were the first. We thought that CEOs would be difficult to replace, but already we’ve seen “ChatGPT for CEO” memes go viral, and it turns out that LLMs have pretty good business sense. We thought that white collar workers would also be after blue collar workers, but it turns out this is also reversed, due to Moravec’s Paradox. 
+<a id="ref--wikipedia-moravec-paradox"></a>
+Many of you reading this will be thinking “Yeah, sure, but my job is clearly safe!” To that I will point out that predictions of how industrial revolutions of the past would affect the job market have been dead wrong. Ten years ago, we thought that creative jobs would be the last to go. Instead, they were the first. We thought that CEOs would be difficult to replace, but already we’ve seen “ChatGPT for CEO” memes go viral, and it turns out that LLMs have pretty good business sense. We thought that white collar workers would also be after blue collar workers, but it turns out this is also reversed, due to Moravec’s Paradox.[<sup>[citation]</sup>](#cite--wikipedia-moravec-paradox) 
 
 
 Various entities, from Goldman Sachs to the IMF have estimated that everywhere from 25% of jobs to 80% of jobs will at least be partially or totally replaced by AI in the foreseeable future. I personally believe these estimates might be conservative. There are a couple of ways to look at this. 
@@ -1182,7 +1182,7 @@ In essence, these emerging narratives offer a framework for collective reflectio
 
 - <a id="cite--x-alexisohanian-one-person-billion-company"></a> [^](#ref--x-alexisohanian-one-person-billion-company) @alexisohanian (2024-01-31T14:00Z). ["A decade ago we would've thought a single-person-company had no chance of reaching a billion dollar valuation 💸 But now thanks to all this AI, it is. You heard it straight from @OpenAI CEO @sama ↓"](https://twitter.com/alexisohanian/status/1752753792058294725?t=zHQCBTtfz3hXdhbfUsgEAg) (Post) – via X.
 - <a id="cite--korinek-juelfs-nostalgic-jobs"></a> [^](#ref--korinek-juelfs-nostalgic-jobs) Anton Korinek, Megan Juelfs (2022) *Preparing for the (non-existent?) future of work* -- [Working Paper](https://www.brookings.edu/wp-content/uploads/2022/08/2022.08.10_Korinek-Juelfs-Final.pdf)
-
+- <a id="cite--wikipedia-moravec-paradox"></a> [^](#ref--wikipedia-moravec-paradox) Moravec's paradox is the observation in artificial intelligence and robotics that, contrary to traditional assumptions, reasoning requires very little computation, but sensorimotor and perception skills require enormous computational resources.* --(https://en.wikipedia.org/wiki/Moravec%27s_paradox)
 ## Contributors
 
 WIP
