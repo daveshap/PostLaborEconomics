@@ -6,14 +6,15 @@
 
 ### Introduction
 
-<a id="ref--x-alexisohanian-one-person-billion-company"></a>
-Machines will soon be better, faster, cheaper, and safer than humans at most economically significant activities. This assertion is the bedrock assumption of this book. While I could point to some clues and evidence that this will be the likely path forward—at the time of writing, we have already seen white collar layoffs due to AI—it is still speculative to say that AI will totally replace human labor sooner rather than later.[<sup>[citation]</sup>](#cite--x-alexisohanian-one-person-billion-company)
+
+Machines will soon be better, faster, cheaper, and safer than humans at most economically significant activities. This assertion is the bedrock assumption of this book. While I could point to some clues and evidence that this will be the likely path forward—at the time of writing, we have already seen white collar layoffs due to AI—it is still speculative to say that AI will totally replace human labor sooner rather than later.
 
 
 Thus, for the sake of argument, I am asking you to create an analytical third space in your mind. Imagine that machines do become better, faster, cheaper, and safer than humans from the perspective of economic productivity. What then? Imagine that the value of most human labor, broadly, drops to zero. Or, more accurately, that machines are hundreds of times cheaper than human labor, and thus it would be difficult to justify the premium of hiring humans in most cases. 
 
 
-This last condition is already true in many businesses. Having been plugged into the industry with my position as a public communicator, I have plenty of anecdotes (which aren’t data, but still) of business leaders who have halted hiring, while explicitly trying to avoid raising headcount in favor of finding AI tools. Sam Altman, the legendary CEO of OpenAI, has recently said that he expects a billion dollar unicorn to exist soon that has no employees. 
+<a id="ref--x-alexisohanian-one-person-billion-company"></a>
+This last condition is already true in many businesses. Having been plugged into the industry with my position as a public communicator, I have plenty of anecdotes (which aren’t data, but still) of business leaders who have halted hiring, while explicitly trying to avoid raising headcount in favor of finding AI tools. Sam Altman, the legendary CEO of OpenAI, has recently said that he expects a billion dollar unicorn to exist soon that has no employees.[<sup>[citation]</sup>](#cite--x-alexisohanian-one-person-billion-company)
 
 
 Many of you reading this will be thinking “Yeah, sure, but my job is clearly safe!” To that I will point out that we have been dead wrong about any predictions as to what would be safe. Ten years ago, we thought that creative jobs would be the last to go. Instead, they were the first. We thought that CEOs would be difficult to replace, but already we’ve seen “ChatGPT for CEO” memes go viral, and it turns out that LLMs have pretty good business sense. We thought that white collar workers would also be after blue collar workers, but it turns out this is also reversed, due to Moravec’s Paradox. 
