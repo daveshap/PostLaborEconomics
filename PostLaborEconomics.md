@@ -12,15 +12,21 @@ Machines will soon be better, faster, cheaper, and safer than humans at most eco
 
 Thus, for the sake of argument, I am asking you to create an analytical third space in your mind. Imagine that machines do become better, faster, cheaper, and safer than humans from the perspective of economic productivity. What then? Imagine that the value of most human labor, broadly, drops to zero. Or, more accurately, that machines are hundreds of times cheaper than human labor, and thus it would be difficult to justify the premium of hiring humans in most cases. 
 
+<<<<<<< HEAD
 
 This last condition is already true in many businesses. Having been plugged into the industry with my position as a public communicator, I have plenty of anecdotes (which aren’t data, but still) of business leaders who have halted hiring, while explicitly trying to avoid raising headcount in favor of finding AI tools. Sam Altman, the legendary CEO of OpenAI, has recently said that he expects a billion dollar unicorn to exist soon that has no employees. 
 
 
+=======
+This last condition is already true in many businesses. Having been plugged into the industry with my position as a public communicator, I have plenty of anecdotes (which aren’t data, but still) of business leaders who have halted hiring, while explicitly trying to avoid raising headcount in favor of finding AI tools. Sam Altman, the legendary CEO of OpenAI, has recently said that he expects a billion dollar unicorn to exist soon that has no employees. 
+
+>>>>>>> 2da8496a76220621574064702f150200ce7d1c1d
 Many of you reading this will be thinking “Yeah, sure, but my job is clearly safe!” To that I will point out that we have been dead wrong about any predictions as to what would be safe. Ten years ago, we thought that creative jobs would be the last to go. Instead, they were the first. We thought that CEOs would be difficult to replace, but already we’ve seen “ChatGPT for CEO” memes go viral, and it turns out that LLMs have pretty good business sense. We thought that white collar workers would also be after blue collar workers, but it turns out this is also reversed, due to Moravec’s Paradox. 
 
 
 Various entities, from Goldman Sachs to the IMF have estimated that everywhere from 25% of jobs to 80% of jobs will at least be partially or totally replaced by AI in the foreseeable future. I personally believe these estimates might be conservative. There are a couple of ways to look at this. 
 
+<<<<<<< HEAD
 
 First, there is the supply side – the supply of labor and the capabilities required to perform economically meaningful activities. When you characterize human abilities and behaviors this way, you can quickly identify cognitive abilities and physical skills that make humans valuable to businesses and the economy. We can solve problems, learn a variety of skills, and use tools and computers. With the rapid rise of bipedal robots that can operate in dynamic environments, combined with the meteoric progress of transformer-style deep neural networks such as LLMs and the up-and-coming multimodal models (collectively called “transformers” from here on out) we should expect to see a steady, predictable expansion of machine capabilities. This is called the ”frontier of automation” which we will discuss in greater detail in chapter three. 
 
@@ -31,6 +37,14 @@ Better, faster, cheaper, safer. That’s the mantra. If that happens, what’s n
 We would expect to see layoffs rise, a steady rise of unemployment, and eventually a steady decline of total employment in absolute terms. At the time of writing, America has 167.45 million laborers in the workforce. This is down from an all time high of 168.13 million just a few months prior. In the grand scheme of things, this is a blip, and should not be a portent of things to come. However, total employment numbers will be the key metric to watch, as well as layoffs and unemployment numbers. 
 
 
+=======
+First, there is the supply side – the supply of labor and the capabilities required to perform economically meaningful activities. When you characterize human abilities and behaviors this way, you can quickly identify cognitive abilities and physical skills that make humans valuable to businesses and the economy. We can solve problems, learn a variety of skills, and use tools and computers. With the rapid rise of bipedal robots that can operate in dynamic environments, combined with the meteoric progress of transformer-style deep neural networks such as LLMs and the up-and-coming multimodal models (collectively called “transformers” from here on out) we should expect to see a steady, predictable expansion of machine capabilities. This is called the ”frontier of automation” which we will discuss in greater detail in chapter three. 
+
+Better, faster, cheaper, safer. That’s the mantra. If that happens, what’s next?
+
+We would expect to see layoffs rise, a steady rise of unemployment, and eventually a steady decline of total employment in absolute terms. At the time of writing, America has 167.45 million laborers in the workforce. This is down from an all time high of 168.13 million just a few months prior. In the grand scheme of things, this is a blip, and should not be a portent of things to come. However, total employment numbers will be the key metric to watch, as well as layoffs and unemployment numbers. 
+
+>>>>>>> 2da8496a76220621574064702f150200ce7d1c1d
 At the same time as unemployment and NEETs (people Not in Education, Employment, or Training) start to go up we should also expect to see record profits from companies that are pioneering headcount reduction with AI, robotics, and automation (collectively referred to as “machines” from here on out). Machine labor is superior to human labor in many respects: machines don’t require salaries and benefits, and they work tirelessly. A human editor for this book would cost thousands of dollars, where an AI editor costs less than a dollar. It’s difficult to justify the expense of using humans, even when AI is not as good yet, just by virtue of the fact that AI is thousands of times cheaper and faster. 
 
 
@@ -39,12 +53,16 @@ At the same time as unemployment and NEETs (people Not in Education, Employment,
 
 The simplest definition of “the economy” according to Thomas Sowell is “the allocation of scarce resources with multiple uses.” There is a finite amount of wood that can be produced in any given time and place. Wood can be used to build homes, furniture, and paper. Free market economics allows the market to price the raw material – timber – to allow for the efficient allocation of the use of wood. Price signals tell people what is in demand and what is scarce. 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2da8496a76220621574064702f150200ce7d1c1d
 In places where wood is abundant and cheap, such as in Scandinavia, it is more cost effective to burn excess wood to heat your home than it is to use fossil fuels or electricity. The dense forests of Sweden provide an effective hyper-abundance to the local inhabitants. There’s more wood than they know what to do with, so the raw material is practically free, save for the labor of felling, cutting, splitting, and seasoning it. 
 
 
 In Baghdad, however, wood is expensive, so homes are made of local materials – sand, stone, and concrete.
 
+<<<<<<< HEAD
 
 Heavy, bulky goods that come from the Earth tend to be reliable in terms of economic value. A barrel of oil is a relatively stable commodity, as is wood and stone. These, however, are just raw materials. Finished goods, such as cars, televisions, medical equipment, houses, and medicines require countless material and labor inputs.
 
@@ -85,6 +103,34 @@ According to statistics from the Bureau of Labor Statistics (BLS), the significa
 The implications of this shift are profound. High-friction work, such as farming and manufacturing, remains essential; these sectors continue to provide the foundational goods and infrastructure upon which the service and knowledge economy builds. However, the bulk of economic activity and value creation now resides in the realm of mental labor. This transition has not only reshaped the job market but has also led to significant changes in education and training, with an increasing emphasis on developing skills and expertise in fields that support the knowledge economy.
 
 
+=======
+Heavy, bulky goods that come from the Earth tend to be reliable in terms of economic value. A barrel of oil is a relatively stable commodity, as is wood and stone. These, however, are just raw materials. Finished goods, such as cars, televisions, medical equipment, houses, and medicines require countless material and labor inputs.
+
+A general rule of thumb, though, is that technology lowers the cost of goods and services. This impact is not equal. Gold, for instance, as a scarce raw material, is almost invulnerable to technological disruptions, hence why it is used extensively as a hedge against market volatility. That is, until Elon Musk dispatches a rocket to a gold-rich asteroid and brings back a quadrillion tons of gold, which may or may not happen in the next century. I wouldn’t bet on it. 
+
+Free markets set prices by supply and demand. Supply of a resource, its relative scarcity or abundance, is compared with demand – how much is wanted and needed. Supply of resources is either elastic or inelastic – it can be easily scaled or not at all. The amount of sunlight hitting the earth is inelastic, as there’s almost nothing we can do. The amount of fresh water on the planet is likewise largely inelastic. The amount of strawberries, however, is totally elastic. If, for instance, the demand for strawberries skyrocketed, it would only take a few months for growers to adapt, following the price signal and making a simple calculation that they can increase profits by switching from asparagus to strawberries. 
+
+While some goods are resistant to technological innovation, others are not. Previous industrial revolutions, such as the introduction of diesel farm equipment combined with agricultural sciences, the overall labor inputs to farming have collapsed over the last two centuries. In 1800, 90% of labor was on the farm. Today, it’s closer to 2%.
+
+The advent of mass production and the assembly line stands as one of the most transformative technological innovations in the history of manufacturing, fundamentally altering the landscape of mechanical goods production. This revolution, which took root in the early 20th century, was not merely a shift in production techniques; it was a radical reimagining of how goods, from the mundane to the complex, could be produced at scale and at a fraction of the previous costs. The assembly line, a concept most famously implemented by Henry Ford in his automobile factories, allowed for the rapid, efficient, and cost-effective production of goods by dividing the manufacturing process into simple, repetitive tasks. This innovation drastically reduced the time it took to produce a single vehicle, thereby slashing costs and making products like the automobile accessible to the masses.
+
+The impact of mass production was far-reaching and multifaceted. On the beneficial side, it facilitated the production of millions of tractors, effectively replacing draught animals in agriculture and thereby revolutionizing farming practices. The efficiency gains from this shift cannot be overstated; tractors, unlike animals, do not tire in the same way, require no rest, and can work at a consistent pace, significantly increasing agricultural productivity. Furthermore, the mass production of automobiles and trains transformed transportation, making it faster, more reliable, and more accessible to the general public. The Ford Model T, often hailed as the car that "put America on wheels," is a prime example of this transformation. Introduced in 1908, the Model T was the first automobile to be mass-produced using assembly line techniques. By 1927, Ford had manufactured over 15 million Model Ts, a testament to the efficiency and scalability of mass production.
+
+However, the same technological advancements that brought about these societal benefits also had darker applications. The ability to mass-produce mechanical goods extended to the instruments of war, including battle tanks and warplanes. During World War I and World War II, the principles of mass production were applied with fervor to the armaments industry, enabling the production of military hardware on an unprecedented scale. In World War II alone, the United States produced over 300,000 aircraft, including bombers and fighters, and around 86,000 tanks. The production of the Willys MB Jeep, a light military utility vehicle, exemplifies the scale of this effort; over 640,000 units were manufactured during the war, serving as a versatile workhorse on all fronts.
+
+The rapid transition from reliance on horses to the widespread adoption of the Ford Model T and other automobiles further underscores the profound impact of mass production. In the span of a few decades, the automobile went from a luxury item to a staple of American life, fundamentally altering patterns of mobility, urban development, and even social interactions. The shift from horse-drawn carriages to motor vehicles also had significant implications for military logistics and mobility, with motorized vehicles offering speed, range, and carrying capacity far beyond that of animal-drawn conveyances.
+
+In sum, the advent of mass production and the assembly line was a double-edged sword. While it democratized access to goods and revolutionized industries ranging from agriculture to transportation, it also facilitated the large-scale production of weapons of war. The legacy of this innovation is thus complex, embodying both the incredible potential of technological progress to improve human life and its capacity to amplify the destructive power of conflict.
+
+In the aftermath of World War II, the global economy underwent a profound transformation, shifting from an industrial base heavily reliant on manufacturing and agriculture to one dominated by services and knowledge-based activities. This transition to a service and knowledge-based economy marked a significant evolution in the nature of work, emphasizing mental labor and expertise over physical labor. The rise of professions in financial services, computer technology, legal systems, and other sectors requiring specialized knowledge and skills underscored this shift. This change was not merely a redistribution of labor but represented a fundamental reorientation of economic value creation towards intellectual and service-oriented activities.
+
+The information revolution, often referred to as the Third Industrial Revolution, played a pivotal role in accelerating this transition. The advent of computers, servers, telecommunications, and the internet dramatically enhanced productivity by enabling the rapid processing of vast amounts of data and facilitating instantaneous communication across the globe. This technological leap forward transformed the landscape of work, creating new industries and professions while rendering others obsolete. The proliferation of digital technology and the internet has made information the currency of the modern economy, with knowledge workers—such as doctors, lawyers, and programmers—becoming the standard-bearers of economic value.
+
+According to statistics from the Bureau of Labor Statistics (BLS), the significance of knowledge workers and service workers to the economy is unmistakable. As of recent data, service-providing sectors account for a substantial majority of employment in the United States, underscoring the economy's reliance on service-oriented and knowledge-based activities. This includes a wide range of industries, from healthcare and education to finance, information technology, and professional services. The BLS projects that employment in service-providing industries will continue to grow, further cementing the dominance of the service and knowledge-based economy.
+
+The implications of this shift are profound. High-friction work, such as farming and manufacturing, remains essential; these sectors continue to provide the foundational goods and infrastructure upon which the service and knowledge economy builds. However, the bulk of economic activity and value creation now resides in the realm of mental labor. This transition has not only reshaped the job market but has also led to significant changes in education and training, with an increasing emphasis on developing skills and expertise in fields that support the knowledge economy.
+
+>>>>>>> 2da8496a76220621574064702f150200ce7d1c1d
 The service and knowledge-based economy is characterized by a high degree of complexity, requiring workers to possess specialized skills and a deep understanding of their respective fields. This has led to an increased demand for education and continuous learning, as workers must stay abreast of the latest developments and technologies in their industries. The rise of the knowledge worker has also contributed to greater economic inequality, as those with the requisite skills and education command higher wages and enjoy greater job security than those in lower-skilled occupations.
 
 
@@ -1167,5 +1213,9 @@ In essence, these emerging narratives offer a framework for collective reflectio
 
 ## Bibliography
 
+<<<<<<< HEAD
 
 WIP
+=======
+WIP
+>>>>>>> 2da8496a76220621574064702f150200ce7d1c1d
