@@ -1,31 +1,128 @@
-# Post Labor Economics Collaborative Book
+# Post-Labor Economics (PLE) Triage Dashboard
 
-## Mission
+**A public, county-level early-warning system for the age when pay-checks stop anchoring prosperity.**
 
-The Fourth Industrial Revolution (4IR) is ramping up, and with it will come inevitable social, political, and economic changes. As of right now, it is clear that the establishment is mired in status quo thinking. This neoliberal business-as-usual thinking is sure to cause unnecessary pain, and the calcified governments around the world will fumble and futz until political willpower increases enough to change something. This has happened for every prior Industrial Revolution - the establishment always fails to actively adapt. At the same time, we have an opportunity to pave the way for a new model. That new model is Post Labor Economics. The express purpose of this project is to replace neoliberalism in the long run, keeping in mind the systemic and structural changes that advanced 4IR technologies will bring, such as AI, quantum computing, nanotech, and biotech. 
+[![License: Apache 2.0](https://img.shields.io/badge/Code%20License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: CC BY 4.0](https://img.shields.io/badge/Data%20License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![License: CC BY-ND 4.0](https://img.shields.io/badge/Docs%20License-CC%20BY--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+*(Placeholder badges - update as needed)*
 
-## Method
+---
 
-This book aims to be a 21st-century version of Adam Smith's _The Wealth of Nations_. As such, it must be robust, polished, accessible, and well-cited. Therefore, I am creating an open-source project to collaboratively edit, cite, and revise this book. Once the drafting is done, I will keep it available for free in digital format here. I will also make it available as widely as possible as an audiobook and paperback. The reason for this is that the most influential and thoughtful people in the world are prodigious readers. A good book, widely read (such as _Wealth of Nations_) can serve as a bedrock narrative, a coordinating solution. In other words, it gets everyone on the same page. 
+## Abstract
 
-The goal of this repo is to produce a refined draft of a book with excellent readability and citations. To that end, we will use every relevant tool that GitHub offers for change control, discussion, and so on. See [CONTRIBUTING.md](CONTRIBUTING.md) for specific guidelines and processes. 
+The United States is drifting toward an economy where local prosperity is no longer anchored solely to the pay-checks of people who live there. Automation (AI & Robotics), demographic shifts, and remote work are potentially uncoupling economic output from local labor demand. While national metrics like GDP or the unemployment rate provide a broad overview, they often lag behind or mask the crucial shifts happening at the community level. The first signs of economic distress – such as declining labor force participation, shrinking work hours, or rising dependence on transfers – often appear locally long before they dominate national headlines.
 
-## Theory
+This project, grounded in the principles of Post-Labor Economics (PLE), aims to fill that critical information gap. The **PLE Triage Dashboard** provides an early-warning system by tracking key labor market indicators at the US county level. It fuses multiple publicly available data streams into a composite **"Collapse Index" (CI)**, designed to signal when a local labor market is decoupling from broader economic trends, potentially indicating structural stress related to automation or other deep shifts. This dashboard serves as the initial "surveillance" layer for the broader PLE framework, which ultimately aims to understand and improve local **Economic Agency** by analyzing the composition of household income (Wages vs. Property vs. Transfers). By making these trends visible and comparable across counties, this dashboard empowers local leaders, researchers, businesses, and citizens to diagnose challenges early and consider proactive interventions before crises fully manifest.
 
-The underpinning assertion of this book is simple: machines will soon be better, faster, cheaper, and safer than humans in most economically relevant activities. This will inevitably cause the mass layoffs of humans. Yes, there will be some human jobs that remain, however, the cost-benefit analysis means that most humans will be unemployed. In other words, we are heading for a post-labor world, where we see durable unemployment levels far higher than current economic theory could explain. This eventuality would necessitate an entirely new economic paradigm. 
+*(Link to Live Dashboard: [Placeholder - e.g., labor-triage.netlify.app] - Coming Soon!)*
+*(Link to PLE Theory / Blog: [Placeholder - e.g., Your Substack/Website Link])*
 
-## Output
+## The Problem: Lagging Indicators in a Fast-Changing Economy
 
-As mentioned above, this repo will be the first output, which is published under the CC0 license, meaning that anyone can use it for anything they want, including to make money. This idea is too important not to share. At the same time, my plan is to package up the final result as a paperback and audiobook for mass distribution, to make it even more accessible. Ostensibly, I'd like to get on Bill Gates' and Barack Obama's reading list, or at least the NPR-recommended reading list. That is the level of quality and impact I'm aiming for. If we can create a coherent and compelling narrative, we can probably work towards that goal.
+Traditional economic dashboards focus heavily on headline unemployment rates and GDP growth. While important, these metrics often fail to capture the early, structural shifts impacting local economies in the face of automation and changing work patterns:
 
-## Strategy
+* **Wage Erosion:** Automation may suppress wages or reduce hours worked long before mass layoffs occur.
+* **Participation Decline:** Discouraged workers, particularly youth, may exit the labor force entirely (NEETs), which isn't reflected in the unemployment rate of those *actively seeking* work.
+* **Shifting Income Sources:** A community might maintain consumption levels temporarily through government transfers, masking an underlying erosion of earned income from wages or local business.
+* **Geographic Disparities:** National averages obscure significant variations between counties – some thriving, others entering structural decline unnoticed.
 
-The strategy for making an impact comes directly from _A Brief History of Neoliberalism_ by David Harvey. As an influential thinker and creator, I already have a rather large, global audience. This is the first step. The second step is to create a coherent, singular artifact in everyone's hands so they can all "get on the same page" literally and figuratively. Everyone from students to captains of industry to politicians, through reading and sharing powerful ideas, will adopt the new narrative. This is exactly how the seeds of neoliberalism were sown. These kinds of economic theories must be planted before they are needed, and then once they catch on, they become the de facto doctrine. This book can influence countless entrepreneurs, business elites, politicians, and educators, thus solving the coordination problem. 
+Without timely, granular, and compositionally-aware metrics, local communities lack the tools to proactively manage the transition to a potentially post-labor future.
 
-## Repo Contents
+## The Solution: A County-Level Triage Dashboard
 
-- `PostLaborEconomics.md` - This is the manuscript, the centerpiece of this repo.
-- `CONTRIBUTING.md` - You must read this before contributing to the project.
-- `C3P0.txt` - This is the community ethos and code of conduct.
-- `LICENSE` - Creative Commons Zero License
-- `README.md` - This file
+This project provides a transparent, reproducible dashboard focused on **early-warning indicators** of labor market stress at the US county level.
+
+* **Goal:** To provide an accessible "heatmap" identifying counties potentially experiencing early stages of labor market decoupling or decline, prompting further investigation and potential intervention.
+* **Approach:** Utilizes the "Measure -> Menu -> Monitor" concept central to PLE. This dashboard focuses on the **Measure** aspect for labor market health.
+* **Core Metric:** The **Collapse Index (CI)**, a composite score derived from several key labor market indicators.
+
+## Key Metrics & Interpretation
+
+The dashboard tracks several Key Performance Indicators (KPIs), standardized and combined into the Collapse Index (CI):
+
+1.  **Employment-to-Population Ratio (E/Pop):** (Using total E/Pop from BLS LAUS initially). Measures the share of the population that is employed. A falling ratio indicates declining labor absorption.
+2.  **Average Weekly Hours:** (Using BLS CES/QCEW). A decline can signal reduced labor demand or a shift to part-time work, even if employment numbers hold steady.
+3.  **Youth NEET Rate (Proxy):** (Using ACS B14005). Tracks young adults (16-24) Not in Education, Employment, or Training. A rising rate signals youth disengagement or lack of entry-level opportunities.
+4.  **Labor Share of Income:** (Using BEA SAINC7). The proportion of total personal income derived from wages and salaries. A structural decline indicates productivity gains are accruing more to capital than labor.
+5.  **Part-Time for Economic Reasons Share (Proxy):** (Using state-level CPS data or LAUS underemployment). Indicates workers who want full-time work but can only find part-time hours due to economic conditions.
+6.  **Wage-to-Transfer Income Ratio:** (Using BEA SAINC7). Compares income earned from work to income received from government transfers. A falling ratio signals rising dependency.
+
+**Collapse Index (CI):** Calculated as the average of the standardized z-scores of the available KPIs for a given county and year ($CI = \sum z_i / \sqrt{k}$).
+* `CI > 0`: Labor market generally healthier than the national average for that year.
+* `CI ≈ 0`: Tracking the national average.
+* `CI < 0`: Labor market showing signs of stress relative to the national average; potential early warning for post-labor transition effects.
+
+**(Future Integration: Economic Agency Index - EAI)**
+While this dashboard focuses on *triage*, the core diagnostic metric of PLE is the **EAI**. It measures income *composition*:
+$EAI = z(\% Earned) + z(\% Property) - z(\% Transfers)$
+This will be integrated later to provide a deeper view of how counties are structured economically (reliance on work vs. ownership vs. external support).
+
+## Methodology & Data Sources
+
+This project uses exclusively **public-domain data** from official US government sources. The Extract-Transform-Load (ETL) pipeline is designed to be run **offline** after initial manual download of required raw files, ensuring reproducibility and avoiding reliance on live API calls.
+
+* **Sources:**
+    * `BLS LAUS`: County-level employment, labor force (monthly/annual).
+    * `BLS CES/QCEW`: Average weekly hours, wages (monthly/quarterly).
+    * `BEA SAINC7`: County personal income components (Wages, Property, Transfers) (annual).
+    * `ACS B14005`: Youth school enrollment & employment status (annual 5-year estimates).
+    * `Census TIGER`: County boundaries/centroids (static).
+    * *(Future EAI)*: `IRS SOI` (county AGI data as backup).
+* **Pipeline:**
+    1.  Raw data files manually placed in `data/raw/`.
+    2.  `ingest/` scripts read raw files, perform basic cleaning/filtering, output to `data/interim/`.
+    3.  `kpi/` scripts read interim files, calculate specific KPI ratios/values, output to `data/processed/kpi_*.parquet`.
+    4.  `index/` script reads processed KPI files, calculates z-scores and the composite `collapse_index.parquet`.
+    5.  `dashboard/` script reads *only* processed parquet files for visualization.
+* **Tools:** Python 3.11+, Pandas, DuckDB, GeoPandas, Streamlit, PyDeck.
+
+## Dashboard Features & Interpretation
+
+The dashboard aims to provide an intuitive view of county-level labor market health:
+
+* **National Heatmap:** Visualize the Collapse Index (or individual KPIs) across all US counties, typically using a green-to-red color scale.
+* **Time Slider:** Scrub through years (e.g., 1990-present) to observe historical trends and the propagation of economic shifts.
+* **County Drill-Down:** Click or search for a specific county to see its detailed KPI scorecard, historical sparklines, and percentile ranks compared to peers or the nation.
+* **Alerts:** Potential future feature to flag counties where multiple KPIs show sustained negative trends.
+
+**Interpretation:** A persistently low or rapidly falling Collapse Index suggests a county's labor market is under structural stress and may require deeper investigation and potentially interventions aimed at boosting economic agency (the focus of the EAI and the broader PLE framework).
+
+## Getting Started (Local Development)
+
+1.  **Clone the repository:** `git clone [Your Repo URL]`
+2.  **Create/activate a virtual environment** (optional but recommended).
+3.  **Install dependencies:** `pip install -r requirements.txt`
+4.  **Download Raw Data:** Manually download the required files listed in `etl_core.py` (it will prompt with URLs if files are missing) and place them in the `data/raw/` directory.
+5.  **Run the ETL pipeline:** `python build_triage.py` (or use `pipelines/run_all.sh/bat` if created). This generates files in `data/processed/`.
+6.  **Launch the dashboard:** `python -m streamlit run dashboard/dashboard_triage.py`
+7.  Open `http://localhost:8501` in your browser.
+
+*(See `etl_core.py` and `build_triage.py` for specific data requirements and processing steps).*
+
+## Contributing
+
+Contributions are welcome! Please feel free to open an issue to report bugs, suggest features, or discuss methodology. Pull requests are encouraged for:
+
+* Adding new, validated KPIs to the triage dashboard.
+* Improving data ingestion robustness and error handling.
+* Enhancing dashboard visualizations and user experience.
+* Extending the framework to include EAI, CPP, and CCI calculations.
+* Adding international data sources (as a separate module).
+
+*(Placeholder: Add link to CONTRIBUTING.md if you create one)*
+
+## License
+
+* **Source Code:** Licensed under the [Apache License 2.0](LICENSE).
+* **Generated Data Artefacts (e.g., parquet files):** Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+* **Methodology Documents / White Papers:** Licensed under [Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/).
+* **Name & Logo:** "Post-Labor Triage Dashboard"™ and associated logos are trademarks of [Your Name/Org].
+
+## Contact & Citation
+
+* **Project Lead:** [Your Name / Link to your profile/Substack]
+* **Contact:** [Your Preferred Contact Email/Method]
+* **Suggested Citation:** Shapiro, David. (2025). *Post-Labor Economics Triage Dashboard (Version X.Y)*. [Link to GitHub Repo].
+
+---
