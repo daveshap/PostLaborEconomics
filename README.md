@@ -1,128 +1,58 @@
-# Post-Labor Economics (PLE) Triage Dashboard
+# Automation and the Future of Work: Exploring Post-Labor Economics
 
-**A public, county-level early-warning system for the age when pay-checks stop anchoring prosperity.**
+This repository contains research materials and analyses related to the transformative impact of automation, artificial intelligence (AI), and robotics on the global economy and labor markets. It serves as a curated collection of sources that delve into the emerging concept of "post-labor economics" – a framework for understanding and potentially restructuring economies where traditional wage-based employment may become less central to prosperity and livelihood.
 
-[![License: Apache 2.0](https://img.shields.io/badge/Code%20License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![License: CC BY 4.0](https://img.shields.io/badge/Data%20License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![License: CC BY-ND 4.0](https://img.shields.io/badge/Docs%20License-CC%20BY--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-*(Placeholder badges - update as needed)*
+The documents included explore the accelerating pace of technological change, the observed and projected effects on jobs and wages, novel methods being developed to measure these shifts, and various proposed societal and economic interventions aimed at ensuring broad-based prosperity in an increasingly automated world.
 
----
+## Synthesis of Post-Labor Economics from Sources
 
-## Abstract
+Based on the research compiled, the concept of a "post-labor economy" stems from the significant and accelerating impact of automation and AI on traditional work structures. It is characterized by a decoupling of economic productivity from human employment and raises profound questions about income distribution, social safety nets, and the definition of work itself.
 
-The United States is drifting toward an economy where local prosperity is no longer anchored solely to the pay-checks of people who live there. Automation (AI & Robotics), demographic shifts, and remote work are potentially uncoupling economic output from local labor demand. While national metrics like GDP or the unemployment rate provide a broad overview, they often lag behind or mask the crucial shifts happening at the community level. The first signs of economic distress – such as declining labor force participation, shrinking work hours, or rising dependence on transfers – often appear locally long before they dominate national headlines.
+The core ideas can be synthesized into three overarching sections:
 
-This project, grounded in the principles of Post-Labor Economics (PLE), aims to fill that critical information gap. The **PLE Triage Dashboard** provides an early-warning system by tracking key labor market indicators at the US county level. It fuses multiple publicly available data streams into a composite **"Collapse Index" (CI)**, designed to signal when a local labor market is decoupling from broader economic trends, potentially indicating structural stress related to automation or other deep shifts. This dashboard serves as the initial "surveillance" layer for the broader PLE framework, which ultimately aims to understand and improve local **Economic Agency** by analyzing the composition of household income (Wages vs. Property vs. Transfers). By making these trends visible and comparable across counties, this dashboard empowers local leaders, researchers, businesses, and citizens to diagnose challenges early and consider proactive interventions before crises fully manifest.
+### 1. Diagnosis of the Problem: Automation's Impact on Wage and Labor
 
-*(Link to Live Dashboard: [Placeholder - e.g., labor-triage.netlify.app] - Coming Soon!)*
-*(Link to PLE Theory / Blog: [Placeholder - e.g., Your Substack/Website Link])*
+The research highlights that AI and humanoid robotics are advancing at an "exponential acceleration", leading to a "technological jerk" in innovation. This progress, marked by growth in computational power and model scale combined with leaps in robotics dexterity and autonomy, is driving an "unprecedented transformation". This transformation includes automation impacting not only cognitive jobs but also entering the physical realm of labor when coupled with robotics.
 
-## The Problem: Lagging Indicators in a Fast-Changing Economy
+*   **Job Displacement:** Numerous studies indicate a significant share of jobs are vulnerable to automation. A widely cited 2013 study estimated that about 47% of U.S. jobs were at "high risk" of automation over the next 10–20 years. While later studies offer more conservative estimates, ranging from 9% to 47% of jobs at high risk, even the lower end represents millions of potentially displaced jobs. Projections suggest tens of millions of jobs globally and in advanced economies could be displaced by 2030 and beyond. Specific jobs identified as high risk include telemarketers, cashiers, paralegals, and manufacturing workers.
+*   **The Labor Substitution Fallacy:** A key challenge to traditional economic thinking is the "Labor Substitution Fallacy". This concept posits that there is **no fundamental economic law guaranteeing that new goods and services must be produced or delivered by humans**. As machines surpass human cognitive and physical abilities at lower cost, new industries could expand with minimal human employment. Historically, new industries required human labor at some stage, but advanced AI and robotics are weakening this link, offering an alternative to human labor for almost every task. This is already hinted at in the tech sector, where highly valuable companies employ far fewer people per dollar of revenue than old industrial giants.
+*   **Impact Across Job Types:** While earlier automation primarily affected blue-collar jobs, modern AI is increasingly encroaching into skilled white-collar and professional domains. This includes tasks like writing, coding, translating, and analyzing data. However, some areas remain challenging for automation, such as highly unpredictable physical environments (like construction) and tasks requiring complex social interaction, creativity, or genuine human empathy. These "residual jobs" may include niche skilled trades, creative arts, leadership, and interpersonal roles.
+*   **Decoupling of Productivity and Wages:** A significant symptom is the "great decoupling" where productivity has continued to rise since the late 1970s, but median wages have stagnated. This indicates that workers are not gaining from economic growth in the way they used to.
+*   **Decline in Labor's Share of Income:** Around the world, labor's slice of the economic pie – the portion of national income going to workers as compensation – has been eroding for decades, often offset by a rising capital share. Automation and related technological changes are identified as a central driver of this decline, alongside other forces like globalization and the rise of dominant "superstar" firms. When automation allows for greater output with less human labor, the labor share in affected industries tends to drop. The Philadelphia Fed estimated that if automation displaces workers even marginally, labor's share of income could drop significantly.
+*   **Accelerating Pace of Displacement:** The pace of change is a crucial difference from past technological transitions. While past waves unfolded over generations, the 21st-century automation could happen over mere decades, potentially outpacing society's ability to adapt. Even if net job loss doesn't occur, the increased pace of displacement creates more precarity and less job security.
+*   **Post-Labour Exclusion (PLE):** This concept describes the potential emergence of a permanent class of workers left behind by technological progress. Without deliberate policies, those displaced by automation might face poverty and social exclusion rather than moving to creative roles.
 
-Traditional economic dashboards focus heavily on headline unemployment rates and GDP growth. While important, these metrics often fail to capture the early, structural shifts impacting local economies in the face of automation and changing work patterns:
+### 2. Measuring Impact and Creating Key Performance Indicators (KPIs)
 
-* **Wage Erosion:** Automation may suppress wages or reduce hours worked long before mass layoffs occur.
-* **Participation Decline:** Discouraged workers, particularly youth, may exit the labor force entirely (NEETs), which isn't reflected in the unemployment rate of those *actively seeking* work.
-* **Shifting Income Sources:** A community might maintain consumption levels temporarily through government transfers, masking an underlying erosion of earned income from wages or local business.
-* **Geographic Disparities:** National averages obscure significant variations between counties – some thriving, others entering structural decline unnoticed.
+Recognizing the structural nature of these shifts, institutions are moving beyond anecdote to develop formal metrics and data dashboards to quantify and monitor the decoupling of wages from economic growth and the impact of automation. These tools provide "tangible, monitorable numbers".
 
-Without timely, granular, and compositionally-aware metrics, local communities lack the tools to proactively manage the transition to a potentially post-labor future.
+*   **Economic Agency Index (EAI):** A composite metric that breaks down income sources into labor income (wages/salaries), capital income (dividends, interest, rents), and public transfers. A higher EAI (indicating a greater share of income from property) signals a more "post-labor" economy where capital income dominates. It helps manage economic well-being at a local level by showing the extent to which income is derived from labor versus non-labor sources.
+*   **Automation Exposure Indices/Risk Scores:** Quantify the exposure of jobs, regions, and demographic groups to automation and AI. For example, a Brookings Institution analysis estimated that over 30% of U.S. workers could see at least half their job tasks impacted by generative AI, breaking this down by county. These metrics indicate potential decoupling pressure and help identify areas at high displacement risk. Notably, generative AI's impact may differ from past automation by affecting higher-educated, white-collar roles more significantly.
+*   **Labor Share and Inequality Tracking:** Institutions like the IMF and OECD continue to track the labor share of income as a key indicator of decoupling. A falling labor share signals that wages are not keeping up with output, with more income flowing to capital. This metric is tracked at national and global scales.
+*   **County Economic Performance Index (CEPI):** A real-time index developed by Argonne that measures regional economic resilience. While it blends employment and output via value-added, its technical documentation acknowledges that increased GDP from automation investments could coincide with employment losses.
+*   **Task Displacement Calculus:** Links micro-level automation to macro-level wage outcomes. Studies measure how automation-driven labor share declines across industries relate to wage changes for specific groups, helping explain wage inequality.
+*   **Purpose of Metrics:** These metrics are seen as crucial for governance, making the problem visible on a dashboard to spur action and inform grounded debates. They provide data for policymakers to diagnose problems, target interventions, and plan for risk management. The act of measuring declares that how growth is distributed, and whether workers benefit, is a priority.
 
-## The Solution: A County-Level Triage Dashboard
+### 3. Proposed and Trialed Interventions and Solutions
 
-This project provides a transparent, reproducible dashboard focused on **early-warning indicators** of labor market stress at the US county level.
+Given the potential for mass labor displacement and inequality, new economic models and policy responses are being explored to ensure that everyone shares in prosperity, independent of traditional wages. The aim is to broadly distribute capital and common wealth.
 
-* **Goal:** To provide an accessible "heatmap" identifying counties potentially experiencing early stages of labor market decoupling or decline, prompting further investigation and potential intervention.
-* **Approach:** Utilizes the "Measure -> Menu -> Monitor" concept central to PLE. This dashboard focuses on the **Measure** aspect for labor market health.
-* **Core Metric:** The **Collapse Index (CI)**, a composite score derived from several key labor market indicators.
+*   **Universal Basic Income (UBI):** A widely discussed policy providing a regular, unconditional cash stipend to all individuals. Proponents argue UBI can ensure a baseline livelihood in a post-labor future, decouple income from employment, cushion the blow from constant technological disruption, provide displaced workers with dignity and agency, and potentially build political consent for automation by sharing its gains.
+    *   **Trials and Proposals:** UBI concepts have moved into mainstream discourse. Examples include trials in Oakland, California (Y Combinator), rural Kenya (GiveDirectly), and a city in Brazil (Maricá). Proposals like Andrew Yang's "Freedom Dividend" (an explicit response to automation) and controversial projects like Worldcoin (Sam Altman) aim to provide universal income.
+    *   **Funding UBI:** Ideas include general taxation, a "robot tax" on companies that automate jobs, or "AI dividends" / "data dividends" funded by the wealth generated by AI and digital platforms.
+    *   **UBI as Necessary but Not Sufficient:** While evidence from trials shows UBI can improve well-being and security, critics argue it alone cannot solve deeper systemic problems like wealth concentration. It provides economic freedom but not necessarily economic power or a say in the economy. It is seen as a "necessary but not sufficient" component of a post-labor economy.
+*   **Universal Basic Dividend (UBD) and Social Wealth Funds:** These proposals involve accumulating collective wealth (like land, natural resources, or equity in companies) and distributing the returns as social dividends. Automation Capital Funds are a variant specifically financed via automation gains, potentially requiring firms to contribute equity or pay a tax. Examples include oil-funded programs (like Alaska's Permanent Fund or in a Brazilian city). These aim to socialize the returns to capital (robots, AI).
+*   **Inclusive Ownership Models:** Aim to democratize the ownership of productive assets like AI, data centers, robotics, and platforms. The imperative is clear: if AI and robots concentrate productivity, ownership must be democratized.
+    *   **Platform Cooperatives:** Digital businesses owned and governed by their participants (like drivers owning a ride-hailing app), ensuring the benefits of automation go to members.
+    *   **Worker Ownership/Equity:** Mechanisms like employee stock ownership plans (ESOPs) or worker co-determination give workers a stake and voice in companies. This can help distribute income at the source rather than relying solely on redistribution.
+    *   **Shared Robot Ownership:** Proposals suggest enabling workers to own stakes in the robots and automated tools that replace them.
+*   **Policy Adjustments:** Governments and institutions are exploring reforms to manage the transition.
+    *   **Tax Reform:** Adjusting capital vs. labor taxation, potentially exploring an "automation tax" on AI and robots to disincentivize excessive automation driven by tax advantages.
+    *   **Competition Policy:** Updating policy to check the power of dominant "superstar" firms and monopolies which can contribute to labor share decline.
+    *   **Retraining and Education:** Investing in skill upgrading and aligning education with the future of work to help workers fill new roles.
+    *   **Job Guarantees:** Government providing public jobs to absorb displaced workers.
+    *   **Reduced Working Hours:** Sharing available work by reducing workweeks or daily hours.
+    *   **Expanding Labor-Intensive Sectors:** Focusing on growth in areas requiring human touch, like the care economy or infrastructure.
+*   **A New Social Contract:** Underlying many proposals is the need for a new social contract for the AI age. This involves rethinking how citizens maintain dignity and financial security when the link between work and income loosens. It aims for a society where productivity gains translate into broadly shared prosperity rather than a divided society. The idea is that technology's effects are shaped by institutions and policies, and conscious choices are needed to ensure shared prosperity.
 
-## Key Metrics & Interpretation
-
-The dashboard tracks several Key Performance Indicators (KPIs), standardized and combined into the Collapse Index (CI):
-
-1.  **Employment-to-Population Ratio (E/Pop):** (Using total E/Pop from BLS LAUS initially). Measures the share of the population that is employed. A falling ratio indicates declining labor absorption.
-2.  **Average Weekly Hours:** (Using BLS CES/QCEW). A decline can signal reduced labor demand or a shift to part-time work, even if employment numbers hold steady.
-3.  **Youth NEET Rate (Proxy):** (Using ACS B14005). Tracks young adults (16-24) Not in Education, Employment, or Training. A rising rate signals youth disengagement or lack of entry-level opportunities.
-4.  **Labor Share of Income:** (Using BEA SAINC7). The proportion of total personal income derived from wages and salaries. A structural decline indicates productivity gains are accruing more to capital than labor.
-5.  **Part-Time for Economic Reasons Share (Proxy):** (Using state-level CPS data or LAUS underemployment). Indicates workers who want full-time work but can only find part-time hours due to economic conditions.
-6.  **Wage-to-Transfer Income Ratio:** (Using BEA SAINC7). Compares income earned from work to income received from government transfers. A falling ratio signals rising dependency.
-
-**Collapse Index (CI):** Calculated as the average of the standardized z-scores of the available KPIs for a given county and year ($CI = \sum z_i / \sqrt{k}$).
-* `CI > 0`: Labor market generally healthier than the national average for that year.
-* `CI ≈ 0`: Tracking the national average.
-* `CI < 0`: Labor market showing signs of stress relative to the national average; potential early warning for post-labor transition effects.
-
-**(Future Integration: Economic Agency Index - EAI)**
-While this dashboard focuses on *triage*, the core diagnostic metric of PLE is the **EAI**. It measures income *composition*:
-$EAI = z(\% Earned) + z(\% Property) - z(\% Transfers)$
-This will be integrated later to provide a deeper view of how counties are structured economically (reliance on work vs. ownership vs. external support).
-
-## Methodology & Data Sources
-
-This project uses exclusively **public-domain data** from official US government sources. The Extract-Transform-Load (ETL) pipeline is designed to be run **offline** after initial manual download of required raw files, ensuring reproducibility and avoiding reliance on live API calls.
-
-* **Sources:**
-    * `BLS LAUS`: County-level employment, labor force (monthly/annual).
-    * `BLS CES/QCEW`: Average weekly hours, wages (monthly/quarterly).
-    * `BEA SAINC7`: County personal income components (Wages, Property, Transfers) (annual).
-    * `ACS B14005`: Youth school enrollment & employment status (annual 5-year estimates).
-    * `Census TIGER`: County boundaries/centroids (static).
-    * *(Future EAI)*: `IRS SOI` (county AGI data as backup).
-* **Pipeline:**
-    1.  Raw data files manually placed in `data/raw/`.
-    2.  `ingest/` scripts read raw files, perform basic cleaning/filtering, output to `data/interim/`.
-    3.  `kpi/` scripts read interim files, calculate specific KPI ratios/values, output to `data/processed/kpi_*.parquet`.
-    4.  `index/` script reads processed KPI files, calculates z-scores and the composite `collapse_index.parquet`.
-    5.  `dashboard/` script reads *only* processed parquet files for visualization.
-* **Tools:** Python 3.11+, Pandas, DuckDB, GeoPandas, Streamlit, PyDeck.
-
-## Dashboard Features & Interpretation
-
-The dashboard aims to provide an intuitive view of county-level labor market health:
-
-* **National Heatmap:** Visualize the Collapse Index (or individual KPIs) across all US counties, typically using a green-to-red color scale.
-* **Time Slider:** Scrub through years (e.g., 1990-present) to observe historical trends and the propagation of economic shifts.
-* **County Drill-Down:** Click or search for a specific county to see its detailed KPI scorecard, historical sparklines, and percentile ranks compared to peers or the nation.
-* **Alerts:** Potential future feature to flag counties where multiple KPIs show sustained negative trends.
-
-**Interpretation:** A persistently low or rapidly falling Collapse Index suggests a county's labor market is under structural stress and may require deeper investigation and potentially interventions aimed at boosting economic agency (the focus of the EAI and the broader PLE framework).
-
-## Getting Started (Local Development)
-
-1.  **Clone the repository:** `git clone [Your Repo URL]`
-2.  **Create/activate a virtual environment** (optional but recommended).
-3.  **Install dependencies:** `pip install -r requirements.txt`
-4.  **Download Raw Data:** Manually download the required files listed in `etl_core.py` (it will prompt with URLs if files are missing) and place them in the `data/raw/` directory.
-5.  **Run the ETL pipeline:** `python build_triage.py` (or use `pipelines/run_all.sh/bat` if created). This generates files in `data/processed/`.
-6.  **Launch the dashboard:** `python -m streamlit run dashboard/dashboard_triage.py`
-7.  Open `http://localhost:8501` in your browser.
-
-*(See `etl_core.py` and `build_triage.py` for specific data requirements and processing steps).*
-
-## Contributing
-
-Contributions are welcome! Please feel free to open an issue to report bugs, suggest features, or discuss methodology. Pull requests are encouraged for:
-
-* Adding new, validated KPIs to the triage dashboard.
-* Improving data ingestion robustness and error handling.
-* Enhancing dashboard visualizations and user experience.
-* Extending the framework to include EAI, CPP, and CCI calculations.
-* Adding international data sources (as a separate module).
-
-*(Placeholder: Add link to CONTRIBUTING.md if you create one)*
-
-## License
-
-* **Source Code:** Licensed under the [Apache License 2.0](LICENSE).
-* **Generated Data Artefacts (e.g., parquet files):** Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
-* **Methodology Documents / White Papers:** Licensed under [Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/).
-* **Name & Logo:** "Post-Labor Triage Dashboard"™ and associated logos are trademarks of [Your Name/Org].
-
-## Contact & Citation
-
-* **Project Lead:** [Your Name / Link to your profile/Substack]
-* **Contact:** [Your Preferred Contact Email/Method]
-* **Suggested Citation:** Shapiro, David. (2025). *Post-Labor Economics Triage Dashboard (Version X.Y)*. [Link to GitHub Repo].
-
----
+These interventions represent proactive efforts to build the scaffolding of a society where income and dignity do not depend on having a traditional job, recognizing that market forces alone may not guarantee sufficient new work for all displaced by highly capable machines.
