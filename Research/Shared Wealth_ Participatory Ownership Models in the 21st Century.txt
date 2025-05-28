@@ -1,0 +1,924 @@
+Shared Wealth: Participatory Ownership Models in
+the 21st Century
+In Anchorage, Alaska, families eagerly await the mail each fall for a check representing their share of the
+state’s oil riches. In the Bronx, New York, tens of thousands of working-class residents live in a massive
+housing cooperative where they jointly own their apartment buildings and control the rents. Across the
+Atlantic in Copenhagen, a curved row of offshore wind turbines spins steadily – half-owned by thousands of
+ordinary Danes who pooled their savings to build it. These disparate scenes share a common thread: they
+are products of participatory ownership models , approaches that allow communities to collectively own
+and benefit from valuable assets. From cooperatives and community land trusts to public royalty funds and
+shared-investment vehicles, such models are reshaping how wealth is created and distributed at the local
+level. This report provides a global tour of contemporary participatory ownership initiatives (primarily from
+the late 20th century onward), examining how they work, how they distribute dividends or savings, and how
+they  navigate  governance  to  avoid  corruption  or  capture.  Case  studies  and  data  are  emphasized
+throughout, illustrating both inspiring successes and instructive failures. The picture that emerges is one of
+communities taking ownership of the assets around them – and in the process, challenging the notion that
+wealth must inevitably accumulate in the hands of a few.
+Cooperatives: Enterprise Owned by the People
+Cooperatives  are  one  of  the  most  established  models  of  participatory  ownership.  In  a  cooperative,
+members jointly own and govern an enterprise – be it a business, utility, or service – typically on a  one-
+member, one-vote  basis rather than according to shares owned. This structure aligns the enterprise’s goals
+with  community  or  worker  interests,  since  the  users  or  workers  themselves  are  the  shareholders.
+Cooperatives  span  many  sectors  and  forms,  including  worker-owned  companies,  consumer  co-ops,
+producer co-ops (for farmers or artisans), and service co-ops like utilities and credit unions. What they have
+in common is a democratic governance and a mechanism to share economic surpluses among members,
+whether as profit dividends, patronage refunds, or improved services and price savings.
+Worker-Owned Enterprises: Profits for the Producers
+In March 2020, a Spanish engineer named Jorge Vega Hernández lost his job at a conventional firm and
+started seeking something different – a company “that treated workers decently.” His search led him to the
+Basque region’s famed  Mondragon Corporation , a federation of nearly 100 worker-owned cooperatives
+. Upon joining Mondragon, Hernández found himself in an enterprise radically unlike his previous
+employer . Each cooperative in Mondragon is owned by its workers, who buy a membership share and then
+participate in electing management and deciding major strategies. No outside shareholders siphon off
+profits; instead, profits are either reinvested or distributed to the worker-owners. Executive pay is capped at
+a modest multiple of the lowest wage –  since the late 1980s the ratio has been 6:1  at most ,
+compared to disparities of hundreds to one at typical corporations. When times are good, Mondragon’s
+worker-members receive profit shares (called  dividends  or patronage) based on their labor contribution.
+When times are bad, they have often voted to reduce their own hours or pay temporarily, rather than resort1
+23
+1
+to layoffs . In fact, the network of co-ops maintains a job guarantee mechanism: cooperatives aid each
+other and can reassign workers among themselves to preserve employment . The result is a resilient
+system that prioritizes workers’ welfare. As of the 2020s, Mondragon’s collection of co-ops employs roughly
+80,000 people , about three-quarters of whom are member-owners (the remainder are probationary or
+outside  hires) .  With  businesses  ranging  from  industrial  manufacturing  to  retail  and  banking,
+Mondragon generates billions in annual revenue. Each co-op typically allocates around 10% of profits to a
+collective solidarity fund and some to community projects, then divides the rest among member accounts
+. Governance is exercised through a general assembly of worker-members (each with an equal vote)
+and an elected board. The Mondragon case shows that even large, complex enterprises can be run on
+participatory lines – though not without challenges, as discussed later . It stands as perhaps the world’s most
+prominent example of a high-functioning worker cooperative federation .
+Mondragon may be unique in scale, but it is far from the only worker-owned enterprise making an impact.
+In  the  United  States,  where  cooperatives  are  often  thought  of  as  small  or  niche,  the  Bronx-based
+Cooperative Home Care Associates (CHCA)  defies that stereotype. CHCA is a worker-owned home health
+care agency founded in 1985 with a mission to improve poverty-wage jobs for home health aides – a
+workforce largely comprised of women of color . Today CHCA employs over 2,000 people , 90% of whom are
+Latina or African-American women , and more than half of the employees have become worker-owners of
+the cooperative . To join as an owner , a worker saves a $1,000 buy-in (with an initial $50 payment and the
+remaining $950 financed via payroll deductions over five years) . In return, each member gets one
+voting share in governance and may receive annual profit dividends when the co-op does well. CHCA’s
+model has translated into tangible benefits for its worker-owners:  wages about twice the prevailing
+market rate for similar home care jobs, plus guaranteed minimum hours  for more stable income .
+Turnover at CHCA runs around 20% – roughly  one-third of the industry average  turnover rate of 67% –
+indicating far higher job satisfaction and retention . The co-op invests heavily in training (in partnership
+with a nonprofit it spawned) to build workers’ skills. Interestingly, CHCA even chose to unionize (joining SEIU
+1199) to give its workforce a stronger collective voice in the broader industry . This unusual scenario – a
+worker-owned company with a labor union – has helped raise labor standards beyond the co-op’s walls.
+CHCA  demonstrates  that  cooperative  ownership  can  scale  even  in  a  low-margin  service  industry:  the
+business generates over $60 million in annual revenue, and worker-owners not only earn better pay but
+also  participate  in  governing  a  major  employer .  Profit  margins  in  such  a  business  are  slim,  meaning
+dividends per member are modest, but the primary “dividend” has been steady job improvement. The CHCA
+story underscores how participatory ownership turns jobs into assets  – giving people with little wealth a
+stake and a say in the enterprise they make successful.
+Not all cooperatives are worker-owned; many are owned by the consumers  or community  that benefit from
+their  services.  Consumer  cooperatives  include  everything  from  retail  stores  and  grocery  markets  to
+insurance mutuals and credit unions. A classic example is  credit unions , the member-owned financial
+institutions that operate on a nonprofit basis. As of 2023, there are over 86,000 credit unions worldwide,
+holding trillions in assets on behalf of their member-depositors (for instance, U.S. credit unions serve over
+130 million members). In a credit union, profits are returned to members through better savings rates,
+lower loan interest, and sometimes annual rebate dividends. For example, the Pentagon Federal Credit
+Union in the U.S. issued its members a special dividend of $15 million in 2022 due to excess earnings, and
+many credit unions regularly give small patronage dividends or interest refunds. While these payouts might
+only amount to $5 or $50 per person, they embody the ethos that the customers are the owners  and any
+surplus belongs to them. The governance is democratic: credit union members elect a board of directors
+(often volunteers from the membership) on a one-member/one-vote basis, regardless of how much one has4
+4
+5
+6
+17
+8
+9
+10
+10
+11
+2
+on deposit. This structure helped credit unions largely avoid the predatory lending that shareholder-driven
+banks engaged in before the 2008 financial crisis – an illustration of how ownership design can influence
+behavior .
+Another widespread consumer-owned model is the  food cooperative  or grocery co-op, where shoppers
+purchase a member share (often $50–$100) to become part-owners of a community grocery store. These
+co-ops typically operate with slim margins to keep food prices affordable, but any surplus at year’s end is
+returned to members as store credit or cash rebates proportional to how much they shopped (a patronage
+refund ). Large retail co-ops also exist; for instance, outdoor goods retailer REI is a consumer cooperative
+with over 20 million members. REI members pay a one-time $30 fee for lifetime membership and receive an
+annual dividend (typically 10% of their purchases from the previous year) if the co-op is profitable. In 2022,
+REI’s member dividend totaled roughly $234 million distributed to its members – effectively a profit-sharing
+that rewards customer loyalty. Governance in such big co-ops is less directly participatory (REI’s board is
+elected by members, but candidate selection is board-driven), highlighting a challenge: as cooperatives
+grow very large, ensuring deep member engagement in governance can be difficult. Still, the economic
+benefits to members scale with size.
+Community and Utility Cooperatives: Power to the People (Literally)
+One of the most significant but sometimes overlooked cooperative sectors is utilities  – especially electricity,
+telecom, and water cooperatives. In many regions, particularly rural parts of the United States and Canada,
+electric  power  is  delivered  by  member-owned  cooperatives  rather  than  investor-owned  utilities.  These
+electric co-ops arose in the mid-20th century to bring power to areas private companies ignored. Today
+there are around 900 rural electric cooperatives in the U.S. serving 42 million people  across 56% of the
+nation’s land area. Their customers are the members, and they democratically elect the co-op’s board.
+Importantly, as not-for-profits, co-ops set rates only high enough to cover costs and a reasonable reserve.
+Any margins (profits) at year-end are allocated back to the member-owners as “capital credits,”  which
+are periodically paid out or credited to bills. For example, Bandera Electric Cooperative in Texas reports that
+it has returned over $33.3 million in capital credits to its members  since its founding . Typically, an
+electric co-op will retire (pay out) capital credits on a rotating basis – for instance, in 2023 a co-op might
+refund a portion of margins from 2003 and 2022. The checks can range from a few dollars to a few hundred
+dollars for each member , depending on electricity usage and the co-op’s financial health. While not usually
+large sums, these payments represent a share of the utility’s earnings going back to the community, rather
+than to stockholders or distant investors. In addition, member-owners of co-ops often benefit through
+lower utility rates  compared to for-profit providers, and through local control – co-ops are more likely to
+invest in reliability and service rather than extract profit. 
+Telecommunications cooperatives  have a similar story. Dozens of rural telecom co-ops formed in the
+mid-20th century to provide telephone service; many have evolved into broadband internet providers today.
+Like electric co-ops, telecom co-ops return patronage dividends to members. For instance, Oklahoma’s REC
+Cooperative (a telecom and electric co-op) notes that any profits (margins) are allocated to members and
+eventually paid out . In an era where internet access is a vital utility, communities are reviving the
+cooperative model to get connected. One notable example is Guifi.net  in Spain, a sprawling community-
+owned internet network structured as a “commons” with cooperative agreements – users collectively build
+and maintain network infrastructure, ensuring affordable access. While Guifi.net doesn’t pay dividends (it
+reinvests in expanding connectivity), it demonstrates how communal ownership can challenge telecom
+monopolies and provide public benefit.12
+13
+3
+Municipal- or community-owned utilities, while not cooperatives in the membership sense, also exemplify
+participatory  ownership  at  the  city  level.  A  powerful  case  is  Chattanooga,  Tennessee’s  municipal
+broadband network . In 2010, the city’s public electric utility (EPB) built a fiber-optic network to deliver
+gigabit-speed internet citywide. A decade later , studies showed that this community-owned fiber network
+produced  tremendous  local  dividends  –  not  mailed  checks,  but  broad  economic  gains.  By  2020,
+Chattanooga’s “Gig City” network had generated an estimated $2.69  billion  in economic and social
+benefits for the area , including  over 9,500 jobs created or saved . These benefits came from
+attracting businesses, improving education and healthcare access, enabling smart-grid efficiencies for EPB,
+and bridging the digital divide. The network’s value exceeded its costs by more than $2.2 billion in that first
+decade . Crucially, because the infrastructure is publicly owned, its gains accrue to the community: EPB
+reinvests revenues into grid improvements and keeps electricity and internet rates reasonable. In a sense,
+the “dividend” is paid as economic development and cheaper utility bills  rather than cash. (However , EPB
+has periodically transferred modest surpluses to the city budget as well.) Other cities – from Ammon, Idaho
+to Stockholm, Sweden – have similarly treated broadband as a community asset, often with open-access
+fiber networks that let multiple private service providers use the infrastructure. In Stockholm’s case, the
+city’s  fiber  company  Stokab  leases  out  fiber  capacity  and  returns  profits  to  the  city  coffers,  indirectly
+benefiting residents by funding public services. The lesson is that when the community owns the essential
+infrastructure, the value created by that infrastructure (whether monetary profits or public good) tends to
+stay local.
+Even in the energy sector , cooperatives and community ownership are proving their worth. Countries like
+Germany and Denmark spearheaded the renewable energy cooperative movement. In Germany, citizens
+fed up with nuclear power and fossil fuels formed energy cooperatives to invest in solar panels, wind
+turbines,  and  biogas  plants.  By  2020  Germany  had  835  energy  cooperatives  with  around  200,000
+members, who had invested a total of €3.2 billion in clean energy installations generating about
+8.8 TWh per year . Many of these co-ops sprung up in the 2006–2013 period when feed-in tariffs made
+community solar/wind profitable; members typically earn annual dividends from selling electricity to the
+grid. Though policy changes have slowed new co-ops, the existing ones continue to pay returns. Surveys
+show their average annual dividend yields range from 3–5%, depending on the project. More importantly,
+they give communities agency in the energy transition – profits from a wind farm flow to local member-
+investors  and  town  projects  rather  than  to  distant  utilities.  Denmark’s  approach  goes  a  step  further:
+national law historically required that new wind turbine projects offer at least 20% ownership shares to
+local residents . This policy helped spawn dozens of wind cooperatives. A flagship is the Middelgrunden
+Offshore Wind Farm  in Copenhagen’s harbor – a project co-owned 50/50 by the municipal utility and a
+cooperative of over 8,500 community members. In 2000, local citizens formed the Middelgrunden Wind
+Turbine Cooperative and collectively raised about DKK 230 million  (roughly $35 million) by selling 40,500
+shares at around $821 each to 8,553 people . Each share corresponded to 1,000 kWh of expected
+annual production, and members receive dividends in proportion to their shareholding (often effectively a
+credit  on  their  power  bills) .  The  project’s  20  turbines  (40   MW  capacity)  supply  about  4%  of
+Copenhagen’s electricity . Middelgrunden demonstrated how engaging the community can overcome
+Not-In-My-Backyard opposition – initial public concerns faded after the co-op gave locals a direct stake in
+the project’s benefits . Two decades on, Middelgrunden remains  the world’s largest cooperatively-
+owned wind farm , and its success has inspired countless community energy projects worldwide. From
+village micro-hydro plants in Nepal to solar gardens in Minnesota, the principle is the same: when people
+jointly own the energy source, they share in the rewards (clean power , revenue, local jobs) and tend to be
+excellent stewards of the resource.14 15
+16
+17
+1819
+20
+21
+22
+4
+Land and Housing Trusts: Grounding Wealth Locally
+Real estate – land and housing – is often a community’s most valuable (and contested) asset. Traditional
+private ownership of land can lead to speculation, displacement, and concentrated gains for a few lucky
+owners, while renters and the broader community reap little benefit from rising values. Community land
+trusts (CLTs)  and limited-equity housing cooperatives  offer alternative models that keep land and homes
+under  community  control,  thus  preserving  affordability  and  broadly  distributing  the  benefits  of
+development. These models became prominent in the late 20th century and have proliferated in the 21st as
+responses to housing crises and gentrification.
+Community Land Trusts: Homes Without Displacement
+On a once-blighted block in the Boston neighborhood of Roxbury, neat affordable homes now stand, each
+occupied by a family that might otherwise have been priced out of the area. This is the legacy of Dudley
+Street Neighborhood Initiative’s community land trust , one of the first urban CLTs in the United States.
+A community land trust is a nonprofit organization that acquires land (through purchase or donation) and
+holds it in trust perpetually for community benefit . Homes or other buildings on the land can be bought
+and sold by individuals, but the CLT retains ownership of the land itself and leases it to the homeowner via a
+long-term (often 99-year) ground lease. Because the homeowner is only buying the house, not the land, the
+purchase price is far lower than a market-rate home. In exchange for this opportunity, the homeowner
+agrees that when they sell, it must be to another income-qualified buyer and that they will receive only a
+limited  portion  of  the  increase  in  value  (the  rest  stays  with  the  property  as  “subsidy  retention”).  This
+mechanism keeps the home affordable for each successive buyer ,  preventing the kind of speculative
+appreciation that fuels gentrification .
+Community land trusts typically have a tripartite governance structure  to balance interests: one-third of
+the board seats are reserved for residents of CLT housing, one-third for other community members in the
+area, and one-third for public or expert representatives . This ensures the CLT is accountable to both the
+people living on its land and the broader public interest. A great example of scale is the  Champlain
+Housing Trust (CHT)  in Burlington, Vermont – the largest CLT in the U.S. As of 2019, CHT managed over
+2,400  affordable  rental  apartments  and  600  owner-occupied  shared-equity  homes ,  along  with
+commercial and community spaces . The trust’s assets exceed $100 million and over 6,000 people
+live in CHT properties on any given night . Homebuyers in CHT’s program purchase a house at an
+affordable price (often ~$150,000 less than market value) and agree to the resale formula – typically they
+keep 25% of any home appreciation, while 75% remains with the home  to keep it affordable for the next
+family. Over the decades, CHT’s model has allowed over 1,300 families to attain homeownership who
+otherwise might never have been able to buy . While individual owners don’t gain full market windfalls,
+they  do  build  some  equity  (the  average  CHT  seller  earns  about  $15,000  in  equity  after  a  few  years,
+according to the trust’s reports) and they have secure housing. Meanwhile, the community gains a stock of
+permanently affordable homes, insulating these properties from the speculative market.  Empirical data
+shows  CLTs  succeed  at  stabilizing  neighborhoods:  for  instance,  a  study  in  Minneapolis  found  that
+foreclosures were significantly lower on CLT homes during the 2008 crash, and nearby property values were
+more stable . 
+Crucially, CLTs aren’t just an American phenomenon. In London, the East London CLT  developed dozens of
+homes sold at prices linked to local incomes rather than market rates (the initial homes on a redeveloped
+hospital site sold for roughly £130,000 – a quarter of market value for that area). There are now over 30023
+2425
+2627
+28
+29
+5
+CLTs  in  England  and  Wales,  supported  by  government  grants  and  local  councils  seeking  long-term
+affordable housing solutions. In Nairobi, Kenya, an innovative urban CLT was piloted to regularize an
+informal settlement’s land tenure, drawing on the CLT model to give residents collective land ownership
+and prevent slum clearance. And perhaps the most dramatic case comes from San Juan, Puerto Rico: the
+Caño Martín Peña Community Land Trust . In the 2000s, some 2,000 low-income families living along the
+polluted Caño Martín Peña canal organized to form a CLT that would own 200 acres of land under their
+neighborhoods . This was a strategy to resist displacement as the city eyed redevelopment. It succeeded
+– the land trust was established, ensuring residents could stay and improve their community. Today those
+families lease their plots from the trust for $1 and can pass homes to heirs, but cannot sell to outside
+speculators. The CLT has secured millions in investment for infrastructure and housing upgrades without
+the looming threat that residents will be priced out once the canal is restored. By “decommodifying” the
+land , the community both attracted development and shared its gains broadly.
+While  CLTs  mostly  focus  on  homeownership  and  rentals,  the  concept  can  apply  to  other  assets  like
+community gardens, commercial spaces for local businesses, and even community-owned farms . In such
+cases, the trust ensures the land use serves local needs (e.g. providing fresh food or jobs) and that the value
+created (through agriculture or commerce) is not simply extracted by absentee landlords. In all these
+variations, a key ingredient is public or philanthropic support , especially upfront: CLTs often need grants,
+favorable land purchases, or policy help (like inclusionary housing requirements) to acquire land and seed
+their portfolio. Once established, however , CLTs can be self-sustaining, using ground lease fees or modest
+resale fees to fund their operations.
+Limited-Equity Cooperatives: Shared Ownership of Housing
+Another  path  to  similar  ends  is  the  limited-equity  housing  cooperative  (LEC) .  In  an  LEC,  residents
+collectively own their apartment building or housing development through a cooperative corporation, but
+the resale value of their shares is capped to keep it affordable. Each household in a limited-equity co-op
+buys a share (often priced very low, such as $500 or $1,000, subsidized by government or nonprofit support)
+and that share entitles them to occupy a unit and participate in co-op governance. They pay a monthly
+amount (co-op fee) that covers building expenses and mortgage. If they move out, they can sell their share
+back to the co-op or to another lower-income buyer , but usually only for the same price they paid (plus
+maybe some inflation adjustment or small increment). This prevents windfall profits and thus keeps the
+buy-in price low for the next family. Effectively, the co-op members collectively  are their own landlord ,
+without a profit motive to raise rents beyond what’s needed for costs.30
+6
+An aerial view of Co-op City in the Bronx, New York – the world’s largest limited-equity housing cooperative –
+occupying a swath of high-rise towers (visible at center) amidst surrounding neighborhoods.
+Figure: Co-op City in the Bronx.  Opened in 1968–73 under New York’s Mitchell-Lama program, Co-op City
+has 15,372 apartments home to roughly 50,000 residents . Residents purchased their co-op shares at
+below-market rates and agree to limited resale equity, ensuring long-term affordability. Decades on, Co-op
+City remains an “affordable oasis” in New York – its members have repeatedly voted not to privatize and
+cash out, preserving the cooperative for future generations .
+New York City’s Mitchell-Lama program  (started in 1955) helped create many limited-equity co-ops like Co-
+op City. Under Mitchell-Lama, private or nonprofit developers built affordable apartment complexes with
+government subsidies and low-interest loans, in exchange for limits on profit. Residents in a Mitchell-Lama
+co-op buy shares at a controlled price and can sell them back only for that same price (plus maybe a small
+interest). Co-op City’s shares originally cost ~$500 per room – a three-bedroom unit’s share cost about
+$1,500 in 1960s dollars – and monthly carrying charges were kept modest. The agreement was that after 20
+years, the co-ops could choose to convert to market-rate (dissolve the limited-equity restrictions) if two-
+thirds  of  members  agreed.  However ,  Co-op  City’s  members  have  consistently  voted  against
+privatization  even  after  the  initial  restriction  period .  They  decided  that  keeping  their  community
+affordable and mixed-income was more important than a one-time windfall from going market-rate. This
+speaks to a strong cooperative ethos: members value stability and collective benefit over personal profit.
+Co-op City’s persistence has provided generations of middle- and low-income families (many of them civil
+servants, union workers, and immigrants) a rare chance to live in New York with ample space and parkland
+at an affordable price. The co-op is governed by a 15-member resident board that oversees a operating
+budget of around $240 million. Importantly,  any “profit” is reinvested or used to reduce charges  – in
+2019, for instance, Co-op City issued credits to residents after a budget surplus. Other Mitchell-Lama co-ops
+include Penn South  in Manhattan (2,820 units, established 1962), which similarly remains limited-equity by
+resident choice and maintains monthly charges far below Manhattan market rents. These success stories
+show LECs can anchor communities against gentrification.
+31
+3132
+33
+7
+Washington,  D.C.  provides  another  fertile  ground  for  limited-equity  co-ops,  aided  by  the  city’s  Tenant
+Opportunity to Purchase Act (TOPA) . TOPA, enacted in 1980, gives tenants the first right to buy their
+building if the owner puts it up for sale (often using assigned rights to partner with a nonprofit developer).
+Through  TOPA,  many  tenant  groups  have  co-purchased  their  buildings  and  converted  them  into
+cooperatives. As a result, D.C. today has approximately 4,400 units of housing in about 99 limited-equity
+co-op buildings . These co-ops are spread across gentrifying neighborhoods, serving as bulwarks for
+longtime residents. Research by the D.C. Policy Center finds that limited-equity co-ops in the District have
+kept units affordable to people earning well below the area median income, even as surrounding rents
+skyrocketed. One example is the Marina View Cooperative , a formerly market-rate complex in Southwest
+D.C. that went co-op in the 1990s; members there have kept share prices around $15,000 and monthly fees
+affordable, even while luxury developments rise nearby. However , limited-equity co-ops face challenges too:
+they must maintain aging buildings with limited reserves, and some have struggled with governance or
+financing for repairs (since they can’t easily borrow against skyrocketing property values without risking
+affordability). Cities like D.C. have formed task forces to provide technical assistance, recognizing these co-
+ops as precious community assets worth sustaining .
+Both CLTs and LECs illustrate a key principle: separating the value of housing as a home from its value
+as an investment . By restricting equity or ownership, these models ensure that increases in land and
+housing value (often driven by public investments or community efforts) benefit a broad group – future
+residents or the community – rather than just enriching a single owner . The “downside” is that individual
+owners don’t get to partake in speculative gains; but the upside is stability and continued affordability. The
+trade-off can be seen as each generation paying it forward to the next. In practice, many residents in CLTs/
+LECs are grateful to simply have secure, affordable housing – something increasingly rare – and are willing
+to forgo a jackpot payout. As one CLT homeowner in Burlington quipped, “I’m building some equity, but
+more importantly I can sleep at night not worrying about rent doubling.”
+Sharing Public Wealth: Royalties, Dividends, and Sovereign Funds
+In 1982, the young state of Alaska embarked on a bold experiment: instead of allowing oil companies and a
+few individuals to pocket all the wealth from Alaska’s oil reserves, the state would collect a portion of
+revenues into a public fund and share the earnings directly with every Alaskan  each year . Thus was born
+the  Alaska Permanent Fund Dividend (PFD)  program – perhaps the world’s best-known example of a
+public royalty-sharing scheme. The idea was simple yet radical: Alaska’s oil and gas are collectively owned
+resources, so a chunk of the proceeds should be saved and invested on behalf of the people, yielding an
+annual  universal dividend . Four decades on, the Alaska model has proven its popularity and resilience,
+inspiring discussions of “basic income” and similar funds elsewhere.
+The Alaska Permanent Fund: Oil Wealth for All
+Every eligible Alaska resident – man, woman, and child – who has lived in the state for a full calendar year
+can receive the Permanent Fund Dividend. The money comes from the Alaska Permanent Fund, a sovereign
+wealth fund that by 2025 held roughly $81 billion  in assets . The fund was built by saving a portion of
+state oil revenues (at least 25% by constitutional mandate) since the late 1970s, investing those royalties in
+a diversified portfolio of stocks, bonds, real estate, and more. Each year , a formula determines a sustainable
+draw (originally based on a 5-year average of fund earnings, now a percent-of-fund value payout). That
+amount is then divided evenly among all residents who apply. The first dividend was paid in 1982 at $1,000.
+Dividends have fluctuated with market returns – from a low of $331 (in 1984) up to a high of $2,072 (in34
+35
+36
+8
+2015), not counting a special one-time $1,200 bonus in 2008. In recent years, dividends have been around
+$1,000–$1,600; for example, in 2021 the PFD was $1,114 per person  (so a family of four received about
+$4,456) , and in 2024 it was approximately $1,300 plus a $300 energy relief bonus . Since inception,
+the  PFD has averaged roughly $1,000 per year , and for most of the 2000s it stayed in the $1,000–
+$1,500  range.  About  600,000  Alaskans  receive  it  annually,  meaning  on  the  order  of  $600   million  to
+$1 billion is distributed directly to households each year , typically in October . At times, the payout
+has been even larger: in 2015, when oil and stock market gains swelled the fund, every Alaskan got $2,072
+(and that was after the state had reduced the calculated amount to save money).
+This universal payment functions almost like a small basic income. While $1,000 a year won’t make anyone
+rich, studies have found it has measurably reduced poverty and improved health and educational outcomes,
+especially in rural communities where subsistence activities are common (the money often helps pay for
+fuel and equipment for hunting/fishing) and where jobs are scarce. The dividend has become an important
+part of many family budgets – indeed accounting for about 6% of total household income statewide on
+average , and a higher share for low-income families. Beyond economics, the PFD altered Alaskans’
+relationship to government: people feel and act like stakeholders in the state’s resource wealth, arguably
+bolstering support for the fund’s continuation . Politically, the dividend is enormously popular across
+the spectrum; attempts to reduce or redirect it are met with public outcry. (In recent years, with state oil
+revenues declining, Alaska’s legislature has debated using more of the fund earnings to cover budget
+shortfalls, effectively cutting dividends. This has led to heated battles and even voter-led initiatives to
+constitutionalize the dividend formula.)
+From  a  governance  perspective,  Alaska  set  up  safeguards  to  minimize  political  interference  and  elite
+capture. The Permanent Fund is managed by a semi-independent corporation with professional investment
+managers; only fund earnings  (not principal) can be spent, and for the first 35+ years the state followed a
+formula that insulated the annual payout from direct legislative manipulation. This ensured the fund’s real
+value grew over time (it began with just $900 million in 1977; by 2000 it was ~$26 billion, and by 2025, $80+
+billion ). The “sharing” is done in an egalitarian way – every resident gets an equal amount, rather than,
+say, proportional to one’s taxes paid or something that would favor the wealthy. This universal approach
+likely contributed to its durability; it’s seen as a right of citizenship in Alaska. As one researcher noted,
+Alaskans came to view the dividend “as an entitlement that all Alaskans share rather than as a public
+expenditure” . In other words, it’s the people’s money. This broad buy-in has protected the fund from
+what one might fear – namely, politicians raiding it entirely in lean times or powerful interests diverting it.
+Of  course,  nothing  is  perfect:  Alaska’s  experience  also  shows  some  unintended  effects,  such  as  the
+dividend’s volatility (it can swing by hundreds of dollars year to year with markets, making household
+budgeting tricky) and the fact that, by itself, ~$1k a year hasn’t solved systemic inequities (especially since
+living  costs  in  Alaska  are  high).  Still,  the  Alaska  Permanent  Fund  stands  as  a  pioneering  model  of  a
+Universal Basic Dividend  – essentially a community-owned sovereign wealth fund  paying out cash to all
+members of the community.
+The Alaska model has influenced other resource-rich regions. Several Canadian provinces established non-
+renewable resource funds (e.g. Alberta’s Heritage Fund for oil revenues in 1976), but these mostly funnelled
+earnings into general government spending or specific programs rather than citizen dividends. One partial
+exception was Alberta’s experiment in the 2000s of giving irregular “resource rebate” checks (once a $400
+payout to all residents, cheekily dubbed “Ralph Bucks” after the Premier).  Mongolia  in 2010 announced
+plans for a sovereign wealth fund with dividends from its booming mining sector and even paid an initial
+~$70 to each citizen, but political changes led the program away from pure dividends to targeted social37 38
+39
+40
+40
+4142
+36
+43
+9
+spending.  Bolivia  took a different route by using gas royalties to fund a universal old-age pension (the
+Renta Dignidad), effectively sharing resource wealth with all seniors rather than everyone. And  Norway ,
+often cited for its massive $1.3 trillion oil fund, pointedly does not pay direct dividends; instead Norway’s
+fund returns are used to cover up to 3% of the national budget each year (indirectly benefiting citizens via
+public services, and saving the rest for future generations). In short, few places have implemented the
+direct-per-capita dividend as fully as Alaska, though the idea is frequently discussed in policy circles – for
+example, proposals for carbon tax dividends (where revenue from carbon pricing would be distributed
+equally to citizens to offset higher energy costs).
+Public Resource Funds and Community Royalties
+Another category of participatory ownership involves communities owning rights to natural resources or
+critical infrastructure and collecting royalties or revenues on behalf of the public. Often these take the
+shape  of  trust  funds  or  public  enterprises  where  the  proceeds  support  local  budgets  or  projects
+(sometimes called “community wealth funds”). One example is  state government permanent funds  in
+resource-rich  U.S.  states.  Besides  Alaska,  Texas ,  for  instance,  has  the  Permanent  School  Fund  and
+Permanent University Fund – fed by oil and land revenues – that support public education (while not paying
+individuals, they substitute for taxes).  Wyoming  and  New Mexico  have permanent mineral trusts that
+generate income for state needs. These are essentially forms of collective ownership of subsoil assets.
+At  a  more  local  level,  some  municipalities  have  negotiated  direct  community  benefits  from  resource
+extraction.  In  the  Marcellus  Shale  regions  of  Pennsylvania,  a  few  forward-thinking  counties  set  aside
+portions of gas drilling impact fees into community trust funds to be used for long-term public purposes
+(like improving parks, infrastructure, etc.), aiming to extend the benefits beyond the life of the wells. In
+Colorado, certain counties receiving federal mineral royalties have established scholarship funds for local
+high school graduates. These are ways to ensure the “commons” get a slice when private firms exploit local
+natural resources.
+A unique case of community-level dividends comes from the world of indigenous self-governance. Many
+Native American tribes, after winning rights to operate casinos or develop natural resources on their lands,
+have chosen to distribute a share of those revenues to their enrolled members. For instance, the Eastern
+Band of Cherokee Indians  in North Carolina uses profits from its two tribal casinos to issue  per-capita
+payments to all tribal members, effectively making them shareholders in the enterprise . The tribe
+directs 50% of casino net revenues to these per-capita distributions (the other half funds tribal government
+and services) . In recent years the semi-annual payments have averaged about $6,000 each (around
+$12,000 per person per year) . In June 2018, for example, every eligible Cherokee member (including
+children, whose shares are held in trust) received roughly $5,552  (before taxes) as their six-month dividend
+. For a family of four , that could mean over $40,000 a year – a significant income supplement. These
+payouts have had profound impacts: poverty rates among the Cherokee have dropped, and one study in
+western North Carolina found that Cherokee children’s educational and health outcomes improved after the
+casino dividend program began in the late 1990s. The steady cash stipends also allowed more families to
+start businesses or invest in homes. Of course, casino revenues can fluctuate – for example, the Cherokee
+per-capita distributions dipped during 2020 when COVID shuttered casinos, then hit record highs in 2021–
+2022, and were expected to drop about 8.6% in 2023 amid softening gaming receipts . This volatility
+requires careful budgeting by families and the tribal government. To promote savings, the Eastern Band
+recently launched a program to encourage or even mandate putting a portion of minors’ payouts into trust
+for education or future needs . Other tribes have similar systems: the Chickasaw Nation and Choctaw44
+45
+46
+47
+4849
+50
+10
+Nation (Oklahoma) give smaller annual dividends; the Osage Nation historically distributed oil royalties to
+tribal members (famously leading to immense wealth – and exploitation – in the 1920s); and some Western
+tribes with lucrative casinos pay upwards of $20,000 annually to each member . While these are not without
+controversy (concerns over dependency or infighting over enrollment), they represent a form of communal
+asset  ownership  –  the  entire  tribe,  as  a  collective,  owns  the  casino  or  the  oil,  and  shares  the  profits
+accordingly.
+Beyond  resources  and  gambling,  communities  are  even  considering  public  share  ownership  in
+infrastructure  and  spectrum .  In  some  countries,  municipalities  have  stakes  in  utilities  like  telecom
+networks or ports and use the dividends for local needs. A novel idea floated by economists is that when
+governments  auction  public  assets  like  electromagnetic  spectrum  (for  mobile  networks)  or  emissions
+permits, a portion of that revenue should go into a citizens’ trust  that pays out dividends. No country has yet
+set up a permanent citizen’s dividend from spectrum, but the concept is akin to Alaska’s oil fund – treating
+the airwaves as a public commons that could fund a universal benefit.
+The theme in all these cases is aligning monetizable assets with public ownership. When done well, it can
+tame the “resource curse” and counter inequality. However , distributing cash to citizens is not the only
+approach.  Some  communities  instead  opt  to  use  shared  wealth  for  collective  goods  –  for  example,
+Scotland’s community land ownership  movement (where villages have bought out large estates) usually
+reinvests land profits into local development projects, subsidized housing, and community enterprises
+rather than paying individuals. Similarly,  Namibian conservancies  (community-run wildlife management
+areas) earn money from tourism and hunting concessions – in 2018, conservancies generated about N$140
+million (US$10 million) in cash and in-kind benefits to local communities . Much of that value is
+delivered  via  jobs  (e.g.  N$60  million  in  wages  from  lodge  and  hunting  operators  in  2018 )  and
+community funds for clinics or schools, though some conservancies also declare dividends to member
+households in years of surplus. The choice of whether to pay direct dividends or provide services is an
+ongoing debate – each community finds the right balance. 
+Community-Owned Investment Vehicles: Collective Capital for
+Local Gain
+Even outside traditional co-op or public utility structures, new models are emerging for communities to
+jointly invest in development and build wealth. These include things like municipal real estate investment
+trusts (REITs) ,  community investment trusts (CITs) , and other shared-equity funds that allow ordinary
+residents to own a piece of local commercial or housing assets.
+One pioneering example comes from Portland, Oregon. In the city’s Jade District – a diverse, working-class
+neighborhood – a nonprofit in 2017 created the  East Portland Community Investment Trust (CIT)  to
+enable residents to collectively purchase a local strip mall. The property, known as Plaza 122, houses small
+businesses (many run by immigrant entrepreneurs) that serve the neighborhood. Through the CIT,  any
+resident of four ZIP codes can buy shares in the property for as little as $10 a month  (up to a max of
+$100/month) .  Before  investing,  individuals  must  take  a  brief  financial  education  course  called
+“Moving from Owing to Owning” , ensuring people understand the risk and commitment. Once in, their
+investment is loss-protected  – Mercy Corps (the nonprofit initiator) arranged a letter-of-credit guarantee so
+that if the property were to lose value, investors would at least get their principal back . Investors receive
+annual dividends from the rental income  (after expenses) and also benefit from  appreciation in the51
+52
+5354
+55
+56
+11
+share price  as the property value rises and the mortgage is paid down . After a minimum holding
+period, they can sell their shares back to the CIT at the updated share value. The results so far have been
+impressive: between 2017 and 2024, the CIT’s share price nearly doubled from $10 to $19.65 , reflecting
+successful debt repayment and increased property value. Over 300 residents have participated, with an
+average  investment  of  around  $30–$50  a  month.  Between  2017  and  2022,  the  annual  dividends
+averaged a 7.6% return  on investment for shareholders  – far outpacing a savings account, and quite
+meaningful for families with otherwise limited assets. In total, the CIT has distributed tens of thousands of
+dollars in dividends (for example, in 2021 it paid a 4.57% dividend, totaling $16,886 across all investors
+). Perhaps more telling are the personal stories: one participant, Fabiola, was able to use her accrued
+CIT investment of $4,700 as part of a down payment on a home, fulfilling a dream . Others speak of
+feeling more connected to their neighborhood because they  own a piece of it . The CIT is governed by a
+board that initially included nonprofit and banking experts but is transitioning to more community investor
+representation.  By  blending  private  investment  with  public-minded  safeguards,  this  model  creates  a
+“starter asset”  for families who have never owned property, while keeping ownership local and preventing
+the displacement of beloved businesses.
+In Chicago, a similar concept is being explored through the Neighborhood Investment Company (NICO) ,
+which structured a hyper-local REIT in the city’s neighborhoods. NICO’s pilot in Los Angeles’s Echo Park
+neighborhood (the concept’s first implementation) bought a portfolio of apartment buildings and then
+offered shares to local residents for as little as $100 . The idea was to let renters and neighbors own
+equity in the neighborhood’s rising real estate values – essentially “build equity while renting” . NICO
+created two classes of shares: a Class L for local residents and a Class N for general investors. Local
+residents get some preferential terms (such as lower minimum investment and perhaps priority on certain
+returns) to encourage community participation . The REIT, structured as a public-benefit corporation,
+must pay out 90% of taxable income as dividends (per REIT rules) . While NICO is a for-profit model
+(targeting around 5–10% annual returns), its public-benefit mandate and local recruitment aim to ensure
+that at least a portion of the financial upside in gentrifying areas flows to longtime community members,
+not just outside developers. Early outcomes from Echo Park’s NICO include dozens of residents investing
+and quarterly dividends being paid (in 2020–21 the dividend yield was around 3%, with expectations of
+~10% long-term including appreciation ). NICO and the Portland CIT are part of a broader innovation of
+Community Investment Vehicles (CIVs)  – essentially financial structures that let communities pool capital
+to acquire or co-own assets that are important to them (be it housing, retail space, solar farms, etc.). A
+recent report documented over 20 such CIVs launched in the U.S. since 2010 , ranging from Market
+Creek Plaza in San Diego (where residents owned shares of a shopping center via a trust) to community-led
+real estate cooperatives in Minneapolis and Boston.
+These investment vehicles often face steep challenges: legal complexities (securities regulations), the need
+for  an  “anchor”  investor  or  guarantor  to  get  started,  and  the  task  of  building  trust  with  community
+members who may be unfamiliar with investing. To mitigate risk and abuse, many are structured with caps
+(e.g. an individual can’t invest above a certain amount, so no single party can take over) and with missions
+locking in community benefits (for example, requiring a certain percentage of profits to be reinvested
+locally or limiting resale of shares to prevent flipping). Governance  varies – some are nonprofits, others are
+for-profits with community advisory boards, others like CIT are hybrids (a C-corporation owned by individual
+shareholders but originated by a nonprofit and governed by a mix of community and expert directors) .
+A noteworthy design principle is that if the purpose is wealth-building for residents, the entity must actually
+allow for dividends to be paid. (Some well-intentioned community trusts are set up as nonprofits that
+reinvest everything, which is noble but doesn’t directly improve households’ finances.) For instance, the East57
+58
+59
+60
+61
+6263
+64
+62
+65
+66
+6768
+69
+12
+Portland  CIT  explicitly  chose  a  C-corporation  model  so  it  could  provide  direct  dividends  to  resident
+investors  (nonprofits can’t do that) . Meanwhile, to maintain affordability or mission, some CIVs choose
+not to maximize profit – for example, by keeping rents affordable for local businesses or by placing caps on
+resale value of shares. These decisions must balance the  wealth-building goal vs. community benefit
+goal , which sometimes conflict (a higher return for investors could mean higher rents from small business
+tenants,  for  instance,  which  might  hurt  the  community).  So  far ,  best  practices  suggest  involving  the
+community deeply in these trade-offs from the start, and enshrining mission in legal structures (like benefit
+corp status or binding commitments).
+Governing the Commons: Best Practices to Prevent Capture and
+Corruption
+As promising as participatory ownership models are, they are not automatically equitable or immune to
+problems. In fact, the  design of governance  – the rules, oversight, and democratic mechanisms – often
+determines whether these models truly deliver broad-based benefits or whether they get derailed by rent-
+seeking and elite capture. Through trial and error , practitioners have identified several best practices that
+help maintain the integrity and effectiveness of community-owned ventures.
+1. Build in Democratic Control and Broad Membership:  Almost all successful models ensure that no
+single individual or small clique can dominate decision-making. Cooperatives accomplish this through one-
+member-one-vote bylaws and elected boards. Community land trusts use the tripartite board  structure to
+balance interests . Rural utility co-ops, by law, hold regular member elections (often by mail or at annual
+meetings) for their boards. Inclusive membership and voting rights help prevent “insider” capture – e.g. a
+developer or politician co-opting the entity for personal gain – because power is diffused among many
+stakeholders. That said,  active participation  is needed to realize this democratic potential. Some co-ops
+fell into trouble when members became apathetic and stopped attending meetings or running for the
+board, creating a vacuum in which entrenched managers or a small board could act unchecked. Thus, a
+cultural norm of engagement, plus perhaps stipends or other incentives for participation, can bolster
+democracy.
+2. Transparency and Accountability:  Openness in finances and operations is a powerful deterrent to
+corruption. Many co-ops and trusts publish annual reports to their members, disclosing budgets, major
+contracts, and any conflicts of interest. Some are even legally required to do so (credit unions, for instance,
+file financials with regulators, which members can review). For example, a scandal at Pedernales Electric
+Cooperative  in Texas in the 2000s – where the board had awarded themselves luxurious perks and the
+manager  had  a  $300,000  salary  and  nepotistic  contracts  –  came  to  light  and  was  rectified  only  after
+member-lawsuits forced disclosure . In response, Pedernales implemented strong ethics rules, open
+board meetings, and term limits. A member-driven push for transparency  transformed that co-op from
+one of the most corrupt to a more accountable utility . The lesson is clear: sunlight prevents fungus .
+Community entities should operate like public bodies – posting meeting minutes, conducting independent
+audits, and allowing member inspection of records. If participants can see how funds are used, it’s harder
+for someone to line their pockets or divert resources.
+3. Checks and Balances in Governance:  Some models formalize checks: For instance,  rotating board
+seats or term limits  can prevent a fiefdom from forming. Many housing co-ops limit board members to 2-3
+consecutive terms. In CLTs, the split board (residents vs. others) ensures that neither the residents alone69
+23
+70
+71
+13
+nor external stakeholders alone can push through decisions that betray either affordability or resident
+interests – they must compromise. Another balance mechanism is requiring member approval for major
+actions  (like  dissolving  the  co-op  or  selling  a  community  asset).  In  Co-op  City’s  case,  any  decision  to
+privatize required two-thirds of residents’ approval, a deliberately high bar that helped keep the coop from
+being sold off . Similarly, Alaska’s Permanent Fund principal is constitutionally protected – it would take a
+statewide voter referendum to spend the principal, an intentionally arduous step . These structural
+hurdles protect longevity and guard against impulsive or self-interested moves.
+4. Capping Returns to Discourage Speculation:  Many participatory models explicitly cap the return any
+individual can get, to reinforce that the purpose is service, not profiteering. In co-ops, this appears as
+limited dividends on member capital (for example, a coop might pay at most 6–8% interest on member
+shares  if  at  all,  to  prevent  co-op  membership  from  being  just  an  investment  vehicle  rather  than  a
+patronage-based collective). Mondragon famously limits not just salaries but also the interest it pays on
+internal  capital  accounts.  In  housing  co-ops  and  CLTs,  the  limited  equity  formulas  and  resale  price
+restrictions exist precisely to stop a windfall that could incentivize speculation or quick resale flipping. These
+limits align everyone’s incentives toward long-term collective benefit rather than short-term personal gain.
+Without them, an investor might join a co-op or CIV with the sole aim of eventually demutualizing and
+cashing out the assets at market value (there have been cases of this, such as some food co-ops in the UK
+being taken over by investors). Therefore, strong anti-demutualization clauses  are important – requiring
+supermajority votes and large payouts to members or community charities if a co-op/trust ever converts,
+making demutualization less attractive. The UK’s Building Societies had lacked such clauses, and many
+demutualized in the 1990s when members were enticed by instant stock windfalls; conversely, U.S. credit
+unions have resisted demutualization partly due to stricter member vote rules and less lucrative conversion
+terms.
+5. Community Oversight and Shared Leadership:  Participatory ventures should reflect the community in
+leadership. Whether it’s a community advisory council  for a municipal broadband network or training and
+elevating resident leaders in a housing co-op, empowering people from within keeps the organization
+rooted in its mission. When outside “experts” are involved (e.g. a nonprofit aiding a CIT or a government
+official on a CLT board), their role is to support, not dictate. In Caño Martín Peña’s land trust, for example,
+extensive community assemblies and “stewardship committees” guide development decisions, ensuring the
+professional  staff  implement  what  residents  want .  This  bottoms-up  governance  builds  trust  and
+reduces the chance of corruption because more eyes are on every decision.
+6. Legal Protections and Enforcement:  Good governance is sometimes about having legal backstops. For
+instance, if co-op board members violate their fiduciary duty, there should be recourse – members can call a
+special meeting to remove them, or sue if necessary. Laws like an “inclusive stakeholders” requirement or
+cooperative corporation statutes give members standing to challenge misbehavior . Some U.S. states now
+require  co-ops  to  adopt  conflict-of-interest  policies  and  conduct  periodic  member  satisfaction  surveys
+(especially for electric co-ops), spurred by exposés of mismanagement. Regulators can also play a role:
+credit  union  regulators  ensure  those  institutions  are  not  taking  excessive  risks  or  enriching  insiders
+improperly (there have been a few credit union failures tied to fraud, but they remain rare given oversight).
+For public trusts or funds, independent trustees or ethics boards help. Alaska’s fund, for instance, has a
+board of trustees appointed for expertise, not political loyalty, and must operate transparently; the dividend
+amount used to be formulaic, which prevented annual political meddling.33
+72
+73
+14
+While these measures strengthen governance, patterns of failure  can still emerge if they are ignored. One
+pattern is “insider control”  – for example, some rural electric co-ops became dominated by long-serving
+board  members  who  faced  no  election  competition  and  became  cozy  with  management,  leading  to
+wasteful  spending  (like  lavish  travel  or  nepotism) .  This  often  happens  in  the  absence  of  active
+membership oversight. The antidote was grassroots member organizing – recently, co-op members in
+places like South Carolina and Nebraska have formed reform groups (with help from organizations like We
+Own  It)  to  oust  complacent  boards  and  implement  term  limits  and  transparency .  Another  failure
+pattern is demutualization/privatization : if a cooperative or trust becomes very valuable, members may
+be  tempted  by  a  buyout  or  conversion.  The  UK  saw  most  of  its  mutual  building  societies  (thrifts)
+demutualize for this reason – once members realized they could get windfall stock shares by voting yes,
+many did, and subsequently those institutions were bought by banks or collapsed. The best guard is
+cultivating a sense of pride and collective identity that outweighs short-term profit – as seen at Co-op City,
+where  residents  rejected  offers  to  privatize  because  they  felt  it  “would  not  be  right  for  their
+neighborhood” . Educating members on the long-term consequences of demutualization (higher costs,
+loss of control) also helps inoculate against it.
+Finally, corruption  remains a risk in any human enterprise, but participatory ones have moral authority to
+leverage. A community-owned project can tap into members’ sense of mutual responsibility – essentially a
+social contract that “we’re all in this together , so let’s not mess each other over .” In many cases, the social
+pressure  and visibility of behavior in a tight-knit cooperative or neighborhood can deter would-be corrupt
+actors more effectively than any regulation. For example, at CHCA home care coop, the fact that workers
+knew each other and openly discussed pay and conditions meant any attempt by management to unfairly
+benefit  a  few  would  be  quickly  spotted  and  called  out.  In  contrast,  in  a  faceless  large  corporation,
+corruption can hide behind hierarchy and secrecy.
+When Community Ownership Falters: Lessons from Setbacks
+Not every participatory ownership venture succeeds. It’s important to examine failures and limitations to
+understand what can go wrong. One cautionary tale comes from within Mondragon itself: in 2013, its
+largest  cooperative  in  the  appliance  manufacturing  sector ,  Fagor ,  went  bankrupt  under  competitive
+pressure from global rivals. Despite Mondragon’s mutual support system, Fagor’s losses were too great to
+bail out entirely. About 1,800 workers lost their jobs (though most received offers in other co-ops, about
+25% could not be relocated). The collapse shook Mondragon’s federation and exposed tensions between
+cooperative ideals and market realities. Some critics pointed out that Mondragon’s globalization strategy –
+operating factories in low-wage countries that were not worker-owned – may have diluted its solidarity and
+contributed to Fagor’s missteps (e.g., they expanded production abroad rather than upgrade at home)
+. The lesson:  co-ops aren’t invincible  – they must still innovate and stay competitive. Moreover , if a
+cooperative grows very large, internal governance can become “sleepy” or bureaucratic, as economist Larry
+Summers quipped . Mondragon has worked to reinvigorate participation and inter-coop solidarity post-
+Fagor , but the event underscores that even the strongest participatory enterprises face business risk. 
+In housing, limited-equity co-ops sometimes fail due to property mismanagement or external pressures. In
+the 1970s and 80s, New York City sold many dilapidated buildings to tenant co-ops for $1 under a program
+to stabilize neighborhoods. Some of those co-ops thrived, but others fell apart when major repair bills came
+due that the low-income members couldn’t afford, or when infighting and lack of professional know-how
+led  to  poor  upkeep  and  default  on  taxes.  Support  organizations  learned  that  ongoing  training  and
+technical assistance  is vital – successful co-ops often have alliances with nonprofits or federations that74
+75
+32
+76
+77
+78
+15
+provide management guidance, loan refinancing, and leadership development. Where that support was
+absent, a co-op could run aground. Similarly, some early CLTs struggled to scale up because they remained
+volunteer-run; without staff to handle transactions and stewardship, a CLT can stagnate or lose track of its
+ground leases. Funding for CLT operations (often through city housing funds or philanthropy) has proven
+key to durability.
+Another pitfall is  “mission drift” . A community enterprise might originally form with an inclusive, anti-
+speculative mission but later leaders could slowly shift priorities. For instance, a rural electric co-op might
+start engaging in side businesses (fiber internet, propane sales, etc.) that benefit a subset of the board’s
+friends, while neglecting core service or raising fees without member understanding. This drift can be
+subtle and hard for disengaged members to notice until it’s advanced. Frequent member communication
+and mission reaffirmation (e.g. via surveys, town halls) can counteract drift. Some co-ops embed their social
+mission into bylaws so that any major change requires a full member vote.
+Elite capture  is a constant threat, especially in community-driven government programs. Participatory
+budgeting,  for  example,  has  sometimes  seen  local  elites  influencing  outcomes  disproportionally.  In
+ownership models, elite capture could look like a community trust’s board being taken over by politically
+connected individuals who steer contracts to themselves or their allies. To guard against this, rules like
+conflict-of-interest disclosures and independent audits come in. The South Carolina electric co-op scandal
+in 2018 revealed that a small group of insiders at one co-op had literally stolen funds – the investigation
+only gained traction after a state audit was mandated . Ensuring external oversight (be it by members,
+regulators, or partner organizations) provides an extra layer that purely internal governance might lack if
+everyone internally is in cahoots.
+Finally,  some  participatory  models  fail  not  from  internal  issues  but  external  shocks  or  hostility .  A
+supportive policy environment matters. For example, many German energy co-ops thrived under feed-in
+tariffs, but when the policy shifted to competitive auctions favoring big players, co-ops found it hard to
+initiate new projects . A number of them have gone dormant as a result. In the UK, funding for CLTs
+has waxed and waned with political changes – without grants, it’s hard to acquire pricey land for affordable
+housing,  limiting  CLT  growth.  And  in  some  instances,  incumbent  for-profit  interests  actively  oppose
+community ownership. Big telecom lobbyists in the U.S. have pushed laws in several states banning or
+restricting municipal broadband (they don’t want cities to “compete” with private ISPs). These laws have
+stymied projects that could have benefited communities. So, part of making participatory ownership work is
+organizing politically  to defend the right of communities to own assets. The successes of co-ops and trusts
+often owe something to enlightened public policy: from the Cooperative Bank acts of the 1930s to the
+urban homesteading programs of the 70s to today’s social enterprise legislation.
+Conclusion: The Future of Shared Ownership
+The stories and data in this report reveal a diverse ecosystem of participatory ownership flourishing in
+cities, counties, and regions around the world. While they vary in form – a worker-owned factory in Spain,
+an  oil  fund  dividend  in  Alaska,  a  community  wind  farm  in  Denmark,  a  land  trust  in  Puerto  Rico,  a
+neighborhood investment fund in Portland – all share a common DNA: the belief that the assets which
+shape a community’s prosperity should be owned by or at least yield wealth to the members of that
+community . This stands in contrast to the dominant model of the past few centuries, where capital (land,
+infrastructure, enterprises) is owned by private individuals or shareholders who often have no stake in the75
+7917
+16
+locale,  extracting  wealth  in  the  form  of  rents,  profits,  and  royalties  that  flow  outward.  Participatory
+ownership models redirect those flows inward or broadly, striving for a more inclusive economy.
+The  empirical  evidence  suggests  these  models  can  deliver  substantial  benefits.  They  build  assets  for
+people  who  have  been  excluded  from  traditional  wealth-building  (e.g.  renters  becoming  co-op
+homeowners,  workers  becoming  co-owners,  citizens  getting  dividends).  They  tend  to  stabilize
+communities ,  as  seen  in  lower  turnover  and  higher  civic  engagement  in  cooperative  housing  or  the
+improved  economic  resilience  of  areas  with  municipal  broadband.  They  can  also  encourage  more
+sustainable management of resources  – when the community owns the forest or the broadband network
+or  the  apartment  complex,  there’s  incentive  to  think  long  term  and  balance  profit  with  public  good.
+Moreover ,  these  models  often  spur  innovation  in  governance  that  can  spill  over  into  healthier  local
+democracy: members learn self-governance skills, transparency norms improve, and people see that they
+can have a direct hand in shaping their economic destiny.
+That said, participatory ownership is not a panacea. These initiatives require hard work, capacity building,
+and enabling conditions  to succeed. They don’t eliminate conflict – members can disagree intensely on
+strategy, or communities can struggle with how to share gains equitably – but they provide a forum to hash
+those issues out with everyone at the table. And they are not immune to market forces or human folly. What
+they  do  offer  is  a  framework  for  tackling  21st-century  challenges  (inequality,  disinvestment,  climate
+transition) with 21st-century principles: equity, inclusion, and sustainability .
+Looking  ahead,  there  are  several  trends  to  watch.  One  is  the  intersection  of  technology  and  shared
+ownership – for example, the rise of platform cooperatives  (worker-owned gig platforms) aiming to give
+Uber drivers or Airbnb hosts collective ownership of digital marketplaces. Another is renewed public policy
+support: cities like New York, Oakland, and Austin have in recent years launched funds and technical
+assistance programs to seed worker co-ops and CLTs, recognizing them as tools for racial and economic
+justice. States are exploring laws to ease the creation of community investment trusts and to permit public
+banks  or  funds  that  resemble  the  Alaska  model  (there  have  been  proposals  for  a  California  Climate
+Dividend,  for  instance,  funded  by  carbon  cap-and-trade  revenue).  Internationally,  movements  like  the
+Preston  Model  in  the  UK  (community  wealth  building  through  local  procurement  and  co-ops)  and
+experiments in stakeholder capitalism  in the EU are aligned with participatory ownership goals.
+Ultimately, the spread of these models will depend on demonstrating tangible success and maintaining
+trust. When people see a neighbor receive a dividend or buy groceries with their co-op member rebate, or
+when a local solar farm co-op cuts electricity bills, it builds credibility and interest. Education and outreach
+are vital to scaling up – many people still haven’t heard of these options. Those that have sometimes carry
+outdated stigmas (“co-ops are inefficient” or “communal ownership means no one is accountable”). The
+track  record  documented  here  should  help  dispel  that:  cooperatives  can  be  globally  competitive  and
+efficient  (Mondragon,  German  co-ops),  communal  ownership  can  be  well-managed  and  accountable
+(Alaska’s fund, Cherokee’s distribution system), and in fact these models often outperform conventional
+counterparts in their resilience and stakeholder satisfaction.
+In a world grappling with inequality, climate change, and social fragmentation, participatory ownership
+offers a path to shared prosperity  and empowered communities . It invites us to reimagine the economy
+not as a zero-sum battle over slices of a pie, but as a collective endeavor where the pie’s ingredients – land,
+labor , capital, technology – are contributed by and for the many. From the Arctic Circle to the equator , from
+17
+dense cities to rural villages, people are proving that when you give communities a stake, they take care of
+what’s theirs – and we all  reap the dividends.
+Sources:
+Mondragon worker cooperative structure and principles
+Cooperative Home Care Associates data (size, wages, turnover)
+Chattanooga municipal broadband economic impact
+German energy co-ops investment and generation
+Middelgrunden Wind Cooperative details
+Champlain Housing Trust scale
+Caño Martín Peña CLT families and land
+Co-op City scale and continued affordability
+DC limited-equity co-ops count
+Alaska Permanent Fund Dividend average and totals
+Cherokee per-capita casino payments
+CIT Portland returns and dividends
+NICO neighborhood REIT concept
+Cooperative governance and anti-corruption (Pedernales EC scandal)
+Co-op City anti-privatization sentiment
+How Mondragon Became the World’s Largest Co-Op | The New Yorker
+https://www.newyorker .com/business/currency/how-mondragon-became-the-worlds-largest-co-op
+Cooperative Home Care Associates (CHCA) — Southeast Center for Cooperative
+Development
+https://www.co-opsnow.org/examples/cooperative-home-care-associates-chca
+Capital Credits - Bandera Electric Cooperative
+https://www.banderaelectric.com/account/capital-credits/
+Patronage Capital Credits - Rural Electric Cooperative
+https://www.recok.coop/patronage-capital-credits
+Study: Chattanooga fiber project made $2.7B impact in decade | AP News
+https://apnews.com/article/technology-business-tennessee-chattanooga-cf8a2b08c835f77482230d647e3a5399
+One-third of Germany’s clean energy cooperatives don’t plan new projects in 2021 – survey | Clean
+Energy Wire
+https://www.cleanenergywire.org/news/one-third-germanys-clean-energy-cooperatives-dont-plan-new-projects-2021-survey
+Denmark — Middelgrunden Wind Turbine Co-operative | Coalition 4 Community Energy
+https://www.c4ce.org.au/knowledge_resources/case-studies/wind-farm-projects/denmark-middelgrunden-wind-turbine-co-
+operative
+How a CLT Works | Piedmont Community Land Trust
+https://piedmontclt.org/how-a-clt-works/
+Champlain Housing Trust: Breadth and Depth - Shelterforce
+https://shelterforce.org/2021/07/19/champlain-housing-trust-breadth-and-depth/• 6 4 7 3
+• 80 10
+• 14 16
+• 17
+• 18 19 22
+• 24 26
+• 30
+• 31 33
+• 34
+• 39 40
+• 46 47 49
+• 58 59 60
+• 64 65
+• 70
+• 32
+1 2 3 4 5 6 776 77 78
+8 910 11 80
+12
+13
+14 15 16
+17 79
+18 19 20 21 22
+23
+24
+18
+Community Ownership Takes Center Stage Archives - Shelterforce
+https://shelterforce.org/series/community-ownership/
+Champlain Housing Trust - Wikipedia
+https://en.wikipedia.org/wiki/Champlain_Housing_Trust
+[PDF] ANNUAL REPORT - Champlain Housing Trust
+https://www.getahome.org/wp-content/uploads/AnnualReport_2023.pdf
+[PDF] Lessons from the Caño Martín Peña Community Land Trust
+https://radicalhousingjournal.org/wp-content/uploads/2019/04/02_Long-Read_Algoed-et-al_29-47.pdf
+Puerto Rico's Community Land Trust, the Fideicomiso de la Tierra ...
+https://rioonwatch.org/?p=74589
+Co-op City: 50 Years Old and Still Affordable | Habitat Magazine, New York's Co-op and Condo
+Community
+https://www.habitatmag.com/Publication-Content/Building-Operations/2018/2018-December/Co-op-City-at-50
+DCHousing.Coop – DC Limited Equity Cooperative Task Force
+https://dchousing.coop/
+DC-area stakeholders lift up Limited Equity Cooperatives as a ...
+https://ncbaclusa.coop/blog/dc-area-stakeholders-lift-up-limited-equity-cooperatives-as-a-solution-to-affordable-housing-crisis/
+Our Performance - Alaska Permanent Fund Corporation
+https://apfc.org/performance/
+The Alaska Permanent Fund: A model for a Universal Basic Dividend?
+https://earth4all.life/views/the-alaska-permanent-fund/
+Alaska Permanent Fund Dividend for 2024 is $1,702
+https://alaskapublic.org/news/2024-09-19/alaska-permanent-fund-dividend-for-2024-is-1702
+"Children and Alaska’s Permanent Fund Dividend: Reasons for Rethinking " by Eli Kozminsky
+https://scholarship.law.duke.edu/alr/vol34/iss1/5/
+reformatt
+https://webapps.ilo.org/public/english/protection/ses/download/docs/gold.pdf
+Per cap numbers indicate faltering casino revenues
+https://smokymountainnews.com/archives/item/36862-per-cap-numbers-indicate-faltering-casino-revenues
+Casino-based cash transfers and fertility among the Eastern Band of ...
+https://www.sciencedirect.com/science/article/abs/pii/S1570677X23000965
+Positive income shocks and accidental deaths among Cherokee ...
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3156370/
+Eastern Band of Cherokee Indians announces largest per capita ...
+https://indianz.com/IndianGaming/2018/11/02/eastern-band-of-cherokee-indians-announc.asp
+Cherokee adopts budget reflecting lower casino revenues
+https://smokymountainnews.com/archives/item/36978-cherokee-adopts-budget-reflecting-lower-casino-revenues
+Facts and Figures - Community Conservation Namibia
+https://communityconservationnamibia.com/facts-and-figures/25
+26 27
+28
+29
+30
+31 32 33
+34
+35
+36
+37
+38
+39 42
+40 41 43 72
+44 48 49
+45
+46
+47
+50
+51
+19
+Namibia's conservancies get a lifeline for people and wildlife
+https://www.worldwildlife.org/magazine/articles/namibia-s-conservancies-get-a-lifeline-for-people-and-wildlife
+Community Investment Trust - CIT
+https://investcit.com/
+Community… | Results for America - Economic Mobility Catalog
+https://catalog.results4america.org/case-studies/community-investment-trust-portland-or
+2021 East Portland CIT Dividend Announcement
+https://investcit.com/News/Detail/18
+Nico Review -- Hyperlocal REIT Investing for Everyone
+https://yieldtalk.com/nico-review/
+communitydeskchicago.org
+https://communitydeskchicago.org/wp-content/uploads/2024/10/CommunityDesk_CIVReport_Updated-10-7-24.pdf
+[PDF] The Crisis in Rural Electric Cooperatives in The South
+https://ruralpowerproject.org/wp-content/uploads/2016/02/Rural-Power___Final.pdf
+Success Stories - Rural Electric Coop Toolkit
+https://www.electriccooporganizing.org/success-stories
+Reflections from the Caño Martín Peña Community Land Trust peer ...
+https://world-habitat.org/news/our-blog/reflections-from-the-cano-martin-pena-community-land-trust-peer-exchange/
+An “Electric Cooperative Governance Task Force Report” urging co ...
+https://energyandpolicy.org/an-electric-cooperative-governance-task-force-report-urging-co-op-transparency-was-kept-secret-
+until-now/52
+53 54 55 56 57
+58 59 61
+60
+62 63 64 65 66
+67 68 69
+70
+71 74
+73
+75
+20

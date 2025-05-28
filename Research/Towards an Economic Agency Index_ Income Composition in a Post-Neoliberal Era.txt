@@ -1,0 +1,693 @@
+Towards an Economic Agency Index: Income
+Composition in a Post-Neoliberal Era
+Introduction
+In the evolving landscape of post-neoliberal economics, traditional indicators often fail to capture  how
+households derive their income . This report proposes an  Economic Agency Index  for OECD countries
+(with a focus on the U.S.) that breaks down household income into three sources: wage earnings, property
+income,  and  government  transfers .  These  three  components  –  labor ,  capital,  and  public  support  –
+collectively form the basis of aggregate demand in an economy. By monitoring the triadic composition of
+income, policymakers and analysts can gain insight into structural shifts in economic power and well-being
+that are obscured by one-dimensional metrics like GDP or the unemployment rate . In essence, the index
+illuminates who has economic agency (through wages or assets) and who relies on collective support,
+offering a diagnostic tool for an era in which wage labor’s dominance is waning.
+The sections that follow review existing related indicators, justify the need for this new composite measure
+in the context of automation and capital concentration, outline a methodology for its implementation,
+discuss what the index reveals about economic dependency and autonomy, and explore policy levers to
+change a country’s income composition. The goal is a comprehensive understanding of how an Economic
+Agency Index could fill a critical information gap in post-labor economies.
+Existing Indicators and Precedents
+While no current indicator directly measures the  three-way composition  of household income, several
+existing metrics capture pieces of this concept or share a similar intent: 
+Functional Income Distribution (Labor vs. Capital Shares):  Macroeconomic statistics often track
+the share of national income going to labor (wages) versus capital (profits, interest, and rents). For
+example, many OECD countries have seen a modest but significant decline in the labor share of GDP
+over recent decades . This reflects the broad shift of income from wages toward capital. However ,
+such measures typically operate at the national accounts level and  omit government transfers .
+They tell us how output is split between labor and capital but not how much households depend on
+state support or non-market income. 
+Household  Main  Income  Source  Classification:  Statistical  agencies  sometimes  categorize
+households by their predominant income source. An OECD expert group, for instance, classified
+households into those mainly living on wages, self-employment, property income, or government
+transfers . This approach (used in distributional national accounts) recognizes the same triad of
+income sources. It provides valuable snapshots (e.g. identifying the share of households primarily
+reliant on transfers versus wages), but it is a categorical grouping  rather than a continuous index. It1
+• 
+2
+• 
+3
+1
+doesn’t quantify the overall composition of income at the national level, nor track changes over time
+in a single measure.
+Gini Coefficient Decomposition by Income Source:  In inequality research, analysts decompose the
+Gini index to see how different income sources contribute to overall inequality . Such studies
+treat  wages,  capital  income,  and  transfers  as  components  and  evaluate,  for  example,  whether
+transfers reduce inequality or property income exacerbates it. This technique reveals that  capital
+income tends to be far more unequally distributed  than labor income – for instance, global data
+show the Gini coefficient for capital income (~85 Gini points) is much higher than that for labor
+income (~73 points) . While informative, this is focused on inequality impact rather than the raw
+shares of income sources. It tells us the effect on income distribution, but not the simple breakdown
+of aggregate income into wages, assets, and transfers.
+Luxembourg  Income  Study  (LIS)  Data  Structures:  Cross-national  microdata  projects  like  LIS
+provide standardized income components for households (e.g. wages, self-employment earnings,
+investment income, pensions, social transfers). Researchers can use these to calculate the average
+composition of disposable income in each country. Indeed, LIS defines “labor income” in a broad
+sense (often including wages, self-employment, and sometimes even private transfers) and “capital
+income”  (interest,  dividends,  rental  income) .  However ,  no  single  LIS  indicator  routinely
+published distills this into an easy-to-read index for policymakers. One must extract and compute it
+from microdata, meaning the concept has not yet been popularized as a headline metric.
+In summary, current tools either  simplify income into two categories (labor vs capital)  or  focus on
+inequality and household types . None provides a straightforward, regularly reported triadic breakdown
+of income sources with diagnostic interpretation . The proposed Economic Agency Index fills this gap by
+directly measuring the proportion of income that households derive from wages, property, and transfers,
+and framing the result as an indicator of structural economic conditions. It builds on the above precedents
+but goes further in scope and purpose: not just to dissect inequality or classify households, but to serve as a
+barometer of the economic model  (wage-led, capital-led, or transfer-sustained) for each country.
+Rationale in a Post-Labor Economic Context
+Why is this new measurement needed? The justification lies in profound changes underway in advanced
+economies.  In  a  “post-labor”  context ,  characterized  by  accelerating  automation  and  concentration  of
+capital ownership, wage labor is losing its once-central role in distributing income . Yet our metrics
+have not caught up – we lack a clear view of how households are sustaining their purchasing power as
+these shifts occur . Several trends underscore the importance of tracking income composition now:
+Declining Dominance of Wages:  In the mid-20th century, most households earned their livelihood
+primarily through work (the classic industrial era norm). Today, that norm is eroding. Across many
+OECD countries, the labor share of national income has trended downward since the 1980s .
+Technology-driven productivity allows output to grow even as total wages stagnate, and corporate
+profits (a proxy for property income) claim a larger slice of the pie. Automation, AI, and robotics are
+anticipated to further reduce the demand for human labor in many sectors . As wage income
+growth slows or even reverses for the working class, alternative income streams must fill the gap
+to maintain aggregate demand.• 
+4
+5
+• 
+6
+78
+• 
+2
+98
+2
+Rising Capital Concentration and Unearned Income:  Wealth has become more concentrated in
+recent decades, which means property income (dividends, interest, rents) accrues to a relatively
+small segment of the population. For example, in the United States the  bottom 50% of households
+own only about 2% of the nation’s wealth , implying that half the population receives negligible
+capital income. The top 10% owns the vast majority of financial assets, and thus captures most
+dividend and interest income . As capital ownership concentrates, a larger share of national
+income is paid out as property income (profits, interest, etc.), but  those payments go to fewer
+people . This raises concerns about under-consumption: high-income rentiers tend to save a larger
+fraction of income, whereas wage earners and transfer recipients generally spend more of it. Indeed,
+economic studies confirm that less wealthy households have a much higher marginal propensity to
+consume than the rich . A society that funnels more income to capital owners thus risks weaker
+consumer  demand  –  unless  redistribution  or  other  channels  re-inject  purchasing  power  to  the
+broader population. The Economic Agency Index would make such shifts visible by tracking the
+share of total income coming from property returns versus work and public support.
+Growth of Government Transfers:  In many advanced economies, the welfare state has expanded
+(or at least remained substantial), especially as populations age. Pensions, unemployment benefits,
+healthcare reimbursements, and other transfers now account for a significant portion of household
+incomes.  Notably,  in  the  U.S.,  government  transfers’  share  of  personal  income  more  than
+doubled  from  8.2%  in  1970  to  17.6%  in  2022 .  This  reflects  programs  like  Social  Security,
+Medicare, and income support becoming increasingly important to sustain households – trends seen
+even  before  the  pandemic,  and  sharply  amplified  during  crises  (e.g.,  COVID-19  relief  in  2020
+temporarily pushed transfers to over 20% of U.S. income) . Similar patterns are observed in many
+OECD  countries  with  robust  social  safety  nets  or  aging  demographics.  As  wage  growth
+underperforms and capital income is unevenly distributed , public transfers have often stepped
+in to support aggregate demand. However , heavy reliance on transfers can signal structural issues:
+an economy where private market incomes are not sufficient for large groups (whether due to
+unemployment, low wages, or retirement). Without an index, it’s hard to quantify this reliance or
+identify when a country’s demand is propped up by fiscal redistribution as opposed to labor or
+capital earnings.
+Post-Neoliberal  Priorities  –  Equity  and  Agency:  In  the  post-neoliberal  discourse,  there  is  a
+renewed focus on economic  agency , power , and equity rather than just growth-at-all-costs. The
+neoliberal era tended to assume wages from a job would be the default source of livelihood, with
+minimal state interference. Post-neoliberal economics, by contrast, is open to larger roles for the
+state and alternative ownership structures . It questions the “naturalness” of market distributions
+and  emphasizes  outcomes  like  security  and  autonomy.  Within  this  paradigm,  measuring  what
+portion of income people get from labor vs. capital vs. social support  is intrinsically valuable. It shines
+light on power imbalances : e.g. how many people have independent asset income (and thus a form
+of economic autonomy) versus how many depend entirely on an employer or government programs.
+It also exposes  structural dependencies : a country where most income comes through wages
+might signal strong labor inclusion – or conversely, it might mask exploitation if wages are very low.
+A country where transfers are high might indicate either a well-functioning social safety net or an
+economy unable to generate enough jobs. These nuances are crucial in post-neoliberal analysis. In
+short,  as  one  scholar  put  it,  a  “post-labor  economy  requires  rethinking  conventional  economic
+indicators” and developing new ones that capture well-being and autonomy beyond the old metrics• 
+10
+11
+12
+• 
+13
+14
+• 
+15
+3
+. The Economic Agency Index is precisely such an indicator , reflecting the balance between
+market earnings, public support, and capital income in people’s lives.
+In sum, the changing realities of automation, inequality, and welfare provision create a diagnostic gap  in
+our current toolkit. The Economic Agency Index addresses that gap by providing a clear , trackable measure
+of how the foundation of aggregate demand is composed. It helps answer: Are we moving toward a rentier
+society?  A  welfare-dependent  society?  Or  a  high-wage,  broad  prosperity  society?  These  questions  are
+central to post-neoliberal economic strategy, and cannot be answered by existing aggregates alone. The
+new index thus aligns with and reinforces modern economic thinking that looks beyond GDP to the quality
+and structure of income.
+Proposed Index Structure and Methodology
+Constructing the Economic Agency Index involves defining its components rigorously and choosing data
+sources that ensure comparability across countries and over time . The index is essentially a triplet (or a
+set of three sub-indices) representing the share of household income derived from: (1) Labor (wages and
+related earnings), (2) Capital (property income), and (3) Government Transfers . Key considerations for
+implementation include data definitions, frequency, and granularity:
+Data Definitions (Income Components):  For consistency, the following definitions are
+recommended:
+Wage/Labor Income:  All earnings from work including wages, salaries, and cash employment
+benefits. Ideally, this also includes self-employment and small business income , which are labor-
+driven even if classified as mixed income in national accounts. (In practice, self-employment income
+can be split into labor vs. capital components if data permit, but for simplicity it may be grouped
+with labor income, since it is the person’s own work generating the income.) This corresponds to the
+sum of “compensation of employees” and labor portion of mixed income in national accounts . It 
+excludes  pension benefits or any passive income.
+Property/Capital Income:  Income from ownership of assets – this covers dividends from stocks,
+interest from bonds and savings, rental income from real estate, and any other investment returns.
+In national accounts terms, it is “net property income received by households” (net of property
+income paid, like interest on loans) . Notably, capital gains  are typically excluded (since they
+are not part of income flows), and imputed rent  (the value homeowners “pay” to themselves) may be
+excluded or handled separately to focus on cash flows. The aim is to capture cash or in-kind inflows
+that come by virtue of owning assets  rather than working. 
+Government Transfers:  All current transfers from the government that augment household income,
+for which the household provides no direct service in return. This includes social safety net payments
+(unemployment benefits, food assistance, welfare), public pensions, and other cash benefits, as well
+as near-cash benefits. It can also include free or subsidized services (“social transfers in kind”) if one
+wants a broader measure of state support, though the core index would likely stick to  monetary
+transfers  to  remain  comparable  to  income .  We  would  exclude  private  transfers  (like
+remittances or family support) and only count government or social insurance schemes. Taxes paid
+are not an “income source” but rather deductions; thus the composition is best calculated using
+disposable income  (after direct taxes and social contributions, and including cash transfers) as the
+denominator . Each component then is measured  net of taxes  where applicable (e.g., a pension
+counted is the net benefit received).1
+• 
+• 
+16
+• 
+1617
+• 
+18
+4
+Calculation:  For each country and year (or quarter), compute:
+Wage share  = (Household labor earnings) / (Household disposable income) × 100%
+Property income share  = (Household capital income received) / (Household disposable income) ×
+100%
+Transfer share  = (Household government transfers received) / (Household disposable income) ×
+100%
+These three shares ideally sum to 100% of household disposable income (minor discrepancies can
+arise if there are other small income items or if using net measures). In the U.S. for example, using
+2022  data:  wages  and  proprietors’  earnings  made  up  roughly  ~62%  of  total  personal  income,
+property income ~20%, and government transfers ~18% . In a different system like France or
+Sweden, one might find a lower property share and higher transfer share due to stronger welfare
+states,  or  vice  versa.  The  index  would  report  all  three  percentages,  giving  a  snapshot  of  the
+economy’s income structure. For ease of communication, one could also combine the wage and
+transfer  shares  that  go  predominantly  to  the  non-rich,  versus  the  property  share  that  is
+concentrated – but it is most illuminating to keep the triad separate.
+Data Sources:  To implement this index robustly:
+OECD and National Accounts:  The OECD already compiles national accounts data including
+household sector income and its components. Key sources include the OECD Income Distribution
+Database  (for survey-based measures of disposable income) and national accounts (for aggregate
+compensation of employees, property income flows, and transfers). National statistical agencies (like
+the U.S. Bureau of Economic Analysis) publish personal income breakdowns  that can be utilized.
+For example, the U.S. BEA provides monthly and annual data on personal income by source – wages
+and salaries, business owners’ income, dividends, interest, rent, and government social benefits .
+These can be mapped to the index categories. Similarly, European countries report income
+components in their national accounts (often quarterly) that could feed into a quarterly or annual
+index update.
+Luxembourg Income Study (LIS) and Microdata:  For deeper analysis and cross-checking, LIS or
+similar micro-surveys can be used to validate the composition, especially to ensure consistency in
+definitions (e.g. what counts as transfer). Microdata also allow calculation of the index within
+subpopulations  (by income quintile, age group, etc., if needed for diagnostic purposes). While the
+headline index would rely on aggregate totals, having the microdata backing helps address
+questions like distribution within the property income share (since a high property share might
+mostly accrue to the top 5%).
+Administrative Data:  In some cases, administrative records (tax data on dividends/interest, social
+security data on benefits, etc.) can improve accuracy. For instance, governments know precisely how
+much they paid in transfers each year , and central banks often know interest and dividend flows.
+These can supplement or refine the household survey and national accounts figures.
+Frequency and Updates:  The index should be updated  annually  at minimum, since many of its
+inputs (like detailed household income composition) are annual. Ideally, a high-level version could be
+updated  quarterly  using  national  accounts  (which  have  quarterly  data  for  wages,  aggregate
+transfers, etc.). For example, the wage and property components of personal income are available
+quarterly  for  many  countries,  and  government  transfer  outlays  are  known  quarterly  as  well.  A• 
+• 
+• 
+• 
+13
+• 
+• 
+13
+• 
+• 
+• 
+5
+quarterly index could give a timely read, with an annual more precise revision. However , to keep
+things simple and comparable across all OECD members, an annual index  (released perhaps with a
+one-year lag due to data processing) would be most straightforward. Over time, this produces a time
+series per country of the three shares, showing trends.
+Geographic and Demographic Granularity:  Initially, the index is designed at the national level , as
+a macro indicator . However , methodology could allow further breakdown:
+By subnational region (if data on income by source is available regionally; e.g., one might compare
+states or provinces, though this is more feasible in large countries with rich data like the U.S. or
+Canada).
+By population subgroup (for diagnostic purposes, not as the headline number): e.g., one could
+compute the triad for the bottom income quintile vs. the top quintile to see stark differences in
+composition. Often, lower-income households get a larger share of income from transfers, whereas
+high-income households get more from property. This isn’t part of the single index, but an extension
+for analysis.
+By age cohort: a young population might rely more on wages, whereas an older one on pensions
+(transfers) and investments. Again, this provides context to interpret the national figure.
+Normalization and Units:  To compare across countries, all values should be in local currency and
+then converted to shares of total household disposable income . Using shares (% of total) inherently
+normalizes  for  country  size,  currency,  and  inflation  differences.  It  focuses  on  composition,  not
+absolute levels. For longitudinal analysis, one may also look at per capita amounts (e.g. dollars per
+person from wages vs. transfers) indexed over time, but the primary index is ratio-based. If needed,
+one could scale the shares into an index number  (for example, assign 100 points divided among the
+three  components  or  create  a  composite  score),  but  that  may  obscure  information.  It’s  more
+transparent to present the three percentages together . A visual format could be a stacked bar or
+triangle graph each year . For instance, a table might show:
+Country (Year) Wage Income % Property Income % Government Transfers %
+United States (2022) ~62% ~20% ~18%
+Germany (2022)* 55% 15% 30%
+Sweden (2022)* Fifty-some % <15% >30%
+(*Hypothetical figures for illustration.) 
+Such a presentation makes clear at a glance how different economies are structured – e.g. the U.S. relying
+relatively more on market earnings and capital, while a country like Sweden has a larger role for transfers
+(due to its extensive welfare state).
+Historical and Future Expansion:  We should compute the index historically (where data allows) to
+establish baseline trends. Many components can be traced back decades. For example, U.S. national
+accounts can provide the shares since mid-20th century, aligning with known trends (the transfer
+share rising over time, etc. ). For other OECD members, at least post-1990 data is usually• 
+• 
+• 
+• 
+• 
+13
+• 
+13
+6
+available. Going forward, the index could also be extended beyond OECD if harmonized data are
+obtainable (the LIS database or World Bank could help include some emerging economies for
+comparison).
+By following this methodology, the Economic Agency Index would be robust, repeatable, and comparable .
+It leverages existing high-quality data (national accounts, LIS, OECD stats) and repackages them in a new,
+policy-relevant  format.  The  index’s  integrity  will  depend  on  careful  handling  of  definitions  (ensuring
+“transfers” mean the same in each country, etc.) and transparency in what’s included. For instance, one
+should document whether public old-age pensions are counted as transfers (typically yes, as they are
+government-paid benefits), and whether employer-paid benefits are counted in wages (yes, as part of
+compensation). As long as such choices are consistent, the index will meaningfully reflect each country’s
+economic structure.
+Interpreting the Economic Agency Index: Diagnostic Insights
+The true value of the Economic Agency Index lies in  what it can tell us about a country’s economic
+organization  and  potential  vulnerabilities .  Each  component  of  the  triad  –  high  or  low  –  carries
+interpretation about dependency, autonomy, and structural features. Below, we discuss what different
+index profiles might indicate and how to read the index diagnostically:
+High Wage Share Polity:  If a country’s index shows an exceptionally high proportion of income from
+wages  (and  self-employment)  –  say  75%  or  more  –  it  means  that  household  demand  is
+overwhelmingly driven by labor markets. On face value, this could indicate a strong employment
+situation with broad participation. It suggests economic agency via labor : people’s livelihood is tied to
+jobs. For example, a younger developing OECD country might have this profile if welfare systems are
+small and capital markets underdeveloped. However , a  very high reliance on wages can also
+signify vulnerability . It may mean inadequate social safety nets (so even those not working have to
+rely on family wages) or a lack of asset ownership among the middle class. In such a scenario, if
+automation  or  recession  hits  jobs,  households  have  little  cushion  from  either  investments  or
+government support. A wage-heavy index also raises questions of labor precarity : are these secure,
+well-paying jobs or unstable gigs? The index won’t answer that directly, but it flags the need to
+consider how resilient an economy is when work is the main source of income for most people.
+High Property Income Share Polity:  A country with a large property income share (relative to OECD
+peers) suggests that a significant slice of purchasing power comes from owning capital. This is
+typical  in  economies  where  wealth  inequality  is  high  and  financial  markets  are  prominent.  For
+instance, if the top 10% or retirees receive substantial dividends, interest, and rental income, the
+national  property  share  will  be  elevated.  Such  a  profile  indicates  a  potential  structural
+asymmetry in economic agency:  those with capital have independent income streams (and thus
+more autonomy from both work and state), while those without assets might be entirely dependent
+on wages or transfers. A high property share can signal that economic power is concentrated  – the
+wealthy not only hold assets but also command a larger portion of consumer demand through their
+income, which can translate to political influence. It could also mean the economy is skewed towards
+rentier activity , deriving income from past accumulations rather than productive new labor . From a
+demand perspective, as noted, high property income societies risk under-consumption if wealth is
+held by a few: affluent asset-owners tend to save more, so if too much income goes to them, total
+consumption might falter . On the positive side, if property income is widely distributed (e.g. via• 
+• 
+12
+7
+broad stock ownership or pension funds), a high property share might indicate a form of collective
+wealth – but in practice broad distribution is rare. So, diagnostically, one should ask:  Is the high
+property share coming from a broad middle-class investor base or from a narrow elite?  Usually, it’s the
+latter , which may call for policies to broaden capital ownership or mitigate the inequality that such an
+index reading implies.
+High Transfer Share Polity:  When government transfers constitute a large fraction of household
+income, it points to a strong role of the state in sustaining living standards . Northern European
+social  democracies  and  countries  with  expansive  welfare  programs  often  have  higher  transfer
+shares, especially for the lower-income tiers. This can reflect positive attributes: low poverty, because
+the state is redistributing income; an element of  decommodification , meaning people are less
+forced to rely on the market for survival (the welfare state provides a social wage). For example, if a
+country has universal basic income or generous pensions, the index’s transfer component will be
+higher . However , a high transfer share also has cautionary interpretations. It could indicate an aging
+population  (large  pension  outlays  relative  to  wages),  or  weak  labor  market  absorption  (many
+working-age individuals needing unemployment or disability benefits). It might also signal regional
+imbalances – e.g., some areas where government support is the primary income source due to
+industrial  decline.  Politically,  a  high  transfer  dependency  could  lead  to  tension:  taxpayers  vs.
+beneficiaries, or questions of program sustainability . EIG’s analysis of the U.S. noted that
+rising  transfer  shares,  especially  in  rural  and  older  areas,  can  shift  political  preferences  and
+budgetary  pressures .  In  diagnostic  terms,  one  should  consider  what  types  of  transfers
+dominate : Is it mostly pensions (implying demographic effects)? Or income maintenance for the poor
+(implying inequality and job shortfall)? The index by itself won’t specify that breakdown, but it directs
+us to investigate the causes behind government support. Generally, if transfers are keeping a large
+part of society afloat, it underscores  structural dependence on policy choices  – essentially, the
+state is a major agent in purchasing power distribution. This can be a deliberate social choice (e.g.
+social democratic model) or a sign of distress (e.g. post-crisis emergency measures).
+Mixed or Balanced Profiles:  Many countries will have a balanced mix – e.g. around 60% wages, 20%
+capital, 20% transfers. It is useful to compare peers: if one country has a notably higher transfer
+share than another at similar income levels, it hints at different welfare models. If one has a higher
+capital share, perhaps its wealth inequality or pension fund structure differs.  Changes over time  in
+one country are especially telling. For instance, if we observe the U.S. index over decades: the wage
+share has declined, transfer share risen , and capital share fluctuated with markets. A steady fall
+in wage share coupled with a rise in either transfers or property share can mean that labor is being
+supplanted  by  automation  or  offshoring  (if  property  share  rises)  or  that  public  intervention  is
+compensating for labor’s decline (if transfers rise). Either way, it’s a signal of a post-labor transition
+in progress. Similarly, if a country undertakes pension reforms or experiences asset booms, those
+will appear as shifts in the composition.
+In all, the Economic Agency Index serves as a diagnostic dashboard . A high wage share might highlight
+vulnerability to technological unemployment; a high transfer share might highlight vulnerability to political
+budget cuts (since if the government retrenches, incomes fall); a high property share might highlight
+vulnerability to financial market downturns (since asset income can swing with stock prices or interest
+rates). It also surfaces questions of autonomy and precarity : people living off investments may have more
+economic independence (though possibly fewer people enjoy that), people living off transfers may feel
+precariously dependent on political decisions, and people living off wages are exposed to labor market• 
+1920
+2120
+• 
+13
+8
+forces  and  employer  power .  None  of  these  income  sources  is  inherently  “bad”  or  “good”  –  but  their
+proportions tell a story about where the center of gravity lies in an economy . Is it in private labor markets,
+public  social  contracts,  or  private  capital?  That  structural  character  has  far-reaching  implications  for
+everything from consumption patterns to power relations.
+Finally, an important diagnostic use of the index is in identifying structural asymmetries . For example, a
+country could have a relatively high overall wage share, but if property income is, say, 20% of total and
+almost all of that goes to a tiny elite, the index alerts us to the presence of a kind of dual economy. Or
+consider  a  scenario:  two  countries  both  have  15%  property  income  share;  if  in  one  country  half  of
+households receive some property income, while in another only the top 5% do, the social implications
+differ . The index would prompt analysts to dig deeper into such questions. Complementary data (like “share
+of population with any capital income”, which globally was about 32% by 2016 up from 20% in 2000 ) can
+be used alongside to gauge distribution. In sum, the index by reflecting dependency vs. autonomy  broadly
+can illuminate whether an economy is moving towards a structure where, for instance, a few have full agency
+through capital and the rest rely on public support , or one where broadly people have agency through work with
+a safety net underneath , etc. This is the kind of high-level diagnostic insight needed for formulating post-
+neoliberal economic strategies.
+Policy Implications and Prescriptive Use
+Beyond analysis, the Economic Agency Index has a prescriptive dimension: it can guide policymakers who
+have normative goals about how income should be distributed by source. If a society decides, for example,
+that  it  is  undesirable  to  have  most  of  the  population  entirely  dependent  on  wages  (as  jobs  become
+precarious), or that expanding capital income for the non-rich is a priority, the index helps track progress
+toward those goals. Below are some policy tools and structural levers to  shift the balance of income
+sources , along with how they would register on the index:
+1. Taxation and Redistribution:  The classic lever is the tax-and-transfer system. If the aim is to
+increase the transfer share  (e.g. to support those left behind by the labor market), policies can expand
+government benefits funded by progressive taxes. Higher taxes on high earners or wealth can
+finance social transfers (UBI, child allowances, expanded unemployment benefits). This would raise
+the transfers portion of income while reducing disposable income from property or even wages (via
+taxes). Conversely, cutting taxes on labor income relative to capital income could modestly boost the
+net  wage  share.  For  instance,  some  economists  argue  the  decline  in  U.S.  labor  share  was
+exacerbated by shifts in taxation favoring capital . Restoring balance might involve taxing capital
+gains, dividends, and large inheritances more, using revenue to bolster social insurance and wage
+subsidies. The index provides a way to measure whether such fiscal policies are having the intended
+effect (e.g. over a decade, did the transfer percentage rise? Did the after-tax capital share fall?).
+2. Social Wealth Funds and Universal Capital Income:  One way to increase property income for
+the bottom quintiles  is not by forcing them individually to invest, but by collectively investing on
+their behalf. A Social Wealth Fund  is a public fund that owns a diversified portfolio of assets and
+pays dividends to the population. For example, Norway has famously accumulated public wealth
+equivalent to ~59% of the country’s private wealth, via its sovereign wealth funds . The returns
+from these funds effectively provide a societal property income – in Norway’s case used to fund
+public services and keep transfer payments generous . In the U.S., policy thinkers have proposed
+a similar model: the federal government could create a fund, gradually socialize a portion of national22
+• 
+23
+• 
+24
+25
+9
+wealth into it, and then pay out a universal basic dividend (UBD)  to every citizen . This would
+appear in our index as an increase in the “property income” component but for everyone  (since the
+dividend is technically investment income from the fund). Unlike traditional capital income which
+only some households receive, a social dividend would be broadly distributed, thus democratizing
+that slice of the pie. Alaska’s Permanent Fund Dividend (an annual payout to all residents from oil
+investment revenues) is a real-world example: it has, in effect, given every Alaskan a small property
+income. Policies in this vein would increase the property income share of national income  and
+spread it widely, ideally improving economic agency for those without personal wealth. Over time, a
+successful social wealth fund could noticeably lift the property share in the index while also reducing
+inequality (something a pure rise in capital share usually fails to do).
+3. Encouraging Broader Asset Ownership:  Another strategy to boost non-elite capital income is
+through “pre-distribution”  – ensuring the ownership of assets is wider in the first place. This includes
+policies like:
+Employee Stock Ownership Plans (ESOPs) and Profit-Sharing:  Encouraging or mandating that
+workers own shares in the companies they work for , or share in profits. If significant, this means a
+portion of what would have been wage income is paid as dividends (property income) to the same
+people, thus raising the property share but not concentrating it at the top. Countries could give tax
+breaks or legal incentives for ESOP formation. Over time, more workers would have a second source
+of income from capital.
+Public or Community Ownership : e.g. municipal ownership of utilities or cooperative businesses
+where members get dividends. These too distribute profits as income. While usually smaller scale,
+they contribute to the property income of ordinary people.
+Individual Asset-building Programs:  like matched savings accounts, baby bonds (each newborn
+gets a publicly funded savings account to use in adulthood), or policies to increase home ownership
+among low-income families. Home ownership can generate imputed rent (a form of property
+benefit) and real rental income if, for example, people rent out a room. Stock ownership increases
+dividends received. Many countries have subsidized retirement savings which effectively turn part of
+labor earnings into future capital income (private pensions invested in markets). Strengthening
+these schemes for the lower and middle class will gradually reflect in the index as a higher share of
+income coming from investments for those groups.
+All these measures have a common aim: shift a portion of national income from wages to capital, but in an
+egalitarian way . If successful, one would expect the index’s capital income share to rise in tandem with an
+increase  in  the  percentage  of  households  receiving  some  capital  income  (which  could  be  separately
+monitored). This could improve resilience (since households have multiple income streams) and autonomy
+(some income not tied to a boss or government program). It addresses what some call “property-owning
+democracy”  – giving people a stake in capital. However , it’s a long-term strategy; the index gives a way to
+track progress.
+4. Strengthening Wages and Labor’s Share:  On the other side, perhaps the policy goal is to
+maintain a healthy wage share despite automation – i.e., ensure work pays and is available. To raise
+or preserve the wage portion  of income:
+Labor Market Institutions:  Strengthening labor unions, raising minimum wages, or extending
+collective bargaining can push a larger slice of enterprise income to wages rather than profits. If
+labor captures more value, the wage share in national income can stabilize or rise. Some OECD
+research suggests declining union density and bargaining power contributed to labor’s falling share26
+• 
+• 
+• 
+• 
+• 
+• 
+10
+. Reversing those trends (through legal reforms, sectoral bargaining systems, etc.) could be
+reflected in a higher wage component of the index over time, as wages grow faster than capital
+income.
+Wage Subsidies and Job Guarantees:  The government can directly or indirectly bolster labor
+income by subsidizing employment. For example, an Earned Income Tax Credit (EITC) or direct wage
+subsidy raises take-home pay for low-wage workers (increasing their labor income without relying
+on market forces alone). A public Job Guarantee  program would offer work at a base wage to
+anyone who wants it, thus virtually eliminating involuntary unemployment. This injects additional
+wage income (funded by the state) into households rather than transfer income. It’s essentially a
+transfer , but delivered as wages for work, which might conceptually still count under “labor income”
+in our index (depending on definition). The effect is that fewer people have zero wage income. If
+implemented broadly, such policies would increase the aggregate wage share (and likely also
+increase total income by activating idle labor). The index would show a rise in the wage portion and
+possibly a decline in pure transfers (if people move from unemployment benefits to public jobs, for
+instance).
+Technological and Educational Initiatives:  Ensuring that workers can fill new roles complementing
+automation (through training, etc.) can sustain labor’s role. If technology is used in a labor-friendly
+way (augmenting worker productivity and wages) rather than purely replacing workers, the labor
+share might not fall as much. While harder to quantify, the index will eventually reflect whether
+wages keep up or not. Policies ranging from education, R&D targeting labor-intensive sectors, or
+migration (bringing in more labor) might be considered to influence the labor share indirectly.
+A society might deliberately aim for a balanced scenario: not letting wage share drop too low even in a high-
+tech era, thus keeping work as a central means of livelihood but under better conditions (shorter hours,
+higher pay – sometimes called  “labor decommodification”  in the sense of making labor less of a harsh
+necessity). The index will register if wage income remains, say, above 50% over time rather than collapsing
+to 30%. If despite efforts the wage share keeps falling, that’s a signal to double-down on other measures or
+accept that transfers must rise to compensate.
+5. Expanding and Innovating the Social Safety Net:  If the goal is to increase the transfer share  as a
+way to guarantee basic income floor (or to deliberately reduce reliance on labor), policies include:
+Universal Basic Income (UBI):  Providing a flat payment to all citizens regularly. This would directly
+increase the transfer portion of income for everyone. It essentially socializes a part of consumption –
+everyone gets a minimum income from the state, irrespective of work. UBI trials and proposals often
+emerge in discussions of a post-work future. If funded sufficiently, a UBI might make the transfer
+share a very large component (while possibly shrinking wage share if people choose to work less or
+if wages adjust downward due to the income floor – complex general equilibrium effects). The index
+would obviously capture a UBI introduction as a step change in transfer share. Its diagnostic value
+would then be to monitor any unintended effects (like if labor incomes drop or wealth incomes
+concentrate further when UBI is financed by broad taxes).
+Targeted Transfer Enhancements:  Increasing pension replacement rates, unemployment benefits,
+child allowances, healthcare subsidies (which free up income) – all of these raise the effective
+transfer share. Europe’s higher transfer shares compared to the U.S. reflect such choices . For
+example, if policymakers want to reduce poverty among the elderly, they might raise public pension
+payouts; the index’s transfer component for retirees would go up, and at aggregate level might inch
+up as well (especially in aging societies).27
+• 
+• 
+• 
+• 
+• 
+28
+11
+Public Services as Transfers:  Providing free or subsidized essential services (education, healthcare,
+housing)  doesn’t  show  up  as  cash  transfers  in  income,  but  it  increases  disposable  income
+equivalently  (by reducing out-of-pocket costs). In an expanded sense, one could incorporate the
+value of such services into the “transfer” component (as Social Transfers in Kind). Countries pursuing
+Universal Basic Services (UBS) instead of cash UBI would see improved living standards without as
+big a change in cash transfer share. But if we account for it, their “extended transfer share” would be
+higher .  This  approach  decommodifies  certain  expenditures  and  could  be  considered  part  of
+economic agency (freeing people from needing as much cash income). For the index’s core (cash
+basis),  UBS  won’t  reflect  directly,  but  an  analyst  might  note  that  a  moderate  transfer  share
+underestimates support if public services are large.
+6. Regulatory and Structural Reforms:  Some deeper structural shifts can also influence income
+composition:
+Corporate Governance Reforms:  e.g., requiring companies to share profits with workers or
+communities (which effectively turns some would-be profits into wage or transfer-like distributions).
+Limiting Rent-Seeking : If an economy has a high property share due to things like expensive
+housing rents or monopolistic pricing (generating excess profits), anti-trust and pro-competition
+policies might reduce those unearned incomes, indirectly raising the labor share (if wages then form
+a higher portion of a slightly smaller total income) or reducing inequality. The index might not
+immediately show “where it went” (the lost rent might just reduce GDP), but if successful could
+create conditions for higher labor compensation.
+Conditionalities and Incentives : For example, tying executive pay (which is labor income for a few)
+to broad employee bonuses (labor income for many) can spread income; or mandating profit-
+sharing above a certain profit level. These nuanced tools also target the composition indirectly by
+altering how income is channeled within firms.
+To illustrate a policy scenario: suppose a government wants to  raise the property income share of the
+bottom 20% from virtually 0 to, say, 5%  of their total income in a decade. They could establish a social
+wealth fund that pays a small dividend (which for the bottom 20% would constitute a notable income
+addition), encourage pension auto-enrollment so more low-income workers build assets, and promote
+employee ownership especially in industries with many low-wage workers. The index at the quintile level
+would show property income rising for that group, and nationally maybe a slight uptick in the capital share
+that is more broad-based. Complementarily, if the same government is concerned that wage share is falling
+too fast due to automation, it might implement a job guarantee for displaced workers, thereby converting
+what would have been transfer payments (welfare or unemployment benefits) into wages paid for public
+work – keeping those individuals in the wage column of the index rather than transfer column.
+The Economic Agency Index is thus not only descriptive but can serve as a target  for policy. A country could
+set goals, such as: “By 2030, we aim to have at least X% of household income coming from assets broadly held by
+the public”  or “We want to reduce reliance on transfers by getting people into good jobs, lowering transfer share
+by Y points and raising wage share by Y points.”  Of course, not all goals are about maximizing one component
+– there might be an optimal balance. In a stable, inclusive economy, one might envision an index where
+each  source  contributes  significantly  (a  diversified  livelihood  portfolio  for  society).  Excess  in  any  one
+dimension can be risky: too much wage reliance (vulnerable to tech shocks), too much capital reliance
+(inequality, volatility), or too much transfer reliance (fiscal strain, political risk). The index helps identify
+excesses and shortfalls, and track whether policies are moving the economy toward a desired equilibrium.• 
+• 
+• 
+• 
+• 
+12
+Conclusion
+The proposed Economic Agency Index offers a new lens to understand and shape our economies in the 21st
+century.  By  breaking  down  household  income  into  wages,  property,  and  transfers,  it  provides  a
+comprehensive view of the engines of aggregate demand and the pillars of people’s livelihoods . In a
+post-neoliberal era – marked by questioning of laissez-faire orthodoxies and the rise of automation – this
+index fills a vital informational gap. It draws attention to the distribution of economic agency: who derives
+income from their own labor , who benefits from capital ownership, and who depends on societal support. 
+Our review of existing measures showed pieces of this puzzle scattered in academic and statistical work
+(labor shares, Gini decompositions, etc.), but no unified metric to bring it all together . The justification for
+the index is evident in current trends: wage labor’s share is under pressure , wealth and capital income
+are  concentrated ,  and  government  redistribution  is  carrying  a  larger  load .  Without  an  index,
+policymakers risk missing these tectonic shifts or misunderstanding their implications. With the Economic
+Agency Index, they can diagnose the health of the social contract in a way GDP or employment rates alone
+cannot.
+The methodology outlined ensures the index is  grounded in reliable data  and standardized definitions,
+making it feasible for institutions like the OECD or national governments to implement. As demonstrated,
+interpreting the index yields rich insights: a high transfer share might warn of unsustainable dependencies
+or highlight a strong social safety net; a high property share could ring alarm bells about inequality and
+consumption  gaps;  a  high  wage  share  might  call  attention  to  labor  market  fragility  in  the  face  of
+automation. These interpretations connect directly to policy levers – from taxes and transfers to innovative
+schemes like social wealth funds or employee ownership – giving the index practical relevance as a guide
+for action.
+Ultimately, the Economic Agency Index is both a mirror and a map. It holds up a mirror to an economy’s
+structure, reflecting fundamental characteristics of its distribution system. And it serves as a map for
+navigating toward a more equitable, resilient future: policymakers can identify where they are (perhaps a
+transfer-dependent or capital-dominant regime) and chart a course to where they want to be (perhaps a
+more  balanced  composition  that  fosters  widespread  prosperity  and  security).  In  a  world  where  the
+relationships between work, wealth, and welfare are rapidly evolving, such a compass is not just helpful – it
+may prove essential for steering economies in a human-centered direction beyond neoliberalism.
+Sources:
+OECD (2013). “Distributional Measures Across Household Groups in a National Accounts Framework.”
+(Income sources classified into wages, self-employment, property, and transfers) . 
+IZA World of Labor (2017). “Understanding the global decline in the labor income share.”  (Many
+countries saw falling labor share of GDP in recent decades) . 
+Economic Innovation Group (2024). “The Great ‘Transfer’-mation.”  (U.S. government transfers’ share of
+personal income rose from 8.2% in 1970 to 17.6% in 2022) . 
+Brunetti et al. (2022). “Global Distribution of Capital and Labor Incomes.”  LIS Working Paper 808.
+(Capital income is far more unequally distributed globally than labor income, Gini of 85 vs 73) . 
+Equitable Growth (2014). “Wealth inequality and the marginal propensity to consume.”  (Less wealthy
+households have much higher MPCs than wealthy households) . 2
+10 13
+• 
+3
+• 
+2
+• 
+13
+• 
+5
+• 
+12
+13
+Money with Katie Podcast (2025). “Is This Simple Idea the Solution for America’s Wealth Inequality?”
+(Bottom 50% of Americans own ~2% of wealth; Norway’s government owns ~59% of national wealth
+via social funds, demonstrating a model for broad asset ownership) . 
+Toolify AI News (2023). “The Future of Work: The Impact of AI on Post-Labor Economics.”  (Argues that
+conventional indicators like GDP are insufficient in a post-labor economy, calling for new measures
+of well-being and autonomy) . 
+People’s Policy Project (2018). “Social Wealth Fund for America.”  (Proposal for a U.S. social wealth fund
+issuing a universal basic dividend from investment income) . 
+OECD Income Data (2021). Income Distribution Database  (Underlying data on incomes by source and
+distribution, used for cross-country comparisons). 
+Various sources cited in-text above (e.g. Busemeyer et al. 2009 on attitudes in aging societies ,
+etc.) that provide context to the interpretations.
+The Future of Work: The Impact of AI on Post-Labor Economics
+https://www.toolify.ai/ai-news/the-future-of-work-the-impact-of-ai-on-postlabor-economics-1868182
+IZA World of Labor - Understanding the global decline in the labor income share
+https://wol.iza.org/articles/understanding-the-global-decline-in-the-labor-income-share/long
+Distributional Measures Across Household Groups in a National Accounts Framework (EN)
+https://www.oecd-ilibrary.org/distributional-measures-across-household-groups-in-a-national-accounts-
+framework_5k3wdjqr775f.pdf
+[PDF] Two classical decompositions of the Gini index by income sources
+https://www.ecineq.org/milano/WP/ECINEQ2022-618.pdf
+lisdatacenter .org
+https://www.lisdatacenter .org/wps/liswps/808.pdf
+3.19.2025 | Is This Simple Idea the Solution for America's Wealth Inequality? — Millennial
+Money with Katie
+https://moneywithkatie.com/social-wealth-funds
+Wealth inequality and the marginal propensity to consume - Equitable Growth
+https://equitablegrowth.org/wealth-inequality-marginal-propensity-consume/
+eig.org
+https://eig.org/wp-content/uploads/2024/09/Great-Transfermation.pdf
+Overview: Post-Neoliberalism at a Crossroads : Democracy Journal
+https://democracyjournal.org/magazine/64/overview-post-neoliberalism-at-a-crossroads/
+Explaining the decline in the US labor share: taxation and automation
+https://link.springer .com/article/10.1007/s10797-022-09755-9
+[PDF] Social Wealth Fund - People's Policy Project
+https://www.peoplespolicyproject.org/wp-content/uploads/2018/07/SocialWealthFund.pdf
+The decline of the labour share of income - Bruegel
+https://www.bruegel.org/blog-post/decline-labour-share-income
+[PDF] Why Is Europe More Equal Than the United States?
+https://wid.world/www-site/uploads/2020/10/WorldInequalityLab_WP2020_19_Europe-1.pdf• 
+10 24
+• 
+1
+• 
+26
+• 
+• 29
+1 7 8 9
+2
+316 17 18
+4
+5 622
+10 11 24 25
+12
+13 14 19 20 21 29
+15
+23
+26
+27
+28
+14
