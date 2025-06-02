@@ -1,0 +1,1059 @@
+Resident-Owned Housing: A New Path to
+Affordable Communities in a Post-Labor Economy
+Introduction: Neighbors to Owners
+A resident of a mobile home park cooperative in Washington adjusts a sign celebrating their community’s new
+resident ownership.  In early 2023, residents of a mobile home park outside Seattle learned their landowner
+planned  to  sell  the  property.  Gadiel  Galvez,  a  22-year-old  resident,  and  his  neighbors  feared  their
+predominantly Latino community would be bulldozed  for yet another warehouse . Rather than wait for
+eviction, they organized. With help from a nonprofit, the residents formed a cooperative and  purchased
+their park for $5.25 million  – outbidding corporate investors and securing their homes. “Everybody
+thought, ‘You know what? I’m going to make this place the best that I can,’” Galvez recalls, describing how
+once-neglected trailers were soon painted and repaired by proud new owners . This quiet revolution in
+Lakewood, Washington is just one example of a growing movement: resident-owned housing models  that
+treat  homes  not  as  extractive  investments,  but  as  foundations  for  community  stability  and  shared
+prosperity.
+Across the United States and beyond, communities are responding to the intertwined crises of housing
+affordability  and  economic  precarity  by  taking  collective  ownership  of  land  and  housing.  From
+manufactured home parks in rural America to historic apartment blocks in Berlin, ordinary people are
+banding  together  to  buy  out  landlords,  co-own  their  homes,  and  keep  housing  permanently
+affordable .  These  initiatives  –  including  resident-owned  communities  (ROCs),  housing  cooperatives,
+community  land  trusts,  and  other  shared-equity  arrangements  –  offer  a  radical  alternative  to  the
+traditional  real  estate  investment  trust  (REIT) .  Rather  than  funneling  rents  and  profits  to  distant
+investors, they keep wealth local and give power back to residents. In the context of a “post-labor” economy
+where  secure  lifelong  employment  is  no  longer  the  norm,  such  models  provide  a  new  pathway  to
+economic stability and agency  for working families. This narrative report explores how these REIT-like
+resident-owned housing structures function, highlights contemporary examples across the U.S., U.K., EU,
+and  Australia,  and  examines  their  impact  on  communities  in  comparison  to  conventional  real  estate
+ownership.
+Housing, Labor, and the Need for New Models
+Housing affordability has become a defining challenge of our time. In city after city, wages have not kept
+pace with soaring rents and home prices, leaving millions of people cost-burdened or displaced. Meanwhile,
+global capital treats housing as a commodity: homes are bought and sold by investors (including REITs and
+private  equity  firms)  seeking  high  returns,  often  with  little  regard  for  local  residents.  The  result  is  a
+widening gap between housing as a human need and housing as a financial asset . At the same time,
+the nature of work and income is changing. In this  “post-labor” era , secure middle-class jobs that once
+enabled families to buy homes are increasingly scarce. The gig economy, automation, and precarious
+employment  mean  fewer  people  can  count  on  stable  wages  or  employer  benefits.  Traditional1
+2
+3
+4
+1
+homeownership – with its hefty mortgage and down payment requirements – remains out of reach for
+many, especially younger and lower-income households. 
+This confluence of trends has spurred interest in alternative economic models  that decouple well-being from
+formal employment. If one’s job can no longer guarantee security, could community ownership of assets
+like housing fill the gap? Resident-owned housing models present one compelling answer . By locking in
+affordability and giving residents a stake  in the equity and governance of their homes, these models aim
+to provide long-term stability regardless of labor market flux. Families in cooperatives or community land
+trusts often enjoy lower housing costs (one U.S. survey found community land trust homeowners had
+monthly payments about $50 lower  on average than conventional homeowners ) and protection from
+eviction, even if their incomes are modest or irregular . Equally important, they gain a measure of economic
+agency : as co-owners and decision-makers, they collectively control an asset that would otherwise control
+them. In the sections that follow, we delve into the major forms of resident-owned and shared-equity
+housing, illustrating how each works financially and legally, and how together they point toward a new
+paradigm of locally grounded, post-labor economics .
+What Are Resident-Owned Housing Models?
+At  their  core,  resident-owned  housing  models  are  approaches  that  put  the  people  who  live  in  a
+community in charge of owning and managing it . In a traditional Real Estate Investment Trust (REIT) or
+investor-owned property, the flow of power and profit is top-down: investors finance the housing and
+expect financial returns, while tenants pay rent and have little say. Resident-owned models invert this
+arrangement.  They  often  involve  collective  ownership  structures  –  cooperatives,  trusts,  mutually
+owned companies – where residents hold shares or memberships  that entitle them to occupancy and a
+voice in governance. The  “REIT-like” aspect  of some models refers to their pooled investment structure
+(many individuals owning shares in a portfolio of properties), but critically,  the shareholders are local
+residents or community members , not faceless investors. Instead of maximizing profit, the primary goals
+are affordability, security, and community control .
+Key features distinguish resident-owned models from conventional ones:
+Democratic Governance:  Each household or member typically has an equal vote in major decisions,
+regardless of the size of their unit or investment. This one-member-one-vote principle (akin to a
+cooperative or nonprofit) contrasts with corporate structures where votes correspond to shares
+owned.  It  ensures  that  people  matter  more  than  capital.  For  example,  in  a  resident-owned
+community cooperative, homeowners elect a board of directors from among themselves to manage
+the property . 
+Limited Profit and Affordability Locks:  Many models employ share price or resale restrictions  so
+that housing remains affordable over time. Rather than treating a home as a speculative asset to flip
+at market price, these communities often cap appreciation. In one model, when a member leaves
+and “sells” their stake, they receive only a modest return (for instance, tied to the Consumer Price
+Index) plus credit for any improvements . This  shared-equity approach  means outgoing
+residents recoup some wealth, but the home’s price stays relatively low for the next family. The
+emphasis is on housing’s use value  – providing shelter and stability – rather than its exchange value
+on the market .5
+• 
+6
+• 
+78
+9
+2
+Shared  Financial  Responsibility:  Residents  collectively  finance  and  maintain  the  property ,
+whether through monthly co-op fees, “site rents” paid to their own cooperative, or group mortgages.
+By pooling resources, they can access financing that individuals might not obtain alone. For instance,
+in the Lakewood mobile home cooperative, the new resident-owners pay monthly lot fees not to an
+outside landlord but into their cooperative, which uses the income to service the purchase loan and
+maintain the park . This collective repayment structure transforms rent into an investment in
+one’s own community.
+Permanent  Removal  from  Speculative  Market:  A  defining  objective  of  many  resident-owned
+models is to remove properties from the speculative real estate market altogether , effectively
+treating land and housing as a kind of commons. Whether through the deed riders of a community
+land trust or the bylaws of a cooperative, these properties carry covenants that prevent outright sale
+or conversion back to for-profit status. In Germany, the Mietshäuser Syndikat (Apartment House
+Syndicate) network, for example, uses a dual-ownership structure: each building is co-owned by the
+resident group and a central syndicate entity that holds a veto on any resale, ensuring the building
+can never be sold for private profit . The result is “de-commodified” housing : homes that exist
+to house people, not to enrich investors.
+In  the  following  sections,  we  explore  several  major  categories  of  resident-owned  and  shared-equity
+housing, illustrating how these principles take shape in practice. We look at resident-owned communities
+(ROCs)  in U.S. manufactured housing parks, housing cooperatives  ranging from urban apartments in New
+York to co-ops in Zurich, community land trusts (CLTs)  that split ownership of land and improvements to
+maintain affordability,  mutual and co-housing schemes  that blend communal living with shared equity,
+and public or private initiatives  that support collective ownership. Through concrete case studies, we will
+see who created these models, how they operate legally and financially, and what outcomes they have
+achieved on the ground.
+Resident-Owned Communities (ROCs): When Tenants Buy the Land
+One  of  the  most  dramatic  and  fast-growing  examples  of  resident  ownership  is  the  transformation  of
+investor-owned trailer parks into Resident-Owned Communities (ROCs) . In the United States, roughly 22
+million people live in manufactured homes , which are among the nation’s most important sources of
+unsubsidized affordable housing . About 3 million of those households (around 8 million people) live in
+manufactured home parks – the often misnamed “mobile home parks” – where they typically own their
+home unit but rent the plot of land underneath . This split-ownership model leaves residents uniquely
+vulnerable: they can be hit with steep lot rent increases or even lose their homes if the park owner sells the
+land for redevelopment . Moving a manufactured home is prohibitively expensive (a single-wide can
+cost $3,000–$9,000 to relocate, and double-wides far more) , so residents are effectively captive to their
+landlord’s policies.
+Resident-Owned Communities offer a way out of this trap . A ROC is created when the homeowners in a
+park  band together to purchase the land  as a cooperative or nonprofit corporation, thereby becoming
+both tenants and landlords  of their community. Instead of paying pad rent to an external landlord, each
+household  pays  a  site  fee  to  their  own  cooperative ,  which  covers  the  mortgage,  property  taxes,
+insurance, and upkeep of the park . Residents hold an equal share (membership) in the co-op and elect a
+board from among themselves to govern the community . The legal structure is usually a limited-equity
+cooperative : the buy-in cost for residents is kept low (often a few hundred dollars for a co-op share) to• 
+10
+• 
+11
+12
+12
+1314
+15
+16
+17
+3
+ensure everyone can participate , and if they sell their home, the next owner also must join the co-op
+under the same terms. Crucially, the land title is owned collectively by the residents, which means  their
+homes can no longer be sold out from under them . As one summary puts it, ROCs allow homeowners to
+“build home equity on secure, affordable land that they collectively own” . Moreover , by owning land,
+manufactured homeowners become eligible for conventional mortgage loans (since their home is no longer
+on rented land) instead of high-interest chattel loans  – a key financial benefit.
+The  ROC  movement  has  grown  from  a  niche  idea  to  a  national  network .  As  of  2019,  there  were
+approximately 1,000 resident-owned manufactured home communities across the U.S. , about 2% of all
+parks . That share may sound small, but it represents a significant shift for thousands of households.
+Nonprofit groups like  ROC USA  have been instrumental in scaling up this model. Launched in 2008 with
+backing  from  charitable  and  community  development  organizations,  ROC  USA  provides  training  and
+specialized financing to help residents purchase their parks . In just over a decade, ROC USA and its
+regional affiliates have assisted residents in over 300 communities across 21 states , helping about 22,000
+homeowners  collectively buy their land . Notably, none of the co-ops created with ROC USA’s support
+have been foreclosed upon to date  – an indicator that these low-income communities, given the right
+support, can successfully manage multi-million-dollar assets.
+Case  Study:  Saving  a  Community  in  Washington  State.  In  Lakewood,  WA,  mentioned
+earlier , 63 families lived in a modest park when word spread in 2022 that the owner was
+considering selling to a developer . The residents, many of them Latinx and working-class,
+feared the buyer would raze the park for a warehouse – leaving them with nowhere to
+relocate their homes . With assistance from the ROC USA network, the residents hurriedly
+formed  Bob’s  and  Jamestown  Homeowners  Cooperative .  They  scraped  together  a  tiny
+membership fee from each household and secured a mix of loans and grants (including a
+major $5.25 million loan  arranged by ROC USA’s affiliate) . In September 2022, the co-op
+outbid investor interest and purchased the entire 62-home community . Now, the co-
+op’s elected resident board manages the park, and the lot rent residents pay each month
+goes back into their own community’s mortgage and maintenance. They not only averted
+eviction – they have seen an outpouring of community pride. “Since becoming owners…
+residents have worked together to manage and maintain the park,” the Associated Press
+reported, noting people immediately began beautifying their homes and common areas .
+A once-vulnerable neighborhood now has a foundation of security beneath it.
+The benefits of ROCs  are already visible in comparisons with investor-owned parks. On average, resident-
+owned communities have far more stable lot rents. One analysis found that in ROCs, annual site fee
+increases averaged under 1% (0.9% per year) , compared to over 7% yearly increases  in similar investor-
+owned parks . Over decades, this difference means dramatically lower housing costs for co-op members,
+as well as protection from sudden spikes. Residents also gain peace of mind  – they know their community
+will not be sold off, and improvements they make will directly benefit them in the long run. And whereas
+corporate park owners often defer maintenance to cut costs, resident co-ops can prioritize reinvestment in
+infrastructure (water lines, roads, etc.), since their goal is long-term habitability, not maximizing profit this
+quarter .
+Challenges  remain  for  scaling  ROCs  up  further.  Would-be  resident  buyers  frequently  face  stiff
+competition from deep-pocketed investors who have discovered mobile home parks as lucrative assets. In
+recent years, private equity firms and REITs have poured into the manufactured housing sector , viewing18
+16
+19
+20
+21
+22
+23
+24
+6
+25
+26
+27
+1428
+4
+these parks as high-yield investments (due to steady rents and captive tenants) . Residents organizing a
+co-op must race against the clock  to meet a seller’s price and timeline, often needing technical help and
+loans quickly. Laws can make a big difference: some states have enacted  “opportunity to purchase”
+legislation  requiring park owners to give residents notice and a chance to buy the property on the same
+terms as any other buyer . In 2023, Maine and Connecticut became the latest states to adopt such laws,
+joining roughly half of U.S. states with similar provisions . Even where laws exist, co-ops need access to
+capital. The purchases usually require 100% (or even 110%) financing, since low-income residents cannot
+contribute  large  equity  upfront .  ROC  USA  addresses  this  by  serving  as  a  specialized  community
+development financial institution (CDFI) , leveraging philanthropic funds and public grants to provide low-
+interest  loans  that  make  these  deals  viable .  As  calls  grow  for  preserving  affordable  housing  and
+resisting predatory investors, ROCs are increasingly seen as a powerful tool to secure “mass affordable
+homeownership”  at  scale  –  potentially  benefitting  millions  of  Americans  who  live  in  factory-built
+homes.
+Resident-owned manufactured home communities demonstrate how a  collective ownership approach
+can  transform  one  of  the  country’s  most  vulnerable  housing  sectors .  By  turning  tenants  into
+cooperative owners , ROCs keep housing affordable, avert community displacement, and give people a
+direct stake in their neighborhood’s future. The next sections will broaden the lens to other forms of
+cooperative and shared-equity housing, from city apartments to international examples, but many of the
+themes echo what we see in ROCs: self-determination, shared responsibility, and the reorientation of
+housing toward long-term community value  instead of short-term profit.
+Cooperative Housing: Collective Ownership in Urban and Rural
+Settings
+Cooperative housing is one of the oldest and most widespread models of resident ownership, found in
+many forms across different countries. In a housing cooperative (or housing co-op  for short), a group of
+people jointly owns or leases a residential property and each household has membership in the cooperative
+corporation,  entitling  them  to  occupy  a  housing  unit  and  participate  in  governance .  Unlike  a
+condominium,  where  individuals  own  their  units  outright,  co-op  members  typically  do  not  own  their
+individual apartment or house as separate real estate. Instead, the co-op owns the entire property, and
+members own shares (or hold a membership certificate) that give them the right to occupy a specific unit
+and vote on co-op matters. This collective structure can be used to provide affordable housing, foster
+intentional communities, or simply give residents more control than they would have as renters. Co-ops can
+be  market-rate or limited-equity ; the latter aligns with our focus on affordability, as it restricts resale
+values to keep costs low for future members.
+Limited-Equity Co-ops and Tenant Takeovers (United States)
+In the United States, housing cooperatives gained prominence in the mid-20th century through both private
+initiative and public sponsorship. One notable wave came via programs like New York’s Mitchell-Lama  in
+the 1950s-60s, which helped develop tens of thousands of co-op apartments for middle-income families
+with government-assisted financing, in exchange for limiting equity appreciation. Many of those co-ops
+later privatized  (allowing sales at market value) after required periods, but a substantial number remain
+limited-equity to this day, anchoring affordability in otherwise expensive cities. 29
+30
+31
+18
+32
+33
+5
+Another source of co-ops has been tenant-led conversions  of existing rental buildings, often in response
+to  neglectful  landlords  or  gentrification  pressures.  Nowhere  has  this  been  more  significant  than
+Washington, D.C., which passed the Tenant Opportunity to Purchase Act ( TOPA ) in the late 1970s. TOPA
+gives renters the first right to purchase their building if the owner puts it up for sale . With technical
+assistance and financing from nonprofits and the city, many D.C. tenant groups have exercised this right to
+form limited-equity cooperatives rather than allow their buildings to be sold off to luxury developers
+. As a result, Washington D.C. today boasts around 4,400 units of limited-equity co-op housing in 99
+buildings spread across the city . Crucially, more than half of these co-ops are in low-income or rapidly
+gentrifying neighborhoods . They serve as islands of stability where longtime residents can remain in
+their community and new affordable units are preserved, even as surrounding rents skyrocket. Researchers
+note that these co-ops “represent a stable form of homeownership” in areas that might otherwise see
+displacement . Members build modest equity (since resale prices of co-op shares are capped, often
+increasing only with inflation or a small percent annually), but more importantly, they enjoy security and
+self-governance .  A  city  task  force  on  limited-equity  co-ops  in  2019  concluded  that  this  model  is  an
+“economic and social solution” to affordable housing crises, emphasizing how co-ops empower residents to
+control their housing costs long-term .
+The legal and financial structure of limited-equity co-ops in the U.S. usually involves: a nonprofit cooperative
+corporation owned by the residents; one vote per household on co-op matters; limited share prices (initial
+purchase price is low, and any future sale back to the co-op or to a new member is formula-based); and
+often, regulatory agreements if public funding was used. Share prices can be as low as $500 or a few
+thousand dollars, making entry costs far lower than a conventional down payment . Monthly carrying
+charges (similar to rent or HOA fees) cover the co-op’s mortgage (if any) and expenses. Because members
+aren’t trying to maximize resale profit, they can set aside adequate reserves for maintenance rather than
+skimping on upkeep. The cooperative owns the building collectively, so if one member defaults on their
+payments, it’s the co-op’s responsibility to manage – a form of mutual aid that can actually result in lower
+foreclosure rates; indeed, studies have found limited-equity co-ops have extremely low foreclosure and
+turnover rates, as people tend to stay for the long term in these secure communities .
+One example of a thriving limited-equity co-op is the Ella Jo Baker Intentional Community Cooperative  in
+Washington D.C., named after a civil rights hero. In the early 2000s, tenants of an apartment building in the
+Columbia Heights neighborhood (facing gentrification after a new subway station opened) used TOPA to
+purchase  their  15-unit  building  with  help  from  a  local  nonprofit,  Mi  Casa,  Inc.  They  formed  a  co-op,
+completed major renovations, and capped their housing costs. Twenty years later , those units are still
+affordable to low-income families, even as nearby condos sell for hundreds of thousands of dollars. Similar
+stories play out across D.C., New York, San Francisco, and other cities where co-ops have been a grassroots
+tool to fight displacement and give renters ownership stakes .
+It should be noted that not all housing co-ops in the U.S. are limited-equity or oriented to low-income
+residents. There are also market-rate co-ops (especially in New York City’s higher-end real estate market)
+where share prices can be in the millions and the cooperative structure is chosen more for legal or tax
+reasons than for affordability. But those operate much like condos in practice. Our focus is on the social
+justice  lineage  of  co-ops  –  the  ones  that  emphasize  “limited  equity”  to  retain  affordability  and
+democratic control. These co-ops, particularly when supported by public policy (like TOPA or city financing
+programs), straddle the line between public and private, offering a form of  community-owned housing
+stock  that remains in the hands of residents over generations.34
+35
+36
+37
+37
+37
+38
+22
+6
+Cooperative Housing on a Larger Scale (Europe and Beyond)
+If  the  American  story  of  housing  co-ops  is  about  sporadic  oases  of  affordability,  in  parts  of  Europe
+cooperative housing is a  mainstream pillar of the housing system . Countries like  Sweden, Norway,
+Denmark, Germany, and Switzerland  have long traditions of cooperative housing, some dating back to
+the late 19th century labor movement. While not all of these co-ops are “limited-equity” in the strict sense,
+they generally operate on a nonprofit basis and aim to provide moderate-cost housing with strong tenant
+involvement.
+In Sweden , for example, about 22% of all dwellings are in housing co-ops (bostadsrättsföreningar), making
+it one of the primary forms of homeownership. Members buy a share in the co-op (often by paying a large
+share loan) which grants them the right to their apartment, and they can sell that right on the market.
+Historically, the prices were regulated, but since the 1990s Sweden’s co-ops have moved toward market
+pricing – meaning they’ve lost some affordability, though they still function as collective entities managed
+by  residents.  Norway’s  borettslag  (housing  co-ops)  are  similarly  common;  nearly  15%  of  Norway’s
+population lives in co-op housing. Norwegian co-ops often have rules to keep them owner-occupied (no
+absentee landlords)  and limit profit-taking, and they receive favorable financing from the state’s housing
+bank, ensuring broad affordability. These Scandinavian co-ops show that collective ownership can occur
+at large scale  – but also illustrate the tension that if profit controls are loosened, co-ops can drift toward
+being simply another tenure form without special affordability benefits.
+Germany and Switzerland have particularly interesting cooperative sectors.  Germany  has around 2,000
+housing  cooperatives  (Wohnungsgenossenschaften)  owning  hundreds  of  thousands  of  housing  units
+nationwide. Many were formed by workers’ unions or non-religious “building societies” in the early 20th
+century to house working-class families. In the former East Germany, state-backed co-ops also provided a
+lot of housing (some of which persist today as co-ops). German co-op members typically pay a deposit
+(equity share) to join – often modest – and then pay a monthly cost rent. They don’t gain equity profit when
+leaving (they get back their deposit plus maybe a small increment), which keeps the focus on housing-as-
+service .  Co-ops  in  Germany  enjoy  tax  benefits  and  access  to  bank  financing,  and  are  seen  as  stable
+providers of below-market rents. For instance, in 2018 tenants of a building in Berlin’s Friedrichshain district
+learned their 30-unit apartment house was being sold to investors. In a scenario reminiscent of Washington
+D.C.’s TOPA, these German tenants organized and – with support from an ethical foundation and a social
+bank – bought the building themselves . They joined the Mietshäuser Syndikat  network to permanently
+remove it from speculation, declaring proudly: “We are our own landlord… We have an interest in stable
+finances and reject the idea that living space should be used to maximize profits” . Their cooperative
+now operates the building with rents set just high enough to pay off the Triodos Bank loan, and any future
+changes (like rerenting a flat or making upgrades) are decided collectively . This is one of over 160
+such  projects  across  Germany  in  the  Syndikat  alliance ,  each  unique  but  sharing  the  model  of
+common ownership and self-organization  to keep housing affordable for the long term.
+In Switzerland , housing cooperatives (Wohnbaugenossenschaften) are a cornerstone of the rental housing
+market. Nationally, about  5% of the housing stock is cooperative , but in cities the share is much
+higher . Zurich , for example, has around 100 housing co-ops that together account for roughly 23% of all
+apartments in the city . The city government actively supports this: Zurich has policies to provide public
+land or favorable loans to co-ops, aiming to increase the cooperative housing share to 33% in coming years.
+These Swiss co-ops are typically nonprofit associations where tenants are members  and the apartments
+are rented at cost (often 20-30% below market rents). Importantly, co-ops in Switzerland have a culture of3940
+4140
+42
+43
+44
+7
+innovation  and  community  –  some  new  projects  incorporate  features  like  on-site  childcare,  shared
+facilities, and eco-friendly design. A flagship example is the  “Mehr als Wohnen”  (“More Than Living”)
+project  in  Zurich,  a  large  cooperative  development  opened  in  2015  with  over  350  units  of  mixed-size
+housing plus community spaces and businesses. It was co-developed by a consortium of cooperatives and
+demonstrates how co-ops can achieve scale and architectural quality that rivals private developers, all while
+maintaining affordability and resident participation. The cooperative ethos is so strong in Zurich that even
+the city’s mayor once quipped that living in a co-op is a “lifestyle choice” embraced by the middle class as
+well, not just an emergency option for the poor . 
+Other European countries also have vibrant cooperative or community-led housing scenes.  Denmark’s
+andel co-ops  house a significant fraction of Copenhagen’s population, operating on a share system where
+co-op boards can control resale prices (though deregulation led to some co-ops becoming expensive).
+France  historically had few housing co-ops, but recent legal changes (the Organisme de Foncier Solidaire
+law of 2014, akin to a CLT framework) are spurring limited-equity homeownership and co-op hybrids in
+cities like Lille and Paris.  Italy  saw worker-cooperatives build affordable housing in the 1970s, some of
+which  still  exist.  And  in  Spain ,  a  fascinating  development  is  the  import  of  a  cooperative  model  from
+Uruguay: in Barcelona and the Basque Country, groups have created “cessió d’ús”  housing co-ops (cessions
+of use), where the co-op holds the building and members have a long-term use right – they cannot sell for
+profit, and when they leave, the co-op selects a new member . Barcelona’s award-winning La Borda  project,
+completed in 2018, is one such co-op, built on city-leased land and designed collectively by its resident-
+members, featuring shared facilities and significantly lower costs than market housing. It shows how public
+support (land or financing) combined with cooperative structure  can result in permanently affordable
+urban housing even in a hot real estate market.
+Residents of a Berlin apartment house that joined the Mietshäuser Syndikat, celebrating in their communal
+courtyard. By collectively purchasing their building and partnering with a cooperative network, they became “their
+own landlords,” keeping rents affordable and under tenant control .
+Across all these examples, from D.C. to Zurich to Berlin, cooperative housing flips the script of ownership .
+Residents are no longer passive renters; they are members of a democratic community that owns (or
+leases) their housing collectively. This provides not only affordability but a sense of agency and belonging .
+Co-op  members  often  describe  how  living  in  a  cooperative  changes  one’s  mindset:  you  take  care  of
+common areas as an owner , you participate in meetings to decide budgets or new rules, and you balance
+individual  interests  with  the  group’s  well-being.  In  a  way,  co-ops  are  a  form  of  practicing  everyday
+democracy and mutual aid, rooted in housing.
+However , cooperatives also require ongoing education and good governance to succeed. They are not a
+panacea – some co-ops have struggled with mismanagement, insufficient reserves, or internal conflict.
+Outside support (from federation organizations, technical assistance providers, or government monitors)
+can help keep co-ops healthy. For instance, Montreal, Canada  has a large network of housing co-ops and
+provides umbrella services for maintenance and accounting, recognizing that volunteer resident boards
+may need professional backup. Similarly, the U.S. National Association of Housing Cooperatives  and local
+groups  provide  training  to  co-op  boards.  The  post-labor  aspect  here  is  that  cooperative  members
+essentially take on roles that in a rental would be done (or not done) by profit-driven landlords. This is
+additional “labor” in a sense – attending meetings, doing minor repairs, etc. – but it’s labor invested in one’s
+own community rather than given to an employer or landlord. Many find that trade-off worthwhile, as it
+builds skills and solidarity while keeping housing costs down. 3940
+8
+In summary, housing cooperatives in their many forms show a spectrum of possibility: from small limited-
+equity co-ops preserving a dozen affordable units in a gentrifying U.S. neighborhood, to citywide systems
+where co-ops house a quarter of the population. The most successful examples point to the importance of
+supportive policy (like tenant purchase rights or public land leases)  and a strong cooperative culture
+that  values  long-term  affordability  over  speculative  gain.  Co-ops  embody  the  idea  that  “we  are  both
+tenants  and  owners” ,  as  the  Berlin  residents  said  –  a  powerful  stance  in  an  era  when  pure  private
+ownership has left so many behind.
+Community Land Trusts and Shared-Equity Homeownership
+Running parallel to cooperatives, and often overlapping with them, is the model of the Community Land
+Trust (CLT)  and other shared-equity homeownership arrangements. Community land trusts add an extra
+dimension to the concept of resident/community ownership: they split the ownership of land from the
+ownership of buildings . In a typical CLT, a nonprofit trust (governed by community members) holds title to
+a parcel of land permanently , while individual residents own their homes or hold long-term leases to their
+housing units on that land. By doing so, the CLT can ensure that the land is never sold off or speculated
+upon , and it can impose conditions – like resale price caps or income eligibility requirements – on the use of
+that land to keep the housing affordable for generations. Effectively, the trust removes the land’s market
+value  from  the  equation,  so  homeowners  only  have  to  finance  the  cost  of  the  house  itself,  making
+homeownership accessible at a much lower price point.
+The CLT concept originated in the late 1960s in the United States as an outgrowth of the civil rights
+movement.  The very first CLT,  New Communities, Inc. , was established in 1969 in Georgia by Black
+farmers and civil rights activists including Charles and Shirley Sherrod . They acquired nearly 6,000 acres
+to create a land base for Black families, at a time when systemic racism kept many from owning land or
+homes. New Communities pioneered the idea of communal land ownership to empower a disenfranchised
+community – an explicitly political act to “continue the fight against … vestiges of Jim Crow” . Although
+that initial project faced many challenges (including losing the land in the 1980s due to a drought and lack
+of refinancing options), it planted the seed for the modern CLT movement.
+The  model  truly  took  off  several  decades  later .  By  the  2000s,  CLTs  were  being  created  in  urban
+neighborhoods as a strategy to combat gentrification and provide affordable homeownership. They proved
+especially effective at bridging the gap between renting and owning . A CLT homebuyer purchases a house
+(often a single-family home or a condominium) at an below-market price  because the land is not included
+– instead, they enter into a long-term (often 99-year) ground lease with the CLT for the land . The ground
+lease spells out the rights and responsibilities: the homeowner can use the land and even bequeath their
+home to heirs, but if they choose to sell, the sale price is restricted by a formula  to keep it affordable for
+the next buyer . Typically, they might get back their down payment plus perhaps 25% of any increase in
+value (the exact formulas vary), while the CLT retains the remainder of the appreciation to pass on as a
+subsidy. In this way, the subsidy is retained in the home  – it doesn’t enrich the first owner who sells, but
+stays to help the next family afford the house . This is often called a “permanent affordability” or
+subsidy retention model, in contrast to subsidy recapture models like down-payment assistance that the
+owner pays back (in theory) upon resale.
+Today, CLTs are a significant presence in the affordable housing landscape. In the U.S. alone, there are over
+225 community land trusts , ranging from big city trusts with hundreds of homes to small rural efforts.
+Many are members of national networks like Grounded Solutions or the National CLT Network. Studies have45
+46
+47
+48
+4950
+51
+9
+shown CLTs have strong outcomes: one survey cited in 2022 found that CLT homeowners experienced
+better overall  housing stability and quality of life  compared to similar renters, and even compared to
+traditional homeowners of similar incomes . They had the lowest housing costs of the three groups,
+paying on average $50 less per month than market-rate owners (a testament to the reduced purchase price
+and often lower mortgage debt) . CLT owners also reflected a broader inclusion of people of color and
+female-headed households, suggesting CLTs are serving populations often left out of homeownership .
+Crucially,  during  the  2008  foreclosure  crisis,  CLTs  dramatically  outperformed  the  market  in  avoiding
+foreclosures  –  one  national  study  found  foreclosure  rates  in  CLT  homes  were  10  times  lower  than
+conventional loans, because CLT providers often step in to assist homeowners in trouble and because the
+underwriting  was  more  careful  on  affordable  prices.  This  resilience  has  made  CLTs  attractive  to
+policymakers looking for sustainable homeownership models.
+Let’s  illustrate  how  a  CLT  works  with  an  example.  Consider  the  Champlain  Housing  Trust  (CHT)  in
+Burlington, Vermont – one of the largest and most emulated CLTs in the world. CHT was born in 1984 when
+Burlington’s then-mayor (a certain Bernie Sanders) pushed for a portion of city housing funds to establish a
+land  trust  to  keep  housing  affordable.  Fast-forward  to  today,  and  CHT  has  over  600  owner-occupied
+homes and over 2,000 rental units  on its land. A family looking to buy a CHT home might find a house
+appraised at $300,000 on the open market, but through the CLT they can buy it for maybe $180,000
+because the land value (say $120,000) is taken out. They secure a mortgage for the $180k, and sign the
+ground lease with the Trust. Years later , if they decide to move, the resale formula might allow them to sell
+for , say, $200,000 (not $500,000 even if the market soared) – giving them some equity gain but keeping the
+price in reach for another moderate-income buyer . Over decades, CHT has thus preserved a  stock of
+homes affordable to households earning around 50-80% of median income  in an area that would
+otherwise be far pricier . Not only that, CHT provides stewardship: it offers homebuyer education, monitors
+the  condition  of  homes,  and  steps  in  with  foreclosure  prevention  counseling  if  needed.  This  active
+stewardship is a hallmark of CLTs, ensuring that both the physical asset and the families  are supported long-
+term, unlike the often hands-off approach of typical lenders or governments after an affordable home is
+sold.
+Case  Study:  Community  Rebuilding  in  Liverpool.  CLTs  are  not  just  an  American
+phenomenon. In the U.K., the Granby Four Streets CLT  in Liverpool provides a vivid story of
+residents harnessing a land trust to revive their neighborhood. Granby, a historically Black
+community, saw most of its homes boarded up and slated for demolition after decades of
+neglect. By 2011, only a handful of households remained on Cairns Street amid rows of
+empty, derelict terraces . In an act of defiance, a group of women still living there began
+planting flowers in abandoned lots and painting boarded houses in bright colors – doing
+anything to show that their neighborhood was not dead . They organized a street market that
+drew  people  from  all  over  Liverpool  to  their  once-forgotten  block .  Building  on  this
+momentum, the residents took an audacious step: they formed a  community land trust
+with “no land, no money, just imagination,”  as organizer Hazel Tilley put it . At the time,
+CLTs were virtually unheard of in U.K. cities (they had only been legally recognized in 2008)
+. But the mere existence of the CLT gave the community a vehicle to acquire and hold
+property  collectively .  When  the  city  council’s  latest  regeneration  scheme  fell  through,
+Granby’s CLT sprang into action – pitching its own plan to rehabilitate the houses with a mix
+of  self-help  and  partnership,  and  crucially,  securing  some  seed  funding  from  social
+investors and foundations  who were inspired by their vision . The breakthrough
+came when the council agreed to transfer 13 vacant houses to the CLT for £1 each . The5
+52
+53
+54
+55
+56
+57
+5859
+60
+10
+CLT renovated 11 of them to create beautiful, affordable homes, sold or rented to local
+people with ties to the community, and pegged their resale values to local incomes (not the
+speculative market) . Two badly fire-damaged houses were converted into a community-
+owned winter garden and meeting space . The street market is now run by the CLT and
+has  become  a  launchpad  for  local  entrepreneurs .  In  2015,  the  project  gained
+international fame when the architects (Assemble Studio) working with Granby residents won
+the prestigious Turner Prize for their collaborative approach to rebuilding the neighborhood
+. The Granby CLT’s success –  transforming a “shattered street” into a thriving
+community on its own terms  – has been called “one of the most remarkable stories in
+British urban history” . More tangibly, it’s seeded further CLTs in the U.K. and shown local
+governments that partnering with community land trusts can deliver results where top-down
+regeneration failed.
+CLTs in the U.K. have since grown into a movement of their own. There are now over 300 community-led
+housing projects (including CLTs, co-ops, etc.) completed or in development across England and Wales.
+London’s first CLT homes sold in 2017 in a redeveloped old hospital site (St. Clements in East London) – with
+one-bed flats going for £130,000 in a market where similar units cost triple that, the prices tied to median
+local incomes. The Mayor of London and some local councils have started to actively support CLTs by
+offering public land at discounted rates  and seed funding . Meanwhile, the concept has spread to
+continental Europe: the Brussels CLT  in Belgium was the first on the European continent, delivering its first
+9 homes in 2015 and now expanding to over 100 homes across several projects . Brussels’ CLT
+explicitly targets working-class and immigrant families and has adapted the model to multi-unit buildings in
+a dense city. In 2021, the city of Amsterdam in the Netherlands also agreed to pilot a CLT, and there are
+projects in France (where they’re called Organismes de Foncier Solidaire) and Germany considering it. 
+Back in the U.S., CLTs are diversifying. Some are focused on single-family homes; others, like the Dudley
+Street Neighborhood Initiative in Boston, have even built parks, urban farms, and commercial spaces on
+CLT land to prevent displacement of local businesses and community institutions. In Houston, Texas – a city
+known for sprawl and lack of zoning – the local government recently created a CLT program to take vacant
+lots and build affordable homes, selling the houses but retaining land ownership to keep them affordable in
+perpetuity. This model is being used to aid flood victims in Houston, marrying climate resilience with
+housing affordability.
+It’s worth mentioning shared-equity homeownership  more broadly as an umbrella that includes CLTs but
+also  other  mechanisms.  For  instance,  some  nonprofit  housing  developers  sell  homes  with  deed
+restrictions  that limit the price (much like a CLT ground lease would) without a separate land trust entity.
+Others use silent second mortgages  (subsidies that don’t require payment unless the home is sold for a
+profit) to ensure affordability. And in the U.K., the term “shared ownership” refers to yet another model:
+people  buy  a  portion  (say  25-75%)  of  a  home’s  equity  and  pay  rent  on  the  remainder  to  a  housing
+association,  with  the  option  to  “staircase”  up  to  full  ownership.  Shared  ownership  has  helped  many
+households onto the property ladder , though it has its criticisms (complex leases, rent increases, etc.), and it
+doesn’t  involve  collective  ownership.  By  contrast,  the  models  we  focus  on  do emphasize  collective  or
+community ownership of at least the land if not the structure.
+The  common thread  in CLTs and shared-equity models is the idea of balancing individual asset building
+with  community  stewardship  of  affordability .  Owners  get  stability,  a  stake,  and  often  some  equity
+growth, but they agree to forego windfall gains for the sake of future buyers. In a way, it’s a social contract:61
+62
+6364
+6566
+67
+6858
+6970
+11
+each generation of owners benefits from the prior generation’s affordability commitment and in turn pays it
+forward. This is a fundamentally different approach than the traditional market where one tries to maximize
+personal gain from housing. In a post-labor economic framing, CLTs and shared equity housing allow
+people to achieve a degree of economic security (through stable housing costs and modest wealth accumulation)
+without requiring a high or rapidly rising income . The community collectively “earns” the appreciation  rather
+than the individual, slowing down wealth accumulation at the household level but broadening access to
+ownership across households. For many, the trade-off is worth it to obtain an affordable home they might
+otherwise never afford. 
+Of course, scaling these models up remains a challenge largely of  capital and policy . CLTs need initial
+subsidies – whether it’s donated land or grants – to make that first sale affordable. They then preserve that
+subsidy forever , which is efficient, but it means someone  must invest the funds or land at the start. There is
+growing interest in using public funds (housing trust funds, inclusionary zoning contributions, etc.) to seed
+CLTs  precisely  because  it’s  a  one-time  subsidy  that  serves  family  after  family.  For  instance,  the  U.S.
+Department of Housing and Urban Development in 2022 created a $85 million grant program specifically
+for shared equity housing like CLTs and co-ops, marking the first time federal funds could directly capitalize
+these  models.  Private  philanthropy,  too,  has  been  stepping  up:  community  foundations  in  places  like
+Durham, North Carolina and the Bay Area have put millions into acquiring land for CLTs to address racial
+wealth gaps. These are hopeful signs that the model is hitting the mainstream as a policy option.
+Mutual and Municipal Models: Public-Backed and Hybrid
+Approaches
+While  co-ops  and  CLTs  often  emerge  from  grassroots  or  nonprofit  efforts,  there  are  instances  where
+governments or public entities have taken a direct role in fostering collective ownership . These hybrid
+models demonstrate how state support can amplify the impact of resident-owned housing – or create new
+models altogether that blend public and resident control.
+Municipal Limited-Equity and Rental Co-ops
+Perhaps the most famous example of large-scale, publicly-backed collective housing is  Vienna, Austria’s
+social housing system . Though not structured as resident-owned in the way of co-ops or CLTs, Vienna’s
+model deserves mention for context. The city directly owns and manages about 25% of housing (council
+housing), and an additional ~20% is owned by limited-profit housing associations – many of which are
+housing cooperatives or community companies regulated by law to reinvest all profits . These limited-
+profit  housing  providers  (under  Austria’s  Non-Profit  Housing  Act)  receive  favorable  public  loans  and
+subsidies to build housing, and in return must keep rents low and capped by cost. Tenants often have
+strong protections and sometimes representation on advisory boards, though not one-member-one-vote as
+in a true co-op. The outcome is a city where  over 50% of residents live in housing free from market
+pressures , with rents roughly 20-30% below private market levels, and a mix of income groups all accessing
+high-quality apartments. Vienna demonstrates that  de-commodified housing on a massive scale  is possible
+with sustained public investment and regulation – effectively treating housing as infrastructure. While
+residents don’t “own” the units, they do collectively benefit from the appreciating land values in the city
+(since those gains are kept in the city or nonprofit sector , not extracted by investors). Vienna’s success in
+maintaining affordability and livability is often cited by housing reformers worldwide . 7172
+12
+In  England ,  a  different  twist  occurred  with  tenant-led  housing  associations .  One  example  we
+encountered is Walterton & Elgin Community Homes (WECH)  in London. In the late 1980s, tenants in two
+West London public housing estates learned the local government planned to sell their homes to a private
+developer . The tenants fought back, organizing and invoking a new “Tenants’ Choice” law that allowed them
+to  vote  for  a  different  landlord.  In  a  remarkable  campaign,  they  voted  to  form  their  own  housing
+association , wresting control away from both the council and any private buyer . WECH was established
+in 1992 as a  resident-controlled housing association and community land trust , owning around 600
+homes. Every adult resident is a member of the association, and the board is majority residents. Rents are
+kept at social housing levels (affordable to people on lower incomes) and the homes will never be sold on
+the  open  market.  Decades  on,  WECH  is  held  up  as  a  model  of  successful  self-management  and
+community governance  in public housing . The estate, once troubled, has high tenant satisfaction and
+even  built  some  new  infill  homes  on  its  land.  WECH’s  story  shows  that  with  enabling  legislation  and
+determination,  public housing tenants can convert their housing into community-owned assets . It’s
+similar in spirit to co-ops, though legally structured as a community benefit society (a type of nonprofit). The
+U.K. has also seen smaller “stock transfer” co-operatives where council housing was transferred to resident-
+owned  co-ops  (particularly  in  the  1990s),  and  more  recently  “Community  Gateway”  associations  which
+involve tenants in governance to a high degree.
+Another municipally supported model is the Mutual Home Ownership Society (MHOS)  concept in the U.K.,
+championed by thinkers at the New Economics Foundation. This is essentially a collective equity model :
+instead of each household taking out individual mortgages, the group (society) takes a single mortgage to
+build or buy homes, and each member’s monthly payment buys them equity shares in the society. The
+innovation is that the value of shares is linked to local wages, not the open housing market . So if a
+member leaves, the amount they get for their shares depends on wage inflation, ensuring the home
+remains affordable to someone with a similar real income. The pioneering project using this model is LILAC
+(Low Impact Living Affordable Community)  in Leeds, England. LILAC combined the MHOS financing
+model with a co-housing lifestyle. Completed in 2013, it consists of 20 eco-friendly homes built of straw-bale
+and timber , plus shared gardens and a common house. Residents’ contributions vary with their income (to
+ensure fairness) – higher earners buy more equity shares per month – but everyone’s equity grows at the
+same modest rate. This way, “ housing is seen in functional terms, not as an investment ,” explains a
+founder; the focus is on cost and use value, not speculation . LILAC’s homes remain permanently
+affordable to people on median incomes in Leeds, and the community has full self-governance. While LILAC
+was the first of its kind, the model is gaining attention. A second MHOS project called  Marmalade Lane
+(Cambridge’s first co-housing community) considered a similar scheme, and others in London are exploring
+it. The challenge is that banks are less familiar with this form, so getting financing took perseverance –
+LILAC ended up with a “corporate mortgage” on the whole site . But now that it’s proven, there is
+hope more mutual home ownership societies will follow, offering a pathway for people who can’t afford
+full ownership to still build equity and community .
+LILAC cooperative housing in Leeds, U.K., exemplifies a Mutual Home Ownership Society. Residents collectively
+financed these eco-friendly homes and pay based on income, earning equity shares pegged to local wages rather
+than market prices . This ensures permanent affordability while giving members a stake in the community.
+Australia is another place seeking innovative housing solutions and beginning to look toward these models.
+While Australia has not yet seen large-scale CLTs or co-ops in the way the U.S. or Europe have, interest is
+rising amid a severe housing affordability crisis in cities like Sydney and Melbourne.  Community land
+trusts  have been studied and piloted – for instance, a 2020s initiative in Sydney looked to create a CLT for73
+74
+75
+7677
+7879
+9
+13
+key workers. In 2024, the state of New South Wales launched an  Australian Community Land Trust
+Network  and the Housing Minister expressed support for CLTs as a new way to provide permanently
+affordable homes . There is also a history of housing co-operatives:  Common Equity Housing Ltd
+(CEHL)  in Victoria is a notable example, which acts as an umbrella for dozens of small co-ops (over 2,000
+homes) where lower-income tenants manage their housing collectively with state support. Another private-
+sector innovation from Australia is Nightingale Housing , a social enterprise model in which apartments are
+developed and sold at-cost (eliminating developer profit and including cost-saving design). Nightingale
+units come with caveats – buyers must agree to owner-occupy and there’s a resale process intended to keep
+them  in  the  affordable  range  for  subsequent  purchasers .  While  Nightingale  apartments  are
+individually owned (not co-ops), the ethos is similar: homes built for people, not profit , with mechanisms to
+pass  affordability  to  the  next  generation  of  residents .  Nightingale  has  completed  projects  in
+Melbourne and is scaling up with support from impact investors , illustrating how the private sector can
+adapt principles of shared-equity (in this case, by front-loading the affordability in the initial sale and
+controlling resale gains). 
+In the public housing realm, community empowerment is also making waves in Australia . For instance,
+the state of Victoria has experimented with  housing co-design and co-management with tenants  in
+some renewal projects, and Indigenous communities have long practiced collective tenure on their lands
+(though colonial land law often clashes with those traditions). The intersection of Indigenous land rights
+and CLTs is an area of active exploration – for example, could CLTs support secure housing on Native title
+lands  while  respecting  communal  ownership?  One  pilot  in  Queensland  with  an  Aboriginal  community
+suggests yes, adapting the CLT to strengthen community control and individual security hand-in-hand .
+Lastly,  an  interesting  financial  hybrid  is  emerging:  community  development  real  estate  investment
+trusts (CD-REITs)  or community investment trusts (CITs) . These are vehicles that allow local residents to
+invest small amounts of money to collectively own properties in their neighborhood  – a bit like a mini-
+REIT but with a social purpose and local base. A pioneering example is the  East Portland Community
+Investment  Trust  in  Oregon.  There,  a  nonprofit  helped  residents  of  an  underserved  neighborhood
+purchase shares (from $10 to $100 a month) in a strip mall (commercial property) in their community .
+Over time, the resident-investors build equity and receive modest dividends from the property’s rental
+income .  The  idea  is  to  give  low-income  families  a  stake  in  rising  real  estate  values  that  might
+otherwise  lead  to  their  displacement  –  essentially  turning  gentrification  on  its  head  by  making  them
+beneficiaries rather than victims. This CIT model has since been copied in Chicago and elsewhere for
+commercial assets. While not housing per se, one could envision a “community REIT” for housing  where
+neighbors pool funds to buy apartment buildings, keeping them affordable while sharing in the ownership.
+In fact, the East Bay Permanent Real Estate Cooperative (EB PREC)  in California is doing something along
+those lines: it’s a multi-stakeholder cooperative that raises investment from community members (and
+larger impact investors) to acquire housing that will be cooperatively rented. EB PREC has different classes
+of members – including resident owners  (who live in the co-op properties and gain equity via “rent” credits
+and vote on management) and community investors  who accept a low financial return in exchange for the
+social return of stabilizing housing .  Patronage dividends  are paid to resident members when
+possible, effectively sharing any surplus back with those who pay rent . This novel structure combines
+features of a REIT, a CLT, and a co-op, and is aimed at taking housing “off the speculative market for good”
+by placing it under community control . It’s a truly post-capitalist take on property , requiring people to
+shift from a mindset of maximizing profit to one of collective gain and limited return  – a challenging sell
+perhaps,  but  EB  PREC’s  existence  and  growth  show  an  appetite  for  ethical  investing  in  one’s  own
+community. 80
+8182
+83
+84
+85
+86
+87
+8889
+88
+90
+14
+All  these  variations  –  mutual  ownership  societies,  community  land  trusts  with  government  backing,
+community investment trusts – reveal a fertile field of experimentation. They often arise from the cracks of
+the failing mainstream market, pioneered by those in need or those with vision (or both). Governments play
+a  catalytic  role  when  they  choose  to,  by  providing  seed  capital,  favorable  regulations,  or  simply
+legitimizing these alternative tenures . Increasingly, as the conventional housing market leaves more and
+more people behind, these “alternative” models are being seen as necessary components of a new housing
+ecosystem .
+Comparing Resident-Owned Models to Traditional REITs and
+Landlords
+It’s illuminating to contrast these resident-owned and shared-equity housing models with the conventional
+vehicles of real estate investment – in particular , the ubiquitous REIT and its private-market counterparts.
+Traditional  Real Estate Investment Trusts (REITs)  are financial entities that own income-producing real
+estate (apartments, shopping centers, etc.) and are required by law to distribute most of their income to
+shareholders. They exist purely to generate returns for investors. Tenants in REIT-owned properties typically
+have no more say in management than in any other corporate landlord situation, and the sole measure of
+success for a REIT is its financial performance  (funds from operations, dividends per share, and stock
+price).  While  REITs  can  provide  efficient  capital  for  development  and  can  be  well-managed,  they  are
+fundamentally instruments of extracting value from  communities (in the form of rent) to reward investors.
+In  recent  years,  large  REITs  and  private  equity  firms  have  even  moved  into  single-family  homes  and
+manufactured home parks, accelerating trends of housing financialization.
+By contrast,  resident-owned models invert the priorities . Success is measured in terms of  affordability,
+stability, and community well-being . If a ROC or co-op has a surplus, it might lower next year’s rent increase
+or invest in better maintenance, rather than distribute profits (most such entities are nonprofit or not-for-
+profit by design). A side-by-side comparison highlights key differences:
+Ownership and Governance:  In resident-owned housing,  the tenants  are the owners (or are
+members of the owning entity) . Governance is democratic, with decisions made by those living
+there. In a REIT or investor-owned housing, ownership is in the hands of shareholders or private
+owners who may live far away and whose decisions prioritize investor interests. Residents have little
+to no voice.
+Profit Distribution:  A REIT is obligated to return profits to shareholders (e.g., 90% of taxable income
+must be paid as dividends for U.S. REITs). A community land trust or limited-equity co-op reinvests
+any “profit” into the property or mission , and individual residents gain at most limited equity if
+they  leave.  Essentially,  REITs  extract  wealth;  resident-owners  recirculate  wealth  locally .  The
+wealth that does accumulate (like rising land values) benefits either the whole community (in a CLT)
+or stays in the nonprofit domain, instead of becoming someone’s speculative windfall.
+Rent Levels and Affordability:  Because their goal is maximizing returns, investor-owned properties
+will tend to charge the highest rents the market can bear , and aggressively raise rents over time
+(recall the 7% annual increase figure for investor-owned mobile home parks vs <1% in ROCs ). In
+community-owned housing, affordability is a baked-in goal . Rents or carrying charges are set to
+cover costs, not to yield profit. Many co-ops and CLTs use income-based formulas or peg housing• 
+• 
+• 
+27
+15
+costs to median incomes , ensuring residents aren’t rent-burdened. Over decades, the difference in
+cost to a family is enormous – it can mean the difference between barely scraping by and actually
+saving money or pursuing other opportunities. For society, these lower costs can translate to less
+need for rent assistance or eviction prevention programs, as communities are self-stabilizing.
+Stability and Tenure:  Residents in co-ops, CLTs, etc., generally enjoy  much stronger security of
+tenure  than those in investor-owned rentals. Evictions in co-ops are rare and typically only for
+serious cause, decided by one’s peers on the board (who are often very reluctant to evict a neighbor
+except as a last resort). In a CLT homeownership, as long as the mortgage is paid, the family has a
+99-year renewable lease on the land – effectively inheritable and secure. In a REIT-owned apartment,
+if the rent outpaces your income or the owner decides to sell, you could be out. The community
+ownership models decouple your housing security from the whims of the market and increasingly
+from your employment stability – a critical advantage in a post-labor economy of gig work and
+frequent job shifts.
+Economic Agency:  Perhaps the most subtle difference is in the sense of agency and participation .
+In  a  resident-owned  community,  people  gain  direct  experience  in  governance  –  they  vote  on
+budgets,  decide  on  capital  improvements,  set  policies  (like  pet  rules  or  energy  upgrades),  and
+approve  new  members  or  residents.  They  are  stakeholders  shaping  their  environment ,  not
+passive consumers of housing. This can build social capital and local leadership capacity. In contrast,
+traditional rental situations leave tenants feeling powerless; major decisions are made by landlords
+or  distant  corporate  asset  managers.  The  community’s  fate  is  at  someone  else’s  mercy.  The
+empowerment that comes from collective ownership can have ripple effects: studies have found
+residents of co-ops and CLTs often engage more in civic life beyond their housing – perhaps because
+they’ve seen that collective action works .
+Community Impact:  Traditional real estate investment often views community as a backdrop, not a
+priority – unless it affects value. A community REIT might tout how many units it owns, but not
+necessarily whether those units foster community interaction or support local businesses. Resident-
+owned models inherently embed the housing in the community. For example, CLTs often undertake
+community development projects beyond housing  (like gardens, markets, community centers)
+because they are mission-driven to improve the neighborhood, not just the housing. Cooperatives
+can become support networks – neighbors in a co-op might set up childcare swaps or elder care
+committees, something unlikely in a corporate rental where neighbors barely know each other . In
+essence, the housing is not an island – it’s part of a broader community fabric  when residents
+have ownership. That can yield safer , more cohesive neighborhoods. Indeed, during the COVID-19
+pandemic, some co-ops and CLTs mobilized mutual aid among residents (like grocery delivery for
+seniors)  much  more  quickly  than  conventional  properties,  precisely  because  the  structure  for
+collective action was there.
+None  of  this  is  to  say  that  REITs  or  private  rental  models  have  zero  community  benefit.  Some  REITs
+specialize in affordable housing or senior housing and do maintain good practices (and certainly they bring
+capital to build needed housing). However , even a well-meaning REIT is constrained by its fiduciary duty to
+investors and the imperative of growth. It can’t easily decide to take lower returns to keep rents affordable
+without facing shareholder backlash or market pressure. Resident-owned entities, being either cooperative,
+nonprofit, or otherwise mission-locked, bake in a different set of incentives  – people over profits. • 
+• 
+• 
+16
+To  put  it  succinctly,  a  resident-owned  housing  model  treats  housing  primarily  as  a  home  and  a
+community , whereas a REIT treats it as an  investment vehicle . This difference in fundamental purpose
+leads to divergent outcomes in affordability and agency. Over decades, these differences compound: a
+neighborhood of REIT-owned housing will see wealth extracted and likely higher turnover of residents; a
+neighborhood of co-ops or CLTs will see wealth retained locally (perhaps in the form of better-maintained
+buildings or community funds) and a more rooted population. In post-labor economic terms, the latter is a
+form of economic democratization  – giving people a direct share in productive assets (land and housing)
+so that even if their labor income is modest, they are not purely at the mercy of market rents or distant
+capital.
+Community Impact and Outcomes
+Do  these  lofty  ideals  of  resident  ownership  translate  into  measurable  outcomes  for  families  and
+communities? The evidence, while still emerging, largely says yes – though not without challenges. We’ve
+already  touched  on  many  specific  outcomes:  lower  housing  payments,  higher  stability,  increased  civic
+engagement, etc. Let’s summarize a few key impacts:
+Affordability Maintained:  By design, shared-equity models keep housing costs below market. Over
+time, the gap can widen. For instance, a study of one CLT showed that their homes remained
+affordable to essentially the same income level over multiple resales spanning 30 years, whereas if
+those homes had been market-sold, they would have long since priced out the original target group.
+Co-ops often have rents 10-20% below market for comparable units because they remove the profit
+margin. In Zurich, cooperative flats have rents roughly 25-30% lower than private rentals  of similar
+size  due  to  cost-based  pricing  and  nonprofit  operation .  This  means  families  have  more
+disposable income for other needs (or savings), improving overall economic security. At a macro
+level, if a substantial portion of housing is decommodified, it can even help  cool the broader
+housing market , as seen in Vienna, by offering a permanent affordable sector that relieves demand
+pressure on the private sector .
+Stability  and  Reduced  Displacement:  Resident-owned  housing  acts  as  a  bulwark  against
+displacement. We saw how in D.C., 4,400 households are securely housed that might otherwise have
+been pushed out of the city. In Liverpool’s Granby, local residents who would have been scattered by
+demolition instead stayed and led the renewal of their street. After hurricanes or disasters, CLT
+homeowners have had more support rebuilding (since the CLT organization can marshal resources)
+and fewer foreclosures. Neighborhoods with strong co-op or CLT presence often resist gentrification
+better – not in the sense of stopping neighborhood improvement, but in preventing the involuntary
+exodus of lower-income residents. In New York’s East Harlem, for example, several limited-equity co-
+ops formed in the 1980s still house the same families even as surrounding rents have tripled,
+allowing the maintenance of a stable cultural community (Latino in that case) that would otherwise
+have been eroded.
+Wealth Building – but Broad-Based:  Critics sometimes ask, doesn’t limiting equity rob people of the
+chance to build wealth through homeownership? It’s true that an individual in a CLT or limited-equity
+co-op will not get rich off their home. However , they  will typically still accumulate some savings
+(forced savings from paying down mortgages or earning a small resale gain). More importantly,
+what they sacrifice in personal speculative gain is converted into collective wealth . The community
+or trust retains the appreciation to keep housing affordable. Think of it this way: rather than one• 
+91
+• 
+• 
+17
+lucky family getting a $200,000 windfall when selling an appreciated house, ten families can each get
+a $20,000 affordable price reduction on their homes. Shared-equity housing socializes the wealth
+that accrues from property. It’s a different wealth-building model – one aimed at asset-building for
+communities and successive generations , rather than maximum extraction for individuals. And
+because it helps people buy with smaller mortgages, those individuals often have less debt and
+more manageable finances. Many CLT homeowners still eventually move into market housing (if
+their incomes rise or family grows) and they often credit the CLT for giving them the stepping stone
+without drowning in debt.
+Community Health and Well-being:  Housing stability and quality have profound effects on health,
+education, and social outcomes. Families in resident-owned housing are less likely to experience the
+toxic stress of eviction or overcrowding. Children who aren’t forced to move schools due to housing
+instability generally do better academically. Senior citizens in co-ops can age in place in a supportive
+community rather than face the isolation or risk of being priced out. In one survey, community land
+trust homeowners reported significantly better overall quality of life and sense of security  than
+similar renters . It stands to reason: when you know you won’t be arbitrarily displaced and you
+have a say in your living conditions, mental and physical health indicators improve. Some CLTs
+explicitly track these metrics; for example, the Dudley Street CLT in Boston reduced vacant lots
+(which were havens for crime) and built gardens and homes, contributing to lower crime rates and
+higher community satisfaction in that area.
+Environmental and Long-Term Outlook:  Because these models focus on long-term stewardship
+(who cares more about the 50-year condition of a building – a REIT that might sell in 5 years, or a co-
+op resident who wants to give it to their children?), they often incorporate sustainable practices. Co-
+ops and CLTs have been early adopters of green building, solar panels, community gardens, etc.
+LILAC in Leeds showcases eco-housing with its strawbale construction and communal laundry (to
+reduce  each  family’s  need  for  appliances) .  In  the  U.S.,  some  mobile  home  co-ops  are
+exploring replacing older inefficient homes with high-performance manufactured homes, knowing
+the  savings  will  accrue  to  members  over  decades.  This  stewardship  mindset  aligns  well  with
+environmental sustainability – thinking in generations, not quarterly returns.
+Of course, not every outcome is rosy. Challenges  include: maintaining the financial viability of these models
+(co-ops can struggle if they underestimate maintenance costs, CLTs need constant fundraising to expand
+their portfolios, etc.),  scaling up to meet demand  (most CLTs have long waiting lists; co-ops receive far
+more  applicants  than  openings),  and  ensuring  inclusion  and  good  governance  (some  co-ops  might
+become insular or not adequately include renters of different backgrounds if not attentive). There are also
+cases where a co-op fails due to poor management or a CLT home faces owners who chafe at resale
+restrictions – it requires continuous education and support to keep everyone aligned on the mission.
+Additionally, these models often rely on initial subsidies or favorable policies  that can be hard to secure
+politically. For example, if a city doesn’t have a TOPA law, tenants may simply never get the chance to buy
+their building. If a state doesn’t allow community investment via cooperatives easily, raising capital like EB
+PREC did can run into securities regulations barriers. In some places, real estate interests have resisted CLTs
+or co-ops, fearing they set a precedent that challenges the for-profit status quo.
+Yet, even with modest adoption, the models have proven resilient. The zero foreclosure track record of
+ROC USA-assisted communities  and the longevity of co-ops from New York to Nairobi (Kenya has large• 
+92
+• 
+9394
+23
+18
+housing co-ops too) speak to an underlying robustness: when people have a real stake and support, they
+tend to do whatever it takes to keep their housing secure.
+Conclusion: From Commodification to Community – Housing in a
+Post-Labor Future
+In  a  world  where  the  ties  between  work  and  prosperity  are  fraying,  resident-owned  and  community-
+controlled housing offers a beacon of possibility. These models show that economic security can be built
+from the ground up – literally from the ground (land) up – by ordinary people pooling resources and
+acting in unison . They represent a shift from seeing housing as a commodity or a personal investment to
+seeing it as a social good and a collective asset. In the larger context of post-labor economics, where
+technological change and globalization have undercut the old guarantees of stable jobs and rising wages,
+such a shift is not just idealistic but perhaps essential.
+Imagine a future where a significant share of housing in each city is owned by residents through co-ops,
+land trusts, or mutual housing societies. In that future, a factory closing or a gig worker losing contracts
+wouldn’t  immediately  translate  into  an  eviction,  because  housing  costs  would  be  structured  to  be
+manageable and not for profit. Communities could weather economic storms with far less human toll.
+Additionally, the wealth created by development and urban growth would tend to stay local , funding more
+community improvements, instead of flowing to distant shareholders.  Economic agency  would be more
+evenly distributed: people might still earn modest incomes from their labor in a post-labor economy, but
+they would also earn “social dividends” from assets they collectively own – be it a dividend of reduced rent,
+or actual cash dividends in a community investment trust.
+Crucially,  these  models  foster  a  mindset  of  cooperative  problem-solving .  As  residents  manage  their
+housing, they build skills and solidarity that can extend to other areas – like starting cooperative businesses,
+or managing local energy microgrids, etc. It’s not utopian to say that  a network of cooperatives and
+trusts controlling significant assets is a form of grassroots economic democracy . Historically, this is
+akin to what happened in some European social economies where cooperatives, unions, and municipalities
+created a counterweight to pure capitalism, resulting in better social outcomes.
+For policymakers and advocates reading this, the success stories herein provide blueprints  worth scaling.
+Support can take many forms: passing laws like tenant purchase rights and right-of-first-refusal for resident
+groups;  directing  public  land  and  money  to  community-led  housing;  offering  technical  assistance  and
+favorable financing (through public banks or credit enhancements) for co-ops and CLTs; and even adjusting
+tax  codes  to  encourage  long-term  affordability  over  speculation  (for  instance,  property  tax  breaks  for
+limited-equity housing). On the private side, impact investors and philanthropists  can treat these models
+as high-impact investments – the returns are not high financially, but the social return (stable families,
+preserved affordability) is enormous and lasting.
+One must also acknowledge that resident-owned housing is not a silver bullet for all housing needs. It will
+work best for those who have some minimal resources or capacity to organize; the poorest of the poor may
+still need direct public housing or deep subsidies. Also, without supportive ecosystems (like federations or
+service organizations), isolated co-ops might struggle. The vision forward, then, is building an ecosystem of
+community  housing :  co-ops,  land  trusts,  mutuals,  supported  by  public  policy  and  linked  with  social
+19
+services where needed. Such an ecosystem doesn’t replace private housing or government housing entirely,
+but complements and balances them.
+As we stand today, we see the early fruits of this approach: ROC residents sleeping easier knowing their
+rent won’t double overnight ;  co-op members in D.C. toasting to 30 years in their once-threatened
+building ;  a single mother in Brussels getting the keys to a CLT condo she can afford, giving her
+children a stable home ;  neighbors in Melbourne moving into a Nightingale apartment block that
+they know was built with their interests at heart, not investors’ . These are small wins in the grand
+scheme, but they point the way. They tell a narrative – a narrative nonfiction that we are writing collectively
+– where housing is wrested back from abstract markets and placed in the hands of those who make it a
+home.
+In the larger fight against inequality and disempowerment, resident-owned housing models stand out as
+practical, proven interventions. They don’t require waiting for a revolution; they use existing legal and
+financial tools but repurpose them toward equitable ends. Each story in this report, from a trailer park co-
+op in rural America to a cooperative urban block in Europe, is a testament to what people can do when
+they organize and reimagine ownership . They offer a path to resilient communities that can thrive even
+when the traditional promise of secure jobs and endless growth no longer holds. By securing one of life’s
+most basic needs—shelter—on their own terms, these residents are also securing their dignity and their
+future. And in doing so, they just might be pioneering a new economy  where prosperity is shared, local,
+and lasting.
+References
+National Cooperative Bank, "Cooperative Housing Facts" . 
+ROC USA, "Our Impact – National Statistics on Resident Owned Communities" . 
+Nonprofit Quarterly, "How Resident-Owned Communities Create Affordable Homeownership" .
+Associated Press (Claire Rush), "Mobile home park residents organize into co-ops to save their
+homes" . 
+Guardian (Aditya Chakrabortty), "How one community beat the system, and rebuilt their shattered
+streets" . 
+PublicSpace, "Mietshäuser Syndikat – 160 housing projects in collective ownership" . 
+Community Land Trust Network, "CLT Case Studies and Statistics (US & EU)" . 
+Housing International, "LILAC Leeds – Mutual Home Ownership Society model" . 
+National Association of Housing Cooperatives, "DC Limited-Equity Cooperatives Report" . 
+The Fifth Estate (Louise Crabtree), "Community Land Trusts: forever affordable housing" . 
+Triodos Bank, "Seumestrasse 14 Berlin Case Study – Syndikat model" . 
+Mobile home park residents organize into co-ops to save their homes
+https://wchstv.com/news/nation-world/mobile-home-park-residents-organize-into-co-ops-to-save-their-homes-seattle-
+cooperative-model-affordable-housing-low-fixed-income-resident-ownership-hedge-funds-investment-bank-investors-rent-cash-
+flow-landlord?photo=1
+Multimedia - PublicSpace
+https://www.publicspace.org/multimedia/-/post/this-is-our-house-if-houses-can-be-owned• 
+• 22 27
+• 16 20 6
+• 
+95 96
+• 
+60 61
+• 42
+• 51 70
+• 9
+• 37
+• 49 80
+• 39 40
+1 2 325 26 95 96
+442
+20
+Community land trusts: An affordable housing model that could help ease
+the housing crisis
+https://www.themandarin.com.au/197122-community-land-trusts-an-affordable-housing-model-that-could-help-ease-the-
+housing-crisis/
+How Resident-Owned
+Communities Can Create Mass Affordable Homeownership - Non Profit News | Nonprofit Quarterly
+https://nonprofitquarterly.org/how-resident-owned-communities-can-create-mass-affordable-homeownership/
+Permanent Real Estate Cooperatives - Sustainable Economies Law Center
+https://www.theselc.org/prec_pilot
+Cooperative Housing International | LILAC - Mutual Home Ownership Community in
+Leeds, England - Cooperative Housing International
+https://www.housinginternational.coop/resources/lilac-mutual-home-ownership-community-in-leeds-england/
+ROC USA's Impact in Resident Owned Mobile Home Parks
+https://rocusa.org/our-impact/
+Cooperative Advocate Leads Washington, D.C.’s Efforts to Increase LECs - National Association
+of Housing Cooperatives
+https://coophousing.org/cooperative-advocate-leads-washington-d-c-s-e%EF%AC%80orts-to-increase-lecs/
+The Limited Equity Cooperative: An Economic and Social Solution to ...
+https://www.law.georgetown.edu/poverty-journal/blog/the-limited-equity-cooperative-an-economic-and-social-solution-to-
+affordable-housing-crises/
+Seumestrasse 14 case study
+https://www.triodos.com/en/articles/2018/case-study-seumestrasse-14
+[PDF] New-co-operative-housing-in-Zurich.pdf
+https://www.cch.coop/wp-content/uploads/2019/10/New-co-operative-housing-in-Zurich.pdf
+World's housing co-ops meet in Zurich for international symposium
+https://www.thenews.coop/worlds-housing-co-ops-meet-in-zurich-for-international-symposium/
+Community Land Trusts can produce affordable and diverse “forever” housing | The Fifth
+Estate
+https://thefifthestate.com.au/library/tfe-review/housing-special/community-land-trusts-can-produce-affordable-and-diverse-
+forever-housing/
+How one community beat the system, and rebuilt their
+shattered streets | Aditya Chakrabortty | The Guardian
+https://www.theguardian.com/commentisfree/2018/feb/14/community-liverpool-residents-granby
+Granby 4 Streets - Change The Rules
+https://letschangetherules.org/map/granby-4-streets
+Community Land Trust Brussels (CLTB) - Housing2030
+https://www.housing2030.org/project/community-land-trust-brussels-cltb/
+Community Land Trusts (CLTB) | use: urban sustainability exchange
+https://use.metropolis.org/case-studies/community-land-trusts
+Walterton Neighbourhood Builders, Ltd.
+https://www.citizenshandbook.org/unesco/most/westeu10.html545 46 47 48 51 52 53 92
+610 12 13 14 15 16 17 18 19 20 21 22 23 24 28 29 30 31 32 33
+7 811
+976 77 93 94
+27
+34 35 36 37
+38
+39 40 41
+43
+44
+49 50 71 72 80
+54 55 56 57 58 59 60 61 62 63 64 65 67 68
+66
+69
+70
+73
+21
+Walterton & Elgin Community Homes - community led housing london
+https://www.communityledhousing.london/project/wech/
+What's different about mutual home ownership: Paul Chatterton of ...
+https://www.lowimpact.org/posts/mutual-home-ownership-lilac/
+LILAC – Low Impact Living Affordable Community
+https://www.lilac.coop/
+Affordable - LILAC
+https://www.lilac.coop/affordable/
+Principles - Nightingale Housing
+https://www.nightingalehousing.org/approach/principles
+Housing types - an explainer – Updates from Nightingale
+https://www.nightingalehousing.org/updates/housing-types-an-explainer
+Nightingale Housing — Homes built for people, not profit.
+https://www.nightingalehousing.org/
+Investing in scalable model to help address housing affordability
+https://www.socialventures.org.au/our-impact/investing-in-scalable-model-to-help-address-housing-affordability/
+Community Land Trusts and Indigenous Housing
+https://cityfutures.ada.unsw.edu.au/research/projects/community-land-trusts-and-indigenous-housing/
+A community investment trust for Portland, Ore. residents to 'buy ...
+https://www.brookings.edu/articles/a-community-investment-trust-for-portland-ore-residents-to-buy-back-the-block/
+Community investment trust: Portland, OR - Economic Mobility Catalog
+https://catalog.results4america.org/case-studies/community-investment-trust-portland-or
+east bay permanent real estate cooperative, inc. - SEC.gov
+https://www.sec.gov/Archives/edgar/data/1812526/000121465920007607/partiiandiii.htm
+Spotlight: East Bay Permanent Real Estate Cooperative
+https://naturalinvestments.com/east-bay-permanent-real-estate-cooperative/
+Permanent Real Estate Cooperative | pocshn
+https://www.pochousingnetwork.com/ebprec
+Emerging commons: Cooperative Housing in Switzerland
+https://journals.openedition.org/cidades/939774
+75
+78
+79
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+22
