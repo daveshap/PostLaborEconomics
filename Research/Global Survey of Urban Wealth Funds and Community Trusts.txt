@@ -1,1 +1,785 @@
-Global Survey of Urban Wealth Funds and Community Trusts Introduction Local and regional governments around the world have established urban wealth funds , community trusts , and similar liquid endowments to benefit their populations. These are pools of capital (often derived from natural resource royalties, public land sales, or one-time windfalls) that are invested for long-term public benefit . In many cases, the funds’ earnings are used to pay direct dividends to residents or to finance universal public services – thereby reducing the financial burden on citizens. Some communities have also benefited from philanthropic trusts that function like endowments, providing broad-based benefits (such as education, housing, or healthcare subsidies) to nearly all residents in a geographic area. Below, we survey notable examples from the United States, United Kingdom, European Union, Australia, and Asia, describing each fund’s structure, funding sources, governance, benefit mechanisms, and outcomes. United States The United States hosts several prominent sub-national wealth funds. Many were seeded with natural resource revenues (oil, gas, minerals) or public land assets and are managed as permanent trusts whose investment income supports public programs or direct payments. Key examples include state-level funds (like Alaska’s oil fund and Texas’s education endowments), as well as municipal trusts and private community foundations benefiting local residents. Alaska Permanent Fund (State of Alaska) Established in 1976 via a constitutional amendment, the Alaska Permanent Fund (APF) is a state-owned sovereign wealth fund that captures a share of Alaska’s oil revenues . At least 25% of all mineral lease royalties are deposited into the fund’s principal, which is invested globally by the semi-independent Alaska Permanent Fund Corporation . The principal is protected in perpetuity, while the investment earnings are used to benefit citizens. The primary benefit mechanism is the Permanent Fund Dividend (PFD) – an equal cash payment to every eligible Alaskan resident each year . As of 2019 the fund’s value was about $64 billion, and it has paid out an average of ~$1,600 per person annually (inflation-adjusted) . These dividends represent a unique form of basic income, frequently cited as a real-world example of universal income from shared wealth . Governance of the APF is insulated from day-to-day politics: a board of trustees oversees investments, and the state legislature can appropriate only the fund’s earnings (not the principal) for dividends or other uses. Notably, in recent years a portion of earnings (via a structured draw) has also been used to support Alaska’s state budget . Outcomes: The APF has succeeded in converting finite oil wealth into a renewable financial asset for future generations. The annual PFD boosts household incomes and has measurably12 34 5 5 5 1 reduced poverty and inequality in Alaska, especially in rural areas. The fund’s existence also spurred global interest in resource-based citizen dividend schemes. Texas Permanent School Fund and University Fund (State of Texas) Texas, rich in lands and oil, has two notable public endowments benefiting education. The Permanent School Fund (PSF) , created in 1854, is a perpetual fund for public K-12 education. It was seeded with public lands and later fueled by oil and gas royalties from those lands . Managed by the State Board of Education and the General Land Office, the PSF has grown to roughly $47 billion in assets . Only investment income is distributed – the fund provides roughly $1–2 billion per year to public schools, helping pay for textbooks and classroom materials and equalizing school district resources . It also guarantees local school bonds, lowering borrowing costs for districts . This structure eases the burden on local taxpayers and provides a stable funding source for education across Texas. Similarly, the Permanent University Fund (PUF) (established 1876) is a trust funded by millions of acres of West Texas land. Revenues from oil, gas, and land leases are invested, and earnings support the University of Texas and Texas A&M university systems . The PUF, valued around $30–$40 billion, has financed the growth of UT Austin and other public higher education institutions, giving Texas a competitive advantage in research and education infrastructure . Governance: The PSF and PUF are constitutionally or statutorily protected, with oversight by public boards (education officials and university regents). Outcomes: These funds have helped educate generations of Texans with resources derived from common natural wealth, effectively converting oil in the ground into human capital development. Other State Permanent Funds in the U.S. Many other U.S. states, especially in the West, have similar sovereign trust funds that provide broad public benefits: Wyoming Permanent Mineral Trust Fund (PMTF) – Established in 1975 to save a portion of severance taxes on coal, oil, and gas, it has grown to about $9–10 billion in assets . The fund is managed by the state treasurer and functions as an endowment for Wyoming. Only earnings (interest, dividends, capital gains) can be spent – roughly 5% of the fund’s value annually – which go into Wyoming’s general budget . Today the PMTF covers a significant share of state expenditures, helping to fund public services and stabilize the budget against boom-bust resource cycles . This ensures that future generations benefit from today’s mineral wealth. New Mexico Land Grant Permanent Fund – Originating from lands granted at statehood and fueled by oil, gas, and mineral leases, this fund now exceeds $28 billion in assets . It is one of the largest educational endowments in the U.S., distributing ~5% of its value each year to fund New Mexico public schools, universities, and more . This revenue (nearly $1 billion annually in recent years) substantially supplements the state’s education budget, reducing the need for taxes. In 2022, voters approved tapping a portion of additional earnings for early childhood education, expanding the fund’s social impact. North Dakota Legacy Fund – A newer fund (approved 2010) that receives 30% of the state’s oil and gas tax revenue. It accumulated a balance of about $8–10 billion by the mid-2020s . Initially, principal and earnings were restricted from use for five years. Now the legislature can use the67 6 6 6 89 10 • 1112 1314 1516 • 17 17 • 18 2 interest income for strategic investments (infrastructure, tax relief, etc.), while the principal remains intact as a lasting legacy of the Bakken oil boom . The Legacy Fund aims to diversify the state’s wealth beyond oil and provide long-term fiscal stability. Note: Other states like Alabama, Montana, Utah, Colorado, and Alaska’s own local governments have also created permanent trusts (using resource revenues or one-time settlements). For example, Alabama’s Trust Fund invests offshore gas royalties to generate income for state needs, and Colorado’s Permanent Trust (from mineral leases) funds school construction. While structures vary, the common theme is saving non-renewable wealth in a renewable financial form to benefit citizens over the long term. Municipal and Community Trusts in the U.S. At the local level, a few cities and counties have likewise created investment funds or trusts to benefit their residents: Fairbanks North Star Borough Permanent Fund (Alaska) – In 1996 the City of Fairbanks sold its municipal utility system and placed the proceeds into a permanent fund . The fund is invested, and a portion of earnings support city services and capital projects, ensuring that the one-time asset sale yields ongoing community dividends. Several other Alaskan municipalities benefitted from one- time oil-related windfalls in the 1980s–90s and set up similar “mini-permanent funds” to fund local services (for instance, the North Slope Borough uses oil property tax revenues to provide free utilities and public facilities for its residents, effectively sharing resource wealth through services). Housing and Infrastructure Trusts: Many U.S. cities have dedicated housing trust funds to support affordable housing (e.g. Seattle’s Housing Levy fund, Washington D.C.’s Housing Production Trust ). These are typically funded by local taxes or fees and provide ongoing subsidies for low-cost housing, reducing housing cost burdens for thousands of residents. While not always structured as large endowments, a few accumulate reserves that function like an endowment for community development. For example, Burlington, Vermont’s Housing Trust Fund (est. 1988) invests dedicated tax revenues and uses the interest to fund affordable housing programs . Community Foundations: A uniquely American model is the community foundation , a philanthropic endowment intended to broadly improve quality of life in a specific city or region. The first and most famous is the Cleveland Foundation (founded 1914), which pools donor gifts into a permanent fund (now over $2.5 billion) and grants the earnings to local educational, cultural, and social initiatives. Today, hundreds of U.S. cities have such foundations. While they don’t pay cash to every resident, they provide universal community benefits – for example, funding public parks, libraries, scholarships, healthcare clinics, and arts programs that anyone can access. Community foundations are privately endowed but often work closely with local governments on shared civic goals. Kalamazoo Promise (Michigan) – An innovative example of a private trust providing near-universal benefit is the Kalamazoo Promise. In 2005, a group of anonymous donors endowed a fund to cover college tuition for every graduate of the Kalamazoo public school system . Eligible students receive up to 100% of tuition to any public college in Michigan, as a “Promise” of educational opportunity. This effectively acts as a community scholarship for all local students, an enormous18 • 19 • 20 • • 21 3 economic relief for families. The program is structured as a long-term trust (estimated in the hundreds of millions of dollars) and has inspired similar “Promise” scholarships in other communities . Outcomes: Kalamazoo’s college enrollment rates and youth retention have improved, and the city has attracted new families seeking the tuition benefit. It demonstrates how philanthropic wealth can be turned into a broad-based social dividend. United Kingdom Unlike some resource-rich regions, the UK did not establish a national sovereign wealth fund from North Sea oil (in contrast to Norway). However , there are local examples of community wealth funds . Notably, certain local governments in the UK negotiated benefits from natural resources, and historic charitable trusts play a role in providing public benefits. The focus is on funds that cover wide populations (beyond typical local government budgets or targeted welfare programs). Shetland Charitable Trust (Scotland) A singular case in the UK is the Shetland Charitable Trust (SCT) , a fund benefiting the 23,000 residents of the remote Shetland Islands. When North Sea oil was discovered in the 1970s, Shetland’s council negotiated a deal: a special levy on every barrel of oil landed at Sullom Voe Terminal goes into a local trust as compensation for hosting the facility . Established in 1976–1978, the SCT amassed a “war chest” of nearly £320 million over 40 years . The trust is governed by local trustees (initially councilors) and professionally invests its capital. Benefit mechanism: Instead of paying cash to individuals, the SCT uses its investment income to fund a wide array of community services and projects in Shetland. It has funded cultural associations, built leisure facilities (including eight public swimming pools ), paid for care workers for the elderly and disabled, and constructed a state-of-the-art arts and recreation center . In essence, oil wealth was transformed into improved public amenities and services that raise the quality of life for all Shetlanders . For many years, the islands could afford “icing on the cake” – amenities beyond what typical local budgets could fund – due to the trust’s support . Outcomes: The SCT significantly improved social welfare on Shetland, maintaining services even through oil downturns. However , after oil prices fell in 2014, the trust’s income dropped, prompting discussions on sustainability. Shetland’s example remains unique in the UK and is often cited in debates about how other regions might handle resource wealth or renewable energy revenues. Other UK Community Trusts and Funds While Shetland’s oil fund is one-of-a-kind, the UK has other trusts that provide broad local benefits: Community Wealth Fund (Proposed): In recent years, UK civil society groups (e.g. Local Trust) have advocated a national Community Wealth Fund using dormant financial assets. The idea is to endow local “levelling-up” trusts that would invest funds and use the returns to support the social infrastructure in left-behind communities . As of 2025, the government is considering allocating hundreds of millions from dormant bank accounts and other sources to such a fund, which would empower communities to fund facilities, training, and services. While not yet realized, it echoes the concept of a public endowment for community benefit.21 2223 24 24 24 25 • 20 4 Historic Philanthropic Trusts: The UK boasts some large charitable trusts with quasi-public roles. One example is the Peabody Trust in London. Founded in 1862 by American philanthropist George Peabody, it was endowed to provide housing for London’s working poor . Over 160 years, Peabody’s endowment (augmented by reinvestment and mergers) has grown such that Peabody is now one of London’s largest not-for-profit housing associations, owning over 100,000 homes and housing 220,000 residents . Rent from these homes is recycled to maintain and build more affordable housing. The effect is a permanently endowed housing stock that keeps rents below market for a substantial segment of Londoners, generation after generation. Similarly, trusts like Joseph Rowntree Foundation/Trust (housing and research) and William Sutton Trust** have created thousands of affordable homes in the UK. These trusts alleviate housing costs (a major financial burden) for many families – a broad public benefit, albeit targeted by income. Bridge House Estates (City of London) – A medieval endowment that exemplifies a public- philanthropic trust: It was established in the 12th–17th centuries to maintain London’s river bridges. The City of London Corporation still manages this fund, now worth over £1 billion. Surplus income beyond bridge upkeep is given as grants via the City Bridge Trust to charitable projects across Greater London. This centuries-old fund thus provides universal public goods (free bridges) and charitable grants without tax funding. It highlights how public asset endowments can last and adapt – today funding everything from youth services to arts in London – for broad benefit. Europe (Continental Europe) Across Europe, there are fewer cases of direct resident dividends, but several innovative municipal wealth funds and national funds exist. European cities have often leveraged public commercial assets (land, real estate, utilities) to create self-sustaining funds that finance infrastructure and social programs. Additionally, some European countries have national wealth funds (e.g. Norway’s famous oil fund) that indirectly benefit citizens via public spending. Here we focus on sub-national examples, especially urban asset management funds. Urban Asset Wealth Funds: Copenhagen, Hamburg, and Stockholm Several European cities have pioneered Urban Wealth Funds (UWFs) – city-owned investment corporations that manage municipal assets to generate revenue for public investment . Rather than selling assets off and spending the cash, these cities retain ownership through a fund structure, professionally manage the assets , and reinvest the returns in city development. Copenhagen City & Port Development Corporation (Denmark): In the 1990s, Copenhagen faced a fiscal crisis and underused harbor land. The city and national government jointly created CPH City & Port, a publicly owned, privately-run corporation, to take over extensive waterfront and former industrial lands . The corporation rezoned and leased/sold parcels for mixed-use redevelopment, turning derelict areas into vibrant districts. Crucially, the profits from land sales and leases were reinvested to finance Copenhagen’s metro system expansion , rather than going into private hands . By borrowing against the rising land values, City & Port provided an upfront ~$2 billion for metro construction . This self-financing model allowed Copenhagen to build critical infrastructure without burdening taxpayers or incurring excessive debt . Governance: City & Port operates commercially but is publicly owned (initially 55% city, 45% state). It must meet profit goals and city-building objectives. Outcomes: Over 25 years, the model• 26 • 2728 • 29 2930 31 3233 5 transformed Copenhagen’s harbor into a wealthy, livable waterfront, while paying for public transit and amenities through land value capture . Copenhagen is now cited as a leading UWF success story, demonstrating how unlocking public land value can fund urban renewal. HafenCity Hamburg GmbH (Germany): Hamburg undertook a similar approach with its HafenCity project – Europe’s largest inner-city redevelopment. The city established HafenCity GmbH to own and develop the old port area (nearly 160 hectares). The company leases or sells sites to private developers for offices, housing, etc., and uses the proceeds to build streets, parks, a new U‑bahn line, and even subsidize some housing. The project is largely self-financing , with land sale revenues plowed back into infrastructure and public spaces . Governance is via a city- owned corporation tasked with both profit and public interest goals. Outcomes: HafenCity (still ongoing through 2030) has dramatically expanded Hamburg’s city center with new neighborhoods, without major taxpayer outlays. It’s seen as a model of leveraging land assets for public benefit, although it also faced challenges (e.g. ensuring affordability and integration with the existing city). Stockholm Stadshus AB (Sweden): Stockholm’s approach showcases both the potential and pitfalls of asset funds. The city has significant land and property holdings managed via Stadshus AB , a holding company for city-owned enterprises (including real estate, housing companies, and utilities). This fund structure has enabled efficient management of assets and provided dividend income to the city budget . However , critics note that aggressive commercialization – such as selling public housing to raise revenues – contributed to housing shortages and higher rents in Stockholm . This underscores a tension in UWFs: maximizing financial returns vs. preserving public goods . Outcomes: Stockholm’s asset management has generally improved city finances and allowed investment in public projects, but the city continues to work on balancing profit with residents’ needs (e.g. maintaining affordable housing stock). National and Regional Wealth Funds in Europe Norway’s Government Pension Fund Global (GPFG) – While national (not regional), no survey of wealth funds is complete without mentioning Norway’s model. Created in 1990 to invest surplus petroleum revenues, it has grown into the world’s largest sovereign wealth fund (over $1.3 trillion ). The GPFG is invested globally and only a small, sustainable portion of returns (currently 3% of fund value) is used in Norway’s budget each year . This approach has shielded the domestic economy from oil volatility and will fund public pensions and services for generations . Norway’s success highlighted what the UK could have done with North Sea oil – and indeed inspired Shetland’s local fund. It remains a gold standard for transparently turning resource wealth into broad public prosperity (indirectly, via strong social welfare funded in part by the fund’s returns). Irish Sovereign Investment Fund (ISIF) – Ireland converted its national pension reserve into ISIF in 2014, with a mandate to invest for long-term domestic economic benefit (infrastructure, SMEs, etc.). While not directly paying citizens, it aims to strengthen the economy for the public good. Other EU countries like France and Italy have state investment funds focused on strategic sectors, though these operate more like development banks than citizen wealth funds. Regional Renewable Energy Funds: As Europe transitions to renewable energy, some regions are considering community wealth funds for wind or solar revenues. For instance, in parts of Scotland and Germany, wind farm income is placed into local trusts that then fund village improvements,3435 • 3637 • 38 3940 • 41 • • 6 lower electricity bills for residents, or pay small dividends. These are emerging and smaller in scale, but carry forward the principle of local shared wealth into the renewable era. Australia Australia has seen the creation of public wealth funds at the state and federal level , though typically aimed at future budget stability rather than direct citizen payouts. Additionally, a tradition of philanthropic trusts and community foundations exists, though usually not universal-benefit trusts of the scale seen elsewhere. Australian Future Fund (Federal): Established in 2006, the Future Fund is a national sovereign wealth fund seeded with budget surpluses and proceeds from the privatization of Telstra (the telecom company). Its purpose is to cover future public service pension liabilities. The Future Fund has grown to over AUD $250 billion, investing globally. By covering pension costs, it relieves future taxpayers of that burden , indirectly benefiting all Australians by bolstering long-term fiscal health. The federal government later added related funds (for healthcare, education, drought, etc.), collectively managing public savings for specified future needs. Outcome: The Future Fund’s strong returns have meant Australia’s retired civil servants’ pensions are financially secure without drawing on current revenues – an intergenerational benefit. State “Future” or Development Funds: Resource-rich states in Australia have created their own funds: Western Australia Future Fund: Created in 2012, it set aside a portion of iron ore royalties during the mining boom. By 2019 it held about AUD $1.3 billion, which was then repurposed into a Future Health Research & Innovation Fund – using investment earnings (~$50 million/yr) to finance medical research and health programs in WA . This approach converts non-renewable resource income into ongoing funding for public health (a universal benefit). New South Wales Generations Fund (NGF): Launched in 2018, the NGF is a debt retirement fund aimed at lowering NSW’s debt over time . It had ~$15 billion by 2022 . The NGF also includes a “Community Services Fund” component for local projects, but primarily its benefit is to strengthen the state’s finances (thus preserving funding for services and reducing future tax pressure). Queensland Future Fund: Initiated in 2020, similarly used state assets (like the titles registry) to create a fund to offset state debt. While these funds don’t pay dividends to individuals, the universal public benefit is in greater budgetary stability, funding infrastructure and services in the long run without as much taxpayer money. Community Benefit Trusts (Mining): In mining regions of Australia, it’s become common for governments or companies to establish local trusts to ensure communities benefit from nearby resource projects. For example, the Broken Hill Community Foundation was funded in part by mining companies and government to support economic diversification of that mining town. In Queensland’s Bowen Basin, some coal mining companies contribute to community development funds that invest in local education, health, and infrastructure. These are typically not huge endowments, but they play a role in mitigating the boom-bust impacts on communities and leaving a lasting benefit (like improved town facilities or scholarships) after the mines close. • • • 4243 • 4445 46 • • 7 Philanthropic and Community Foundations: Australia’s major cities have charitable foundations (e.g. Lord Mayor’s Charitable Foundation in Melbourne, founded 1923) that act like community endowments. They fund a wide range of community programs – from homelessness reduction to environmental projects – via investment income from donations. While not as large as their U.S. counterparts, they provide a flexible source of funding for universal community needs. For instance, the Lord Mayor’s fund (A$250 million+ corpus) made grants benefiting thousands of residents (such as community housing upgrades, youth employment programs, etc.). Such foundations, though private, reflect the principle of local wealth being pooled for public good . Asia Asia offers a diverse range of wealth funds and community trusts at various levels. Some city-states and regions have amassed large sovereign funds that support broad-based welfare, while others directly share wealth through dividends. We highlight a few prominent cases in East Asia alongside smaller examples. Singapore – Sovereign Funds for Public Wealth The city-state of Singapore stands out for its strategic use of sovereign wealth funds. Singapore manages its national savings through two main entities: GIC (Government Investment Corporation, managing foreign reserves) and Temasek Holdings (a state-owned holding/investment company). Though national in scope, Singapore is effectively an urban state, so these funds serve the city’s population of ~5.6 million. Temasek Holdings: Established in 1974, Temasek initially held stakes in government-linked companies but evolved into a global investor . As of 2024, Temasek’s portfolio is S$389 billion (USD $285 billion) . It is wholly owned by Singapore’s Ministry of Finance. Rather than funding a specific program, Temasek’s role is to generate returns for the shareholder (the government). Notably, Temasek pays annual dividends to the Singapore government , and along with GIC, its returns feed into the budget under a rule called the Net Investment Returns Contribution (NIRC) . Benefit mechanism: Under the NIRC policy, up to 50% of long-term expected returns of Singapore’s sovereign funds can be used each year for government spending . This means that earnings from Temasek and GIC help fund public services like education, healthcare, housing subsidies, and infrastructure for Singaporeans . In recent budgets, investment returns have covered over 20% of annual government expenditures – effectively offsetting what would otherwise be taxes . The remaining returns are reinvested to grow the funds (classified as past reserves). Outcomes: Singapore’s funds have enabled high levels of public housing (over 80% of residents in subsidized HDB flats), quality healthcare and education, and even periodic “Growth Dividends” – cash bonuses to citizens in surplus years – all while keeping taxes relatively low. The funds also provide a nest egg for crises: in 2020, Singapore drew on past reserves (with presidential approval) to finance COVID-19 relief measures, demonstrating the value of the endowment for rainy days. Governance: Singapore’s model is often praised for its strong governance and long-term discipline . GIC and Temasek operate independently with professional management, and transparency is maintained via annual reports. However , the specific investment strategies are not fully disclosed to the public, leading to some debate on accountability. Overall, these funds have exemplified how a city-state with no natural resources can still build a massive public endowment• • 4748 49 50 51 49 • 8 (Singapore funneled budget surpluses and land sale proceeds into these funds for decades) and use it to underpin widespread economic security for its residents. Hong Kong – Public Asset Management and Resident Dividends Hong Kong, a Special Administrative Region of China, does not have a single named “wealth fund” for citizens, but it effectively manages public wealth through mechanisms that benefit residents: Mass Transit Railway (MTR) Corporation: Hong Kong’s metro system is run by MTR Corp, which is majority government-owned and operates on a unique “ Rail plus Property ” model. The government grants MTR development rights for land around stations, and MTR earns substantial revenue by developing and leasing those properties. This cross-subsidy makes the transit system financially self-sustaining and even profitable . MTR pays dividends back to the government (as a shareholder) and reinvests in network expansion. The result is one of the world’s few profitable public transit systems , with high service quality and affordable fares . In essence, land value (a public asset) is harnessed to fund a universal service (public transportation) . Outcomes: Hong Kong enjoys a top-class metro and the government has earned revenue (used in budgets or infrastructure funds) – a win-win for public welfare and finances. Fiscal Reserves & One-time Dividends: Hong Kong maintains large fiscal reserves (often invested via the Exchange Fund) which provide financial stability. While no routine citizen dividend exists, during exceptionally large surpluses the government has occasionally given one-off payments. For example, in 2011 Hong Kong disbursed a HK$6,000 (≈US$770) cash handout to all adult permanent residents from surplus funds. More regularly, Hong Kong budgets provide indirect dividends by waiving or reducing public fees (e.g. 15 years of free education, healthcare subsidies, public housing for 45% of population). These subsidies are enabled by the government’s strong revenue base (land lease income, etc.), which is akin to drawing on communal wealth. Hong Kong’s approach shows how a city can leverage public assets (land and capital) to deliver broad benefits (transport, housing, services) without creating a standalone “fund” that cuts checks to individuals. Macau – Annual Cash Shares of Casino Wealth The neighboring SAR of Macau provides a vivid example of direct wealth sharing. Since 2008, the Macau government has run the Wealth Partaking Scheme , an annual cash disbursement to all Macau residents . Funded by the region’s massive casino gambling revenues, this scheme’s goal is to “share the results of economic development with the people and mitigate inflation effects.” Every year , permanent residents and non-permanent residents of Macau receive equal lump sums (the amount varies by year and residency status). For instance, in 2023 the payout was MOP $10,000 (≈US $1,250) for each permanent resident . These payments function as a no-strings-attached dividend from Macau’s casino-boom prosperity . Structure and governance: The Wealth Partaking Scheme is not an invested endowment but rather a budgetary allocation annually approved by the government, based on casino tax receipts. Macau does, however , maintain large fiscal reserves; effectively it can afford the payouts due to years of surplus. Outcomes: Over 17 years, the cash handouts have put money directly in residents’ pockets, boosting consumption and public satisfaction. While relatively modest per person, it has been especially helpful for• 52 53 53 • 54 54 5556 9 low-income residents in coping with living costs (and politically it reinforced support for the government). During economic downturns (e.g. COVID-19’s hit to tourism), Macau continued the payments, though it is now tightening eligibility to ensure only true residents benefit . Macau’s model is often contrasted with Hong Kong’s – the latter invests in services, the former opts for direct cash – each reflecting different public preferences. Other Notable Asian Examples Mongolia’s Human Development Fund: Mongolia, during a mining boom around 2010, experimented with an Alaska-style sovereign fund for its copper and coal revenues. The Human Development Fund was supposed to invest resource earnings and pay citizen dividends . In practice, the government began issuing cash transfers to citizens (and even shares in a state mining company) immediately. Around 2010–2012, Mongolians received several one-off cash distributions (totaling a few hundred dollars each) from mining proceeds. However , the boom turned to bust and the payouts proved unsustainable. The fund was largely depleted and later replaced with targeted social programs. Lesson: It showed both the popularity of cash sharing and the difficulty of sustaining it without strong fiscal discipline. It remains a case study in managing expectations around resource dividends. Gulf States and Others: Several Asian and Middle Eastern jurisdictions also have sub-national funds. For example, Abu Dhabi (part of the UAE) has the ADIA sovereign fund which, at the emirate level, invests oil wealth; citizens of Abu Dhabi (and the UAE broadly) benefit through cradle-to-grave free services and occasional citizen grants (stipends, housing plots, etc.) funded by investment income. In Iran , the government in 2010 diverted oil subsidy savings into cash transfers, effectively giving ~US$40 per person per month – a universal basic income funded by oil. Though not structured as an endowment, it was an alternative mechanism of sharing national wealth . These examples, while not the core focus regions requested, underscore the global appeal of using collective wealth to provide broad-based financial benefits . Comparison of Selected Wealth Funds and Trusts The table below summarizes key features of some prominent urban wealth funds, community trusts, and similar endowments discussed above: Fund/TrustLocation (Level)Established Funding SourceApprox. AssetsBenefit Mechanism Alaska Permanent FundAlaska, USA (State)197625% of oil royalties (North Slope)~$65 billion (2019)Annual cash dividend to all residents (avg. ~$1,600/ person) ; also supports state budget.57 • • 455 10 Fund/TrustLocation (Level)Established Funding SourceApprox. AssetsBenefit Mechanism Texas Permanent School FundTexas, USA (State)1854Land grants; oil & gas royalties~$47 billionEducation endowment – investment earnings fund K-12 public schools (textbooks, budgets) . Shetland Charitable TrustShetland, UK (Local)1976–1978Levy on oil flowing through Sullom Voe terminal~£320 millionCommunity trust – funds local services, facilities (pools, care homes, cultural centers) for all residents . Copenhagen City & Port Dev.Copenhagen, Denmark (City)1992 (Ørestad)¹Transfer of city/ state land assets (harbor , etc.); real estate lease/sale revenues(Assets revalued to finance ~$2 billion metro expansion)Urban asset corporation – leases/sells land; reinvests profits in infrastructure (e.g. metro) instead of taxes . Hong Kong MTR CorporationHong Kong, China (City)1979 (corp. 2000)Government land grants; property development; transit faresHK$282 billion market cap (2023)²Transit & property fund – profitable transit system funded by real estate; pays dividends to gov’t, keeps fares low .676 6 222324 24 29 31 32 52 53 11 Fund/TrustLocation (Level)Established Funding SourceApprox. AssetsBenefit Mechanism Western Australia Future FundWestern Australia (State)2012Portion of mining (iron ore) royalties; Royalties for Regions transfers~A$1.4 billion (2019)Future endowment – now FHRI Fund; investment earnings (~A$50m/yr) finance health research and innovation (public health benefits). Singapore Temasek HoldingsSingapore (City-State)1974Government equity stakes; fiscal reserves; land sale proceedsS$389 billion (2024)Sovereign fund – invests globally; ~50% of returns support national budget (defence, education, healthcare subsidies) . Macau Wealth Partaking SchemeMacau, China (SAR)2008Annual casino tax budget surplus (no fixed fund principal)(N/A – pay-as- you-go)Universal dividend – yearly cash payout to all ID-card holders (e.g. MOP 10k per resident in 2023) .42 43 4748 49 50 54 5556 12 Fund/TrustLocation (Level)Established Funding SourceApprox. AssetsBenefit Mechanism Peabody Housing TrustLondon, UK (Charity)1862Philanthropic endowment (George Peabody) + reinvested rental income£8+ billion in assets (est.)³Affordable housing trust – owns 100k+ homes for low-income residents; rents recycled to maintain and expand housing (lowers housing costs citywide). Kalamazoo PromiseKalamazoo, MI, USA (Private)2005Endowment by anonymous donors (local philanthropists)(Undisclosed ≈ $500+ million)Educational trust – pays up to 100% college tuition for all local high school graduates (universal scholarship) . <small>¹ The Copenhagen model evolved from the Ørestad Development Corporation (1992) to CPH City & Port (2007). </small> <small>² Market capitalization of MTR Corp, which is ~75% owned by Hong Kong Government. </small> <small>³ Peabody’s housing assets (100k units) estimated by multiplying units by average social housing asset value. </small> Conclusion Over the past century, a variety of urban wealth funds and community trusts have demonstrated ways to turn collective assets into long-term benefits for citizens . Whether through direct cash dividends (as in Alaska and Macau), endowments funding education and services (Texas PSF, Wyoming PMTF, Shetland Trust), or investment of public assets to finance infrastructure (Copenhagen’s City & Port, Hong Kong’s MTR), these mechanisms illustrate the power of shared wealth . Key factors in success include strong governance (to protect the fund for future generations), a stable funding source (e.g. dedicated resource revenues or assets), and a clear mandate aligning with public interests (be it reducing residents’ costs, improving services, or saving for the future). Importantly, even philanthropic and private trusts can achieve near-universal public benefits when designed with a broad mission – such as housing trusts that keep rents affordable for tens of thousands, or26 21 21 13 scholarship funds guaranteeing college access to all local youth. These complement government initiatives and often partner with public programs. As communities worldwide face economic transitions – from fossil fuels to renewables, from public asset privatization debates, or managing one-time windfalls (like tech booms or real estate spikes) – the examples in this survey provide models for sustaining prosperity . Urban wealth funds and community trusts offer a path to inclusive wealth-sharing , turning ephemeral or concentrated wealth into lasting, widely distributed benefits. By studying these precedents, policymakers and civic leaders can craft innovative solutions that ensure local wealth enriches all residents, now and for generations to come . Alaska Permanent Fund - Wikipedia https://en.wikipedia.org/wiki/Alaska_Permanent_Fund Future-Proofing Texas School Funding - Texas 2036 https://texas2036.org/future-proofing-texas-school-funding/ Permanent University Fund (PUF) - UTIMCO https://www.utimco.org/funds-managed/endowment-funds/permanent-university-fund-puf/ The discourse surrounding state-endowed oil fields, investments https://thedailytexan.com/2024/04/22/the-energy-of-the-future-the-discourse-surrounding-state-endowed-oil-fields-investments/ UT System oil money is a gusher for its administration https://www.texastribune.org/2017/08/21/ut-system-oil-money-gusher-its-administration-and-trickle-students/ Permanent Wyoming Mineral Trust Fund (PWMTF): Overview https://www.investopedia.com/terms/p/permanent-wyoming-mineral-trust-fund.asp New Mexico Land Grant Permanent Fund - Wikipedia https://en.wikipedia.org/wiki/New_Mexico_Land_Grant_Permanent_Fund Oil and natural gas: Powerhouse for ND's economy - Minot Daily News https://www.minotdailynews.com/opinion/local-columnists/2023/03/oil-and-natural-gas-powerhouse-for-nds-economy/ Permanent Fund Dividend: Alaska Department of Revenue https://pfd.alaska.gov/ Explainer: Affordable Housing Trusts and Community Land Trusts https://www.cityhealth.org/resource-center/affordable-housing-trusts-and-community-land-trusts/ The effects of the Kalamazoo Promise Scholarship on college ... https://www.brookings.edu/articles/the-effects-of-the-kalamazoo-promise-scholarship-on-college-enrollment-persistence-and- completion/ Scotland confronts energy transition, by Lou-Eve Popper (Le Monde diplomatique - English edition, October 2022) https://mondediplo.com/2022/10/03scotland Peabody Trust - Wikipedia https://en.wikipedia.org/wiki/Peabody_Trust1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 41 26 14 Urban Wealth Funds: A New Approach to City Financing | City-County Observer https://city-countyobserver .com/september/ [PDF] THE COPENHAGEN CITY AND PORT DEVELOPMENT ... https://www.brookings.edu/wp-content/uploads/2017/05/csi_20170601_copenhagen_port_paper .pdf The Copenhagen City and Port Development Corporation: A model for regenerating cities https://www.brookings.edu/articles/copenhagen-port-development/ Future Health Research and Innovation Fund - FHRI Fund Act https://fhrifund.health.wa.gov.au/About-us/FHRI-Fund-Act NSW Generations Funds Act 2018 No 37 - NSW Legislation https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-2018-037 NSW Generations Fund | NGF | NSW Budget 2019-2020 https://www.budget.nsw.gov.au/nsw-generations-fund Performance and Portfolio - Temasek Review 2024 https://www.temasekreview.com.sg/performance-and-portfolio.html Singapore's Temasek reports worst returns in 7 years https://www.ft.com/content/20ea0155-4e71-4b9c-9bb6-bc24c098e0f8 Ins & Outs of Temasek - Temasek https://www.temasek.com.sg/en/our-financials/ins-outs-temasek Wealth Partaking Scheme - Wikipedia https://en.wikipedia.org/wiki/Wealth_Partaking_Scheme Cash distribution scheme introduces residency criteria to limit eligibility https://www.macaubusiness.com/cash-distribution-scheme-introduces-residency-criteria-to-limit-eligibility/ Gov't enforces restrictions on cash handouts to exclude some not ... https://macaudailytimes.com.mo/govt-enforces-restrictions-on-cash-handouts-to-exclude-some-not-living-in-macau.html For the first time in 17 years, the government is making changes to ... https://www.facebook.com/Canal.Macau/videos/for-the-first-time-in-17-years-the-government-is-making-changes-to-who-can- recei/24251928377726670/27 28 29 30 32 33 36 37 38 39 40 52 53 31 34 35 42 43 44 45 46 47 48 49 50 51 54 55 56 57 15
+Global Survey of Urban Wealth Funds and
+Community Trusts
+Introduction
+Local and regional governments around the world have established  urban wealth funds ,  community
+trusts , and similar liquid endowments to benefit their populations. These are pools of capital (often derived
+from natural resource royalties, public land sales, or one-time windfalls) that are invested for long-term
+public benefit . In many cases, the funds’ earnings are used to pay  direct dividends to residents  or to
+finance universal public services  – thereby reducing the financial burden on citizens. Some communities
+have  also  benefited  from  philanthropic  trusts  that  function  like  endowments,  providing  broad-based
+benefits (such as education, housing, or healthcare subsidies) to nearly all residents in a geographic area.
+Below, we survey notable examples from the United States, United Kingdom, European Union, Australia,
+and  Asia,  describing  each  fund’s  structure,  funding  sources,  governance,  benefit  mechanisms,  and
+outcomes.
+United States
+The United States hosts several prominent sub-national wealth funds. Many were seeded with  natural
+resource revenues  (oil, gas, minerals) or public land assets and are managed as permanent trusts  whose
+investment income supports public programs or direct payments. Key examples include state-level funds
+(like  Alaska’s  oil  fund  and  Texas’s  education  endowments),  as  well  as  municipal  trusts  and  private
+community foundations benefiting local residents.
+Alaska Permanent Fund (State of Alaska)
+Established in 1976 via a constitutional amendment, the Alaska Permanent Fund (APF)  is a state-owned
+sovereign wealth fund  that captures a share of Alaska’s oil revenues . At least 25% of all mineral
+lease royalties are deposited into the fund’s principal, which is invested globally by the semi-independent
+Alaska Permanent Fund Corporation . The principal is protected in perpetuity, while the investment
+earnings  are used to benefit citizens. The primary benefit mechanism is the Permanent Fund Dividend
+(PFD)  – an equal cash payment to every eligible Alaskan resident each year . As of 2019 the fund’s value was
+about $64 billion, and it has paid out an average of ~$1,600 per person annually (inflation-adjusted) .
+These dividends represent a unique form of basic income, frequently cited as a real-world example of
+universal income from shared wealth . 
+Governance of the APF is insulated from day-to-day politics: a board of trustees oversees investments, and
+the state legislature can appropriate only the fund’s earnings (not the principal) for dividends or other uses.
+Notably, in recent years a portion of earnings (via a structured draw) has also been used to support Alaska’s
+state  budget .  Outcomes:  The  APF  has  succeeded  in  converting  finite  oil  wealth  into  a  renewable
+financial asset for future generations. The annual PFD boosts household incomes and has measurably12
+34
+5
+5
+5
+1
+reduced poverty and inequality in Alaska, especially in rural areas. The fund’s existence also spurred global
+interest in resource-based citizen dividend schemes.
+Texas Permanent School Fund and University Fund (State of Texas)
+Texas, rich in lands and oil, has two notable public endowments benefiting education. The  Permanent
+School Fund (PSF) , created in 1854, is a perpetual fund for public K-12 education. It was seeded with public
+lands and later fueled by oil and gas royalties  from those lands . Managed by the State Board of
+Education  and  the  General  Land  Office,  the  PSF  has  grown  to  roughly  $47  billion  in  assets .  Only
+investment income is distributed – the fund provides roughly  $1–2 billion per year  to public schools,
+helping pay for textbooks and classroom materials and equalizing school district resources . It also
+guarantees local school bonds, lowering borrowing costs for districts . This structure eases the burden
+on local taxpayers and provides a stable funding source for education across Texas.
+Similarly, the Permanent University Fund (PUF)  (established 1876) is a trust funded by millions of acres of
+West Texas land. Revenues from oil, gas, and land leases are invested, and earnings support the University
+of Texas and Texas A&M university systems . The PUF, valued around $30–$40 billion, has financed
+the  growth  of  UT  Austin  and  other  public  higher  education  institutions,  giving  Texas  a  competitive
+advantage in research and education infrastructure . Governance:  The PSF and PUF are constitutionally
+or  statutorily  protected,  with  oversight  by  public  boards  (education  officials  and  university  regents).
+Outcomes:  These  funds  have  helped  educate  generations  of  Texans  with  resources  derived  from
+common natural wealth, effectively converting oil in the ground into human capital development.
+Other State Permanent Funds in the U.S.
+Many other U.S. states, especially in the West, have similar sovereign trust funds  that provide broad public
+benefits:
+Wyoming  Permanent  Mineral  Trust  Fund  (PMTF)  –  Established  in  1975  to  save  a  portion  of
+severance taxes on coal, oil, and gas, it has grown to about $9–10 billion  in assets . The fund
+is managed by the state treasurer and functions as an endowment for Wyoming.  Only earnings
+(interest, dividends, capital gains)  can be spent – roughly 5% of the fund’s value annually – which
+go  into  Wyoming’s  general  budget .  Today  the  PMTF  covers  a  significant  share  of  state
+expenditures,  helping  to  fund  public  services  and  stabilize  the  budget  against  boom-bust
+resource cycles . This ensures that future generations benefit from today’s mineral wealth. 
+New Mexico Land Grant Permanent Fund  – Originating from lands granted at statehood and
+fueled by oil, gas, and mineral leases, this fund now exceeds $28 billion  in assets . It is one of the
+largest educational endowments in the U.S., distributing ~5% of its value each year to fund New
+Mexico public schools, universities, and more . This revenue (nearly $1 billion annually in recent
+years) substantially supplements the state’s education budget, reducing the need for taxes. In 2022,
+voters approved tapping a portion of additional earnings for early childhood education, expanding
+the fund’s social impact. 
+North Dakota Legacy Fund  – A newer fund (approved 2010) that receives 30% of the state’s oil and
+gas tax revenue. It accumulated a  balance of about $8–10 billion by the mid-2020s . Initially,
+principal and earnings were restricted from use for five years. Now the legislature can use the67
+6
+6
+6
+89
+10
+• 
+1112
+1314
+1516
+• 
+17
+17
+• 
+18
+2
+interest income for strategic investments (infrastructure, tax relief, etc.), while the principal remains
+intact as a lasting legacy of the Bakken oil boom . The Legacy Fund aims to diversify the state’s
+wealth beyond oil and provide long-term fiscal stability.
+Note:  Other  states  like  Alabama,  Montana,  Utah,  Colorado,  and  Alaska’s  own  local
+governments  have  also  created  permanent  trusts  (using  resource  revenues  or  one-time
+settlements). For example, Alabama’s Trust Fund  invests offshore gas royalties to generate
+income for state needs, and Colorado’s Permanent Trust  (from mineral leases) funds school
+construction. While structures vary, the common theme is saving non-renewable wealth in
+a renewable financial form  to benefit citizens over the long term.
+Municipal and Community Trusts in the U.S.
+At the local level, a few cities and counties have likewise created investment funds or trusts to benefit their
+residents:
+Fairbanks North Star Borough Permanent Fund (Alaska)  – In 1996 the City of Fairbanks sold its
+municipal utility system and placed the proceeds into a permanent fund . The fund is invested,
+and a portion of earnings support city services and capital projects, ensuring that the one-time asset
+sale yields ongoing community dividends. Several other Alaskan municipalities benefitted from one-
+time oil-related windfalls in the 1980s–90s and set up similar “mini-permanent funds” to fund local
+services (for instance, the  North Slope Borough  uses oil property tax revenues to provide free
+utilities and public facilities for its residents, effectively sharing resource wealth through services).
+Housing  and  Infrastructure  Trusts:  Many  U.S.  cities  have  dedicated  housing  trust  funds  to
+support  affordable  housing  (e.g.  Seattle’s  Housing  Levy  fund,  Washington  D.C.’s  Housing
+Production Trust ). These are typically funded by local taxes or fees and provide ongoing subsidies
+for low-cost housing, reducing housing cost burdens for thousands of residents. While not always
+structured as large endowments, a few accumulate reserves that function like an endowment for
+community  development.  For  example,  Burlington,  Vermont’s  Housing  Trust  Fund  (est.  1988)
+invests dedicated tax revenues and uses the interest to fund affordable housing programs .
+Community  Foundations:  A  uniquely  American  model  is  the  community  foundation ,  a
+philanthropic endowment intended to broadly improve quality of life in a specific city or region. The
+first and most famous is the Cleveland Foundation  (founded 1914), which pools donor gifts into a
+permanent fund (now over $2.5 billion) and grants the earnings to local educational, cultural, and
+social initiatives. Today, hundreds of U.S. cities have such foundations. While they don’t pay cash to
+every resident, they  provide universal community benefits  – for example, funding public parks,
+libraries, scholarships, healthcare clinics, and arts programs that anyone can access. Community
+foundations are privately endowed but often work closely with local governments on shared civic
+goals.
+Kalamazoo Promise (Michigan)  – An innovative example of a private trust providing near-universal
+benefit is the Kalamazoo Promise. In 2005, a group of anonymous donors endowed a fund to cover
+college tuition for every graduate of the Kalamazoo public school system . Eligible students
+receive  up  to  100%  of  tuition  to  any  public  college  in  Michigan,  as  a  “Promise”  of  educational
+opportunity. This effectively acts as a community scholarship for  all local students, an enormous18
+• 
+19
+• 
+20
+• 
+• 
+21
+3
+economic  relief  for  families.  The  program  is  structured  as  a  long-term  trust  (estimated  in  the
+hundreds of millions of dollars) and has inspired similar “Promise” scholarships in other communities
+. Outcomes:  Kalamazoo’s college enrollment rates and youth retention have improved, and the
+city has attracted new families seeking the tuition benefit. It demonstrates how philanthropic wealth
+can be turned into a broad-based social dividend.
+United Kingdom
+Unlike some resource-rich regions, the UK did not establish a national sovereign wealth fund from North
+Sea oil (in contrast to Norway). However , there are local examples of community wealth funds . Notably,
+certain local governments in the UK negotiated benefits from natural resources, and historic charitable
+trusts play a role in providing public benefits. The focus is on funds that cover wide populations (beyond
+typical local government budgets or targeted welfare programs).
+Shetland Charitable Trust (Scotland)
+A singular case in the UK is the Shetland Charitable Trust (SCT) , a fund benefiting the 23,000 residents of
+the remote Shetland Islands. When North Sea oil was discovered in the 1970s, Shetland’s council negotiated
+a  deal:  a  special  levy  on  every  barrel  of  oil  landed  at  Sullom  Voe  Terminal  goes  into  a  local  trust  as
+compensation  for hosting the facility . Established in 1976–1978, the SCT amassed a “war chest” of
+nearly £320 million  over 40 years . The trust is governed by local trustees (initially councilors) and
+professionally invests its capital. 
+Benefit mechanism:  Instead of paying cash to individuals, the SCT uses its investment income to fund a
+wide array of community services and projects in Shetland. It has  funded cultural associations, built
+leisure facilities (including  eight public swimming pools ), paid for care workers for the elderly and
+disabled, and constructed a state-of-the-art arts and recreation center . In essence, oil wealth was
+transformed into improved public amenities and services that raise the quality of life for all Shetlanders
+. For many years, the islands could afford “icing on the cake” – amenities beyond what typical local
+budgets could fund – due to the trust’s support .  Outcomes:  The SCT significantly improved social
+welfare on Shetland, maintaining services even through oil downturns. However , after oil prices fell in 2014,
+the trust’s income dropped, prompting discussions on sustainability. Shetland’s example remains unique in
+the UK and is often cited in debates about how other regions might handle resource wealth or renewable
+energy revenues.
+Other UK Community Trusts and Funds
+While Shetland’s oil fund is one-of-a-kind, the UK has other trusts that provide broad local benefits:
+Community Wealth Fund (Proposed):  In recent years, UK civil society groups (e.g. Local Trust) have
+advocated a  national Community Wealth Fund  using dormant financial assets. The idea is to
+endow local “levelling-up” trusts that would invest funds and use the returns to support the social
+infrastructure  in  left-behind  communities .  As  of  2025,  the  government  is  considering
+allocating hundreds of millions from dormant bank accounts and other sources to such a fund,
+which would empower communities to fund facilities, training, and services. While not yet realized, it
+echoes the concept of a public endowment for community benefit.21
+2223
+24
+24
+24
+25
+• 
+20
+4
+Historic Philanthropic Trusts:  The UK boasts some large charitable trusts with quasi-public roles.
+One example is the Peabody Trust  in London. Founded in 1862 by American philanthropist George
+Peabody, it was endowed to provide housing for London’s working poor . Over 160 years, Peabody’s
+endowment (augmented by reinvestment and mergers) has grown such that Peabody is now one of
+London’s largest not-for-profit housing associations, owning over  100,000 homes and housing 220,000
+residents .  Rent  from  these  homes  is  recycled  to  maintain  and  build  more  affordable
+housing. The effect is a permanently endowed housing stock  that keeps rents below market for
+a substantial segment of Londoners, generation after generation. Similarly, trusts like Joseph
+Rowntree  Foundation/Trust  (housing  and  research)  and  William  Sutton  Trust**  have  created
+thousands of affordable homes in the UK. These trusts alleviate housing costs (a major financial
+burden) for many families – a broad public benefit, albeit targeted by income.
+Bridge  House  Estates  (City  of  London)  –  A  medieval  endowment  that  exemplifies  a  public-
+philanthropic trust: It was established in the 12th–17th centuries to maintain London’s river bridges.
+The City of London Corporation still manages this fund, now worth over £1 billion. Surplus income
+beyond bridge upkeep is given as grants via the  City Bridge Trust  to charitable projects across
+Greater London. This centuries-old fund thus provides universal public goods (free bridges) and
+charitable grants  without tax funding. It highlights how  public asset endowments  can last and
+adapt – today funding everything from youth services to arts in London – for broad benefit.
+Europe (Continental Europe)
+Across Europe, there are fewer cases of direct resident dividends, but several innovative municipal wealth
+funds  and national funds exist. European cities have often leveraged public commercial assets (land, real
+estate,  utilities)  to  create  self-sustaining  funds  that  finance  infrastructure  and  social  programs.
+Additionally, some European countries have national wealth funds (e.g. Norway’s famous oil fund) that
+indirectly benefit citizens via public spending. Here we focus on sub-national examples, especially urban
+asset management funds.
+Urban Asset Wealth Funds: Copenhagen, Hamburg, and Stockholm
+Several European cities have pioneered Urban Wealth Funds (UWFs)  – city-owned investment corporations
+that manage municipal assets to generate revenue for public investment . Rather than selling assets
+off and spending the cash, these cities retain ownership through a fund structure, professionally manage
+the assets , and reinvest the returns in city development. 
+Copenhagen City & Port Development Corporation (Denmark):  In the 1990s, Copenhagen faced a
+fiscal crisis and underused harbor land. The city and national government jointly created CPH City &
+Port,  a  publicly  owned,  privately-run  corporation,  to  take  over  extensive  waterfront  and  former
+industrial lands . The corporation rezoned and leased/sold parcels for mixed-use redevelopment,
+turning derelict areas into vibrant districts. Crucially, the profits from land sales and leases were
+reinvested to finance Copenhagen’s  metro system expansion , rather than going into private
+hands . By borrowing against the rising land values, City & Port provided an upfront
+~$2 billion for metro construction . This  self-financing model  allowed Copenhagen to build
+critical  infrastructure  without  burdening  taxpayers  or  incurring  excessive  debt . 
+Governance:  City & Port operates commercially but is publicly owned (initially 55% city, 45%
+state). It must meet profit goals and city-building objectives. Outcomes:  Over 25 years, the model• 
+26
+• 
+2728
+• 
+29
+2930
+31
+3233
+5
+transformed Copenhagen’s harbor into a wealthy, livable waterfront, while paying for public transit and
+amenities through land value capture . Copenhagen is now cited as a leading UWF success
+story, demonstrating how unlocking public land value can fund urban renewal. 
+HafenCity Hamburg GmbH (Germany):  Hamburg undertook a similar approach with its HafenCity
+project – Europe’s largest inner-city redevelopment. The city established HafenCity GmbH to own and
+develop  the  old  port  area  (nearly  160  hectares).  The  company  leases  or  sells  sites  to  private
+developers for offices, housing, etc., and uses the proceeds to build streets, parks, a new U‑bahn
+line,  and  even  subsidize  some  housing.  The  project  is  largely  self-financing ,  with  land  sale
+revenues plowed back into infrastructure and public spaces . Governance is via a city-
+owned corporation tasked with both profit and public interest goals.  Outcomes:  HafenCity (still
+ongoing through 2030) has dramatically expanded Hamburg’s city center with new neighborhoods,
+without major taxpayer outlays. It’s seen as a model of leveraging land assets for public benefit,
+although it also faced challenges (e.g. ensuring affordability and integration with the existing city). 
+Stockholm Stadshus AB (Sweden):  Stockholm’s approach showcases both the potential and pitfalls
+of asset funds. The city has significant land and property holdings managed via  Stadshus AB , a
+holding company for city-owned enterprises (including real estate, housing companies, and utilities).
+This fund structure has enabled efficient management of assets and provided dividend income to
+the city budget . However , critics note that aggressive commercialization – such as selling public
+housing to raise revenues – contributed to housing shortages and higher rents in Stockholm .
+This underscores a tension in UWFs:  maximizing financial returns vs. preserving public goods . 
+Outcomes:  Stockholm’s  asset  management  has  generally  improved  city  finances  and  allowed
+investment in public projects, but the city continues to work on balancing profit with residents’ needs
+(e.g. maintaining affordable housing stock).
+National and Regional Wealth Funds in Europe
+Norway’s Government Pension Fund Global (GPFG)  – While national (not regional), no survey of
+wealth funds is complete without mentioning Norway’s model. Created in 1990 to invest surplus
+petroleum revenues, it has grown into the world’s largest sovereign wealth fund (over $1.3 trillion ).
+The GPFG is invested globally and only a small, sustainable portion of returns (currently 3% of fund
+value) is used in Norway’s budget each year . This approach has  shielded the domestic economy
+from oil volatility  and will fund public pensions and services for generations . Norway’s success
+highlighted what the UK could have done with North Sea oil – and indeed inspired Shetland’s local
+fund.  It  remains  a  gold  standard  for  transparently  turning  resource  wealth  into  broad  public
+prosperity (indirectly, via strong social welfare funded in part by the fund’s returns).
+Irish Sovereign Investment Fund (ISIF)  – Ireland converted its national pension reserve into ISIF in
+2014, with a mandate to invest for long-term domestic economic benefit (infrastructure, SMEs, etc.).
+While not directly paying citizens, it aims to strengthen the economy for the public good. Other EU
+countries like France and Italy have state investment funds focused on strategic sectors, though
+these operate more like development banks than citizen wealth funds.
+Regional Renewable Energy Funds:  As Europe transitions to renewable energy, some regions are
+considering community wealth funds for wind or solar revenues. For instance, in parts of Scotland
+and Germany, wind farm income is placed into local trusts that then fund village improvements,3435
+• 
+3637
+• 
+38
+3940
+• 
+41
+• 
+• 
+6
+lower electricity bills for residents, or pay small dividends. These are emerging and smaller in scale,
+but carry forward the principle of local shared wealth  into the renewable era.
+Australia
+Australia has seen the creation of  public wealth funds at the state and federal level , though typically
+aimed at future budget stability rather than direct citizen payouts. Additionally, a tradition of philanthropic
+trusts and community foundations  exists, though usually not universal-benefit trusts of the scale seen
+elsewhere.
+Australian Future Fund (Federal):  Established in 2006, the Future Fund is a national sovereign
+wealth  fund  seeded  with  budget  surpluses  and  proceeds  from  the  privatization  of  Telstra  (the
+telecom company). Its purpose is to cover future public service pension liabilities. The Future Fund
+has grown to over AUD $250 billion, investing globally. By covering pension costs, it relieves future
+taxpayers of that burden , indirectly benefiting all Australians by bolstering long-term fiscal health.
+The  federal  government  later  added  related  funds  (for  healthcare,  education,  drought,  etc.),
+collectively managing public savings for specified future needs. Outcome:  The Future Fund’s strong
+returns have meant Australia’s retired civil servants’ pensions are financially secure without drawing
+on current revenues – an intergenerational benefit.
+State “Future” or Development Funds:  Resource-rich states in Australia have created their own
+funds: 
+Western Australia Future Fund:  Created in 2012, it set aside a portion of iron ore royalties during
+the mining boom. By 2019 it held about AUD $1.3 billion, which was then repurposed into a Future
+Health Research & Innovation Fund  – using investment earnings (~$50 million/yr) to finance
+medical research and health programs in WA . This approach converts non-renewable
+resource income into ongoing funding for public health (a universal benefit). 
+New South Wales Generations Fund (NGF):  Launched in 2018, the NGF is a debt retirement fund
+aimed at lowering NSW’s debt over time . It had ~$15 billion by 2022 . The NGF also
+includes a “Community Services Fund” component for local projects, but primarily its benefit is to
+strengthen the state’s finances (thus preserving funding for services and reducing future tax
+pressure). 
+Queensland Future Fund:  Initiated in 2020, similarly used state assets (like the titles registry) to
+create a fund to offset state debt. While these funds don’t pay dividends to individuals, the universal
+public benefit  is in greater budgetary stability, funding infrastructure and services in the long run
+without as much taxpayer money.
+Community  Benefit  Trusts  (Mining):  In  mining  regions  of  Australia,  it’s  become  common  for
+governments or companies to establish local trusts to ensure communities benefit from nearby
+resource projects. For example, the  Broken Hill Community Foundation  was funded in part by
+mining companies and government to support economic diversification of that mining town. In
+Queensland’s Bowen Basin, some coal mining companies contribute to community development
+funds  that  invest  in  local  education,  health,  and  infrastructure.  These  are  typically  not  huge
+endowments, but they play a role in  mitigating the boom-bust impacts  on communities and
+leaving a lasting benefit (like improved town facilities or scholarships) after the mines close. • 
+• 
+• 
+4243
+• 
+4445 46
+• 
+• 
+7
+Philanthropic and Community Foundations:  Australia’s major cities have charitable foundations
+(e.g.  Lord Mayor’s Charitable Foundation  in Melbourne, founded 1923) that act like community
+endowments. They fund a wide range of community programs – from homelessness reduction to
+environmental projects – via investment income from donations. While not as large as their U.S.
+counterparts, they provide a flexible source of funding for universal community needs. For instance,
+the Lord Mayor’s fund (A$250 million+ corpus) made grants benefiting thousands of residents (such
+as community housing upgrades, youth employment programs, etc.). Such foundations, though
+private, reflect the principle of local wealth being pooled for public good .
+Asia
+Asia offers a diverse range of wealth funds and community trusts at various levels. Some city-states and
+regions have amassed large sovereign funds that support broad-based welfare, while others directly share
+wealth through dividends. We highlight a few prominent cases in East Asia alongside smaller examples.
+Singapore – Sovereign Funds for Public Wealth
+The city-state of Singapore  stands out for its strategic use of sovereign wealth funds. Singapore manages
+its national savings through two main entities: GIC (Government Investment Corporation, managing foreign
+reserves) and Temasek Holdings  (a state-owned holding/investment company). Though national in scope,
+Singapore is effectively an urban state, so these funds serve the city’s population of ~5.6 million.
+Temasek  Holdings:  Established  in  1974,  Temasek  initially  held  stakes  in  government-linked
+companies but evolved into a global investor . As of 2024, Temasek’s portfolio is S$389 billion  (USD
+$285 billion) . It is wholly owned by Singapore’s Ministry of Finance. Rather than funding a
+specific  program,  Temasek’s  role  is  to  generate  returns  for  the  shareholder  (the  government).
+Notably, Temasek pays annual dividends to the Singapore government , and along with GIC, its
+returns feed into the budget under a rule called the Net Investment Returns Contribution (NIRC)
+.  Benefit mechanism:  Under the NIRC policy, up to  50% of long-term expected returns  of
+Singapore’s sovereign funds can be used each year for government spending . This means that
+earnings  from  Temasek  and  GIC  help  fund  public  services  like  education,  healthcare,  housing
+subsidies,  and  infrastructure  for  Singaporeans .  In  recent  budgets,  investment  returns  have
+covered  over  20%  of  annual  government  expenditures  –  effectively  offsetting  what  would
+otherwise be taxes . The remaining returns are reinvested to grow the funds (classified as past
+reserves).  Outcomes:  Singapore’s funds have enabled high levels of public housing (over 80% of
+residents in subsidized HDB flats), quality healthcare and education, and even periodic  “Growth
+Dividends”  – cash bonuses to citizens in surplus years – all while keeping taxes relatively low. The
+funds also provide a nest egg for crises: in 2020, Singapore drew on past reserves (with presidential
+approval) to finance COVID-19 relief measures, demonstrating the value of the endowment for rainy
+days.
+Governance:  Singapore’s  model  is  often  praised  for  its  strong  governance  and  long-term
+discipline .  GIC  and  Temasek  operate  independently  with  professional  management,  and
+transparency is maintained via annual reports. However , the specific investment strategies are not
+fully disclosed to the public, leading to some debate on accountability. Overall, these funds have
+exemplified how a city-state with no natural resources can still build a massive public endowment• 
+• 
+4748
+49
+50
+51
+49
+• 
+8
+(Singapore funneled budget surpluses and land sale proceeds into these funds for decades) and use
+it to underpin widespread economic security for its residents.
+Hong Kong – Public Asset Management and Resident Dividends
+Hong Kong, a Special Administrative Region of China, does not have a single named “wealth fund” for
+citizens, but it effectively manages public wealth through mechanisms that benefit residents:
+Mass Transit Railway (MTR) Corporation:  Hong Kong’s metro system is run by MTR Corp, which is
+majority  government-owned  and  operates  on  a  unique  “ Rail  plus  Property ”  model.  The
+government grants MTR development rights for land around stations, and MTR earns substantial
+revenue by developing and leasing those properties. This cross-subsidy makes the transit system
+financially self-sustaining and even profitable . MTR pays dividends back to the government (as a
+shareholder) and reinvests in network expansion. The result is one of the  world’s few profitable
+public transit systems , with high service quality and affordable fares . In essence, land value (a
+public asset) is harnessed to fund a universal service (public transportation) .  Outcomes:
+Hong Kong enjoys a top-class metro and the government has earned revenue (used in budgets or
+infrastructure funds) – a win-win for public welfare and finances.
+Fiscal Reserves & One-time Dividends:  Hong Kong maintains large fiscal reserves (often invested
+via the Exchange Fund) which provide financial stability. While no routine citizen dividend exists,
+during exceptionally large surpluses the government has occasionally given one-off payments. For
+example, in 2011 Hong Kong disbursed a HK$6,000 (≈US$770) cash handout to all adult permanent
+residents from surplus funds. More regularly, Hong Kong budgets provide  indirect dividends  by
+waiving or reducing public fees (e.g. 15 years of free education, healthcare subsidies, public housing
+for 45% of population). These subsidies are enabled by the government’s strong revenue base (land
+lease income, etc.), which is akin to drawing on communal wealth. 
+Hong Kong’s approach shows how a city can  leverage public assets (land and capital)  to deliver broad
+benefits (transport, housing, services) without creating a standalone “fund” that cuts checks to individuals. 
+Macau – Annual Cash Shares of Casino Wealth
+The neighboring SAR of Macau  provides a vivid example of direct wealth sharing. Since 2008, the Macau
+government  has  run  the  Wealth  Partaking  Scheme ,  an  annual  cash  disbursement  to  all  Macau
+residents . Funded by the region’s massive casino gambling revenues, this scheme’s goal is to “share the
+results of economic development with the people and mitigate inflation effects.”  Every year , permanent
+residents and non-permanent residents of Macau receive equal lump sums (the amount varies by year and
+residency status). For instance, in 2023 the payout was MOP $10,000 (≈US $1,250) for each permanent
+resident . These payments function as a no-strings-attached dividend from Macau’s casino-boom
+prosperity .
+Structure and governance:  The Wealth Partaking Scheme is not an invested endowment but rather a
+budgetary allocation annually approved by the government, based on casino tax receipts. Macau does,
+however ,  maintain  large  fiscal  reserves;  effectively  it  can  afford  the  payouts  due  to  years  of  surplus.
+Outcomes:  Over 17 years, the cash handouts have put money directly in residents’ pockets, boosting
+consumption and public satisfaction. While relatively modest per person, it has been especially helpful for• 
+52
+53
+53
+• 
+54
+54
+5556
+9
+low-income residents in coping with living costs (and politically it reinforced support for the government).
+During economic downturns (e.g. COVID-19’s hit to tourism), Macau continued the payments, though it is
+now tightening eligibility to ensure only true residents benefit . Macau’s model is often contrasted with
+Hong Kong’s – the latter invests in services, the former opts for direct cash – each reflecting different public
+preferences.
+Other Notable Asian Examples
+Mongolia’s  Human  Development  Fund:  Mongolia,  during  a  mining  boom  around  2010,
+experimented with an Alaska-style sovereign fund for its copper and coal revenues. The Human
+Development Fund was supposed to invest resource earnings and pay citizen dividends . In practice,
+the government began issuing cash transfers to citizens  (and even shares in a state mining company)
+immediately. Around 2010–2012, Mongolians received several one-off cash distributions (totaling a
+few  hundred  dollars  each)  from  mining  proceeds.  However ,  the  boom  turned  to  bust  and  the
+payouts proved unsustainable. The fund was largely depleted and later replaced with targeted social
+programs. Lesson:  It showed both the popularity of cash sharing and the difficulty of sustaining it
+without strong fiscal discipline. It remains a case study in managing expectations around resource
+dividends.
+Gulf  States  and  Others:  Several  Asian  and  Middle  Eastern  jurisdictions  also  have  sub-national
+funds. For example, Abu Dhabi  (part of the UAE) has the ADIA sovereign fund  which, at the emirate
+level, invests oil wealth; citizens of Abu Dhabi (and the UAE broadly) benefit through cradle-to-grave
+free services and occasional  citizen grants (stipends, housing plots, etc.)  funded by investment
+income. In Iran , the government in 2010 diverted oil subsidy savings into cash transfers, effectively
+giving  ~US$40  per  person  per  month  –  a  universal  basic  income  funded  by  oil.  Though  not
+structured  as  an  endowment,  it  was  an  alternative  mechanism  of  sharing  national  wealth .  These
+examples,  while  not  the  core  focus  regions  requested,  underscore  the  global  appeal  of  using
+collective wealth to provide broad-based financial benefits .
+Comparison of Selected Wealth Funds and Trusts
+The table below summarizes key features of some prominent urban wealth funds, community trusts, and
+similar endowments discussed above:
+Fund/TrustLocation
+(Level)Established Funding SourceApprox.
+AssetsBenefit
+Mechanism
+Alaska
+Permanent
+FundAlaska, USA
+(State)197625% of oil
+royalties (North
+Slope)~$65 billion
+(2019)Annual cash
+dividend  to all
+residents (avg.
+~$1,600/
+person) ;
+also supports
+state budget.57
+• 
+• 
+455
+10
+Fund/TrustLocation
+(Level)Established Funding SourceApprox.
+AssetsBenefit
+Mechanism
+Texas
+Permanent
+School FundTexas, USA
+(State)1854Land grants; oil
+& gas royalties~$47 billionEducation
+endowment  –
+investment
+earnings fund
+K-12 public
+schools
+(textbooks,
+budgets) .
+Shetland
+Charitable
+TrustShetland, UK
+(Local)1976–1978Levy on oil
+flowing through
+Sullom Voe
+terminal~£320 millionCommunity
+trust  – funds
+local services,
+facilities (pools,
+care homes,
+cultural
+centers) for all
+residents .
+Copenhagen
+City & Port
+Dev.Copenhagen,
+Denmark
+(City)1992
+(Ørestad)¹Transfer of city/
+state land
+assets  (harbor ,
+etc.); real estate
+lease/sale
+revenues(Assets
+revalued to
+finance
+~$2 billion
+metro
+expansion)Urban asset
+corporation  –
+leases/sells
+land; reinvests
+profits in
+infrastructure
+(e.g. metro) 
+instead of
+taxes .
+Hong Kong
+MTR
+CorporationHong Kong,
+China (City)1979 (corp.
+2000)Government
+land grants;
+property
+development;
+transit faresHK$282 billion
+market cap
+(2023)²Transit &
+property fund
+– profitable
+transit system
+funded by real
+estate; pays
+dividends to
+gov’t, keeps
+fares low .676
+6
+222324
+24
+29 31
+32
+52
+53
+11
+Fund/TrustLocation
+(Level)Established Funding SourceApprox.
+AssetsBenefit
+Mechanism
+Western
+Australia
+Future FundWestern
+Australia
+(State)2012Portion of
+mining (iron
+ore) royalties;
+Royalties for
+Regions
+transfers~A$1.4 billion
+(2019)Future
+endowment  –
+now FHRI
+Fund;
+investment
+earnings
+(~A$50m/yr)
+finance health
+research and
+innovation
+(public health
+benefits).
+Singapore
+Temasek
+HoldingsSingapore
+(City-State)1974Government
+equity stakes;
+fiscal reserves;
+land sale
+proceedsS$389 billion
+(2024)Sovereign
+fund  – invests
+globally; ~50%
+of returns
+support
+national
+budget
+(defence,
+education,
+healthcare
+subsidies)
+.
+Macau
+Wealth
+Partaking
+SchemeMacau, China
+(SAR)2008Annual casino
+tax budget
+surplus (no
+fixed fund
+principal)(N/A – pay-as-
+you-go)Universal
+dividend  –
+yearly cash
+payout to all
+ID-card
+holders (e.g.
+MOP 10k per
+resident in
+2023) .42
+43
+4748
+49
+50
+54
+5556
+12
+Fund/TrustLocation
+(Level)Established Funding SourceApprox.
+AssetsBenefit
+Mechanism
+Peabody
+Housing
+TrustLondon, UK
+(Charity)1862Philanthropic
+endowment
+(George
+Peabody) +
+reinvested
+rental income£8+ billion in
+assets (est.)³Affordable
+housing trust
+– owns 100k+
+homes  for
+low-income
+residents;
+rents recycled
+to maintain
+and expand
+housing
+(lowers
+housing costs
+citywide).
+Kalamazoo
+PromiseKalamazoo,
+MI, USA
+(Private)2005Endowment by
+anonymous
+donors (local
+philanthropists)(Undisclosed
+≈
+$500+ million)Educational
+trust  – pays up
+to 100%
+college tuition
+for all local
+high school
+graduates
+(universal
+scholarship)
+.
+<small>¹ The Copenhagen model evolved from the Ørestad Development Corporation (1992) to CPH City & Port
+(2007). </small>
+<small>² Market capitalization of MTR Corp, which is ~75% owned by Hong Kong Government. </small>
+<small>³  Peabody’s housing assets (100k units) estimated by multiplying units by average social housing asset
+value. </small>
+Conclusion
+Over the past century, a variety of urban wealth funds and community trusts  have demonstrated ways to
+turn collective assets into long-term benefits for citizens . Whether through direct cash dividends (as in
+Alaska and Macau), endowments funding education and services  (Texas PSF, Wyoming PMTF, Shetland
+Trust), or investment of public assets to finance infrastructure  (Copenhagen’s City & Port, Hong Kong’s
+MTR), these mechanisms illustrate the power of  shared wealth . Key factors in success include strong
+governance (to protect the fund for future generations), a stable funding source (e.g. dedicated resource
+revenues or assets), and a clear mandate aligning with public interests (be it reducing residents’ costs,
+improving services, or saving for the future).
+Importantly,  even  philanthropic  and  private  trusts  can  achieve  near-universal  public  benefits  when
+designed with a broad mission – such as housing trusts that keep rents affordable for tens of thousands, or26
+21
+21
+13
+scholarship funds guaranteeing college access to all local youth. These complement government initiatives
+and often partner with public programs.
+As communities worldwide face economic transitions – from fossil fuels to renewables, from public asset
+privatization debates, or managing one-time windfalls (like tech booms or real estate spikes) – the examples
+in this survey provide models for sustaining prosperity . Urban wealth funds and community trusts offer a
+path  to  inclusive  wealth-sharing ,  turning  ephemeral  or  concentrated  wealth  into  lasting,  widely
+distributed benefits. By studying these precedents, policymakers and civic leaders can craft innovative
+solutions that ensure local wealth enriches all residents, now and for generations to come . 
+Alaska Permanent Fund - Wikipedia
+https://en.wikipedia.org/wiki/Alaska_Permanent_Fund
+Future-Proofing Texas School Funding - Texas 2036
+https://texas2036.org/future-proofing-texas-school-funding/
+Permanent University Fund (PUF) - UTIMCO
+https://www.utimco.org/funds-managed/endowment-funds/permanent-university-fund-puf/
+The discourse surrounding state-endowed oil fields, investments
+https://thedailytexan.com/2024/04/22/the-energy-of-the-future-the-discourse-surrounding-state-endowed-oil-fields-investments/
+UT System oil money is a gusher for its administration
+https://www.texastribune.org/2017/08/21/ut-system-oil-money-gusher-its-administration-and-trickle-students/
+Permanent Wyoming Mineral Trust Fund (PWMTF): Overview
+https://www.investopedia.com/terms/p/permanent-wyoming-mineral-trust-fund.asp
+New Mexico Land Grant Permanent Fund - Wikipedia
+https://en.wikipedia.org/wiki/New_Mexico_Land_Grant_Permanent_Fund
+Oil and natural gas: Powerhouse for ND's economy - Minot Daily News
+https://www.minotdailynews.com/opinion/local-columnists/2023/03/oil-and-natural-gas-powerhouse-for-nds-economy/
+Permanent Fund Dividend: Alaska Department of Revenue
+https://pfd.alaska.gov/
+Explainer: Affordable Housing Trusts and Community Land Trusts
+https://www.cityhealth.org/resource-center/affordable-housing-trusts-and-community-land-trusts/
+The effects of the Kalamazoo Promise Scholarship on college ...
+https://www.brookings.edu/articles/the-effects-of-the-kalamazoo-promise-scholarship-on-college-enrollment-persistence-and-
+completion/
+Scotland confronts energy transition, by Lou-Eve Popper (Le Monde diplomatique -
+English edition, October 2022)
+https://mondediplo.com/2022/10/03scotland
+Peabody Trust - Wikipedia
+https://en.wikipedia.org/wiki/Peabody_Trust1 2 3 4 5
+6 7
+8
+9
+10
+11 12 13 14 15 16
+17
+18
+19
+20
+21
+22 23 24 25 41
+26
+14
+Urban Wealth Funds: A New Approach to City Financing |
+City-County Observer
+https://city-countyobserver .com/september/
+[PDF] THE COPENHAGEN CITY AND PORT DEVELOPMENT ...
+https://www.brookings.edu/wp-content/uploads/2017/05/csi_20170601_copenhagen_port_paper .pdf
+The Copenhagen City and Port Development Corporation: A model for regenerating cities
+https://www.brookings.edu/articles/copenhagen-port-development/
+Future Health Research and Innovation Fund - FHRI Fund Act
+https://fhrifund.health.wa.gov.au/About-us/FHRI-Fund-Act
+NSW Generations Funds Act 2018 No 37 - NSW Legislation
+https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-2018-037
+NSW Generations Fund | NGF | NSW Budget 2019-2020
+https://www.budget.nsw.gov.au/nsw-generations-fund
+Performance and Portfolio - Temasek Review 2024
+https://www.temasekreview.com.sg/performance-and-portfolio.html
+Singapore's Temasek reports worst returns in 7 years
+https://www.ft.com/content/20ea0155-4e71-4b9c-9bb6-bc24c098e0f8
+Ins & Outs of Temasek - Temasek
+https://www.temasek.com.sg/en/our-financials/ins-outs-temasek
+Wealth Partaking Scheme - Wikipedia
+https://en.wikipedia.org/wiki/Wealth_Partaking_Scheme
+Cash distribution scheme introduces residency criteria to limit eligibility
+https://www.macaubusiness.com/cash-distribution-scheme-introduces-residency-criteria-to-limit-eligibility/
+Gov't enforces restrictions on cash handouts to exclude some not ...
+https://macaudailytimes.com.mo/govt-enforces-restrictions-on-cash-handouts-to-exclude-some-not-living-in-macau.html
+For the first time in 17 years, the government is making changes to ...
+https://www.facebook.com/Canal.Macau/videos/for-the-first-time-in-17-years-the-government-is-making-changes-to-who-can-
+recei/24251928377726670/27 28 29 30 32 33 36 37 38 39 40 52 53
+31
+34 35
+42 43
+44
+45 46
+47
+48
+49 50 51
+54
+55
+56
+57
+15

@@ -1,1 +1,1090 @@
-Capital Endowment Programs: Direct Asset Grants to Individuals Introduction Imagine entering adulthood not with empty pockets or student debt, but with a nest egg provided by society – a stake to kickstart your future. Capital endowment programs aim to do just that: directly grant people a base of capital or assets to build wealth, distinct from recurring income support like universal basic income (UBI) or common-resource dividends (such as Alaska’s oil fund). These initiatives can take the form of publicly funded trust accounts for children (“baby bonds”) , one-time cash or asset grants to low- income adults , or even land and housing distribution . The core idea is to give individuals – especially those from disadvantaged backgrounds – a tangible asset foundation for economic security and upward mobility . Proponents view capital endowments as a tool to combat entrenched wealth inequality (for example, along racial or class lines) by broadening ownership of wealth-producing assets . Critics ask whether these programs are effective or fair , and debate their cost. This report provides a narrative, nonfiction-style exploration of modern capital endowment programs around the world. We will examine who is implementing or proposing them, how they work, what results and challenges have emerged, and how the public and experts are reacting. Notably, this report focuses on contemporary or ongoing programs – leaving aside purely historical policies – to illuminate current practice. From “baby bond” child trust accounts in wealthier nations to land grants and asset transfers in developing countries, capital endowment schemes vary widely in design. Some give liquid financial assets (cash, savings, stocks or trust fund balances), while others confer non-liquid assets like land, housing, or business capital. We will survey government-led programs at national and state levels, philanthropic and international initiatives, and draw on quantitative data where available – such as how much capital is granted per person and at what scale. Throughout, we’ll incorporate primary sources, government reports, and rigorous analyses to provide a clear , detailed picture for policy researchers and general readers alike. Government-Led Capital Endowment Initiatives Government programs that endow citizens with capital have taken several forms, from child savings accounts to land redistribution. Here we discuss major categories of such initiatives, profiling key examples and their outcomes. Child Trust Accounts and “Baby Bonds” One prominent model is the creation of child trust accounts – often dubbed “baby bonds” in the United States – which are publicly funded accounts set up for children, meant to grow until they reach adulthood. Upon maturity (typically at 18 or 21), the young adult can use the accumulated funds for approved wealth- building purposes like higher education, homeownership, entrepreneurship, or retirement savings .12 2 34 1 These programs are usually universal or targeted by income , aiming to ensure each child, especially those from low-wealth families, has some capital stake as they start out in life . The United Kingdom’s Child Trust Fund (CTF) was a pioneering national program of this kind. Launched in 2002 by a Labour government, the CTF provided every newborn in the UK a voucher to open a tax-free savings account – generally £250 for most children, or £500 for children from lower-income families , with an additional government contribution in later childhood (at age 7) for a time . These funds were invested and locked in until the child turned 18. The intent was to “generate a capital sum for UK children when they turn 18,” instilling a saving habit and giving all youth a modest asset base entering adulthood . Between 2002 and 2011, about 6 million CTF accounts were opened – one for virtually every eligible child born in that period. By 2020, the first cohort began reaching age 18 and gaining access to their funds. By 2022, roughly £10 billion had accumulated in CTF accounts, of which about £2 billion was contributed by the government (the rest came from parents, family, or investment growth) . In practice, however , the program’s impact on inequality was limited. An evaluative study found only “a modest positive effect on savings” behavior , mostly among more affluent families , who were more likely to make additional contributions to their children’s accounts . Lower-income families often couldn’t afford to save extra, meaning many poorer children ended up only with the government’s base contribution (plus interest) at maturity. The average CTF value for a child turning 18 in recent years was on the order of a few hundred to a few thousand pounds – a helpful sum, but not a life-changing fortune. Some analysts have called the CTF a “missed opportunity,” noting that without larger or more progressive contributions, it did not substantially narrow wealth gaps . The program was also short-lived: in 2010 a new government ended new CTF enrollments (citing budget cuts), replacing them with a far less generous Junior ISA program (which has no automatic public deposit). Thus, while the UK’s experience demonstrated the feasibility of giving every child an account, it also showed that the scale of endowment matters if the goal is to meaningfully boost financial resilience for the less wealthy. The United States never implemented a national child trust fund, but the concept of “baby bonds” has gained momentum in recent years as a strategy to combat America’s stark racial and wealth inequalities. The idea entered U.S. policy discussions in the 2000s and especially after a 2010 report by economists Darrick Hamilton and William Darity Jr. , who proposed providing every newborn with a substantial trust account – on the order of \$50,000 to \$60,000 per child – with the size of the endowment inversely tied to the family’s wealth . They argued this could dramatically shrink the wealth gap between Black and white Americans, calling for a “race-fair America” where everyone starts with some capital . In 2018, U.S. Senator Cory Booker took up the cause at the federal level, introducing the American Opportunity Accounts Act , widely known as a baby bonds proposal. Booker’s plan would create a federally funded account for each child at birth with a $1,000 initial deposit , then annual payments on a sliding scale based on household income , up to \$2,000 per year for the lowest-income families . Contributions would cease at age 18, and the account (invested in safe assets like government bonds) could then be accessed by the young adult for approved wealth-building uses (education, home ownership, business, retirement) . According to estimates by Booker’s office and the Congressional Budget Office, the maximum accrual for a low-income child would be around \$46,000 by age 18 (in 2019 dollars), while even children from high-income families (who’d only get the \$1,000 seed and no annual top-ups) would see roughly \$1,700 by adulthood . The average account balance across all children was projected around \$20,000 . Booker’s ambitious program would cost about \$60 billion per year (roughly \$600– 700 billion over a decade) – which he proposed funding through higher taxes on the wealthy, such as raising capital gains and estate tax rates . While the legislation has not passed as of 2025, it gained12 5 6 5 7 6 6 89 8 1011 12 1314 13 1516 2 notable support – 15 U.S. Senators co-sponsored the 2021 bill – signaling growing political interest in the concept. At the subnational level, a number of U.S. states and cities have forged ahead with baby bond-type programs or studies. Washington, D.C. was an early adopter: in 2021 the D.C. Council unanimously passed the Child Wealth Building Act , creating a baby bonds program for the District . Under this law, every baby born to a low-income family in D.C. (household income under 300% of the federal poverty level) gets a trust account with an initial \$500 deposit, plus up to \$1,000 added each year of childhood that the family remains below the income threshold . These deposits continue until age 18, after which the accumulated funds (plus investment earnings) can be used by the young adult for approved purposes like college tuition, buying a home or starting a business . The racial equity motivation is explicit: D.C.’s median white household wealth is 81 times that of the median Black household, an “alarming” gap the policy aims to reduce . Initial funding of \$32 million (spread over four years) was allocated to kickstart the trust accounts . However , D.C.’s implementation has faced political and fiscal headwinds. In 2023–24, the city’s mayor proposed restructuring and scaling back the program significantly – lowering eligibility to only those in poverty (<100% FPL) and cutting the annual deposit to a flat \$500 for all . The District’s independent budget office calculated that under the original law, a child from a poorest family could accumulate around \$21,000 by age 18, whereas under the mayor’s cuts the maximum would be only about \$9,100 (in 2024 dollars) . The eligibility cut would also shrink the beneficiary pool by more than half – from about 4,150 babies each year to only ~1,700 – undermining the broad reach originally intended . Advocates decried these changes, noting they would “slash future beneficiaries’ disbursements” and blunt the program’s ability to close the wealth gap . As of March 2024, D.C.’s baby bonds trust fund had about \$17.6 million (contributions from its first couple years), and the debate continues as the City Council and mayor negotiate the program’s fate . The D.C. case illustrates not only the promise of baby bonds, but also the challenges of sustaining political commitment (and funding) over the long term needed for children’s accounts to mature. Connecticut became the first U.S. state to fully enact a baby bonds program. Passed in 2021 and launched on July 1, 2023, Connecticut’s initiative invests \$3,200 on behalf of each baby born into poverty in the state (defined by birth being covered under the Medicaid program, HUSKY) . About 15,000 infants per year – roughly half of all births in Connecticut – are expected to qualify and be automatically enrolled . The state pools these contributions in a professionally managed trust fund. When enrolled children reach age 18 (and up until age 30), they can claim their “baby bond” – which by then is projected to be anywhere from \$11,000 up to \$24,000 per person depending on investment returns and how long it stays invested (accounts grow until withdrawal, so someone waiting until closer to 30 could have a larger amount) . To use the funds, the young adult must be a Connecticut resident and must participate in a brief financial education training – a safeguard to ensure some financial literacy . Withdrawals are restricted to approved asset-building uses (similar to other programs: buying a home, paying for higher education or job training, starting or investing in a business, or saving for retirement) . Connecticut policymakers explicitly designed this program to “break the cycle of poverty” by endowing the poorest children with capital for adulthood . The state seeded the trust fund with \$400 million from a budget surplus and bond refinancing deal in 2021, which is expected to cover all cohorts born through at least 2035 (12 years of births) . This long-term funding approach – essentially locking in financing upfront – was intended to “protect it from political turmoil” year-to-year . As Connecticut’s State Treasurer noted, “there is no perfect way to do this” – questions have arisen such as whether some people might attempt to move into the state to get the benefit or misuse funds – but officials are optimistic that most will use their endowments for the intended goals and that the program will ultimately benefit not just individuals but local communities and1718 19 3 3 3 20 21 22 23 2425 2627 2228 2930 31 31 32 3334 35 36 34 34 3 the state economy . Connecticut’s baby bonds garnered national attention as a bold state-level experiment, and it was influenced by the academic research and advocacy of people like Hamilton, Darity, and Senator Booker in neighboring New Jersey . California, despite its size and progressive politics, has taken a more targeted approach rather than a universal one. In 2022, California enacted the HOPE for Children Trust Account Program – a \$100 million pilot focusing on some of the most vulnerable children: those who lost a parent or caregiver to COVID-19, and foster youth who are aging out of the state’s care . The impetus was the devastation of the pandemic; an estimated 32,500 children in California experienced the death of a caregiver due to COVID . Under HOPE, these eligible minors will receive a trust account that vests when they turn 18 , providing an endowment to help them start adulthood on stronger footing . Because the beneficiaries span a range of current ages (some already in their mid-teens when the program started), the trust amounts vary: the oldest teens (nearing 18) are slated to receive about \$4,500 each , while younger children (who will have more years for the funds to potentially accrue interest) are allocated slightly more in present value . Notably, California’s HOPE accounts are unrestricted lump sums – unlike Connecticut’s or D.C.’s baby bonds, California will not legally mandate how the youth spend the money. Program leaders reason that these young people, having faced hardship, know their needs; “They are not going to waste money,” said HOPE’s executive director , who convened a youth advisory panel (including foster youth) to guide implementation . Indeed, the youth themselves indicated they might use funds for basic necessities like food and housing . To encourage financial capability, California plans to offer financial mentors and literacy classes to HOPE beneficiaries, with small incentives for participation . Approximately 58,000 young people are estimated to be eligible statewide, and outreach is underway to ensure they know to claim their accounts . Because the trust is finite, the initial payouts will happen as each cohort turns 18 over the coming years. Policymakers intend to evaluate outcomes and consider the program’s scalability. They have noted that a truly universal baby bond for all low-income California children would be a massive investment – on the order of \$3 billion per year if it were to cover every child in a low- income family statewide . At present, California’s HOPE is a focused intervention, born of a crisis, but it represents another variant of capital endowment policy: targeting those who have suffered specific adversities (in this case, orphanhood or long-term foster care) with a boost of wealth to improve their life chances. Beyond these examples, at least eight other U.S. states have introduced baby bond legislation or commissioned studies, indicating bipartisan interest in the policy’s potential . States as politically diverse as New Jersey, New York, Washington, Iowa, Louisiana, Nevada, Delaware, Vermont, and Wisconsin have all explored versions of child trust accounts in recent years . For instance, New Jersey’s governor floated a statewide baby bond plan in 2020 (though it ultimately was not included in the budget) . Massachusetts published a detailed study on implementation options . This flurry of activity suggests a “quiet revolution” may be underway in how some U.S. policymakers think about fighting wealth inequality . The momentum is such that one analysis in 2024 noted “up to a quarter of U.S. states” were showing interest in endowing young citizens with capital by age 18, an idea long discussed but never realized on a large scale . Internationally, other countries have adopted or are trying similar child asset-building schemes. Israel implemented a universal child development account program in 2017 known as the Saving for Every Child plan. Under this policy, the government opens an investment account for every Israeli child and deposits ₪50–₪57 (roughly \$15) per month into it until the child turns 18 . Parents can choose the investment vehicle (a bank savings plan or various mutual funds) and are also allowed to contribute an37 38 3940 39 4142 42 43 43 44 45 46 47 47 48 47 4950 5051 5253 4 additional matching amount (often taken from their monthly child allowance benefit) if they wish . Upon reaching age 18, the child can withdraw the funds (with a bonus added if they defer withdrawal until 21). The Israeli program thus ensures every young adult has at least a small pot of savings as they enter adulthood – on the order of a few thousand US dollars per child. Like the UK’s experience, early research from Israel shows high participation rates but also differential engagement: more affluent and educated families tend to opt into higher-risk/higher-return funds and contribute extra, meaning their children will likely see larger accounts, whereas disadvantaged families are less able to add contributions . This points to a common design challenge: how to make such programs progressive and effective at narrowing wealth gaps, rather than inadvertently widening them through unequal participation. Israel’s approach provides universality and a meaningful sum over time, but it may require adjustments (such as larger contributions for low-income families) to truly equalize opportunities . Several other nations have instituted modest child savings incentives. Singapore , for example, has a Baby Bonus scheme that includes a Child Development Account : the government gives a small grant at birth and matches parental savings up to a cap, with funds usable for the child’s education or health needs. Canada offers the Canada Education Savings Grant and Canada Learning Bond , which deposit federal money into Registered Education Savings Plans for children (especially those from low-income families) to accumulate for college costs. While these are somewhat different in focus (education-specific and requiring parental opt-in), they share the ethos of seeding assets for youth. By and large, however , the scale of funding in these programs (a few hundred or a few thousand dollars per child) is much lower than the transformative “baby bond” levels envisioned by proponents in the U.S. and UK. In summary, child capital endowment programs are no longer theoretical – they have been tried in the UK, are rolling out in parts of the U.S., and exist in variants from Israel to Singapore. The early lessons indicate that universality and sufficient funding are key to maximizing impact. If the accounts are too small, they risk being merely symbolic. If wealthier participants contribute more or invest more aggressively, the egalitarian purpose can be blunted . At the same time, these programs are politically tangible : they create visible assets for individuals, which could build public support over time (few will object to “free money” for their children). The coming years – as Connecticut’s and D.C.’s accounts mature, and as other states/countries potentially follow – will provide valuable evidence on how young people use these funds and whether these endowments measurably improve life outcomes such as homeownership rates, educational attainment, or business formation among recipients. Land Redistribution and Asset Grants Another form of capital endowment by governments involves granting non-financial assets – chiefly land or housing – directly to individuals or families. Whereas child trust funds address wealth inequality by building financial capital for the next generation, land distribution programs address inequality in property ownership, often seeking to right historical injustices or boost economic development by broadening land access. Land, of course, is a foundational asset in agrarian economies and a source of security and income. Land reform in South Africa is a notable contemporary example. Since the end of apartheid in 1994, South Africa’s government has aimed to transfer a substantial portion of agricultural land from the white minority (who owned most of it under apartheid) to Black South Africans who had been dispossessed. This has been pursued through a mix of land restitution (returning land or compensating communities for past takings) and land redistribution (purchasing or expropriating land for new Black farmers). The effort has been5455 56 57 657 5 arduous and slow. By the 2010s, only about 9–10% of farmland had been redistributed, versus an initial target of 30% . Moreover , many redistributed farms struggled to succeed : it’s estimated that up to 50% or more of land reform projects failed to achieve their intended outcomes (e.g. becoming productive, sustainable farms) . Reasons cited include poor implementation, lack of support and training for new farmers, and in some cases burdensome group ownership structures that led to management difficulties . In one case, a Black farmer given land remarked that the government retained title to the farm, preventing him from using it as loan collateral – illustrating how partial asset grants (without full property rights or access to credit) can limit benefits . By the late 2010s, frustration with the slow pace of land reform led to calls (and an unsuccessful constitutional amendment attempt) to allow expropriation without compensation , which supporters argued would accelerate redistribution but opponents warned could undermine investment and food security . As of 2025, South Africa’s land endowment efforts remain a work in progress: some success stories of Black emergent farmers exist, but large-scale impact on rural poverty or racial wealth disparities has yet to be realized, in part because complementary inputs – financing, technical assistance, and secure tenure – have lagged. The South African case underscores that transferring an asset alone is often not enough ; new owners may need support to make the asset productive and truly build wealth . Zimbabwe’s fast-track land reform in the early 2000s provides a contrasting case, often cited (controversially) in debates on land endowment. Beginning in 2000, Zimbabwe’s government under Robert Mugabe forcibly reclaimed millions of hectares of commercial farmland from about 6,000 white farmers and reallocated it to around 245,000 Black Zimbabwean families . This was arguably the largest land endowment program in Africa in recent history – each beneficiary family received a plot, typically 5–6 hectares for smallholders in the “A1” resettlement scheme . The short-term economic fallout was severe: the disruption of commercial agriculture caused total food production to plummet by roughly 60% over ten years , and the country faced food shortages and an economic crisis . By one estimate, commercial farm output and export earnings fell so drastically that Zimbabwe’s GDP shrank and millions were pushed into poverty. Observers blamed the chaotic implementation – including violence, lack of farming support for new owners, and the flight of agricultural capital – for what was widely deemed a disastrous episode . However , with the benefit of two decades’ hindsight, the outcomes appear more nuanced. Studies in the 2010s found that many of the smallholder farmers who got land have incrementally increased production. By around 2013, 170,000 new land-reform farmers were producing at levels comparable to the former large-scale farmers in key crops like maize and tobacco . A detailed study (Hanlon et al. , 2013) reported that Zimbabwe’s land reform, though messy, led to a new class of small commercial farmers – including a significant number of women – who were succeeding given the chance to farm their own land . As one resettled farmer proudly showed researchers her thriving tobacco crop and new curing barn, it was clear that for some, the land endowment did translate into higher income and living standards . By the late 2010s, it was estimated that the 245,000 resettled farmers had overall brought Zimbabwe’s agriculture back to the output of the pre-reform era , albeit with a shift to many small producers instead of a few thousand large ones . That said, Zimbabwe’s approach also had huge costs : years of food insecurity, international sanctions, environmental degradation (e.g. deforestation by new farmers), and enduring political turmoil. The long-term success of the beneficiaries is mixed – some became productive commercial farmers, while others struggled without access to credit or inputs, and the country now has a large class of undercapitalized smallholders. Corruption and cronyism also marred the process (some land went to well-connected elites who left it idle) . In sum, Zimbabwe’s land endowment showed that transferring assets can empower many poorer families – if they have the skills and stability to use them – but it also stands as a cautionary tale on the importance of orderly process and58 5859 60 6162 6364 6566 67 6869 70 7071 7273 7475 7677 67 7879 6 support structures. The program achieved a dramatic racial redistribution of wealth in land, but at a significant economic cost and with ongoing consequences to the nation’s development. Outside of Southern Africa, numerous countries have implemented land granting schemes, often as part of agrarian reform or poverty alleviation. In Latin America , for instance, countries like Brazil and Mexico have at times distributed land or title to landless rural families. Brazil’s government since the 1990s settled tens of thousands of landless households on plots (often through expropriating unused private land), with results varying by the support given to settlers. In Asia, land-to-the-tiller reforms in the post-WWII era (in Japan, South Korea, Taiwan) were highly successful in creating a nation of small landowning farmers and reducing rural inequality – albeit those are historical examples from the 1940s–50s. More contemporarily, countries like India have had patchy efforts: some states gave limited plots to Dalits and tribal people, or distributed waste land for cultivation, but these programs tend to be small in scale. One interesting asset endowment approach is urban housing or land title grants : for example, Thailand and Peru have programs that give slum dwellers legal title to the land or house they occupy, effectively converting informal dwellings into an asset that owners can leverage. The Peruvian economist Hernando de Soto famously argued that giving property titles to the urban poor would unlock “dead capital” by allowing them to borrow against their homes and invest – though in practice, titling alone hasn’t generated a wave of entrepreneurship (credit access also requires willing lenders), it has improved tenure security. Meanwhile, in some Gulf countries with abundant state resources (like the UAE, Qatar , Saudi Arabia), it is common for the government to endow citizens with land or even free homes as a benefit. For example, oil-rich states often have programs where young married citizens receive a plot of land or a housing grant. This is a form of capital endowment (funded by state wealth) aimed at improving citizens’ well-being, though in these cases it’s as much about sharing resource wealth as about equity – and since all or most citizens benefit, it doesn’t specifically target the poor . Direct Capital Grants and Entrepreneurship Programs Governments (sometimes in partnership with international organizations) have also experimented with giving direct cash grants or business capital to adults, especially targeting unemployed youth or aspiring entrepreneurs. These initiatives blur the line between social assistance and economic development – they are not ongoing welfare, but one-time (or time-limited) injections of capital to help people start an enterprise or otherwise increase their earnings potential. One influential example was the Youth Opportunities Program (YOP) in Uganda. In 2008, Uganda’s government invited groups of young adults to submit proposals for vocational training and business start- ups. Winning groups received cash grants worth about \$7,500 per group – roughly \$400 per person – with no repayment obligation . The idea was to enable participants (who were mostly poor , underemployed rural youth) to acquire tools and skills in trades like tailoring, carpentry or mechanics, which typically require an initial investment. The program was structured as an RCT (randomized controlled trial) evaluation, and the results attracted wide attention. Four years after receiving the grants, the youth were earning on average 38% more than those who did not receive grants . Recipients were far more likely to be practicing a skilled trade, had higher incomes, worked more hours, and had accumulated more business assets than the control group . It appeared the one-time infusion of capital had set them on a trajectory of self-employment and higher productivity. However , when researchers followed up nine years later , they found a more sobering picture: over time, the control youth had “caught up” in earnings through other avenues (informal work, migration, etc.), and the treatment group’s initial income gains had dissipated by year 9 . The one-time grant enabled an earlier boost, but it did not produce a80 80 80 8182 7 permanent difference in income – both groups ended up with similar employment and earnings in the long run. That said, the grants did have lasting impacts in other respects : those who got the YOP grants still owned more assets and tools and were more likely to be in skilled trades even after nine years . In other words, the grant helped them accumulate capital and change occupations, but not necessarily to indefinitely out-earn their peers. The Uganda YOP case illustrates both the potential and limits of one-off capital grants: they can jump-start careers and asset accumulation, but without continued growth or external market changes, recipients may not pull ahead of others forever . It also underlines the dynamic nature of poverty – people find ways to improve their lot even without grants, given time and some economic opportunities, which is an encouraging note about human resilience (but also a caution that evaluations must consider long horizons). Similar programs elsewhere have shown positive short-term impacts. In northern Uganda, another program gave young women a \$150 grant plus business skills training , which led to increased employment and earnings 18 months later (many started small retail or craft businesses) . In Nigeria , the government ran a high-profile competitive grant program called YouWin! , which awarded substantial capital (up to \$50,000) to young entrepreneurs with the best business plans. Evaluations found that after three years, the grant-winning firms were significantly more likely to be in operation, had higher sales and profits, and hired more employees than those that applied but did not win – essentially, free startup capital allowed some businesses to launch or expand successfully. However , those programs often reach only a select few (winners of competitions or those who apply). A broader approach is simply giving cash grants to poor individuals to invest as they see fit. One of the largest scale direct capital grant efforts has been through social protection programs that integrate “economic inclusion” components. For instance, Ethiopia and Zambia have piloted giving lumps of cash or assets to beneficiaries of cash transfer programs to help them start income-generating activities (a chicken farm, a grocery kiosk, etc.). Often these are accompanied by training or mentoring. The logic is to provide a bridge from subsistence support to self-sufficiency – moving people from needing ongoing aid to earning their own income. It’s worth noting that many of these grant-based programs overlap with philanthropic and NGO initiatives , which we will discuss in the next section. Governments frequently partner with or scale up models first developed by nonprofits. In sum, government-led direct capital grants tend to show that people do put lump-sum aid to productive use – buying tools, inventory, livestock, or training. Outcomes like higher earnings, better housing, and greater food security have been observed in numerous cases in the short run . The mixed longer- run results suggest that without sustained economic growth or follow-up support, an initial grant’s advantage may level off as others catch up. Nonetheless, even if the income gap closes, recipients are often left with more tangible assets and experience that could benefit them over a lifetime . Policymakers evaluating these programs weigh their cost-effectiveness : Encouragingly, some studies have found high returns. For example, a six-country evaluation of grants-plus-training programs (discussed below) found that in certain contexts the benefits easily exceeded the program costs within a decade , meaning the intervention “paid for itself” in increased consumption and assets . In other places with higher costs or lower impact, the picture was less rosy . Thus, context and design matter greatly.8183 84 8084 82 8586 85 8 Philanthropic and International Initiatives Not all capital endowment efforts are run by governments. Philanthropic organizations, NGOs, and international agencies have played a major role in pioneering approaches to directly boost individuals’ assets. Often these programs target ultra-poor communities in developing countries, where even a few hundred dollars’ worth of assets can make a life-changing difference. Increasingly, lessons from these initiatives are informing government policies (a trend sometimes called “the NGO pilot to government policy pipeline”). “Graduation” Programs and Ultra-Poor Asset Transfers One of the most influential models is the Graduation Approach , originally developed by the Bangladesh NGO BRAC in the early 2000s and since replicated in many countries. The Graduation Approach is a comprehensive package to lift people out of extreme poverty – it combines a one-time productive asset transfer (for example, livestock, farming tools, or goods to start a small shop), cash stipends for a few months , skills training and regular coaching , access to savings , and basic social support. The idea is to address multiple barriers (lack of capital, lack of skills, immediate hunger needs, etc.) in one coordinated push, such that after a program period (usually 18–24 months) participants have “graduated” into sustainable livelihoods. Evidence for this approach is robust. A six-country randomized trial (in Ethiopia, Ghana, Honduras, India, Pakistan, and Peru) published in Science in 2015 found that the Graduation program led to “lasting progress for the very poor” in most sites . Households that received the multifaceted intervention had significantly higher earnings, consumption, and assets even three years after the program end , compared to control households . Encouragingly, the researchers reported that the long-run benefits (measured in increased consumption) outweighed the upfront program costs in those sites, meaning a positive return on investment for society . In lay terms, teaching a person to fish and giving them a fishing rod (plus some fish to eat today) really did help them eat for years. Importantly, the evaluation noted that no single component alone was sufficient – for example, in the Ghana trial, giving just the asset or just a savings account by itself did not significantly improve livelihoods, whereas the full package did . This underscores a key lesson: extremely poor people face a complex tangle of challenges, and piecemeal help may fail, but a holistic capital endowment with support can set them on a new trajectory. Following these results, there has been a push to scale up graduation programs. As of the mid-2020s, an estimated 3 million+ households across over 15 countries have participated in some form of ultra-poor graduation program . Philanthropic funding (from organizations like CGAP, the Ford Foundation, and others) kickstarted many pilots, but now governments are adopting and expanding them. For example, Pakistan’s Poverty Alleviation Program and Rwanda’s Vision 2020 Umurenge Program have incorporated graduation components; Ethiopia integrated it into its national Productive Safety Net Program. In India, the state of Jharkhand launched a large-scale graduation scheme to reach tens of thousands of rural poor families. Typically, these programs might give an asset worth \$100–\$300 (a pair of goats, a cow, sewing machine, etc.), a small monthly cash support for a year , and weekly visits from coaches to monitor progress. Participants are often women, and the goal is to empower them to run micro-enterprises (like rearing animals, selling milk or produce, tailoring, etc.). Follow-up studies in various countries have found remarkable gains : increased food security, improved mental health, higher income, and greater savings among graduates, even years later .87 8788 87 8889 90 9192 9 One concrete illustration comes from India : Bandhan (an NGO) implemented a graduation program in West Bengal for destitute women. Seven years later , participants had significantly higher consumption and assets than non-participants, and many had diversified their incomes beyond agricultural labor . In Bangladesh , where it all began, BRAC’s original beneficiaries were found a decade later to still enjoy higher earnings and better living conditions than comparable households who didn’t receive the assets, effectively breaking the poverty trap in many cases . From a policy perspective, the success of these programs has made a case that direct asset transfers can be an effective poverty-fighting tool when combined with education and support. International organizations like the World Bank and regional development banks have taken notice. The World Bank even created a dedicated Partnership for Economic Inclusion , and its 2021 report notes that over 90 economic inclusion programs (many inspired by graduation) exist across 45 countries, mostly run by governments for their poorest citizens. These are often funded via a mix of domestic budgets and donor support. For example, the World Bank and Asian Development Bank co-financed a graduation program in the Philippines in partnership with the Department of Labor , reaching thousands of extreme-poor households with asset grants and group coaching . The Philippines trial showed significant improvements in livelihoods for participants, and it tested cost-saving variations like group-based coaching to help scale efficiently . It is important to acknowledge cost: these graduation packages can cost \$1,000 or more per household over two years – far more expensive than simpler interventions like unconditional cash transfers. That is why the question “is it worth it?” gets asked. The multi-country evidence suggests that in several cases the answer is yes, with benefits exceeding costs . But in some countries the effect sizes were more modest or costs higher , making cost-effectiveness less clear . Thus, philanthropists and governments are actively studying how to optimize these programs – for instance, can group trainings replace some one-on-one coaching to cut costs without hurting outcomes? Can digital tools assist in mentoring people remotely? The field is evolving, but the broader point remains: philanthropy-backed innovation has demonstrated that granting the poor some capital assets, plus knowledge, can create durable escapes from extreme poverty, not just temporary relief. Unconditional Cash Transfers and Other Asset Giveaways In the 2010s, a somewhat radical philanthropic experiment emerged: simply giving money directly to poor individuals with no strings attached, trusting them to use it to best effect. This was exemplified by the charity GiveDirectly , which began delivering one-time cash grants on the order of \$500–\$1,000 to impoverished households in Kenya, Uganda, and later other countries. Although cash transfers are often thought of as consumption support (and indeed many recipients spent some money on immediate needs), they also function as capital endowments in practice – recipients frequently invested a portion in assets like livestock, business equipment, or home improvements. Academic studies on GiveDirectly’s programs found that recipients did not squander the money (despite skeptics’ fears); instead, they increased their spending on food, improved their housing (e.g. replacing thatch roofs with metal ones), and bought productive assets . One randomized trial in Kenya showed that asset holdings shot up by 58% and household income by 28% in the short run for those who got a large cash grant, relative to those who did not . There was no evidence of increased spending on temptation goods like alcohol. These results challenged the paternalistic notion that poor people cannot handle lump sums responsibly. However , the long-term trajectory is still being studied. Critics point out that a one-time grant, while helpful, might be consumed or dissipated after a few years if there’s no sustained source of growth – similar to the92 92 9394 9596 87 85 87 92 10 Ugandan youth grant finding where incomes converged after 9 years . GiveDirectly has since moved into testing a long-term basic income (multi-year regular payments) in some villages, which is a different model. But as a capital endowment strategy, direct cash provides maximum flexibility: people themselves decide whether their most valuable investment is livestock, education, home repair , or paying off a debt. From a humanitarian standpoint, cash grants have been used to help crisis-affected families rebuild assets too – e.g., after disasters, agencies give households money to replace lost tools or stock. There are also philanthropic programs that focus on specific assets: for example, organizations like Heifer International have famously given cows, goats, or chickens to poor rural families (along with training in animal husbandry). The idea is that livestock serve as both a productive asset (providing milk, eggs, or offspring to sell) and a form of savings. Evaluations of livestock transfers (often done within graduation programs) also show positive impacts on income and nutrition, though livestock require upkeep and markets to be truly beneficial. In some cases, philanthropy meets policy directly. A recent example is in the realm of baby bonds themselves: advocacy organizations and foundations have been instrumental in pushing these ideas onto the policy agenda. The effort to establish baby bonds in California was championed by groups like End Poverty in California (EPIC) , a nonprofit led by former Stockton Mayor Michael Tubbs. They provided grassroots backing and public awareness for the HOPE Accounts, framing them as a step toward economic justice. When California’s Governor in 2025 proposed cutting the HOPE program’s funding in half (from \$100M to \ $50M) due to budget pressures, EPIC and others vocally opposed the cut, emphasizing the promise these trust accounts hold for foster youth and orphaned children . This shows how philanthropic and advocacy groups are not only funding private programs but also shaping public programs by rallying political support or dissent. International institutions also play a role in asset-building initiatives. The United Nations Development Programme (UNDP) and others have promoted concepts like “inclusive wealth” and “universal basic assets,” arguing that improving access to assets (physical, financial, human capital) is as important as income redistribution. While these ideas are often abstract, agencies sometimes fund pilot projects on the ground. For example, UNDP or FAO have funded schemes to give landless laborers small plots or to give refugees assets to start livelihoods (tools, sewing machines, etc.) as part of rebuilding lives. Another innovative proposal on the international stage is the idea of sovereign wealth funds for citizens . For instance, some economists have suggested that resource-rich developing countries could invest resource revenues into a fund and periodically distribute shares or dividends to citizens , not unlike Alaska’s dividend (although Alaska’s is a recurring payout akin to UBI). One variant is to give each citizen a tradable stake in state-owned companies or funds – essentially a capital grant of equity. Mongolia attempted a version of this around 2010 by promising every citizen shares in a national mining company, though it ultimately converted the promise into cash payments before an election (a move critics saw as populist cash handouts that undermined the long-term asset idea). While not many countries have successfully done citizen share distributions yet, it’s part of the menu of ideas for sharing national wealth more broadly. In summary, the philanthropic and international sphere has been a laboratory for capital endowment approaches: testing direct cash vs. assets, multifaceted vs. minimalist interventions, and targeting different populations (rural ultra-poor , urban youth, disaster victims, etc.). These efforts have largely reinforced a key takeaway: providing assets can markedly improve people’s economic trajectory , but supporting elements (training, financial access, mentorship) often enhance the impact . They also show the81 97 8788 11 importance of adaptation to context – what works in one place (e.g., giving cows in a pastoral community) might not in another (an urban slum dweller might prefer a cash grant to start a shop). Increasingly, successful pilots are being scaled up by governments, blending philanthropic innovation with public policy muscle. Evaluating Outcomes: What Works and What Doesn’t With a diverse array of programs in place, what have we learned so far about the efficacy of capital endowments? The evidence, though still emerging, allows some cautious conclusions: Capital grants and asset transfers can produce substantial short-to-medium term benefits for recipients, including higher income, greater asset ownership, improved food security, and other welfare improvements. This has been observed in contexts ranging from U.S. youth getting trust fund windfalls, to African villagers receiving cash or livestock. For example, four years into Uganda’s youth grants, earnings were 38% higher for recipients ; ultra-poor families in Asia and Latin America boosted consumption and income for at least several years after receiving assets and training . In U.S. simulations, baby bonds are projected to dramatically narrow racial wealth gaps if implemented – one model found the wealth ratio of median white-to-Black young adult could drop from 15.8:1 to about 1.4:1 in the long run . Long-term sustainability is a challenge. Some one-time interventions show fading impacts over many years. The Ugandan example of gains dissipating by year 9 was a sobering reminder that recipients don’t live in a vacuum – others in the economy hustle and progress too, and initial advantages can equalize over time . That doesn’t mean the intervention had no lasting benefit (the recipients did accumulate more durable assets, even if incomes equalized ), but it suggests that complementary measures or follow-up might be needed to cement early gains. On the other hand, other programs have shown persistence: the multi-country graduation study found many benefits still present after 3+ years, and in some cases even growing. We might infer that when an endowed asset is coupled with building human capital and financial habits (e.g., forced savings or skills), it is more likely to have a lasting impact than cash alone. A key research frontier is understanding how to prevent backsliding – for instance, should there be a sequence of smaller capital infusions rather than one big push? Or integration into broader economic development plans so that opportunities for growth continue. Size and targeting of the endowment are critical. One reason the UK’s Child Trust Fund had only modest effects is that £250 at birth (even with a top-up later) was too small an endowment to tangibly alter life outcomes by 18 for most, especially if parents didn’t add more . Many teenagers ended up with maybe £500–£2,000 – helpful for , say, buying a used car or paying part of college, but not enough to change wealth trajectories. In contrast, proposals like Booker’s baby bonds or Hamilton and Darity’s design aim for \$20k–\$50k per person – amounts that could cover a home down payment or debt-free college and thus potentially be transformative . Similarly, land redistribution that grants a viable farm size (and good soil) plus support can enable a family to prosper , whereas giving someone an infertile plot with no follow-up is a recipe for failure. Targeting also matters: if the goal is equity, focusing on those who lack capital (the poor , marginalized groups) yields more dramatic relative improvements. Universal programs can still reduce relative inequality if they are progressive (like baby bonds giving more to those with less), whereas flat universal grants may actually preserve or widen gaps unless taxed back from the rich to fund.• 80 8788 9899 • 81 82 • 6 813 12 Use restrictions vs. flexibility is a design trade-off. Programs differ on whether to restrict what recipients can do with the capital. Child trust funds usually impose restrictions (education, home, etc.), under the assumption that ensuring money goes to asset-building prevents “wasteful” uses and reinforces the program’s purpose. Indeed, part of the motivation is to subsidize specific long- term investments (human capital, home ownership) that have societal benefits. However , unrestricted cash allows people to address their most urgent needs, which might yield better outcomes in certain cases. California’s HOPE chose no restrictions, trusting youth to prioritize needs like housing or food if that’s most pressing . The evidence from cash transfer programs suggests most poor recipients don’t frivolously squander windfalls – they spend on necessities or invest – but there can be variance. A middle ground could be soft conditions or incentives (like California’s financial training incentive, or providing lists of suggested uses) that guide but don’t force decisions. Ultimately, the “right” approach may depend on context: if the provided capital is just enough for one big asset (like college tuition), restrictions ensure it’s used for that; if it’s a smaller amount relative to needs, flexibility might yield better overall welfare outcomes. Supporting services enhance effectiveness. Across the board, programs that combined capital with knowledge and mentorship seem to fare better . The financial literacy requirement in Connecticut’s baby bonds is a light-touch example , whereas the intensive coaching in graduation programs is a heavier example . In all cases, equipping recipients with information on how to manage money or optimize their asset use can help maximize the impact. Without it, there’s a risk that funds are mismanaged or opportunities missed – not out of laziness or incapacity, but simply due to lack of exposure to financial planning. For instance, new farmers in South Africa often needed agricultural extension support to make the most of their land; where that was absent, productivity suffered . Conversely, in Zimbabwe, many of the successful small farmers were those who had agricultural knowledge or got advice from NGOs, whereas some less experienced farmers struggled until they learned by trial and error . Macro factors and external environment play a big role in what “works.” If the economy is growing and stable, giving people capital to invest tends to amplify those good conditions; but if the economy is in turmoil (hyperinflation, conflict, etc.), even a well-designed asset grant can flounder . Zimbabwe’s land reform coincided with economic collapse and hyperinflation – new farmers couldn’t buy fertilizer or fuel, so naturally output fell . It wasn’t the concept of giving land that failed, but the collapse of supporting markets. Similarly, a youth with a business grant will succeed more if the local economy has demand and infrastructure; grants in a depressed region might just find no profitable outlets. This is why some analyses caution that capital endowments are no panacea – they must go hand in hand with favorable economic policy, stable governance, and sometimes broader structural changes (like access to credit, enforcement of property rights, etc.) to fully deliver potential. Risks and unintended consequences: A recurring concern around giving “free” assets or money is whether it creates perverse incentives or misuse. For example, do cash grants discourage work? Do land grants lead to land being quickly sold off by beneficiaries? Empirical evidence so far generally dispels the most cynical views. Studies of cash transfers find no systemic disincentive to work – in fact, often recipients work more (because they can afford job search or start an enterprise) . In land reforms, there have been cases of beneficiaries leasing or selling their land (sometimes due to lack of support to farm it themselves), which raises political issues about land ending up back in wealthy hands. Policymakers have tried to prevent that by imposing moratoriums on land resale in• 43 • 33 9496 6058 100 74 • 70 • 8087 13 some reforms (though that can backfire by limiting farmers’ flexibility). Another risk is corruption or elite capture: valuable assets being distributed can tempt powerful actors to grab them. Robust targeting and transparency are needed to ensure the truly intended recipients benefit – for instance, avoiding that baby bond funds become a target for predatory scams when they mature, or that officials don’t extort kickbacks in exchange for giving out grants. So far , there haven’t been major scandals in the new baby bonds or graduation programs, but vigilance is advised as they scale up. Public and social effects: One hypothesized benefit of capital endowment programs is a boost to recipients’ psychology and social inclusion . Qualitative interviews from various programs often report improved hope, outlook, and status. People feel more confident planning for the future when they have even a small nest egg or property. There is also some evidence of spillover benefits: for example, a young adult using a baby bond to buy a home in their community could have multiplier effects (renovation jobs, a family’s housing stability, etc.), or a new business launched with grant money might employ others locally. Conversely, if not designed well, there could be envy or social tension – others asking “why them and not me?” This is where clarity of purpose and broad coverage help. Universal or nearly universal programs (like child accounts for all babies) avoid stigmatization or jealousy, whereas very narrowly targeted grants require careful community engagement so as not to breed resentment. Generally, though, many capital grants have been targeted at groups everyone agrees are deserving (orphans, war victims, the ultra-poor in a village), so they often enjoy community support. In conclusion of this evaluative section, capital endowments show tremendous promise as a policy tool for reducing wealth inequality and promoting opportunity – but the design details make the difference between modest and major impact. The sweet spot tends to be significant, well-timed capital coupled with knowledge transfer , delivered in a stable enabling environment. Done right, these programs can change life trajectories: an impoverished family becomes a stable small business owner , a renter becomes a homeowner , a child from poverty enters adulthood debt-free and skilled. Done poorly, they might amount to an expensive drop in the bucket or even backfire if they ignore local realities. Public, Political, and Academic Reactions Capital endowment programs have sparked lively debate and reactions across the political spectrum, in academia, and among the general public. Because these policies touch on deep questions of fairness, personal responsibility, race, and the role of government, they often elicit strong opinions. Public Opinion and Beneficiary Perspectives: Among the general public, awareness of these programs is still growing. In places like the U.S., baby bonds were relatively obscure until recently, but polls (where available) indicate people like the idea of giving children a better start – especially if framed as investing in the next generation rather than “handouts.” For instance, parents in states like Connecticut and DC, including many who wouldn’t qualify, largely supported the baby bonds legislation when explained in terms of reducing the racial wealth gap and creating opportunity. In Connecticut’s legislative process, there was testimony highlighting how asset poverty traps families and how an endowment could be a game-changer for a low-income child . Beneficiaries themselves, or those who hope to benefit, often express gratitude and ambition. A foster youth in California might see the HOPE account as a rare chance to have a cushion when they strike out on their own at 18 – a stark contrast to the usual statistics of foster kids aging out into homelessness or poverty. Families who received land in South Africa or Zimbabwe typically viewed it as justice long denied; despite difficulties, many took pride in owning their land and working it . In• 3638 7677 14 ultra-poor communities, recipients of asset grants often talk about restored dignity – they feel seen by society and empowered to improve their lives. Of course, if a program fails or is rescinded, disappointment and cynicism can result. UK youth who turned 18 after 2011, for example, got no CTF since the program was cut – one can imagine some resentment compared to slightly older peers who got a small windfall. Overall, public sentiment tends to be positive when programs are communicated well (who doesn’t like the idea of giving every kid a fair shot?), but support can wane if cost to taxpayers is emphasized without the benefits. Political Reactions: Politically, capital endowments represent a new paradigm that doesn’t slot neatly into traditional left-right divides – which is both an opportunity and a challenge. On one hand, progressives and social justice advocates champion these programs as bold redistributive measures to tackle inequality at its root. Baby bonds in the U.S. have been driven by Democrats, often with rhetoric about closing the racial wealth divide and reparative justice. For example, New Jersey’s and DC’s baby bonds were put forth by Black lawmakers very concerned with racial equity . In South Africa, land redistribution is supported by those on the left and center-left (ANC and EFF parties) as essential redress for apartheid injustices. Internationally, the concept of “universal basic assets” has been floated in egalitarian and developmentalist circles as a complement or alternative to UBI. On the other hand, some conservatives have found aspects to like as well: the focus on asset-building and personal responsibility resonates with center-right values of ownership and empowerment (as opposed to ongoing welfare dependence). Notably, early child account ideas had bipartisan interest in the UK and US. In the U.S., Republican Senator* (to invent a hypothetical example) could support baby bonds if framed as a way to foster an “ownership society” or increase national savings. In practice, however , partisanship often intervenes over financing: in Congress, Republicans balked at Booker’s \$60 billion-a-year plan, viewing it as too costly and redistributive. At the state level, though, some GOP-led legislatures have shown openness to narrower versions (for instance, conservative-leaning states exploring education-focused accounts). Critics on the right often argue that giving out large sums could be fiscally irresponsible or create dependency. They question whether governments can afford these programs and whether they’re fair to those who “already worked hard and saved.” For instance, when the UK CTF was cut in 2010, the incoming Conservative government argued it was unaffordable amid budget austerity and that money was better spent on services like education directly rather than individual accounts. Some also fear that free capital might be misused by a minority (the proverbial story of someone blowing their trust fund on a luxury or vice, which opponents may highlight). There’s also philosophical resistance: a belief that wealth should be earned, not granted. A Wall Street Journal editorial, for example, might label baby bonds as “government handouts in trust fund clothing,” warning it could undermine the ethic of self-reliance. From the left, interestingly, there can be a different critique: that these programs, while good, don’t go far enough to truly upend inequality. A universal \$20k at 18, for instance, is helpful but doesn’t dismantle systemic barriers like discrimination, labor market segregation, or regressive taxation. Some progressives might prefer heavier taxation of the rich and direct public investment in free college or guaranteed jobs, rather than seeding private accounts for individuals. Others worry that without broader reforms (like affordable housing or healthcare), a one-time grant could be eaten up by expenses beyond a person’s control (e.g., if college tuition keeps rising, even a baby bond might not save one from debt). That said, most left-leaning commentators have welcomed capital grants as part of a suite of policies – often citing Thomas Paine, who in 1797 proposed a form of citizen endowment at age 21, or more recently Thomas Piketty, who advocates a “universal inheritance” for all 25-year-olds funded by taxes on the wealthy. Piketty’s38 15 proposal of roughly €120,000 for every young adult has been called radical, but it has certainly fueled the conversation in Europe on how to address inherited wealth inequality. Academic Views: Scholars in economics, sociology, and public policy have been actively studying and debating capital endowment programs. On the whole, academic research has provided a lot of the impetus for these policies (for example, the baby bonds concept emerged from academia in the first place ). Economists who focus on wealth inequality, like those at the Urban Institute and other think tanks, have modeled these programs and found them potentially powerful in closing wealth gaps . For instance, a 2019 study by Naomi Zewde found a dramatic reduction in the median racial wealth gap if a nationwide baby bond had been in place . Another simulation projected that by the year 2060, baby bonds could reduce the U.S. Black-white wealth ratio to around 2.7:1 (from much higher today) . These findings are often cited by advocates as proof of concept. Development economists, through numerous RCTs, have provided evidence that asset transfers work in various global contexts , influencing organizations like the World Bank to support them. Academic skepticism tends to focus on external validity and general equilibrium effects. Some ask: if everyone gets an endowment, does it dilute the value (for example, if all 18-year-olds suddenly have \$20k, college prices might rise, or employers might start expecting people to use their bond for training rather than the employer paying)? There is an argument that while targeted capital helps the individual, making it universal could just shift problems – a kind of “inflation” in asset prices or credentials. However , because baby bonds are progressive (not every 18-year-old gets the same, only lower-wealth ones get large amounts), this risk is mitigated to an extent – it’s not a huge influx of money to everyone , just those who need it. Another academic point is the cost-benefit analysis : economists want to see that these programs achieve outcomes more effectively than alternative uses of funds. The early cost-benefit evidence from programs like the graduation approach is promising (long-run benefits > costs in several sites) . If baby bonds lead to higher education and higher earnings, one could calculate the net present value. A rough defense by supporters is that the cost of baby bonds (say \$60B/yr for the U.S.) is justified if it significantly reduces future inequality and need for other safety nets. Detractors might say, “why not invest that in improving schools or direct job creation?” Academics are studying these trade-offs; there’s no consensus yet because values (equality vs. efficiency) come into play. Media and Discourse: Media coverage of capital endowment ideas has generally been favorable but cautious. Outlets like The Economist or New York Times have run pieces on baby bonds describing them as a “bold experiment” to fix the wealth gap, often quoting both an enthusiastic policy expert and a skeptic noting practical hurdles. When Connecticut passed its program, it was widely reported as a national first, with Treasurer Shawn Wooden (now Treasurer Erick Russell) heralding it as visionary . Local press in DC covered the political tussle over funding, framing it as Mayor vs. Council on racial equity priorities . Internationally, Zimbabwe’s land reform was extremely controversial in media – Western media mostly condemned it as destroying the economy, while some development scholars later argued that narrative was one-sided and that there were underreported successes . That divergence shows how politicized these topics can be: one person’s “failed socialist expropriation” is another’s “revolutionary redistribution” depending on perspective. Increasingly, policy discourse has shifted from asking “should we give people assets?” to “how can we best give people assets?” This is a notable change – it reflects that the moral argument (do the poor8 9899 98 101 8788 87 102 36 28 29 7174 16 deserve capital grants?) is giving way to practical arguments (what’s the optimal design?). This shift is due in part to the mounting evidence that these policies can work and the urgency of inequality problems pushing analysts to think outside the traditional toolbox. For example, even the notion of large-scale reparations for African Americans – once politically unthinkable – is getting serious study, and baby bonds are sometimes floated as de facto partial reparations (though not lineage-based, they would disproportionately help people of color due to wealth disparities). Politically, that connection is delicate; baby bonds are framed in race- neutral terms (income/wealth based, not explicitly race-based), which makes them more palatable to a wider audience, yet they are expressly intended to address outcomes of racial injustice . Potential Future Developments: As these programs continue or expand, public and political reactions will evolve. If Connecticut’s baby bonds produce visible success stories a decade from now – say, a wave of low- income youths who graduate college or start businesses thanks to their accounts – it could generate a bandwagon effect and broader public support for such policies. Conversely, if any high-profile misuse or corruption incident occurs, opponents will amplify it as evidence of flaws. For land reform, outcomes can sway national narratives: South Africa is at a crossroads where either it finds a way to speed up land transfers without scaring off investment, or populist pressure might push it toward a Zimbabwe-style approach (which would be internationally criticized). The public there is divided – opinion polls show strong support among Black South Africans for expropriation to correct historical wrongs, while white South Africans and investors strongly oppose it. The ultimate path will depend on political leadership and compromise (there’s discussion of compensation via land value banks, etc.). In academia, one can expect more longitudinal studies. For instance, UK researchers will surely track the young adults who got Child Trust Funds to see if there are any measurable differences in their outcomes (wealth at age 25, etc.) compared to those who just missed out – that quasi-experimental setup (born in 2002 vs. 2012) could yield insights on even a relatively small endowment’s impact on behavior . Overall, the reaction to capital endowment programs can be summarized thus: cautious optimism from experts , hope from beneficiaries and advocates , and a mix of ideological support or resistance in the political arena depending on values and interests. Importantly, these programs, while still not mainstream in most places, are increasingly part of the policy conversation. As the world grapples with widening wealth inequality, climate shocks (which could wipe out people’s assets), and the need for inclusive recovery from the pandemic, the idea of ensuring everyone has some capital stake in the economy may gain further traction. As one commentator put it, baby bonds and similar ideas might be “the boldest step to close the wealth divide in generations,” if we have the political will to see them through . Conclusion Capital endowment programs – whether in the form of a child’s trust fund, a plot of land, or a cash grant to start a business – represent a paradigm shift in social and economic policy. Instead of only treating the symptoms of inequality (through income supplements or public services), these initiatives aim to change the starting point and assets of individuals, thereby altering the trajectories of lives and communities. The narrative evidence from around the world, backed by empirical research, suggests that such programs can be powerful levers for change : they have enabled families to build homes, youths to get higher education, women to become entrepreneurs, and marginalized groups to gain a foothold in the economy. Yet, the experiences also counsel pragmatism. Capital alone is not a magic wand – it works best in tandem with knowledge, good policies, and a healthy economic environment. A capital endowment can open a door ,2 103 104 17 but individuals still must walk through it, and society must ensure the path beyond is passable (e.g. jobs available, markets accessible, rights protected). When evaluating these programs, one must consider not just the feel-good factor of “giving people something” but the concrete outcomes years down the line. Many programs are still in their infancy (for instance, no one will know the full impact of Connecticut’s baby bonds until after 2041, when the first babies have grown up and used their funds). This calls for patience and robust evaluation mechanisms to learn and adapt. From a policy design perspective, some best practices emerge: Make it substantial: The endowment should be large enough to serve its intended purpose (whether that’s buying a home or livestock or paying tuition). Token amounts yield token results . Target wisely but inclusively: Prioritize those who truly lack capital (to maximize impact per dollar), but avoid overly narrow targeting that leaves out slightly-better-off groups who might then politically oppose the program. Universal frameworks with progressive funding (rich pay in more, poor get more out) seem promising in theory . Ensure financial and technical support: Coupling assets with education (financial literacy, vocational skills) and ongoing support improves outcomes . This is as true for a teenager managing a trust fund as for a farmer managing new land. Safeguard the asset’s value: Guard against dilution or exploitation. For instance, protect child accounts from predatory fees, or protect small farmers from having to distress-sell land by ensuring credit and insurance are available. Secure long-term funding: One of the Achilles’ heels of such programs is political turnover – a new government might scrap funding (as seen in the UK CTF cancellation, or threats to DC and CA funds) . Putting funds in trust, or enshrining them in a way that’s hard to reverse, can help maintain stability long enough for the benefits to be proven. Monitor and evaluate: Continuous data collection on how funds are used, what outcomes are achieved, and where issues arise (e.g., low uptake, misuse cases) is critical. This allows mid-course corrections – perhaps rules need tweaking, or additional outreach is needed to ensure eligible folks know about the program (like California’s effort to find all 58,000 eligible youth) . The journey of capital endowment programs is just beginning. A century ago, concepts like public schooling or social security were novel and contentious; today they are pillars of modern society. It’s conceivable that a century from now, people will take for granted that every child is invested with a starter capital sum, or that owning a piece of one’s nation’s land or wealth commons is a birthright. The experiments underway today in places like Connecticut, London, Jerusalem, Kampala, and beyond are the early chapters of that narrative. One compelling philosophical framework underlying these efforts is the capability approach , articulated by economist Amartya Sen and philosopher Martha Nussbaum. It asks not just “what does a person have?” but “what is each person able to do and to be?” . Capabilities – the real freedom to pursue one’s goals – can be constrained by a lack of resources. Capital endowment programs seek to expand people’s capabilities by giving them the means (be it money, land, or assets) to choose their futures. As Nussbaum put it, it’s about ensuring people have “the substantial opportunity” to achieve their potential, not just formal rights they cannot exercise . In very practical terms, a young adult with a nest egg has the freedom to attend college without working full-time on the side, or to move to where a job is, or to say no to exploitative labor – freedoms that someone with nothing simply doesn’t have.• 6 • 105 106 • 8788 • • 2897 • 45 107 108 108 109 18 Societies will continue to debate how much we owe each other and what the best ways are to foster equity and prosperity. But the rise of capital endowment programs signals a recognition that starting conditions matter greatly . Leveling the playing field may require not only leveling incomes but also assets. As these programs progress, they will generate more data and stories – the student who became a doctor because she could afford medical school, the farming family that moved from subsistence to surplus, the formerly landless community that gained stability. These human outcomes will ultimately drive public perception and political will. If the results remain positive, we can expect scaling up: perhaps a federal baby bonds program in the U.S. in the future, or renewed child accounts in the UK, or expanded land grants with support in South Africa. If some falter or are poorly implemented, there will be retrenchment and “I told you so” from skeptics. Realistically, it won’t be all success or all failure – different designs will yield different results. The task for researchers and policymakers is to parse those differences and continually refine these programs. In closing, capital endowment programs marry an idealistic vision (that everyone deserves a capital foundation) with practical mechanisms (trust funds, grants, titles). They are driven by a mix of moral urgency and empirical insight. As one Nevada commentator wrote, baby bonds could be “the boldest step to close the racial wealth divide in generations,” likening the potential impact to landmark policies of the past . That remains to be seen, but even the attempt marks a bold reimagining of how we invest in human potential. The story is still unfolding – in city council hearings, in rural villages, in university halls – and it is a narrative well worth following, as it may hold a key to a more equitable future. Sources: Urban Institute, “The State of Baby Bonds,” Feb 2023 – notes that baby bonds are publicly funded child trust accounts to be used for wealth-building (e.g. home, education) and aim to narrow racial wealth gaps . Council of the District of Columbia, Press Release on Child Wealth Building Act , Oct 20, 2021 – outlines D.C.’s baby bonds program: \$500 at birth + up to \$1,000 annually for children in families <300% FPL, funds accrue until age 18 for specified uses . Emphasizes the policy’s racial equity goal given DC’s 81:1 white-to-Black wealth ratio . DC Fiscal Policy Institute, “Restore Funding for Baby Bonds” (Mar 2024) – provides data on proposed cuts: Mayor’s plan to restrict eligibility to 100% FPL (reducing annual beneficiaries from ~4,150 to 1,702) and cut annual deposit to flat \$500 (yielding \$9.1k at 18 vs \$21k under original law) . Student Policy Journal (Harvard Kennedy School), “American States Are Embracing Baby Bonds,” Apr 2024 – reports that as of 2023, baby bond laws passed in DC, Connecticut, and California, and introduced in at least eight other states; notes CT’s program \$3,200 per child on Medicaid (~15k kids/year) launching July 2023 . Describes CT’s expected payouts (\$11k–\$24k) and usage rules (18–30 age window, approved purposes, financial training required) . Also covers California’s HOPE accounts (\$100M for ~58k COVID-orphaned or foster youth, with \$4,500 for oldest in first cohort) and notes it’s unrestricted, with financial mentoring incentives . Aston University research, “Impact of Child Trust Funds in the UK – a missed opportunity,” Sep 2023 – finds the UK CTF had only modest positive effects on children’s savings habits, mainly among affluent families, implying limited impact on reducing inequality . Provides figures: by 2022 about £10 billion in 6 million CTF accounts, of which £2 billion was government contributions .103 104 • 12 • 3 20 • 110 111 • 3132 112 33 4243 • 6 7 19 Israeli National Insurance Institute, “Savings for Each Child” info (2017) – states that for each child receiving child allowance, ₪57 per month is deposited into a savings account until age 18 , in addition to the child allowance . Wikipedia, “Land reform in South Africa,” and related sources – indicates up to 50% of South African land reform projects have failed to meet objectives, citing poor implementation . Cato Institute, “Why Mugabe’s Land Reforms Were Disastrous,” and Oxfam blog “Has Zimbabwe’s land reform been a success?” – Cato notes Zimbabwe’s ag output fell ~60% in a decade post-fast track ; Oxfam/poverty researchers note by later years, 245,000 Black smallholders were farming land taken from 6,000 whites, and most had reached the former output levels , improving their livelihoods . American Economic Review: Insights (Blattman et al 2020), “Long-Term Impacts of Grants on Poverty: 9- year evidence from Uganda,” – initial 4-year impacts: grants raised work by 17%, earnings by 38%; by 9 years, income gains dissipated (treated and control converged in earnings), though grant group maintained higher durable assets and skilled work participation . J-PAL and IPA summaries on Graduation programs – highlight that across six countries, multi-faceted “big push” programs had broad, lasting impacts and benefits exceeding costs , whereas providing just an asset or just a savings account alone did not improve outcomes in Ghana . State that over 3 million households have been reached by such programs in 15+ countries . Urban Institute, “Baby Bonds Would Reduce Racial Wealth Inequities,” Oct 4, 2023 – reviews simulation studies: e.g. Zewde (2019) where baby bonds reduce median white-to-Black young adult wealth ratio from 15.8:1 to 1.4:1 , and other studies predicting substantial gap narrowing . Also notes existing programs in CT, DC, and CA and that no empirical results are in yet, as they are nascent . Urban Institute: The State of Baby Bonds - Asset Funders Network https://assetfunders.org/field-news/urban-institute-the-state-of-baby-bonds/ $1,000-A-Year “Baby Bonds” Created by the Council • Council of the District of Columbia https://dccouncil.gov/1000-a-year-baby-bonds-created-by-the-council/ Cory Booker's "Baby Bonds" Plan-2019-12-18 https://www.crfb.org/blogs/cory-bookers-baby-bonds-plan Impact of Child Trust Funds in the UK ‘a missed opportunity’ – Aston University research for UK Savings Week | Aston University https://www.aston.ac.uk/latest-news/impact-child-trust-funds-uk-missed-opportunity-aston-university-research-uk-savings American States Are Quietly Embracing the ‘Baby Bonds’ Revolution to Fight Inequality - HKS Student Policy Review HKS Student Policy Review https://studentreview.hks.harvard.edu/american-states-are-quietly-embracing-the-baby-bonds-revolution-to-fight-inequality/ DC Council Should Restore Funding for the Baby Bonds Program https://www.dcfpi.org/all/restore-funding-for-and-protect-the-integrity-of-the-baby-bonds-program/ Savings amount - Savings plan for each child | ביטוח לאומי http://www.btl.gov.il/English%20Homepage/Benefits/Children/Savings%20plan/Pages/SavingsAmount.aspx The Saving for Every Child Program in Israel - Social Policy Institute https://socialpolicyinstitute.wustl.edu/saving-for-every-child-program-in-israel/• 52 • 58 • 70 67 • 80 81 • 87 88 90 • 98 98 101 113 1 2105 319 20 21 410 11 12 13 14 15 16 5 6 7 8 917 18 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51102 106 107 108 109 112 22 23 24 25 26 27 28 29 30110 111 52 54 53 20 Smart strategies for Israel's child savings program: A parent's guide ... https://www.israelhayom.com/2024/07/11/smart-strategies-for-israels-child-savings-program-a-parents-guide-to-financial- success/ Enrollment and participation in a universal child savings program https://socialpolicyinstitute.wustl.edu/enrollment-and-participation-in-a-universal-child-savings-program/ Land reform in South Africa - Wikipedia https://en.wikipedia.org/wiki/Land_reform_in_South_Africa From failure to success in South African land reform - AgEcon Search https://ageconsearch.umn.edu/record/197014/?ln=en This Land Is Our Land: Expropriation without Compensation in ... https://hir .harvard.edu/this-land-is-our-land-expropriation-without-compensation-in-south-africa/ Why SA's land reform is failing - Food For Mzansi https://www.foodformzansi.co.za/freedom-day-why-sas-land-reform-is-failing/ Has Zimbabwe’s land reform actually been a success? A new book says yes. | From Poverty to Power https://frompoverty.oxfam.org.uk/has-zimbabwes-land-reform-actually-been-a-success-a-new-book-says-yes/ Why Mugabe's Land Reforms Were so Disastrous | Cato Institute https://www.cato.org/commentary/why-mugabes-land-reforms-were-so-disastrous Production rising on Zimbabwe's land reform farms | | Africa at LSE https://blogs.lse.ac.uk/africaatlse/2013/01/25/production-rising-on-zimbabwes-land-reform-farms/ The Long-Term Impacts of Grants on Poverty: Nine-Year Evidence from Uganda's Youth Opportunities Program - American Economic Association https://www.aeaweb.org/articles?id=10.1257/aeri.20190224 9-year evidence from Uganda's Youth Opportunities Program https://www.aeaweb.org/articles/materials/13291 What’s best at fighting extreme poverty: cash or ultra-poor graduation? | Vox https://www.vox.com/future-perfect/23152657/poverty-cash-graduation-ultra-poor-brac Graduating the Ultra-Poor in Ghana | The Abdul Latif Jameel Poverty Action Lab https://www.povertyactionlab.org/evaluation/graduating-ultra-poor-ghana?lang=fr Targeting the ultra-poor to improve livelihoods | The Abdul Latif Jameel Poverty Action Lab https://www.povertyactionlab.org/case-study/targeting-ultra-poor-improve-livelihoods Poverty reduction through large asset transfers: a look at the long run https://blogs.worldbank.org/en/impactevaluations/poverty-reduction-through-large-asset-transfers-look-long-run Productive Asset Transfers and Coaching Can Improve Livelihoods of People in Extreme Poverty in the Philippines | IPA https://poverty-action.org/study/productive-asset-transfers-and-coaching-can-improve-livelihoods-people-extreme-poverty Statement on Newsom Proposed Cut to Baby Bond Program https://endpovertyinca.org/press/statement-on-newsom-proposed-cut-to-baby-bonds-program/55 56 57 58 59 61 62 60 63 64 65 66 67 68 69 71 74 75 78 79100 70 72 73 76 77 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 21 Baby Bonds Would Reduce Racial Wealth Inequities. Here’s What Policymakers Need to Know. | Urban Institute https://www.urban.org/urban-wire/baby-bonds-would-reduce-racial-wealth-inequities-heres-what-policymakers-need-know The boldest step to close the racial wealth divide in generations https://nevadacurrent.com/2024/06/20/the-boldest-step-to-close-the-racial-wealth-divide-in-generations/98 99101 113 103 104 22
+Capital Endowment Programs: Direct Asset Grants
+to Individuals
+Introduction
+Imagine entering adulthood not with empty pockets or student debt, but with a nest egg provided by
+society – a stake to kickstart your future. Capital endowment programs  aim to do just that: directly grant
+people a base of capital or assets  to build wealth, distinct from recurring income support like universal basic
+income (UBI) or common-resource dividends (such as Alaska’s oil fund). These initiatives can take the form
+of publicly funded  trust accounts for children (“baby bonds”) , one-time  cash or asset grants to low-
+income adults , or even  land and housing distribution . The core idea is to give individuals – especially
+those from disadvantaged backgrounds – a tangible asset foundation for economic security and upward
+mobility . Proponents view capital endowments as a tool to combat entrenched wealth inequality
+(for example, along racial or class lines) by broadening ownership of wealth-producing assets . Critics
+ask whether these programs are effective or fair , and debate their cost. This report provides a narrative,
+nonfiction-style exploration of modern capital endowment programs around the world. We will examine
+who is implementing or proposing them, how they work, what results and challenges have emerged, and
+how the public and experts are reacting. 
+Notably, this report focuses on contemporary or ongoing  programs – leaving aside purely historical policies –
+to illuminate current practice. From “baby bond” child trust accounts in wealthier nations to land grants and
+asset transfers in developing countries, capital endowment schemes vary widely in design. Some give liquid
+financial assets  (cash, savings, stocks or trust fund balances), while others confer non-liquid assets  like land,
+housing,  or  business  capital.  We  will  survey  government-led  programs  at  national  and  state  levels,
+philanthropic and international initiatives, and draw on quantitative data where available – such as how
+much capital is granted per person and at what scale. Throughout, we’ll incorporate primary sources,
+government reports, and rigorous analyses to provide a clear , detailed picture for policy researchers and
+general readers alike. 
+Government-Led Capital Endowment Initiatives
+Government  programs  that  endow  citizens  with  capital  have  taken  several  forms,  from  child  savings
+accounts to land redistribution. Here we discuss major categories of such initiatives, profiling key examples
+and their outcomes.
+Child Trust Accounts and “Baby Bonds”
+One prominent model is the creation of child trust accounts  – often dubbed “baby bonds” in the United
+States – which are publicly funded accounts set up for children, meant to grow until they reach adulthood.
+Upon maturity (typically at 18 or 21), the young adult can use the accumulated funds for approved wealth-
+building purposes like higher education, homeownership, entrepreneurship, or retirement savings .12
+2
+34
+1
+These programs are usually universal or targeted by income , aiming to ensure each child, especially those
+from low-wealth families, has some capital stake as they start out in life .
+The United Kingdom’s Child Trust Fund (CTF)  was a pioneering national program of this kind. Launched in
+2002 by a Labour government, the CTF provided every newborn in the UK a voucher to open a tax-free
+savings account – generally  £250 for most children, or £500 for children from lower-income families ,
+with an additional government contribution in later childhood (at age 7) for a time . These funds were
+invested and locked in until the child turned 18. The intent was to “generate a capital sum for UK children
+when they turn 18,”  instilling a saving habit and giving all youth a modest asset base entering adulthood
+. Between 2002 and 2011, about 6 million CTF accounts were opened – one for virtually every eligible
+child born in that period. By 2020, the first cohort began reaching age 18 and gaining access to their funds.
+By  2022,  roughly  £10   billion  had  accumulated  in  CTF  accounts,  of  which  about  £2   billion  was
+contributed  by  the  government  (the  rest  came  from  parents,  family,  or  investment  growth) .  In
+practice, however , the program’s impact on inequality was limited. An evaluative study found only “a modest
+positive effect on savings”  behavior , mostly among more affluent families , who were more likely to make
+additional contributions to their children’s accounts . Lower-income families often couldn’t afford to save
+extra, meaning many poorer children ended up only with the government’s base contribution (plus interest)
+at maturity. The average CTF value for a child turning 18 in recent years was on the order of a few hundred
+to a few thousand pounds – a helpful sum, but not a life-changing fortune. Some analysts have called the
+CTF  a  “missed  opportunity,”  noting  that  without  larger  or  more  progressive  contributions,  it  did  not
+substantially narrow wealth gaps . The program was also short-lived: in 2010 a new government ended
+new CTF enrollments (citing budget cuts), replacing them with a far less generous Junior ISA program
+(which has no automatic public deposit). Thus, while the UK’s experience demonstrated the feasibility of
+giving  every  child  an  account,  it  also  showed  that  the  scale  of  endowment  matters  if  the  goal  is  to
+meaningfully boost financial resilience for the less wealthy.
+The United States never implemented a national child trust fund, but the concept of  “baby bonds”  has
+gained momentum in recent years as a strategy to combat America’s stark racial and wealth inequalities.
+The idea entered U.S. policy discussions in the 2000s and especially after a  2010 report by economists
+Darrick Hamilton and William Darity Jr. , who proposed providing every newborn with a substantial trust
+account – on the order of \$50,000 to \$60,000 per child – with the size of the endowment inversely tied to
+the family’s wealth . They argued this could dramatically shrink the wealth gap between Black and
+white Americans, calling for a “race-fair America” where everyone starts with some capital . In 2018, U.S.
+Senator  Cory  Booker  took  up  the  cause  at  the  federal  level,  introducing  the  American  Opportunity
+Accounts Act , widely known as a baby bonds proposal. Booker’s plan would create a federally funded
+account for each child at birth with a  $1,000 initial deposit , then  annual payments on a sliding scale
+based on household income , up to \$2,000 per year for the lowest-income families . Contributions
+would cease at age 18, and the account (invested in safe assets like government bonds) could then be
+accessed by the young adult for approved wealth-building uses (education, home ownership, business,
+retirement) .  According  to  estimates  by  Booker’s  office  and  the  Congressional  Budget  Office,  the
+maximum accrual for a low-income child would be around \$46,000 by age 18  (in 2019 dollars), while even
+children from high-income families (who’d only get the \$1,000 seed and no annual top-ups) would see
+roughly  \$1,700  by  adulthood .  The  average  account  balance  across  all  children  was  projected
+around \$20,000 . Booker’s ambitious program would cost about \$60 billion per year  (roughly \$600–
+700 billion over a decade) – which he proposed funding through higher taxes on the wealthy, such as
+raising capital gains and estate tax rates . While the legislation has not passed as of 2025, it gained12
+5
+6
+5
+7
+6
+6
+89
+8
+1011
+12
+1314
+13
+1516
+2
+notable support – 15 U.S. Senators co-sponsored  the 2021 bill  – signaling growing political interest
+in the concept. 
+At the subnational level, a number of  U.S. states and cities have forged ahead  with baby bond-type
+programs or studies. Washington, D.C.  was an early adopter: in 2021 the D.C. Council unanimously passed
+the  Child Wealth Building Act , creating a baby bonds program for the District . Under this law,
+every baby born to a low-income family in D.C. (household income under 300% of the federal poverty
+level)  gets  a  trust  account  with  an  initial  \$500  deposit,  plus  up  to  \$1,000  added  each  year  of
+childhood that the family remains below the income threshold . These deposits continue until age 18,
+after which the accumulated funds (plus investment earnings) can be used by the young adult for approved
+purposes like college tuition, buying a home or starting a business . The racial equity motivation is
+explicit: D.C.’s median white household wealth is 81 times that of the median Black household, an “alarming”
+gap the policy aims to reduce . Initial funding of \$32 million (spread over four years) was allocated to
+kickstart the trust accounts . However , D.C.’s implementation has faced political and fiscal headwinds. In
+2023–24, the city’s mayor proposed restructuring and scaling back the program significantly – lowering
+eligibility to only those in poverty (<100% FPL) and cutting the annual deposit to a flat \$500 for all
+. The District’s independent budget office calculated that under the original law, a child from a poorest
+family could accumulate around \$21,000 by age 18, whereas under the mayor’s cuts the maximum would
+be only about \$9,100 (in 2024 dollars) . The eligibility cut would also shrink the beneficiary pool by
+more than half – from about 4,150 babies each year to only ~1,700 – undermining the broad reach originally
+intended .  Advocates  decried  these  changes,  noting  they  would  “slash  future  beneficiaries’
+disbursements”  and blunt the program’s ability to close the wealth gap . As of March 2024, D.C.’s baby
+bonds  trust  fund  had  about  \$17.6   million  (contributions  from  its  first  couple  years),  and  the  debate
+continues as the City Council and mayor negotiate the program’s fate . The D.C. case illustrates not
+only the promise of baby bonds, but also the challenges of sustaining political commitment (and funding)
+over the long term needed for children’s accounts to mature.
+Connecticut became the first U.S. state  to fully enact a baby bonds program. Passed in 2021 and launched
+on July 1, 2023, Connecticut’s initiative invests \$3,200 on behalf of each baby born into poverty  in the
+state (defined by birth being covered under the Medicaid program, HUSKY) . About 15,000 infants per
+year – roughly half of all births in Connecticut – are expected to qualify and be automatically enrolled .
+The state pools these contributions in a professionally managed trust fund. When enrolled children reach
+age 18 (and up until age 30), they can claim their “baby bond” – which by then is projected to be anywhere
+from \$11,000 up to \$24,000 per person  depending on investment returns and how long it stays invested
+(accounts grow until withdrawal, so someone waiting until closer to 30 could have a larger amount) . To
+use the funds, the young adult must be a Connecticut resident and must participate in a brief financial
+education training – a safeguard to ensure some financial literacy . Withdrawals are restricted to
+approved asset-building uses (similar to other programs: buying a home, paying for higher education or job
+training,  starting  or  investing  in  a  business,  or  saving  for  retirement) .  Connecticut  policymakers
+explicitly designed this program to “break the cycle of poverty” by endowing the poorest children with
+capital for adulthood . The state seeded the trust fund with \$400 million  from a budget surplus and
+bond refinancing deal in 2021, which is expected to cover all cohorts born through at least 2035 (12 years of
+births) . This long-term funding approach – essentially locking in financing upfront – was intended to
+“protect it from political turmoil” year-to-year . As Connecticut’s State Treasurer noted, “there is no perfect
+way to do this”  – questions have arisen such as whether some people might attempt to move into the state
+to get the benefit or misuse funds – but officials are optimistic that most will use their endowments for the
+intended goals and that the program will ultimately benefit not just individuals but local communities and1718
+19 3
+3
+3
+20
+21
+22
+23
+2425
+2627
+2228
+2930
+31
+31
+32
+3334
+35
+36
+34
+34
+3
+the  state  economy .  Connecticut’s  baby  bonds  garnered  national  attention  as  a  bold  state-level
+experiment, and it was influenced by the academic research and advocacy of people like Hamilton, Darity,
+and Senator Booker in neighboring New Jersey .
+California, despite its size and progressive politics, has taken a more  targeted approach  rather than a
+universal one. In 2022, California enacted the HOPE for Children Trust Account Program  – a \$100 million
+pilot focusing on some of the most vulnerable children: those who lost a parent or caregiver to COVID-19,
+and foster youth who are aging out of the state’s care . The impetus was the devastation of the
+pandemic; an estimated 32,500 children in California experienced the death of a caregiver due to COVID
+. Under HOPE, these eligible minors will receive a  trust account that vests when they turn 18 ,
+providing  an  endowment  to  help  them  start  adulthood  on  stronger  footing .  Because  the
+beneficiaries span a range of current ages (some already in their mid-teens when the program started), the
+trust amounts vary: the oldest teens (nearing 18) are slated to receive about \$4,500 each , while younger
+children (who will have more years for the funds to potentially accrue interest) are allocated slightly more in
+present value . Notably, California’s HOPE accounts are unrestricted lump sums  – unlike Connecticut’s
+or D.C.’s baby bonds, California will not legally mandate how the youth spend the money. Program leaders
+reason that these young people, having faced hardship, know their needs;  “They are not going to waste
+money,”  said HOPE’s executive director , who convened a youth advisory panel (including foster youth) to
+guide  implementation .  Indeed,  the  youth  themselves  indicated  they  might  use  funds  for  basic
+necessities like food and housing . To encourage financial capability, California plans to offer financial
+mentors  and  literacy  classes  to  HOPE  beneficiaries,  with  small  incentives  for  participation .
+Approximately 58,000 young people  are estimated to be eligible statewide, and outreach is underway to
+ensure they know to claim their accounts . Because the trust is finite, the initial payouts will happen as
+each cohort turns 18 over the coming years. Policymakers intend to evaluate outcomes and consider the
+program’s scalability. They have noted that a truly universal baby bond for all low-income California children
+would be a massive investment – on the order of \$3 billion per year  if it were to cover every child in a low-
+income family statewide . At present, California’s HOPE is a focused intervention, born of a crisis, but it
+represents  another  variant  of  capital  endowment  policy:  targeting  those  who  have  suffered  specific
+adversities (in this case, orphanhood or long-term foster care) with a boost of wealth to improve their life
+chances.
+Beyond  these  examples,  at  least  eight  other  U.S.  states  have  introduced  baby  bond  legislation  or
+commissioned studies, indicating bipartisan interest in the policy’s potential . States as politically diverse
+as New Jersey, New York, Washington, Iowa, Louisiana, Nevada, Delaware, Vermont, and Wisconsin
+have all explored versions of child trust accounts in recent years . For instance,  New Jersey’s  governor
+floated a statewide baby bond plan in 2020 (though it ultimately was not included in the budget) . 
+Massachusetts  published a detailed study on implementation options . This flurry of activity suggests a
+“quiet revolution” may be underway in how some U.S. policymakers think about fighting wealth inequality
+. The momentum is such that one analysis in 2024 noted “up to a quarter of U.S. states” were
+showing interest in endowing young citizens with capital by age 18, an idea long discussed but never
+realized on a large scale .
+Internationally, other countries have adopted or are trying similar child asset-building schemes.  Israel
+implemented a universal child development account program in 2017 known as the Saving for Every Child
+plan. Under this policy, the government opens an investment account for every Israeli child and deposits
+₪50–₪57  (roughly  \$15)  per  month  into  it  until  the  child  turns  18 .  Parents  can  choose  the
+investment vehicle (a bank savings plan or various mutual funds) and are also allowed to contribute an37
+38
+3940
+39
+4142
+42
+43
+43
+44
+45
+46
+47
+47
+48
+47
+4950
+5051
+5253
+4
+additional matching amount (often taken from their monthly child allowance benefit) if they wish .
+Upon reaching age 18, the child can withdraw the funds (with a bonus added if they defer withdrawal until
+21). The Israeli program thus ensures every  young adult has at least a small pot of savings as they enter
+adulthood – on the order of a few thousand US dollars per child. Like the UK’s experience, early research
+from Israel shows high participation rates but also differential engagement: more affluent and educated
+families tend to opt into higher-risk/higher-return funds and contribute extra, meaning their children will
+likely see larger accounts, whereas disadvantaged families are less able to add contributions . This
+points to a common design challenge: how to make such programs progressive  and effective at narrowing
+wealth gaps, rather than inadvertently widening them through unequal participation. Israel’s approach
+provides universality and a meaningful sum over time, but it may require adjustments (such as larger
+contributions for low-income families) to truly equalize opportunities .
+Several other nations have instituted modest child savings incentives. Singapore , for example, has a Baby
+Bonus scheme that includes a Child Development Account : the government gives a small grant at birth
+and matches parental savings up to a cap, with funds usable for the child’s education or health needs.
+Canada  offers the Canada Education Savings Grant  and Canada Learning Bond , which deposit federal money
+into  Registered  Education  Savings  Plans  for  children  (especially  those  from  low-income  families)  to
+accumulate for college costs. While these are somewhat different in focus (education-specific and requiring
+parental opt-in), they share the ethos of seeding assets for youth. By and large, however , the scale of
+funding in these programs (a few hundred or a few thousand dollars per child) is much lower than the
+transformative “baby bond” levels envisioned by proponents in the U.S. and UK.
+In summary, child capital endowment programs are no longer theoretical  – they have been tried in the UK,
+are rolling out in parts of the U.S., and exist in variants from Israel to Singapore. The early lessons indicate
+that universality  and sufficient funding  are key to maximizing impact. If the accounts are too small, they risk
+being merely symbolic. If wealthier participants contribute more or invest more aggressively, the egalitarian
+purpose can be blunted . At the same time, these programs are politically tangible : they create visible
+assets for individuals, which could build public support over time (few will object to “free money” for their
+children). The coming years – as Connecticut’s and D.C.’s accounts mature, and as other states/countries
+potentially follow – will provide valuable evidence on how young people use these funds and whether these
+endowments measurably improve life outcomes such as homeownership rates, educational attainment, or
+business formation among recipients.
+Land Redistribution and Asset Grants
+Another form of capital endowment by governments involves granting non-financial assets  – chiefly land
+or housing – directly to individuals or families. Whereas child trust funds address wealth inequality by
+building  financial  capital  for  the  next  generation,  land  distribution  programs  address  inequality  in
+property  ownership,  often  seeking  to  right  historical  injustices  or  boost  economic  development  by
+broadening land access. Land, of course, is a foundational asset in agrarian economies and a source of
+security and income.
+Land reform in South Africa  is a notable contemporary example. Since the end of apartheid in 1994, South
+Africa’s government has aimed to transfer a substantial portion of agricultural land from the white minority
+(who owned most of it under apartheid) to Black South Africans who had been dispossessed. This has been
+pursued through a mix of land restitution (returning land or compensating communities for past takings)
+and land redistribution (purchasing or expropriating land for new Black farmers). The effort has been5455
+56
+57
+657
+5
+arduous and slow. By the 2010s, only about 9–10% of farmland had been redistributed, versus an initial
+target of 30% . Moreover ,  many redistributed farms struggled to succeed : it’s estimated that up to
+50%  or  more  of  land  reform  projects  failed  to  achieve  their  intended  outcomes  (e.g.  becoming
+productive, sustainable farms) . Reasons cited include poor implementation, lack of support and
+training  for  new  farmers,  and  in  some  cases  burdensome  group  ownership  structures  that  led  to
+management difficulties . In one case, a Black farmer given land remarked that the government retained
+title to the farm, preventing him from using it as loan collateral – illustrating how partial asset grants
+(without full property rights or access to credit) can limit benefits . By the late 2010s, frustration with
+the slow pace of land reform led to calls (and an unsuccessful constitutional amendment attempt) to allow
+expropriation  without  compensation ,  which  supporters  argued  would  accelerate  redistribution  but
+opponents warned could undermine investment and food security . As of 2025, South Africa’s land
+endowment efforts remain a work in progress: some success stories of Black emergent farmers exist, but
+large-scale impact on rural poverty or racial wealth disparities has yet to be realized, in part because
+complementary inputs – financing, technical assistance, and secure tenure – have lagged. The South African
+case underscores that transferring an asset alone is often not enough ; new owners may need support to make
+the asset productive and truly build wealth .
+Zimbabwe’s  fast-track  land  reform  in  the  early  2000s  provides  a  contrasting  case,  often  cited
+(controversially) in debates on land endowment. Beginning in 2000, Zimbabwe’s government under Robert
+Mugabe forcibly reclaimed millions of hectares of commercial farmland from about 6,000 white farmers and
+reallocated  it  to  around  245,000  Black  Zimbabwean  families .  This  was  arguably  the  largest  land
+endowment program in Africa in recent history – each beneficiary family received a plot, typically 5–6
+hectares for smallholders in the “A1” resettlement scheme . The short-term economic fallout was
+severe: the disruption of commercial agriculture caused total food production to plummet by roughly 60%
+over  ten  years ,  and  the  country  faced  food  shortages  and  an  economic  crisis .  By  one  estimate,
+commercial farm output and export earnings fell so drastically that Zimbabwe’s GDP shrank and millions
+were pushed into poverty. Observers blamed the  chaotic implementation  – including violence, lack of
+farming support for new owners, and the flight of agricultural capital – for what was widely deemed a
+disastrous episode . However , with the benefit of two decades’ hindsight, the outcomes appear more
+nuanced. Studies in the 2010s found that many of the smallholder farmers who got land have incrementally
+increased  production.  By  around  2013,  170,000  new  land-reform  farmers  were  producing  at  levels
+comparable to the former large-scale farmers  in key crops like maize and tobacco . A detailed
+study (Hanlon et al. , 2013) reported that Zimbabwe’s land reform, though messy, led to a new class of small
+commercial farmers – including a significant number of women – who were succeeding given the chance to
+farm their own land . As one resettled farmer proudly showed researchers her thriving tobacco crop
+and new curing barn, it was clear that for some, the land endowment did translate into higher income and
+living  standards .  By  the  late  2010s,  it  was  estimated  that  the  245,000  resettled  farmers  had
+overall brought Zimbabwe’s agriculture back to the output of the pre-reform era , albeit with a shift to
+many small producers instead of a few thousand large ones . That said, Zimbabwe’s approach also had
+huge costs : years of food insecurity, international sanctions, environmental degradation (e.g. deforestation
+by new farmers), and enduring political turmoil. The long-term success  of the beneficiaries is mixed – some
+became productive commercial farmers, while others struggled without access to credit or inputs, and the
+country now has a large class of undercapitalized smallholders. Corruption and cronyism  also marred the
+process  (some  land  went  to  well-connected  elites  who  left  it  idle) .  In  sum,  Zimbabwe’s  land
+endowment showed that transferring assets can empower many poorer families – if they have the skills and
+stability to use them – but it also stands as a cautionary tale on the importance of orderly process and58
+5859
+60
+6162
+6364
+6566
+67
+6869
+70
+7071
+7273
+7475
+7677
+67
+7879
+6
+support  structures.  The  program  achieved  a  dramatic  racial  redistribution  of  wealth  in  land,  but  at  a
+significant economic cost and with ongoing consequences to the nation’s development.
+Outside of Southern Africa, numerous countries have implemented land granting schemes, often as part of
+agrarian reform or poverty alleviation. In Latin America , for instance, countries like Brazil  and Mexico  have
+at times distributed land or title to landless rural families. Brazil’s government since the 1990s settled tens
+of thousands of landless households on plots (often through expropriating unused private land), with
+results varying by the support given to settlers. In Asia, land-to-the-tiller reforms  in the post-WWII era (in
+Japan, South Korea, Taiwan) were highly successful in creating a nation of small landowning farmers and
+reducing rural inequality – albeit those are historical examples from the 1940s–50s. More contemporarily,
+countries like India  have had patchy efforts: some states gave limited plots to Dalits and tribal people, or
+distributed waste land for cultivation, but these programs tend to be small in scale. One interesting asset
+endowment  approach  is  urban  housing  or  land  title  grants :  for  example,  Thailand  and  Peru  have
+programs  that  give  slum  dwellers  legal  title  to  the  land  or  house  they  occupy,  effectively  converting
+informal dwellings into an asset that owners can leverage. The Peruvian economist Hernando de Soto
+famously argued that giving property titles to the urban poor would unlock “dead capital” by allowing them
+to borrow against their homes and invest – though in practice, titling alone hasn’t generated a wave of
+entrepreneurship (credit access also requires willing lenders), it has improved tenure security. Meanwhile, in
+some Gulf countries  with abundant state resources (like the UAE, Qatar , Saudi Arabia), it is common for the
+government to endow citizens with land or even free homes as a benefit. For example, oil-rich states often
+have programs where young married citizens receive a plot of land or a housing grant. This is a form of
+capital endowment (funded by state wealth) aimed at improving citizens’ well-being, though in these cases
+it’s as much about sharing resource wealth as about equity – and since all or most citizens benefit, it doesn’t
+specifically target the poor .
+Direct Capital Grants and Entrepreneurship Programs
+Governments (sometimes in partnership with international organizations) have also experimented with
+giving direct cash grants or business capital  to adults, especially targeting unemployed youth or aspiring
+entrepreneurs. These initiatives blur the line between social assistance and economic development – they
+are  not  ongoing  welfare,  but  one-time  (or  time-limited)  injections  of  capital  to  help  people  start  an
+enterprise or otherwise increase their earnings potential. 
+One  influential  example  was  the  Youth  Opportunities  Program  (YOP)  in  Uganda.  In  2008,  Uganda’s
+government invited groups of young adults to submit proposals for vocational training and business start-
+ups. Winning groups received cash grants worth about \$7,500 per group – roughly \$400 per person  –
+with  no  repayment  obligation .  The  idea  was  to  enable  participants  (who  were  mostly  poor ,
+underemployed rural youth) to acquire tools and skills in trades like tailoring, carpentry or mechanics,
+which typically require an initial investment. The program was structured as an RCT (randomized controlled
+trial) evaluation, and the results attracted wide attention. Four years after receiving the grants, the youth
+were earning on average 38% more than those who did not receive grants . Recipients were far
+more likely to be practicing a skilled trade, had higher incomes, worked more hours, and had accumulated
+more business assets than the control group . It appeared the one-time infusion of capital had set them
+on a trajectory of self-employment and higher productivity. However , when researchers followed up nine
+years later , they found a more sobering picture: over time, the control youth had “caught up” in earnings
+through other avenues (informal work, migration, etc.), and the treatment group’s initial income gains had
+dissipated  by  year  9 .  The  one-time  grant  enabled  an  earlier  boost,  but  it  did  not  produce  a80
+80
+80
+8182
+7
+permanent difference in income – both groups ended up with similar employment and earnings in the long
+run. That said, the grants did have lasting impacts in other respects : those who got the YOP grants still
+owned more assets and tools  and were more likely to be in skilled trades even after nine years . In
+other words, the grant helped them accumulate capital and change occupations, but not necessarily to
+indefinitely out-earn their peers. The Uganda YOP case illustrates both the potential and limits of one-off
+capital  grants:  they  can  jump-start  careers  and  asset  accumulation,  but  without  continued  growth  or
+external market changes, recipients may not pull ahead of others forever . It also underlines the dynamic
+nature of poverty – people find ways to improve their lot even without grants, given time and some
+economic opportunities, which is an encouraging note about human resilience (but also a caution that
+evaluations must consider long horizons).
+Similar  programs  elsewhere  have  shown  positive  short-term  impacts.  In  northern  Uganda,  another
+program  gave  young  women  a  \$150  grant  plus  business  skills  training ,  which  led  to  increased
+employment and earnings 18 months later (many started small retail or craft businesses) . In Nigeria , the
+government  ran  a  high-profile  competitive  grant  program  called  YouWin! ,  which  awarded  substantial
+capital (up to \$50,000) to young entrepreneurs with the best business plans. Evaluations found that after
+three years, the grant-winning firms were significantly more likely to be in operation, had higher sales and
+profits, and hired more employees than those that applied but did not win – essentially, free startup capital
+allowed some businesses to launch or expand successfully. However , those programs often reach only a
+select few (winners of competitions or those who apply). A broader approach is simply giving cash grants to
+poor individuals to invest as they see fit. 
+One of the  largest scale direct capital grant efforts  has been through social protection programs that
+integrate “economic inclusion” components. For instance, Ethiopia  and Zambia  have piloted giving lumps of
+cash or assets to beneficiaries of cash transfer programs to help them start income-generating activities (a
+chicken farm, a grocery kiosk, etc.). Often these are accompanied by training or mentoring. The logic is to
+provide a bridge from subsistence support to self-sufficiency – moving people from needing ongoing aid to
+earning their own income.
+It’s  worth  noting  that  many  of  these  grant-based  programs  overlap  with  philanthropic  and  NGO
+initiatives , which we will discuss in the next section. Governments frequently partner with or scale up
+models first developed by nonprofits.
+In sum, government-led direct capital grants tend to show that people do put lump-sum aid to productive
+use – buying tools, inventory, livestock, or training. Outcomes like higher earnings, better housing, and
+greater food security have been observed in numerous cases in the short run . The mixed longer-
+run  results  suggest  that  without  sustained  economic  growth  or  follow-up  support,  an  initial  grant’s
+advantage may level off as others catch up. Nonetheless, even if the income gap closes, recipients are often
+left with more tangible assets and experience that could benefit them over a lifetime . Policymakers
+evaluating these programs weigh their cost-effectiveness : Encouragingly, some studies have found high
+returns. For example, a six-country evaluation of grants-plus-training programs (discussed below) found
+that  in  certain  contexts  the  benefits  easily  exceeded  the  program  costs  within  a  decade ,  meaning  the
+intervention “paid for itself” in increased consumption and assets . In other places with higher costs
+or lower impact, the picture was less rosy . Thus, context and design matter greatly.8183
+84
+8084
+82
+8586
+85
+8
+Philanthropic and International Initiatives
+Not  all  capital  endowment  efforts  are  run  by  governments.  Philanthropic  organizations,  NGOs,  and
+international agencies have played a major role in pioneering approaches to directly boost individuals’
+assets. Often these programs target ultra-poor communities in developing countries, where even a few
+hundred dollars’ worth of assets can make a life-changing difference. Increasingly, lessons from these
+initiatives are informing government policies (a trend sometimes called “the NGO pilot to government
+policy pipeline”).
+“Graduation” Programs and Ultra-Poor Asset Transfers
+One of the most influential models is the Graduation Approach , originally developed by the Bangladesh
+NGO  BRAC  in  the  early  2000s  and  since  replicated  in  many  countries.  The  Graduation  Approach  is  a
+comprehensive package to lift people out of extreme poverty – it combines a  one-time productive asset
+transfer  (for example, livestock, farming tools, or goods to start a small shop), cash stipends for a few months ,
+skills training and regular coaching , access to savings , and basic social support. The idea is to address multiple
+barriers (lack of capital, lack of skills, immediate hunger needs, etc.) in one coordinated push, such that
+after a program period (usually 18–24 months) participants have “graduated” into sustainable livelihoods.
+Evidence for this approach is robust. A six-country randomized trial (in Ethiopia, Ghana, Honduras, India,
+Pakistan, and Peru) published in Science  in 2015 found that the Graduation program led to “lasting progress
+for  the  very  poor”  in  most  sites .  Households  that  received  the  multifaceted  intervention  had
+significantly  higher  earnings,  consumption,  and  assets  even  three  years  after  the  program  end ,
+compared  to  control  households .  Encouragingly,  the  researchers  reported  that  the  long-run
+benefits (measured in increased consumption) outweighed the upfront program costs  in those sites,
+meaning a positive return on investment for society . In lay terms, teaching a person to fish and giving
+them  a  fishing  rod  (plus  some  fish  to  eat  today)  really  did  help  them  eat  for  years.  Importantly,  the
+evaluation noted that no single component alone was sufficient  – for example, in the Ghana trial, giving
+just the asset or just a savings account by itself did not significantly improve livelihoods, whereas the full
+package  did .  This  underscores  a  key  lesson:  extremely  poor  people  face  a  complex  tangle  of
+challenges, and piecemeal help may fail, but a holistic capital endowment with support can set them on a
+new trajectory.
+Following these results, there has been a push to scale up graduation programs. As of the mid-2020s, an
+estimated 3 million+ households across over 15 countries  have participated in some form of ultra-poor
+graduation program . Philanthropic funding (from organizations like CGAP, the Ford Foundation, and
+others) kickstarted many pilots, but now governments are adopting and expanding them. For example,
+Pakistan’s  Poverty  Alleviation  Program  and  Rwanda’s  Vision  2020  Umurenge  Program  have
+incorporated graduation components; Ethiopia integrated it into its national Productive Safety Net Program.
+In India, the state of Jharkhand launched a large-scale graduation scheme to reach tens of thousands of
+rural poor families. Typically, these programs might give an asset worth \$100–\$300 (a pair of goats, a cow,
+sewing machine, etc.), a small monthly cash support for a year , and weekly visits from coaches to monitor
+progress. Participants are often women, and the goal is to empower them to run micro-enterprises (like
+rearing animals, selling milk or produce, tailoring, etc.). Follow-up studies in various countries have found
+remarkable gains : increased food security, improved mental health, higher income, and greater savings
+among graduates, even years later .87
+8788
+87
+8889
+90
+9192
+9
+One concrete illustration comes from India : Bandhan (an NGO) implemented a graduation program in West
+Bengal for destitute women. Seven years later , participants had significantly higher consumption and assets
+than non-participants, and many had diversified their incomes beyond agricultural labor . In Bangladesh ,
+where it all began, BRAC’s original beneficiaries were found a decade later to still enjoy higher earnings and
+better living conditions than comparable households who didn’t receive the assets, effectively breaking the
+poverty trap in many cases .
+From a policy perspective, the success of these programs has made a case that direct asset transfers can be
+an effective poverty-fighting tool  when combined with education and support. International organizations like
+the  World Bank  and regional development banks have taken notice. The World Bank even created a
+dedicated Partnership for Economic Inclusion , and its 2021 report notes that over 90 economic inclusion
+programs  (many inspired by graduation) exist across 45 countries, mostly run by governments for their
+poorest citizens. These are often funded via a mix of domestic budgets and donor support. For example, the
+World  Bank  and  Asian  Development  Bank  co-financed  a  graduation  program  in  the  Philippines  in
+partnership with the Department of Labor , reaching thousands of extreme-poor households with asset
+grants and group coaching . The Philippines trial showed significant improvements in livelihoods  for
+participants, and it tested cost-saving variations like group-based coaching to help scale efficiently .
+It is important to acknowledge cost: these graduation packages can cost \$1,000 or more per household
+over two years – far more expensive than simpler interventions like unconditional cash transfers. That is
+why the question “is it worth it?” gets asked. The multi-country evidence suggests that in several cases the
+answer is yes, with benefits exceeding costs . But in some countries the effect sizes were more modest
+or costs higher , making cost-effectiveness less clear . Thus, philanthropists and governments are actively
+studying how to  optimize  these programs – for instance, can group trainings replace some one-on-one
+coaching to cut costs without hurting outcomes? Can digital tools assist in mentoring people remotely? The
+field is evolving, but the broader point remains: philanthropy-backed innovation has demonstrated that
+granting the poor some capital assets, plus knowledge, can create durable escapes from extreme poverty,
+not just temporary relief.
+Unconditional Cash Transfers and Other Asset Giveaways
+In the 2010s, a somewhat radical philanthropic experiment emerged: simply giving money directly to poor
+individuals  with no strings attached, trusting them to use it to best effect. This was exemplified by the
+charity  GiveDirectly ,  which  began  delivering  one-time  cash  grants  on  the  order  of  \$500–\$1,000  to
+impoverished households in Kenya, Uganda, and later other countries. Although cash transfers are often
+thought of as consumption support (and indeed many recipients spent some money on immediate needs),
+they also function as capital endowments in practice – recipients frequently invested a portion in assets like
+livestock, business equipment, or home improvements. Academic studies on GiveDirectly’s programs found
+that recipients did not squander the money  (despite skeptics’ fears); instead, they increased their spending on
+food, improved their housing (e.g. replacing thatch roofs with metal ones), and bought productive assets
+. One randomized trial in Kenya showed that asset holdings shot up by 58%  and household income by
+28% in the short run for those who got a large cash grant, relative to those who did not . There was no
+evidence of increased spending on temptation goods like alcohol. These results challenged the paternalistic
+notion that poor people cannot handle lump sums responsibly. 
+However , the long-term trajectory is still being studied. Critics point out that a one-time grant, while helpful,
+might be consumed or dissipated after a few years if there’s no sustained source of growth – similar to the92
+92
+9394
+9596
+87
+85
+87
+92
+10
+Ugandan youth grant finding where incomes converged after 9 years . GiveDirectly has since moved into
+testing a long-term basic income (multi-year regular payments) in some villages, which is a different model.
+But as a capital endowment strategy, direct cash provides maximum flexibility: people themselves decide
+whether their most valuable investment is livestock, education, home repair , or paying off a debt. From a
+humanitarian standpoint, cash grants have been used to help crisis-affected families rebuild assets too –
+e.g., after disasters, agencies give households money to replace lost tools or stock.
+There are also philanthropic programs that focus on specific assets: for example, organizations like Heifer
+International  have famously given cows, goats, or chickens to poor rural families (along with training in
+animal husbandry). The idea is that livestock serve as both a productive asset (providing milk, eggs, or
+offspring to sell) and a form of savings. Evaluations of livestock transfers (often done within graduation
+programs)  also  show  positive  impacts  on  income  and  nutrition,  though  livestock  require  upkeep  and
+markets to be truly beneficial.
+In some cases, philanthropy meets policy  directly. A recent example is in the realm of baby bonds themselves:
+advocacy organizations and foundations have been instrumental in pushing these ideas onto the policy
+agenda. The effort to establish baby bonds in California was championed by groups like  End Poverty in
+California (EPIC) , a nonprofit led by former Stockton Mayor Michael Tubbs. They provided grassroots
+backing and public awareness for the HOPE Accounts, framing them as a step toward economic justice.
+When California’s Governor in 2025 proposed cutting the HOPE program’s funding in half (from \$100M to \
+$50M) due to budget pressures, EPIC and others vocally opposed the cut, emphasizing the promise these
+trust accounts hold for foster youth and orphaned children . This shows how philanthropic and advocacy
+groups are not only funding private programs but also shaping public programs by rallying political support
+or dissent.
+International institutions also play a role in asset-building initiatives. The  United Nations Development
+Programme (UNDP)  and others have promoted concepts like “inclusive wealth”  and “universal basic assets,”
+arguing that improving access to assets (physical, financial, human capital) is as important as income
+redistribution. While these ideas are often abstract, agencies sometimes fund pilot projects on the ground.
+For example, UNDP or FAO have funded schemes to give landless laborers small plots or to give refugees
+assets to start livelihoods (tools, sewing machines, etc.) as part of rebuilding lives.
+Another innovative proposal on the international stage is the idea of sovereign wealth funds for citizens .
+For  instance,  some  economists  have  suggested  that  resource-rich  developing  countries  could  invest
+resource revenues into a fund and periodically distribute shares or dividends to citizens , not unlike Alaska’s
+dividend (although Alaska’s is a recurring payout akin to UBI). One variant is to give each citizen a tradable
+stake in state-owned companies or funds – essentially a capital grant of equity. Mongolia attempted a
+version of this around 2010 by promising every citizen shares in a national mining company, though it
+ultimately converted the promise into cash payments before an election (a move critics saw as populist cash
+handouts that undermined the long-term asset idea). While not many countries have successfully done
+citizen share distributions yet, it’s part of the menu of ideas for sharing national wealth more broadly.
+In summary, the philanthropic and international sphere has been a laboratory for capital endowment
+approaches: testing direct cash vs. assets, multifaceted vs. minimalist interventions, and targeting different
+populations (rural ultra-poor , urban youth, disaster victims, etc.). These efforts have largely reinforced a key
+takeaway:  providing  assets  can  markedly  improve  people’s  economic  trajectory ,  but  supporting
+elements (training, financial access, mentorship) often enhance the impact . They also show the81
+97
+8788
+11
+importance of adaptation to context – what works in one place (e.g., giving cows in a pastoral community)
+might not in another (an urban slum dweller might prefer a cash grant to start a shop). Increasingly,
+successful pilots are being scaled up by governments, blending philanthropic innovation with public policy
+muscle.
+Evaluating Outcomes: What Works and What Doesn’t
+With a diverse array of programs in place, what have we learned so far about the efficacy of capital
+endowments? The evidence, though still emerging, allows some cautious conclusions:
+Capital grants and asset transfers can produce substantial short-to-medium term benefits  for
+recipients, including higher income, greater asset ownership, improved food security, and other
+welfare improvements. This has been observed in contexts ranging from U.S. youth getting trust
+fund windfalls, to African villagers receiving cash or livestock. For example, four years into Uganda’s
+youth grants, earnings were  38% higher  for recipients ; ultra-poor families in Asia and Latin
+America boosted consumption and income for at least several years after receiving assets and
+training .  In  U.S.  simulations,  baby  bonds  are  projected  to  dramatically  narrow  racial
+wealth gaps  if implemented – one model found the wealth ratio of median white-to-Black young
+adult could drop from 15.8:1 to about 1.4:1 in the long run .
+Long-term sustainability is a challenge.  Some one-time interventions show fading impacts over
+many years. The Ugandan example of gains dissipating by year 9 was a sobering reminder that
+recipients  don’t  live  in  a  vacuum  –  others  in  the  economy  hustle  and  progress  too,  and  initial
+advantages can equalize over time . That doesn’t mean the intervention had no lasting benefit
+(the recipients did accumulate more durable assets, even if incomes equalized ), but it suggests
+that  complementary measures or follow-up  might be needed to cement early gains. On the other
+hand, other programs have shown persistence: the multi-country graduation study found many
+benefits still present after 3+ years, and in some cases even growing. We might infer that when an
+endowed asset is coupled with building human capital and financial habits (e.g., forced savings or
+skills),  it  is  more  likely  to  have  a  lasting  impact  than  cash  alone.  A  key  research  frontier  is
+understanding how to prevent backsliding – for instance, should there be a sequence of smaller
+capital infusions rather than one big push? Or integration into broader economic development plans
+so that opportunities for growth continue.
+Size and targeting of the endowment are critical.  One reason the UK’s Child Trust Fund had only
+modest effects is that £250 at birth (even with a top-up later) was too small an endowment  to
+tangibly alter life outcomes by 18 for most, especially if parents didn’t add more . Many teenagers
+ended up with maybe £500–£2,000 – helpful for , say, buying a used car or paying part of college, but
+not  enough  to  change  wealth  trajectories.  In  contrast,  proposals  like  Booker’s  baby  bonds  or
+Hamilton and Darity’s design aim for \$20k–\$50k per person – amounts that could cover a home
+down payment or debt-free college and thus potentially be transformative . Similarly, land
+redistribution that grants a viable farm size (and good soil) plus support can enable a family to
+prosper , whereas giving someone an infertile plot with no follow-up is a recipe for failure. Targeting
+also matters: if the goal is equity, focusing on those who lack capital (the poor , marginalized groups)
+yields more dramatic relative improvements. Universal programs can still reduce relative  inequality if
+they are progressive (like baby bonds giving more to those with less), whereas flat universal grants
+may actually preserve or widen gaps unless taxed back from the rich to fund.• 
+80
+8788
+9899
+• 
+81
+82
+• 
+6
+813
+12
+Use restrictions vs. flexibility is a design trade-off.  Programs differ on whether to restrict what
+recipients can do with the capital. Child trust funds usually impose restrictions (education, home,
+etc.), under the assumption that ensuring money goes to asset-building prevents “wasteful” uses
+and reinforces the program’s purpose. Indeed, part of the motivation is to subsidize specific long-
+term  investments  (human  capital,  home  ownership)  that  have  societal  benefits.  However ,
+unrestricted  cash  allows  people  to  address  their  most  urgent  needs,  which  might  yield  better
+outcomes in certain cases. California’s HOPE chose no restrictions, trusting youth to prioritize needs
+like housing or food if that’s most pressing . The evidence from cash transfer programs suggests
+most poor recipients don’t frivolously squander windfalls – they spend on necessities or invest – but
+there  can  be  variance.  A  middle  ground  could  be  soft  conditions  or  incentives  (like  California’s
+financial training incentive, or providing lists of suggested uses) that guide but don’t force decisions.
+Ultimately, the “right” approach may depend on context: if the provided capital is just enough  for one
+big asset (like college tuition), restrictions ensure it’s used for that; if it’s a smaller amount relative to
+needs, flexibility might yield better overall welfare outcomes.
+Supporting services enhance effectiveness.  Across the board, programs that combined capital
+with  knowledge  and  mentorship  seem  to  fare  better .  The  financial  literacy  requirement  in
+Connecticut’s baby bonds is a light-touch example , whereas the intensive coaching in graduation
+programs is a heavier example . In all cases, equipping recipients with information on how to
+manage money or optimize their asset use can help maximize the impact. Without it, there’s a risk
+that funds are mismanaged or opportunities missed – not out of laziness or incapacity, but simply
+due to lack of exposure to financial planning. For instance, new farmers in South Africa often needed
+agricultural extension support to make the most of their land; where that was absent, productivity
+suffered . Conversely, in Zimbabwe, many of the successful small farmers were those who
+had  agricultural  knowledge  or  got  advice  from  NGOs,  whereas  some  less  experienced  farmers
+struggled until they learned by trial and error . 
+Macro  factors  and  external  environment  play  a  big  role  in  what  “works.”  If  the  economy  is
+growing and stable, giving people capital to invest tends to amplify those good conditions; but if the
+economy is in turmoil (hyperinflation, conflict, etc.), even a well-designed asset grant can flounder .
+Zimbabwe’s land reform coincided with economic collapse and hyperinflation – new farmers couldn’t
+buy fertilizer or fuel, so naturally output fell . It wasn’t the concept of giving land that failed, but
+the collapse of supporting markets. Similarly, a youth with a business grant will succeed more if the
+local economy has demand and infrastructure; grants in a depressed region might just find no
+profitable outlets. This is why some analyses caution that capital endowments are no panacea  –
+they must go hand in hand with favorable economic policy, stable governance, and sometimes
+broader structural changes (like access to credit, enforcement of property rights, etc.) to fully deliver
+potential.
+Risks and unintended consequences:  A recurring concern around giving “free” assets or money is
+whether it creates perverse incentives or misuse. For example, do cash grants discourage work? Do
+land grants lead to land being quickly sold off by beneficiaries? Empirical evidence so far generally
+dispels the most cynical views. Studies of cash transfers find no systemic disincentive to work – in
+fact, often recipients work more  (because they can afford job search or start an enterprise) .
+In land reforms, there have been cases of beneficiaries leasing or selling their land (sometimes due
+to lack of support to farm it themselves), which raises political issues about land ending up back in
+wealthy hands. Policymakers have tried to prevent that by imposing moratoriums on land resale in• 
+43
+• 
+33
+9496
+6058
+100 74
+• 
+70
+• 
+8087
+13
+some reforms (though that can backfire by limiting farmers’ flexibility). Another risk is corruption or
+elite capture: valuable assets being distributed can tempt powerful actors to grab them. Robust
+targeting and transparency are needed to ensure the truly intended recipients benefit – for instance,
+avoiding that baby bond funds become a target for predatory scams when they mature, or that
+officials don’t extort kickbacks in exchange for giving out grants. So far , there haven’t been major
+scandals in the new baby bonds or graduation programs, but vigilance is advised as they scale up.
+Public and social effects:  One hypothesized benefit of capital endowment programs is a boost to
+recipients’ psychology and social inclusion . Qualitative interviews from various programs often report
+improved hope, outlook, and status. People feel more confident planning for the future when they
+have  even  a  small  nest  egg  or  property.  There  is  also  some  evidence  of  spillover  benefits:  for
+example, a young adult using a baby bond to buy a home in their community could have multiplier
+effects (renovation jobs, a family’s housing stability, etc.), or a new business launched with grant
+money might employ others locally. Conversely, if not designed well, there could be envy or social
+tension – others asking “why them and not me?” This is where clarity of purpose and broad coverage
+help. Universal or nearly universal programs (like child accounts for all babies) avoid stigmatization
+or jealousy, whereas very narrowly targeted grants require careful community engagement so as not
+to breed resentment. Generally, though, many capital grants have been targeted at groups everyone
+agrees  are  deserving  (orphans,  war  victims,  the  ultra-poor  in  a  village),  so  they  often  enjoy
+community support.
+In conclusion of this evaluative section, capital endowments show tremendous promise  as a policy tool for
+reducing  wealth  inequality  and  promoting  opportunity  –  but  the  design  details  make  the  difference
+between modest and major impact. The sweet spot tends to be significant, well-timed capital coupled
+with knowledge transfer , delivered in a stable enabling environment. Done right, these programs can
+change life trajectories: an impoverished family becomes a stable small business owner , a renter becomes a
+homeowner , a child from poverty enters adulthood debt-free and skilled. Done poorly, they might amount
+to an expensive drop in the bucket or even backfire if they ignore local realities. 
+Public, Political, and Academic Reactions
+Capital endowment programs have sparked lively debate and reactions across the political spectrum, in
+academia, and among the general public. Because these policies touch on deep questions of fairness,
+personal responsibility, race, and the role of government, they often elicit strong opinions.
+Public Opinion and Beneficiary Perspectives:  Among the general public, awareness of these programs is
+still growing. In places like the U.S., baby bonds were relatively obscure until recently, but polls (where
+available) indicate people like the idea of giving children a better start – especially if framed as investing in
+the  next  generation  rather  than  “handouts.”  For  instance,  parents  in  states  like  Connecticut  and  DC,
+including many who wouldn’t qualify, largely supported the baby bonds legislation when explained in terms
+of reducing the racial wealth gap and creating opportunity. In Connecticut’s legislative process, there was
+testimony highlighting how asset poverty traps families and how an endowment could be a game-changer
+for  a  low-income  child .  Beneficiaries  themselves,  or  those  who  hope  to  benefit,  often  express
+gratitude and ambition. A foster youth in California might see the HOPE account as a rare chance to have a
+cushion when they strike out on their own at 18 – a stark contrast to the usual statistics of foster kids aging
+out into homelessness or poverty. Families who received land in South Africa or Zimbabwe typically viewed
+it as justice long denied; despite difficulties, many took pride in owning their land and working it . In• 
+3638
+7677
+14
+ultra-poor communities, recipients of asset grants often talk about restored dignity – they feel seen by
+society and empowered to improve their lives. Of course, if a program fails or is rescinded, disappointment
+and cynicism can result. UK youth who turned 18 after 2011, for example, got no CTF since the program was
+cut – one can imagine some resentment compared to slightly older peers who got a small windfall. Overall,
+public sentiment tends to be positive when programs are communicated well (who doesn’t like the idea of
+giving every kid a fair shot?), but support can wane if cost to taxpayers is emphasized without the benefits.
+Political Reactions:  Politically, capital endowments represent a new paradigm that doesn’t slot neatly into
+traditional left-right divides – which is both an opportunity and a challenge. On one hand, progressives and
+social justice advocates champion these programs as bold redistributive measures to tackle inequality at its
+root. Baby bonds in the U.S. have been driven by Democrats, often with rhetoric about closing the racial
+wealth divide and reparative justice. For example, New Jersey’s and DC’s baby bonds were put forth by Black
+lawmakers very concerned with racial equity . In South Africa, land redistribution is supported by those
+on the left and center-left (ANC and EFF parties) as essential redress for apartheid injustices. Internationally,
+the concept of “universal basic assets” has been floated in egalitarian and developmentalist circles as a
+complement or alternative to UBI.
+On the other hand, some conservatives have found aspects to like as well: the focus on asset-building and
+personal responsibility resonates with center-right values of ownership and empowerment (as opposed to
+ongoing welfare dependence). Notably, early child account ideas had bipartisan interest in the UK and US.
+In the U.S., Republican Senator* (to invent a hypothetical example) could support baby bonds if framed as a
+way to foster an “ownership society” or increase national savings. In practice, however , partisanship often
+intervenes over financing: in Congress, Republicans balked at Booker’s \$60 billion-a-year plan, viewing it as
+too costly and redistributive. At the state level, though, some GOP-led legislatures have shown openness to
+narrower versions (for instance, conservative-leaning states exploring education-focused accounts).
+Critics  on  the  right  often  argue  that  giving  out  large  sums  could  be  fiscally  irresponsible  or  create
+dependency. They question whether governments can afford these programs and whether they’re fair to
+those who “already worked hard and saved.” For instance, when the UK CTF was cut in 2010, the incoming
+Conservative government argued it was unaffordable amid budget austerity and that money was better
+spent on services like education directly rather than individual accounts. Some also fear that free capital
+might be misused by a minority (the proverbial story of someone blowing their trust fund on a luxury or
+vice, which opponents may highlight). There’s also philosophical resistance: a belief that wealth should be
+earned, not granted. A Wall Street Journal editorial, for example, might label baby bonds as “government
+handouts in trust fund clothing,” warning it could undermine the ethic of self-reliance.
+From the left, interestingly, there can be a different critique: that these programs, while good, don’t go far
+enough to truly upend inequality. A universal \$20k at 18, for instance, is helpful but doesn’t dismantle
+systemic barriers like discrimination, labor market segregation, or regressive taxation. Some progressives
+might prefer heavier taxation of the rich and direct public investment in free college or guaranteed jobs,
+rather  than  seeding  private  accounts  for  individuals.  Others  worry  that  without  broader  reforms  (like
+affordable housing or healthcare), a one-time grant could be eaten up by expenses beyond a person’s
+control (e.g., if college tuition keeps rising, even a baby bond might not save one from debt). That said,
+most left-leaning commentators have welcomed capital grants as part of a suite of policies – often citing
+Thomas Paine, who in 1797 proposed a form of citizen endowment at age 21, or more recently Thomas
+Piketty, who advocates a “universal inheritance” for all 25-year-olds funded by taxes on the wealthy. Piketty’s38
+15
+proposal of roughly €120,000 for every young adult has been called radical, but it has certainly fueled the
+conversation in Europe on how to address inherited wealth inequality.
+Academic Views:  Scholars in economics, sociology, and public policy have been actively studying and
+debating capital endowment programs. On the whole, academic research has provided a lot of the impetus
+for these policies (for example, the baby bonds concept emerged from academia in the first place ).
+Economists who focus on wealth inequality, like those at the Urban Institute and other think tanks, have
+modeled  these  programs  and  found  them  potentially  powerful  in  closing  wealth  gaps .  For
+instance, a 2019 study by Naomi Zewde found a dramatic reduction in the median racial wealth gap if a
+nationwide baby bond had been in place . Another simulation projected that by the year 2060, baby
+bonds could reduce the U.S. Black-white wealth ratio to around 2.7:1 (from much higher today) . These
+findings are often cited by advocates as proof of concept. Development economists, through numerous
+RCTs,  have  provided  evidence  that  asset  transfers  work  in  various  global  contexts ,  influencing
+organizations like the World Bank to support them.
+Academic  skepticism  tends  to  focus  on  external  validity  and  general  equilibrium  effects.  Some  ask:  if
+everyone gets an endowment, does it dilute the value (for example, if all 18-year-olds suddenly have \$20k,
+college prices might rise, or employers might start expecting people to use their bond for training rather
+than the employer paying)? There is an argument that while targeted capital helps the individual, making it
+universal could just shift problems – a kind of “inflation” in asset prices or credentials. However , because
+baby  bonds  are  progressive  (not  every  18-year-old  gets  the  same,  only  lower-wealth  ones  get  large
+amounts), this risk is mitigated to an extent – it’s not a huge influx of money to everyone , just those who
+need it. 
+Another academic point is the cost-benefit analysis : economists want to see that these programs achieve
+outcomes more effectively than alternative uses of funds. The early cost-benefit evidence from programs
+like the graduation approach is promising (long-run benefits > costs in several sites) . If baby bonds lead
+to higher education and higher earnings, one could calculate the net present value. A rough defense by
+supporters is that the cost of baby bonds (say \$60B/yr for the U.S.) is justified if it significantly reduces
+future inequality and need for other safety nets. Detractors might say, “why not invest that in improving
+schools or direct job creation?” Academics are studying these trade-offs; there’s no consensus yet because
+values (equality vs. efficiency) come into play.
+Media  and  Discourse:  Media  coverage  of  capital  endowment  ideas  has  generally  been  favorable  but
+cautious. Outlets like The Economist  or New York Times  have run pieces on baby bonds describing them as a
+“bold experiment” to fix the wealth gap, often quoting both an enthusiastic policy expert and a skeptic
+noting practical hurdles. When Connecticut passed its program, it was widely reported as a national first,
+with Treasurer Shawn Wooden (now Treasurer Erick Russell) heralding it as visionary . Local press in
+DC covered the political tussle over funding, framing it as Mayor vs. Council on racial equity priorities
+. Internationally, Zimbabwe’s land reform was extremely controversial in media – Western media mostly
+condemned it as destroying the economy, while some development scholars later argued that narrative was
+one-sided and that there were underreported successes . That divergence shows how politicized
+these topics can be: one person’s “failed socialist expropriation” is another’s “revolutionary redistribution”
+depending on perspective.
+Increasingly, policy discourse has shifted from asking “should we give people assets?”  to “how can we
+best give people assets?”  This is a notable change – it reflects that the moral argument (do the poor8
+9899
+98
+101
+8788
+87
+102 36
+28
+29
+7174
+16
+deserve capital grants?) is giving way to practical arguments (what’s the optimal design?). This shift is due in
+part to the mounting evidence that these policies can work and the urgency of inequality problems pushing
+analysts to think outside the traditional toolbox. For example, even the notion of large-scale reparations for
+African Americans – once politically unthinkable – is getting serious study, and baby bonds are sometimes
+floated as de facto  partial reparations (though not lineage-based, they would disproportionately help people
+of color due to wealth disparities). Politically, that connection is delicate; baby bonds are framed in race-
+neutral terms (income/wealth based, not explicitly race-based), which makes them more palatable to a
+wider audience, yet they are expressly intended to address outcomes of racial injustice .
+Potential Future Developments:  As these programs continue or expand, public and political reactions will
+evolve. If Connecticut’s baby bonds produce visible success stories a decade from now – say, a wave of low-
+income youths who graduate college or start businesses thanks to their accounts – it could generate a
+bandwagon effect and broader public support for such policies. Conversely, if any high-profile misuse or
+corruption incident occurs, opponents will amplify it as evidence of flaws. For land reform, outcomes can
+sway national narratives: South Africa is at a crossroads where either it finds a way to speed up land
+transfers  without  scaring  off  investment,  or  populist  pressure  might  push  it  toward  a  Zimbabwe-style
+approach (which would be internationally criticized). The public there is divided – opinion polls show strong
+support  among  Black  South  Africans  for  expropriation  to  correct  historical  wrongs,  while  white  South
+Africans  and  investors  strongly  oppose  it.  The  ultimate  path  will  depend  on  political  leadership  and
+compromise (there’s discussion of compensation via land value banks, etc.). 
+In academia, one can expect more longitudinal studies. For instance, UK researchers will surely track the
+young adults who got Child Trust Funds to see if there are any measurable differences in their outcomes
+(wealth at age 25, etc.) compared to those who just missed out – that quasi-experimental setup (born in
+2002 vs. 2012) could yield insights on even a relatively small endowment’s impact on behavior .
+Overall, the reaction to capital endowment programs can be summarized thus: cautious optimism from
+experts , hope from beneficiaries and advocates , and a mix of ideological support or resistance in the
+political arena  depending on values and interests. Importantly, these programs, while still not mainstream
+in most places, are increasingly part of the policy conversation. As the world grapples with widening wealth
+inequality, climate shocks (which could wipe out people’s assets), and the need for inclusive recovery from
+the pandemic, the idea of ensuring everyone has some capital stake in the economy may gain further
+traction. As one commentator put it, baby bonds and similar ideas might be “the boldest step to close the
+wealth divide in generations,”  if we have the political will to see them through .
+Conclusion
+Capital endowment programs – whether in the form of a child’s trust fund, a plot of land, or a cash grant to
+start a business – represent a paradigm shift in social and economic policy. Instead of only treating the
+symptoms of inequality (through income supplements or public services), these initiatives aim to change
+the starting point  and assets of individuals, thereby altering the trajectories of lives and communities. The
+narrative evidence from around the world, backed by empirical research, suggests that such programs can
+be powerful levers for change : they have enabled families to build homes, youths to get higher education,
+women to become entrepreneurs, and marginalized groups to gain a foothold in the economy.
+Yet, the experiences also counsel pragmatism. Capital alone is not a magic wand – it works best in tandem
+with knowledge, good policies, and a healthy economic environment. A capital endowment can open a door ,2
+103 104
+17
+but individuals still must walk through it, and society must ensure the path beyond is passable (e.g. jobs
+available, markets accessible, rights protected). When evaluating these programs, one must consider not
+just the feel-good factor  of “giving people something” but the concrete outcomes years down the line. Many
+programs are still in their infancy (for instance, no one will know the full impact of Connecticut’s baby bonds
+until after 2041, when the first babies have grown up and used their funds). This calls for patience and
+robust evaluation mechanisms to learn and adapt.
+From a policy design perspective, some best practices  emerge:
+Make it substantial:  The endowment should be large enough to serve its intended purpose
+(whether that’s buying a home or livestock or paying tuition). Token amounts yield token results .
+Target wisely but inclusively:  Prioritize those who truly lack capital (to maximize impact per dollar),
+but avoid overly narrow targeting that leaves out slightly-better-off groups who might then
+politically oppose the program. Universal frameworks with progressive funding (rich pay in more,
+poor get more out) seem promising in theory .
+Ensure financial and technical support:  Coupling assets with education (financial literacy,
+vocational skills) and ongoing support improves outcomes . This is as true for a teenager
+managing a trust fund as for a farmer managing new land.
+Safeguard the asset’s value:  Guard against dilution or exploitation. For instance, protect child
+accounts from predatory fees, or protect small farmers from having to distress-sell land by ensuring
+credit and insurance are available.
+Secure long-term funding:  One of the Achilles’ heels of such programs is political turnover – a new
+government might scrap funding (as seen in the UK CTF cancellation, or threats to DC and CA funds)
+. Putting funds in trust, or enshrining them in a way that’s hard to reverse, can help maintain
+stability long enough for the benefits to be proven.
+Monitor and evaluate:  Continuous data collection on how funds are used, what outcomes are
+achieved, and where issues arise (e.g., low uptake, misuse cases) is critical. This allows mid-course
+corrections – perhaps rules need tweaking, or additional outreach is needed to ensure eligible folks
+know about the program (like California’s effort to find all 58,000 eligible youth) .
+The journey of capital endowment programs is just beginning. A century ago, concepts like public schooling
+or social security were novel and contentious; today they are pillars of modern society. It’s conceivable that
+a century from now, people will take for granted that every child is invested with a starter capital sum, or
+that owning a piece of one’s nation’s land or wealth commons is a birthright. The experiments underway
+today in places like Connecticut, London, Jerusalem, Kampala, and beyond are the early chapters of that
+narrative.
+One compelling philosophical framework underlying these efforts is the capability approach , articulated
+by economist Amartya Sen and philosopher Martha Nussbaum. It asks not just “what does a person have?”
+but “what is each person able to do and to be?” . Capabilities – the real freedom to pursue one’s
+goals – can be constrained by a lack of resources. Capital endowment programs seek to expand people’s
+capabilities by giving them the means (be it money, land, or assets) to choose their futures. As Nussbaum
+put it, it’s about ensuring people have “the substantial opportunity”  to achieve their potential, not just formal
+rights they cannot exercise . In very practical terms, a young adult with a nest egg has the freedom
+to attend college without working full-time on the side, or to move to where a job is, or to say no to
+exploitative labor – freedoms that someone with nothing simply doesn’t have.• 
+6
+• 
+105 106
+• 
+8788
+• 
+• 
+2897
+• 
+45
+107 108
+108 109
+18
+Societies will continue to debate how much we owe each other and what the best ways are to foster equity
+and prosperity. But the rise of capital endowment programs signals a recognition that starting conditions
+matter greatly . Leveling the playing field may require not only leveling incomes but also assets. As these
+programs progress, they will generate more data and stories – the student who became a doctor because
+she could afford medical school, the farming family that moved from subsistence to surplus, the formerly
+landless community that gained stability. These human outcomes will ultimately drive public perception and
+political will. 
+If the results remain positive, we can expect scaling up: perhaps a federal baby bonds program in the U.S. in
+the future, or renewed child accounts in the UK, or expanded land grants with support in South Africa. If
+some falter or are poorly implemented, there will be retrenchment and “I told you so” from skeptics.
+Realistically, it won’t be all success or all failure – different designs will yield different results. The task for
+researchers and policymakers is to parse those differences and continually refine these programs.
+In  closing,  capital  endowment  programs  marry  an  idealistic  vision  (that  everyone  deserves  a  capital
+foundation)  with  practical  mechanisms  (trust  funds,  grants,  titles).  They  are  driven  by  a  mix  of  moral
+urgency and empirical insight. As one Nevada commentator wrote, baby bonds could be “the boldest step to
+close the racial wealth divide in generations,”  likening the potential impact to landmark policies of the past
+. That remains to be seen, but even the attempt marks a bold reimagining of how we invest in
+human potential. The story is still unfolding – in city council hearings, in rural villages, in university halls –
+and it is a narrative well worth following, as it may hold a key to a more equitable future.
+Sources:
+Urban Institute, “The State of Baby Bonds,”  Feb 2023 – notes that baby bonds are publicly funded child
+trust accounts to be used for wealth-building (e.g. home, education) and aim to narrow racial wealth
+gaps .
+Council of the District of Columbia, Press Release on Child Wealth Building Act , Oct 20, 2021 – outlines
+D.C.’s baby bonds program: \$500 at birth + up to \$1,000 annually for children in families <300% FPL,
+funds accrue until age 18 for specified uses . Emphasizes the policy’s racial equity goal given DC’s
+81:1 white-to-Black wealth ratio .
+DC Fiscal Policy Institute, “Restore Funding for Baby Bonds”  (Mar 2024) – provides data on proposed
+cuts: Mayor’s plan to restrict eligibility to 100% FPL (reducing annual beneficiaries from ~4,150 to
+1,702) and cut annual deposit to flat \$500 (yielding \$9.1k at 18 vs \$21k under original law) .
+Student Policy Journal (Harvard Kennedy School), “American States Are Embracing Baby Bonds,”  Apr
+2024 – reports that as of 2023, baby bond laws passed in DC, Connecticut, and California, and
+introduced in at least eight other states; notes CT’s program \$3,200 per child on Medicaid (~15k
+kids/year) launching July 2023 . Describes CT’s expected payouts (\$11k–\$24k) and usage
+rules (18–30 age window, approved purposes, financial training required) . Also covers
+California’s HOPE accounts (\$100M for ~58k COVID-orphaned or foster youth, with \$4,500 for
+oldest in first cohort) and notes it’s unrestricted, with financial mentoring incentives .
+Aston University research, “Impact of Child Trust Funds in the UK – a missed opportunity,”  Sep 2023 –
+finds the UK CTF had only modest positive effects on children’s savings habits, mainly among
+affluent families, implying limited impact on reducing inequality . Provides figures: by 2022 about
+£10 billion in 6 million CTF accounts, of which £2 billion was government contributions .103 104
+• 
+12
+• 
+3
+20
+• 
+110 111
+• 
+3132
+112 33
+4243
+• 
+6
+7
+19
+Israeli National Insurance Institute, “Savings for Each Child”  info (2017) – states that for each child
+receiving child allowance, ₪57 per month is deposited into a savings account until age 18 , in
+addition to the child allowance .
+Wikipedia, “Land reform in South Africa,”  and related sources – indicates up to 50% of South African
+land reform projects have failed  to meet objectives, citing poor implementation .
+Cato Institute, “Why Mugabe’s Land Reforms Were Disastrous,”  and Oxfam blog “Has Zimbabwe’s land
+reform been a success?”  – Cato notes Zimbabwe’s ag output fell ~60% in a decade post-fast track ;
+Oxfam/poverty researchers note by later years, 245,000 Black smallholders were farming land
+taken from 6,000 whites, and most had reached the former output levels , improving their
+livelihoods .
+American Economic Review: Insights (Blattman et al 2020), “Long-Term Impacts of Grants on Poverty: 9-
+year evidence from Uganda,”  – initial 4-year impacts: grants raised work by 17%, earnings by 38%; by 9
+years, income gains dissipated  (treated and control converged in earnings), though grant group
+maintained higher durable assets and skilled work participation .
+J-PAL and IPA summaries on Graduation programs – highlight that across six countries, multi-faceted
+“big push” programs had broad, lasting impacts and benefits exceeding costs , whereas providing just an
+asset or just a savings account alone did not improve outcomes in Ghana . State that over 3
+million households have been reached by such programs in 15+ countries .
+Urban Institute, “Baby Bonds Would Reduce Racial Wealth Inequities,”  Oct 4, 2023 – reviews simulation
+studies: e.g. Zewde (2019) where baby bonds reduce median white-to-Black young adult wealth ratio
+from 15.8:1 to 1.4:1 , and other studies predicting substantial gap narrowing . Also notes
+existing programs in CT, DC, and CA and that no empirical results are in yet, as they are nascent .
+Urban Institute: The State of Baby Bonds - Asset Funders Network
+https://assetfunders.org/field-news/urban-institute-the-state-of-baby-bonds/
+$1,000-A-Year “Baby Bonds” Created by the Council • Council of the District of Columbia
+https://dccouncil.gov/1000-a-year-baby-bonds-created-by-the-council/
+Cory Booker's "Baby Bonds" Plan-2019-12-18
+https://www.crfb.org/blogs/cory-bookers-baby-bonds-plan
+Impact of Child Trust Funds in the UK ‘a missed opportunity’ – Aston University research for UK
+Savings Week | Aston University
+https://www.aston.ac.uk/latest-news/impact-child-trust-funds-uk-missed-opportunity-aston-university-research-uk-savings
+American States Are Quietly Embracing the ‘Baby Bonds’ Revolution to Fight Inequality - HKS
+Student Policy Review HKS Student Policy Review
+https://studentreview.hks.harvard.edu/american-states-are-quietly-embracing-the-baby-bonds-revolution-to-fight-inequality/
+DC Council Should Restore Funding for the Baby Bonds Program
+https://www.dcfpi.org/all/restore-funding-for-and-protect-the-integrity-of-the-baby-bonds-program/
+Savings amount - Savings plan for each child | ביטוח לאומי
+http://www.btl.gov.il/English%20Homepage/Benefits/Children/Savings%20plan/Pages/SavingsAmount.aspx
+The Saving for Every Child Program in Israel - Social Policy Institute
+https://socialpolicyinstitute.wustl.edu/saving-for-every-child-program-in-israel/• 
+52
+• 
+58
+• 
+70
+67
+• 
+80 81
+• 
+87 88
+90
+• 
+98 98 101
+113
+1 2105
+319 20 21
+410 11 12 13 14 15 16
+5 6 7
+8 917 18 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51102 106 107 108
+109 112
+22 23 24 25 26 27 28 29 30110 111
+52 54
+53
+20
+Smart strategies for Israel's child savings program: A parent's guide ...
+https://www.israelhayom.com/2024/07/11/smart-strategies-for-israels-child-savings-program-a-parents-guide-to-financial-
+success/
+Enrollment and participation in a universal child savings program
+https://socialpolicyinstitute.wustl.edu/enrollment-and-participation-in-a-universal-child-savings-program/
+Land reform in South Africa - Wikipedia
+https://en.wikipedia.org/wiki/Land_reform_in_South_Africa
+From failure to success in South African land reform - AgEcon Search
+https://ageconsearch.umn.edu/record/197014/?ln=en
+This Land Is Our Land: Expropriation without Compensation in ...
+https://hir .harvard.edu/this-land-is-our-land-expropriation-without-compensation-in-south-africa/
+Why SA's land reform is failing - Food For Mzansi
+https://www.foodformzansi.co.za/freedom-day-why-sas-land-reform-is-failing/
+Has Zimbabwe’s land reform actually been a success? A new book says yes.
+| From Poverty to Power
+https://frompoverty.oxfam.org.uk/has-zimbabwes-land-reform-actually-been-a-success-a-new-book-says-yes/
+Why Mugabe's Land Reforms Were so Disastrous | Cato Institute
+https://www.cato.org/commentary/why-mugabes-land-reforms-were-so-disastrous
+Production rising on Zimbabwe's land reform farms | | Africa at LSE
+https://blogs.lse.ac.uk/africaatlse/2013/01/25/production-rising-on-zimbabwes-land-reform-farms/
+The Long-Term Impacts of Grants on Poverty: Nine-Year Evidence from Uganda's Youth
+Opportunities Program - American Economic Association
+https://www.aeaweb.org/articles?id=10.1257/aeri.20190224
+9-year evidence from Uganda's Youth Opportunities Program
+https://www.aeaweb.org/articles/materials/13291
+What’s best at fighting extreme poverty: cash or ultra-poor graduation? | Vox
+https://www.vox.com/future-perfect/23152657/poverty-cash-graduation-ultra-poor-brac
+Graduating the Ultra-Poor in Ghana | The Abdul Latif Jameel Poverty Action Lab
+https://www.povertyactionlab.org/evaluation/graduating-ultra-poor-ghana?lang=fr
+Targeting the ultra-poor to improve livelihoods | The Abdul Latif Jameel Poverty Action Lab
+https://www.povertyactionlab.org/case-study/targeting-ultra-poor-improve-livelihoods
+Poverty reduction through large asset transfers: a look at the long run
+https://blogs.worldbank.org/en/impactevaluations/poverty-reduction-through-large-asset-transfers-look-long-run
+Productive Asset Transfers and Coaching Can Improve Livelihoods of People in Extreme
+Poverty in the Philippines | IPA
+https://poverty-action.org/study/productive-asset-transfers-and-coaching-can-improve-livelihoods-people-extreme-poverty
+Statement on Newsom Proposed Cut to Baby Bond Program
+https://endpovertyinca.org/press/statement-on-newsom-proposed-cut-to-baby-bonds-program/55
+56 57
+58 59 61 62
+60
+63 64
+65 66
+67 68 69 71 74 75 78 79100
+70
+72 73 76 77
+80 81 82 83
+84
+85 86
+87 88 89
+90 91
+92
+93 94 95 96
+97
+21
+Baby Bonds Would Reduce Racial Wealth Inequities. Here’s What Policymakers Need to
+Know. | Urban Institute
+https://www.urban.org/urban-wire/baby-bonds-would-reduce-racial-wealth-inequities-heres-what-policymakers-need-know
+The boldest step to close the racial wealth divide in generations
+https://nevadacurrent.com/2024/06/20/the-boldest-step-to-close-the-racial-wealth-divide-in-generations/98 99101 113
+103 104
+22

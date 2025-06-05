@@ -1,1 +1,325 @@
-AI and Humanoid Robotics: An Era of Exponential Acceleration Introduction Over the past decade, artificial intelligence (AI) and humanoid robotics have advanced at a blistering pace, reaching a point where progress itself is accelerating – a technological “jerk” in the second derivative of innovation. This report explores how AI’s growth in computational power and model scale, combined with leaps in robotics dexterity and autonomy, are driving an unprecedented transformation. We examine empirical trends (from FLOPs per watt to model parameter counts), industry investments (in GPUs, data centers, and R&D), and use perspectives from prominent tech leaders to contextualize the significance. The central thesis is that AI is not only here to stay but is accelerating so rapidly that it is hurtling toward artificial general intelligence (AGI) – and even artificial superintelligence (ASI) – far sooner than many anticipated. In parallel, a boom in humanoid robotics is underway, with data showing dramatic improvements in robot capabilities and production, signaling a new era of automation with profound implications for labor , society, and geopolitics. Accelerating AI: Exponential Growth and the “Jerk” of Progress AI progress this past decade can be quantified by staggering growth in compute performance and efficiency. Hardware metrics show that the energy-efficiency of AI chips has been doubling roughly every two years . For example, today’s cutting-edge processors like NVIDIA’s H100 achieve on the order of 10^12 FLOP/s per watt – a level of performance-per-watt unimaginable a decade ago. Overall GPU FLOP/s performance for machine learning doubled every ~2.3 years in recent hardware generations. This means not only are we getting more raw compute, but we’re getting it with greater efficiency, fueling bigger and more complex AI models without proportional increases in cost or power . “Accelerated computing has reached the tipping point — general purpose computing has run out of steam,” NVIDIA CEO Jensen Huang declared, highlighting that specialized AI hardware is driving a new surge in capability. Indeed, Huang noted in early 2023, “This is the most extraordinary moment we have witnessed in the history of AI… New AI technologies and rapidly spreading adoption are transforming science and industry” . His words underscore how the confluence of better chips, algorithms, and data has created a watershed moment for AI. Scaling laws and model growth reinforce this picture of exponential acceleration. Since 2010, the number of parameters in state-of-the-art AI models has roughly doubled every year , a truly exponential trajectory. Early 2010s neural networks had millions of parameters; by 2018, models like BERT had on the order of 10^8 –10^9 parameters, and by 2020 GPT-3 reached 175 billion. By 2023, estimates put GPT-4’s parameter count in the trillions (with one report suggesting ~1.8 trillion). According to data compiled by Epoch AI and Our World in Data, this trend shows no sign of abating: AI models’ size and data usage have exploded exponentially , with training dataset size tripling each year since 2010 for large language models . Crucially, the compute used for training these models has been growing even faster – doubling every 6 months in the past decade. The most demanding training runs now consume on the order of 10^25 FLOPs in a single project, a level of computation that would have been science fiction not long ago. As one analysis1 1 2 1 summarized, “from 1950 to 2010, compute doubled every two years; since 2010, it’s doubled about every six months” . This super-exponential growth in compute is the “jerk” of AI progress – the acceleration of acceleration – enabling AI systems to rapidly improve their performance via sheer scale. Empirically, bigger models plus more data and compute have yielded qualitative leaps in capability rather than just incremental gains. AI systems have developed surprising new abilities (“emergent behaviors”) once scale crosses certain thresholds , a phenomenon that both excites and concerns researchers. Qualitative breakthroughs have accompanied these quantitative trends. In 2012, AI could barely recognize objects in images; by the early 2020s, generative models like GPT and DALL·E produce human-like text and imagery. This leap has been so fast that even pioneers in the field have been caught off guard. Geoffrey Hinton – often called the “godfather of deep learning” – recently expressed astonishment at how quickly AI is approaching human-level intelligence. “The idea that this stuff could actually get smarter than people… I thought it was 30 to 50 years or even longer away. Obviously, I no longer think that,” Hinton admitted in 2023 . His words reflect a broader shift from skepticism to sober recognition among experts that AGI may be on the horizon much sooner than expected . OpenAI CEO Sam Altman has echoed this sentiment, stating “We are now confident we know how to build AGI as we have traditionally understood it” and predicting that “in 2025, we may see the first AI agents join the workforce and materially change the output of companies” . Altman’s remarks highlight that leading AI labs are actively steering toward AGI, and in fact “are beginning to turn [their] aim beyond that, to superintelligence” . Such assertions, coming from those at the cutting edge, lend credence to the thesis that AI’s rapid acceleration is carrying us toward a new epoch of general- purpose, highly intelligent machines . Industrial Investment and Geopolitical Stakes in AI The breakneck progress in AI has spurred massive industrial investments and sparked geopolitical competition. Training state-of-the-art models now requires “tens of thousands of special-purpose computers” and can cost on the order of tens of millions of dollars for a single run. This has led to an arms race in building AI supercomputing infrastructure. Tech giants and cloud providers are pouring capital into data centers filled with AI accelerators (GPUs, TPUs, and specialized chips) to support ever-larger models. For instance, Microsoft’s multi-billion-dollar investment into OpenAI included funding a dedicated AI supercluster , and Google, Amazon, Meta, and others have similarly scaled up their AI compute capabilities. The returns on these investments are seen as game-changing: NVIDIA, the leading GPU maker , saw its market capitalization soar past $1 trillion in 2023 and roughly triple to over $3 trillion by late 2024 on the back of insatiable AI demand. This staggering valuation – briefly making NVIDIA the world’s second most valuable company – underscores how central AI hardware has become to the tech economy. “The more you buy [GPUs], the more revenue you get,” Huang joked in a keynote, half-seriously emphasizing that AI’s value scales with the scale of compute . At the national level, governments are recognizing strategic importance in AI: the U.S. CHIPS Act and similar initiatives aim to secure semiconductor supply chains, while China’s government has invested heavily in domestic AI chips and research to reduce reliance on Western technology. The race for AI supremacy has geopolitical dimensions . In 2017, China’s State Council set a goal to lead the world in AI by 2030, sparking a surge of funding for AI startups, academic programs, and infrastructure in China. In response, the U.S. has tightened export controls on advanced AI hardware – notably banning exports of top-tier NVIDIA AI chips (A100, H100) to China since 2022 . These high-end GPUs are considered dual-use technology with both economic and military significance. As Reuters reported, “exports to China of Nvidia’s A100 and more powerful H100 chips were banned in Sept 2022” , prompting NVIDIA to3 4 2 release lower-spec “China-only” variants which even then faced further restrictions in 2023. Such moves illustrate that access to cutting-edge AI compute is now seen as a matter of national security and technological sovereignty . The competition extends to talent and research leadership: the U.S., Europe, and China are all investing in large-scale AI research programs (from DARPA and NSF funding in the U.S. to Europe’s Horizon projects and China’s national labs). This global contest will likely shape international relations, as leadership in AI is perceived as key to economic and military advantage in the coming decades. As AI capabilities accelerate, countries are also grappling with regulatory strategy – balancing innovation with risk. The EU has drafted an AI Act to regulate high-risk AI systems, and the U.S. and China have issued AI governance guidelines, reflecting societal concerns that accompany the tech race (ranging from algorithmic bias to potential misuse of AI in surveillance or weaponry). Societal Impacts: Labor and the Economy in an AI Era Perhaps the most immediate implications of AI’s rapid rise are in the realm of labor and the economy . Automation driven by AI is set to transform job markets significantly. A 2023 Goldman Sachs analysis famously estimated that generative AI could “expose” or disrupt the equivalent of 300 million full-time jobs worldwide . In the U.S. and Europe, they predict about a quarter of all work tasks could be automated by AI in the coming years. Entire sectors, especially those involving routine cognitive work, are vulnerable to being augmented or outright replaced by AI. For example, in clerical and administrative fields, up to ~46% of tasks might be automated, while even in law roughly 44% of tasks could be done by AI systems. These figures suggest a wave of productivity but also potential dislocation: if AI can handle a large fraction of white-collar work (writing, analysis, basic decision-making), the role of human workers may radically shift. A McKinsey report likewise projects that by 2030 around 30% of current jobs could be automated and 60% of occupations could see significant task changes due to AI. Importantly, these analyses also note that AI will create new jobs and categories of work – from AI model trainers and explainers to entirely new industries enabled by cheap prediction and automation. Historically, technology-driven productivity boosts eventually raise overall wealth and create new opportunities, but the transition can be painful. The rapid “jerk” of AI progress compresses the timeline for society to adapt. Automation is not only affecting cognitive jobs: when coupled with robotics, it is entering the physical realm of labor as well. Factories and warehouses are increasingly automated with AI-guided robots, and service sectors (from retail self-checkouts to autonomous vehicles in transport) are on the cusp of significant change. Elon Musk has argued that we are approaching an era of “vast numbers of autonomous humanoid robots” which will upend the global economy. Indeed, Musk suggests that in the future humanoid robots could become ubiquitous , perhaps even outnumbering humans; he speculated there might be “maybe 1 billion humanoid robots in the world by 2050” as capabilities and production scale up (a provocative forecast reflecting his confidence in the trend). The economic structure could shift to one where physical labor and many forms of intellectual labor are handled by machines, raising profound questions about employment, income distribution, and social safety nets. Some technologists, like Sam Altman, have advocated exploring policies like universal basic income in an AI-abundant world, anticipating that the value created by AI (which can be thought of as a form of automated labor) needs to benefit society broadly. Productivity growth from AI could be enormous – Goldman Sachs estimated generative AI might boost global GDP by 7% or more over a few years – but capturing and equitably distributing these gains is a challenge. There are also geopolitical labor implications: countries with aging populations (Japan, parts of Europe) might lean on AI/robotics to maintain productivity, whereas developing nations with younger workforces might see their comparative 3 advantage in labor cost erode. Global supply chains may also reorganize if AI and robotics make localized automated manufacturing more efficient than outsourcing to lower-wage regions, potentially reshoring some industries. In summary, the societal impact of AI’s rapid acceleration is two-fold: it promises a productivity boom and new innovations , but also threatens significant job displacement and upheaval if economies do not adapt in time. Policymakers are beginning to take this seriously – for example, the G7 and G20 have both put AI’s impact on work on their agendas, and many governments are funding retraining programs in digital skills. As one UK official put it, “We want AI to complement the way we work… making our jobs better, rather than taking them away” – a hopeful framing that will require proactive effort to achieve. The Rise of Humanoid Robotics In parallel with AI’s software-centric growth, the past decade has seen a boom in humanoid robotics – general-purpose robots that emulate the form factor (and in some respects, the behaviors) of humans. While industrial robots (like robotic arms on factory lines) have been common for years, humanoid and mobile robots were, until recently, largely experimental. That is no longer the case. Empirical data shows a sharp uptick in the development and deployment of such robots globally. Robot capability has advanced dramatically: modern humanoids can walk, grasp, and perform complex sequences far better than those of even a few years ago. For instance, Boston Dynamics’ Atlas robot – often dubbed the world’s most advanced humanoid – progressed from simply walking in 2013 to executing agile parkour routines by 2021. In a 2023 demo, Atlas was shown autonomously picking up tools and traversing an obstacle course to deliver them to a human worker , showcasing mobile manipulation skills (combining locomotion and object handling) that mark a huge leap in dexterity. This level of agility and coordination is a tangible measure of progress: back in 2015, entrants in the DARPA Robotics Challenge could barely trudge through a doorway or turn a valve without falling, whereas today’s cutting-edge humanoids maintain balance while leaping between platforms. Robotic dexterity has benefited from AI-driven improvements in computer vision and reinforcement learning. Robots like Atlas now use onboard perception and machine learning to adjust to their environment in real time, rather than following only preprogrammed motions. The result is greater autonomy: where older robots were blind and scripted, newer humanoids can handle more variability – walking on uneven terrain, picking up objects of different shapes, etc., with minimal human remote control. At the same time, learning efficiency for robotic skills has improved thanks to techniques like simulation and imitation learning. Researchers can train robot control policies in virtual environments for the equivalent of thousands of hours, then transfer that learning to physical robots (a method pioneered in projects like OpenAI’s Rubik’s Cube-solving robotic hand). This approach dramatically accelerates how quickly robots acquire new abilities, effectively doing for robotics what massive datasets did for AI models. It’s now plausible for a robot to “learn” a new manipulation task in days or weeks of training, whereas previously each new task required months of hand-engineering. Elon Musk highlighted this progress in a 2023 update on Tesla’s humanoid, Optimus, noting that the robot was beginning to “learn tasks by watching human demonstrations,” suggesting that general-purpose robots may soon learn on the fly from examples much as humans do. From Prototypes to Mass Production One of the clearest signs of a humanoid robotics boom is the move from lab prototypes to planned mass production of robots. Several companies have announced ambitious manufacturing goals for humanoids, backed by substantial investment. Tesla, for example, stunned many by unveiling the Optimus humanoid 4 robot project in 2021 and has since made it a top priority. In early 2025, Elon Musk told investors that Tesla expects to produce “ thousands of Optimus robots ” in 2025 alone, en route to scaling to millions of units per year as soon as possible . He went so far as to say Optimus could “ultimately be worth more than the car business” for Tesla. In Musk’s view, “This [humanoid robot] has the potential to be more significant than the vehicle business over time” – a bold claim considering Tesla’s automotive division is a Fortune 100-scale enterprise. This confidence is backed by early prototypes of Optimus which, by late 2023, were shown capable of basic navigation, carrying objects, and simple tool use, all using the same AI vision system that powers Tesla’s self-driving cars. Tesla is building on its expertise in batteries, actuators, and AI to iterate quickly; Musk has indicated that a version of Optimus is already working (at least in demo) on tasks like moving items in Tesla factories. Tesla is not alone. Startup Figure AI emerged in 2022 with a mission to build a general-purpose humanoid; by 2023 it had raised over $100 million and revealed a full-scale humanoid design. Figure expects to have its Figure 01 robots performing real-world pilot tests in industries like logistics in the next couple of years. Another U.S. firm, Agility Robotics , has been a pioneer in legged robots – their human-sized biped Digit (which walks on two legs and has gripper “arms”) is already being sold for warehouse pilots. Agility opened a new factory in late 2023 capable of producing thousands of Digits annually, after securing a $180M funding round led by Amazon. Meanwhile, Apptronik , a Texas-based startup, unveiled its Apollo humanoid in 2023 and likewise announced plans for mass production in the mid-2020s. Even Sanctuary AI, from Canada, is developing a slightly smaller humanoid intended for general office and retail tasks, emphasizing software intelligence in controlling the robot. This flurry of activity extends worldwide. In China , several companies are aggressively entering humanoid robotics. Shanghai-based Unitree (known for its quadruped robot dogs) has teased development of a bipedal humanoid. Another Chinese firm, Fourier Intelligence , collaborated with university researchers to debut a humanoid prototype (GR-1) in 2023. At China’s big annual tech expo – the World Robot Conference (WRC) in Beijing – humanoids have increasingly taken center stage. The 2024 WRC showcased a record 27 different humanoid robot models from various companies, a clear indication that many players are now in the game. The Chinese government is investing heavily: over 100 billion yuan (∼$14B) was reportedly poured into the country’s robotics industry, aiming not just at industrial arms but at service and humanoid robots as a new growth sector . China’s push is motivated by both economic opportunity and needs like an aging workforce – humanoid robots are seen as potential helpers in healthcare, elder care, and other service roles. Japan , with its long history of robotics, has also re-entered the humanoid race. Honda’s famous ASIMO robot was retired in 2018, but companies like Toyota and startups like Preferred Networks (which unveiled a prototype human-assist robot) are making strides. Japan sees humanoid robots as part of a solution to its demographic challenges; the government has funded projects for robots in nursing and caregiving. For example, researchers in Japan have developed caretaker humanoids that can lift patients or provide companionship, and a prototype named “AIREC” is being tested as a future eldercare robot. In Germany , the focus tends to be on high-end engineering and industrial use-cases. German firms (e.g., Siemens, Bosch) and research institutes are improving robotic hands and tactile sensors, which feed into humanoid designs. One German startup, Neura Robotics , announced it is working on a cognitive humanoid named “Maya”, reflecting European interest in not falling behind in the humanoid arena. Additionally, Germany remains a powerhouse in industrial robotics (with companies like KUKA, which is now Chinese-owned, and Franka Emika). 5 5 Robots in Specialized Domains While general-purpose humanoids grab headlines, domain-specific robots have also quietly matured to an impressive degree, proving that robots can excel in specialized tasks. A prime example is surgical robotics: the da Vinci surgical system (made by Intuitive Surgical) has been in use for over two decades, but its adoption and capability have reached new heights in the last ten years. By early 2023, surgeons worldwide had performed over 11 million procedures using da Vinci robots , a cumulative number that underscores how routine robot-assisted surgery has become for certain operations (like prostatectomies, cardiac valve repairs, and hysterectomies). Over 7,500 da Vinci robots are installed globally, and in 2019 alone, more than 1.2 million robotic surgeries were conducted. These robots are not autonomous – a surgeon controls the instruments – but the robotic precision enables minimally invasive techniques that reduce patient recovery time and complication rates. Studies confirm that robotic surgery often results in less blood loss and faster healing compared to traditional methods. The success of surgical robots demonstrates how combining robotics with human expertise can greatly enhance outcomes. It also lays groundwork for future medical robots that could perform simpler procedures autonomously or be supervised by remote specialists (an area of active research). Another striking case is Neuralink’s neurosurgical robot for brain implant procedures. Neuralink (co- founded by Elon Musk) developed a robot that can insert ultra-fine, flexible electrode threads into the brain with micron-scale precision – a task far too delicate for a human surgeon’s hands. This robot, unveiled in 2020, uses advanced imaging and micro-manipulators to avoid blood vessels and accurately place each thread into target brain regions. The “needle” it operates with is thinner than a human hair , and the system can insert many dozens of electrodes per minute. Neuralink’s robot is effectively an automation of a surgery that previously would have been nearly impossible to do manually at scale. Its development showcases how far robotics has come in terms of precision and integration with AI-driven vision (the robot “sees” into the translucent brain tissue to guide placement). As of 2023, Neuralink had received FDA approval for human trials of its brain-computer interface, meaning this robot may soon operate on real patients. Domain-specific robots are also thriving in other fields: logistics robots (like Amazon’s warehouse robots or Boston Dynamics’ Stretch robot) have automated millions of package-handling tasks; agricultural robots prune and harvest crops with machine vision; and in laboratories, robotic systems run experiments or analyze samples 24/7. Each of these are specialized automations, but they underscore a common theme: robots are mastering specialized tasks at a high level of proficiency , often supervised or guided by AI algorithms, and replacing human labor in those niches. Profound Implications for the Future The dual revolution of AI and robotics – accelerating in concert – suggests we are on the cusp of a historic transformation in technology’s role in society. AI’s rapidly increasing intelligence (propelled by exponential scaling and the “jerk” of progress) and robotics’ expanding embodiment of that intelligence in the physical world are together pushing automation into realms previously thought safe from machines . This is more than just incremental improvement; it is a regime change. As we compile the evidence – petaflop-level compute on a chip, trillion-parameter models, humanoids leaping and learning, robots performing surgery – it becomes clear that something profound is underway. One immediate implication is a potential redefinition of work and the economy . If general-purpose AI and agile robots can perform most routine cognitive and manual tasks, the comparative advantage of human labor shifts to more creative, managerial, or intrinsically human skills (e.g. social interaction, 6 complex judgment) – at least until AI potentially encroaches there too. This could lead to productivity windfalls : cheaper goods and services, unprecedented economic growth, and the alleviation of dangerous or drudgerous jobs. Indeed, AI and robotics hold the promise of abundant energy (via smarter grids), safer transportation (self-driving vehicles), and better health (automated care and discovery). But they also raise the specter of structural unemployment and inequality if society is unprepared. The last decade’s rapid tech changes have already contributed to social strains (for instance, the disruption of retail by e-commerce automation). The coming decade could see far greater upheaval. Policymakers and business leaders are starting to grapple with questions like: How do we retrain or support workers displaced by AI? How do we update education when AI can now solve problems and even generate new knowledge? How do we ensure the economic gains from automation benefit the many and not only a few? Another implication is the shifting industrial and geopolitical power balance . Nations that lead in AI and robotics could dominate high-tech manufacturing and services, potentially concentrating wealth. We are already seeing strategic jockeying: for example, China now accounts for 51% of global industrial robot installations (276,000+ units deployed in 2023 alone), indicating its push to automate domestically at an unparalleled scale. The global stock of industrial robots hit an all-time high of about 4.28 million in operation in 2023, and this figure will likely seem small if humanoid service robots become as common as smartphones. Elon Musk mused that humanoid robots could become so widespread that we might face an oversupply of labor , leading to a world where work is optional and perhaps a universal basic income is needed – essentially a post-scarcity economy fueled by robot labor . This optimistic view sees AI/robotics as freeing humanity from toil. A more pessimistic view warns of potential loss of human control : if AI systems become superintelligent and are integrated into autonomous robots, ensuring they remain aligned with human values becomes critical (the classic AI safety concern). Musk, Hinton, and others have voiced concerns that an AGI or ASI, if misaligned, “could be massively dangerous to humanity” , even existentially so. This has led to calls for international regulation on advanced AI development – a topic now discussed at the level of the United Nations and major government summits. In the near term, however , the trajectory seems set: AI is here to stay – and to accelerate . The data we’ve reviewed on compute, model scaling, investment, and adoption all point to a technology in a feedback loop of improvement. As AI gets better , it becomes more economically useful, driving more investment, which in turn yields further improvements. Likewise, robotics is benefiting from AI’s gains, becoming smarter and more capable, which expands the market and justification for producing robots at scale. Humanity is effectively engineering a new class of intelligent, general-purpose machines . These machines don’t tire, they process information in milliseconds, and now they can move and manipulate the physical world with increasing finesse. It is not hyperbole to compare this moment to the dawn of the industrial revolution – except now the “machines” can potentially outthink their creators. In conclusion, the rapid acceleration of AI and humanoid robotics over the last decade supports the thesis that we are entering a new technological era, one characterized by exponential growth heading toward uncharted territory . The evidence of a “technological jerk” is clear in the numbers: faster chips, bigger models, more robots – year on year , the pace is quickening. This has already set in motion transformative changes in industry and labor . If current trends continue, the coming decade could bring us AGI-level AI systems and robots that are as common as cars – a scenario that was squarely in the realm of science fiction not long ago. As a society, we face the task of harnessing this technology for the greater good while managing its risks. To borrow the words of Jensen Huang, it truly is an extraordinary moment in the history of technology , one that will require extraordinary wisdom to navigate. The acceleration is real, and it is driving 7 us toward a future where highly intelligent, general-purpose machines are integral to our world – a development as promising as it is challenging. Sources: Primary data and quotations have been drawn from recent reports and statements by experts and organizations, including energy-efficiency trends in AI hardware , AI model scaling analyses, quotes from AI pioneers like Geoffrey Hinton and Sam Altman, labor market impact studies (Goldman Sachs, McKinsey), and industry news on robotics developments and deployments . These illustrate and support the accelerated trajectories discussed throughout this report. Leading ML hardware becomes 40% more energy-efficient each year | Epoch AI https://epoch.ai/data-insights/fp16-performance-trend Scaling up: how increasing inputs has made artificial intelligence more capable - Our World in Data https://ourworldindata.org/scaling-up-ai Google AI pioneer says he quit to speak freely about technology's 'dangers' | Reuters https://www.reuters.com/technology/google-ai-pioneer-says-he-quit-speak-freely-about-technologys-dangers-2023-05-02/ Musk's bets on Tesla: human-like robots and self-driving cars | Reuters https://www.reuters.com/technology/musks-bets-tesla-no-human-drivers-this-year-robots-next-2022-01-27/1 4 5 1 2 3 4 5 8
+AI and Humanoid Robotics: An Era of Exponential
+Acceleration
+Introduction
+Over the past decade, artificial intelligence (AI) and humanoid robotics have advanced at a blistering pace,
+reaching a point where progress itself is accelerating – a technological “jerk” in the second derivative of
+innovation. This report explores how AI’s growth in computational power and model scale, combined with
+leaps  in  robotics  dexterity  and  autonomy,  are  driving  an  unprecedented  transformation.  We  examine
+empirical trends (from FLOPs per watt to model parameter counts), industry investments (in GPUs, data
+centers, and R&D), and use perspectives from prominent tech leaders to contextualize the significance. The
+central thesis is that AI is not only here to stay but is accelerating so rapidly that it is hurtling toward
+artificial general intelligence (AGI)  – and even artificial superintelligence (ASI) – far sooner than many
+anticipated.  In  parallel,  a  boom  in  humanoid  robotics  is  underway,  with  data  showing  dramatic
+improvements  in  robot  capabilities  and  production,  signaling  a  new  era  of  automation  with  profound
+implications for labor , society, and geopolitics.
+Accelerating AI: Exponential Growth and the “Jerk” of Progress
+AI  progress  this  past  decade  can  be  quantified  by  staggering  growth  in  compute  performance  and
+efficiency. Hardware metrics  show that the energy-efficiency of AI chips has been doubling roughly every
+two years . For example, today’s cutting-edge processors like NVIDIA’s H100 achieve on the order of
+10^12 FLOP/s per watt  – a level of performance-per-watt unimaginable a decade ago. Overall GPU
+FLOP/s performance for machine learning doubled every ~2.3 years in recent hardware generations. This
+means not only are we getting more raw compute, but we’re getting it with greater efficiency, fueling bigger
+and more complex AI models without proportional increases in cost or power .  “Accelerated computing has
+reached the tipping point — general purpose computing has run out of steam,”  NVIDIA CEO Jensen Huang
+declared, highlighting that specialized AI hardware is driving a new surge in capability. Indeed, Huang
+noted in early 2023,  “This is the most extraordinary moment we have witnessed in the history of AI… New AI
+technologies and rapidly spreading adoption are transforming science and industry” . His words underscore how
+the confluence of better chips, algorithms, and data has created a watershed moment for AI.
+Scaling laws and model growth  reinforce this picture of exponential acceleration. Since 2010, the number
+of parameters in state-of-the-art AI models has roughly doubled every year , a truly exponential trajectory.
+Early 2010s neural networks had millions of parameters; by 2018, models like BERT had on the order of
+10^8 –10^9  parameters, and by 2020 GPT-3 reached 175 billion. By 2023, estimates put GPT-4’s parameter
+count in the trillions (with one report suggesting ~1.8 trillion). According to data compiled by Epoch AI and
+Our World in Data, this trend shows no sign of abating: AI models’ size and data usage have exploded
+exponentially , with training dataset size tripling each year since 2010 for large language models .
+Crucially, the compute used for training  these models has been growing even faster – doubling every 6
+months in the past decade. The most demanding training runs now consume on the order of 10^25  FLOPs
+in a single project, a level of computation that would have been science fiction not long ago. As one analysis1
+1
+2
+1
+summarized,  “from 1950 to 2010, compute doubled every two years; since 2010, it’s doubled about every six
+months” . This super-exponential growth in compute is the  “jerk” of AI progress  – the acceleration of
+acceleration – enabling AI systems to rapidly improve their performance via sheer scale. Empirically, bigger
+models  plus  more  data  and  compute  have  yielded  qualitative  leaps  in  capability  rather  than  just
+incremental gains. AI systems have developed surprising new abilities (“emergent behaviors”) once scale
+crosses certain thresholds , a phenomenon that both excites and concerns researchers.
+Qualitative  breakthroughs  have  accompanied  these  quantitative  trends.  In  2012,  AI  could  barely
+recognize objects in images; by the early 2020s, generative models like GPT and DALL·E produce human-like
+text and imagery. This leap has been so fast that even pioneers in the field have been caught off guard.
+Geoffrey Hinton – often called the “godfather of deep learning” – recently expressed astonishment at how
+quickly AI is approaching human-level intelligence.  “The idea that this stuff could actually get smarter than
+people… I thought it was 30 to 50 years or even longer away. Obviously, I no longer think that,”  Hinton admitted
+in 2023 . His words reflect a broader shift from skepticism to sober recognition among experts that AGI
+may be on the horizon much sooner than expected . OpenAI CEO Sam Altman has echoed this sentiment,
+stating “We are now confident we know how to build AGI as we have traditionally understood it”  and predicting
+that “in 2025, we may see the first AI agents join the workforce and materially change the output of companies” .
+Altman’s remarks highlight that leading AI labs are actively steering toward AGI, and in fact “are beginning to
+turn [their] aim beyond that, to superintelligence” . Such assertions, coming from those at the cutting edge,
+lend credence to the thesis that AI’s rapid acceleration is carrying us toward a new epoch of  general-
+purpose, highly intelligent machines .
+Industrial Investment and Geopolitical Stakes in AI
+The  breakneck  progress  in  AI  has  spurred  massive  industrial  investments  and  sparked  geopolitical
+competition.  Training  state-of-the-art  models  now  requires  “tens  of  thousands  of  special-purpose
+computers” and can cost on the order of tens of millions of dollars for a single run. This has led to an arms
+race in building AI supercomputing infrastructure. Tech giants and cloud providers are pouring capital into
+data centers filled with AI accelerators (GPUs, TPUs, and specialized chips) to support ever-larger models.
+For  instance,  Microsoft’s  multi-billion-dollar  investment  into  OpenAI  included  funding  a  dedicated  AI
+supercluster , and Google, Amazon, Meta, and others have similarly scaled up their AI compute capabilities.
+The returns on these investments are seen as game-changing: NVIDIA, the leading GPU maker , saw its
+market capitalization soar past $1 trillion in 2023  and roughly triple to over $3 trillion by late 2024 on the
+back of insatiable AI demand. This staggering valuation – briefly making NVIDIA the world’s second most
+valuable company – underscores how central AI hardware has become to the tech economy. “The more you
+buy [GPUs], the more revenue you get,”  Huang joked in a keynote, half-seriously emphasizing that AI’s value
+scales with the scale of compute . At the national level, governments are recognizing strategic importance
+in AI: the U.S. CHIPS Act and similar initiatives aim to secure semiconductor supply chains, while China’s
+government  has  invested  heavily  in  domestic  AI  chips  and  research  to  reduce  reliance  on  Western
+technology.
+The race for AI supremacy has geopolitical dimensions . In 2017, China’s State Council set a goal to lead the
+world in AI by 2030, sparking a surge of funding for AI startups, academic programs, and infrastructure in
+China. In response, the U.S. has tightened export controls on advanced AI hardware – notably  banning
+exports  of  top-tier  NVIDIA  AI  chips  (A100,  H100)  to  China  since  2022 .  These  high-end  GPUs  are
+considered dual-use technology with both economic and military significance. As Reuters reported, “exports
+to China of Nvidia’s A100 and more powerful H100 chips were banned in Sept 2022” , prompting NVIDIA to3
+4
+2
+release lower-spec “China-only” variants which even then faced further restrictions in 2023. Such moves
+illustrate that  access to cutting-edge AI compute is now seen as a matter of national security and
+technological sovereignty . The competition extends to talent and research leadership: the U.S., Europe,
+and China are all investing in large-scale AI research programs (from DARPA and NSF funding in the U.S. to
+Europe’s  Horizon  projects  and  China’s  national  labs).  This  global  contest  will  likely  shape  international
+relations, as leadership in AI is perceived as key to economic and military advantage in the coming decades.
+As AI capabilities accelerate, countries are also grappling with regulatory strategy – balancing innovation
+with risk. The EU has drafted an AI Act to regulate high-risk AI systems, and the U.S. and China have issued
+AI  governance  guidelines,  reflecting  societal  concerns  that  accompany  the  tech  race  (ranging  from
+algorithmic bias to potential misuse of AI in surveillance or weaponry).
+Societal Impacts: Labor and the Economy in an AI Era
+Perhaps the most immediate implications of AI’s rapid rise are in the realm of  labor and the economy .
+Automation driven by AI is set to transform job markets significantly. A 2023 Goldman Sachs analysis
+famously estimated that generative AI could “expose” or disrupt the equivalent of  300 million full-time
+jobs  worldwide .  In  the  U.S.  and  Europe,  they  predict  about  a  quarter  of  all  work  tasks  could  be
+automated by AI  in the coming years. Entire sectors, especially those involving routine cognitive work, are
+vulnerable to being augmented or outright replaced by AI. For example, in clerical and administrative fields,
+up to ~46% of tasks might be automated, while even in law roughly 44% of tasks could be done by AI
+systems. These figures suggest a wave of productivity but also potential dislocation: if AI can handle a large
+fraction of white-collar work (writing, analysis, basic decision-making), the role of human workers may
+radically shift. A McKinsey report likewise projects that by 2030 around  30% of current jobs could be
+automated  and 60% of occupations  could see significant task changes due to AI. 
+Importantly, these analyses also note that AI will create new jobs and categories of work – from AI model
+trainers and explainers to entirely new industries enabled by cheap prediction and automation. Historically,
+technology-driven productivity boosts eventually raise overall wealth and create new opportunities, but the
+transition can be painful. The rapid “jerk” of AI progress compresses the timeline for society to adapt.
+Automation is not only affecting cognitive jobs: when coupled with robotics, it is entering the physical realm
+of labor as well. Factories and warehouses are increasingly automated with AI-guided robots, and service
+sectors (from retail self-checkouts to autonomous vehicles in transport) are on the cusp of significant
+change. Elon Musk has argued that we are approaching an era of “vast numbers of autonomous humanoid
+robots”  which will upend the global economy. Indeed, Musk suggests that in the future humanoid robots
+could become ubiquitous , perhaps even outnumbering humans; he speculated there might be “maybe 1
+billion  humanoid robots in the world by 2050” as capabilities and production scale up (a provocative forecast
+reflecting his confidence in the trend).
+The economic structure  could shift to one where physical labor and many forms of intellectual labor are
+handled by machines, raising profound questions about employment, income distribution, and social safety
+nets. Some technologists, like Sam Altman, have advocated exploring policies like universal basic income in
+an AI-abundant world, anticipating that the value created by AI (which can be thought of as a form of
+automated  labor)  needs  to  benefit  society  broadly.  Productivity  growth  from  AI  could  be  enormous  –
+Goldman Sachs estimated generative AI might boost global GDP by  7% or more  over a few years – but
+capturing  and  equitably  distributing  these  gains  is  a  challenge.  There  are  also  geopolitical  labor
+implications:  countries  with  aging  populations  (Japan,  parts  of  Europe)  might  lean  on  AI/robotics  to
+maintain productivity, whereas developing nations with younger workforces might see their comparative
+3
+advantage in labor cost erode. Global supply chains  may also reorganize if AI and robotics make localized
+automated manufacturing more efficient than outsourcing to lower-wage regions, potentially reshoring
+some  industries.  In  summary,  the  societal  impact  of  AI’s  rapid  acceleration  is  two-fold:  it  promises  a
+productivity boom and new innovations , but also threatens significant job displacement and upheaval
+if economies do not adapt in time. Policymakers are beginning to take this seriously – for example, the G7
+and  G20  have  both  put  AI’s  impact  on  work  on  their  agendas,  and  many  governments  are  funding
+retraining programs in digital skills. As one UK official put it, “We want AI to complement the way we work…
+making our jobs better, rather than taking them away”  – a hopeful framing that will require proactive effort to
+achieve.
+The Rise of Humanoid Robotics
+In parallel with AI’s software-centric growth, the past decade has seen a boom in humanoid robotics  –
+general-purpose robots that emulate the form factor (and in some respects, the behaviors) of humans.
+While industrial robots (like robotic arms on factory lines) have been common for years, humanoid and
+mobile robots were, until recently, largely experimental. That is no longer the case. Empirical data shows a
+sharp uptick in the development and deployment of such robots globally. Robot capability  has advanced
+dramatically: modern humanoids can walk, grasp, and perform complex sequences far better than those of
+even a few years ago. For instance, Boston Dynamics’ Atlas  robot – often dubbed the world’s most advanced
+humanoid – progressed from simply walking in 2013 to executing agile parkour routines by 2021. In a 2023
+demo, Atlas was shown autonomously picking up tools and traversing an obstacle course to deliver them to
+a human worker , showcasing  mobile manipulation  skills (combining locomotion and object handling) that
+mark a huge leap in dexterity. This level of agility and coordination is a tangible measure of progress: back
+in 2015, entrants in the DARPA Robotics Challenge could barely trudge through a doorway or turn a valve
+without  falling,  whereas  today’s  cutting-edge  humanoids  maintain  balance  while  leaping  between
+platforms.  Robotic  dexterity  has  benefited  from  AI-driven  improvements  in  computer  vision  and
+reinforcement learning. Robots like  Atlas  now use onboard perception and machine learning to adjust to
+their environment in real time, rather than following only preprogrammed motions. The result is greater
+autonomy: where older robots were blind and scripted, newer humanoids can handle more variability –
+walking on uneven terrain, picking up objects of different shapes, etc., with minimal human remote control.
+At the same time, learning efficiency  for robotic skills has improved thanks to techniques like simulation
+and  imitation  learning.  Researchers  can  train  robot  control  policies  in  virtual  environments  for  the
+equivalent of thousands of hours, then transfer that learning to physical robots (a method pioneered in
+projects  like  OpenAI’s  Rubik’s  Cube-solving  robotic  hand).  This  approach  dramatically  accelerates  how
+quickly robots acquire new abilities, effectively doing for robotics what massive datasets did for AI models.
+It’s now plausible for a robot to “learn” a new manipulation task in days or weeks of training, whereas
+previously each new task required months of hand-engineering. Elon Musk highlighted this progress in a
+2023 update on Tesla’s humanoid, Optimus, noting that the robot was beginning to “learn tasks by watching
+human  demonstrations,”  suggesting  that  general-purpose  robots  may  soon  learn  on  the  fly  from
+examples  much as humans do.
+From Prototypes to Mass Production
+One of the clearest signs of a humanoid robotics boom is the move from lab prototypes to planned mass
+production  of robots. Several companies have announced ambitious manufacturing goals for humanoids,
+backed by substantial investment. Tesla, for example, stunned many by unveiling the  Optimus  humanoid
+4
+robot project in 2021 and has since made it a top priority. In early 2025, Elon Musk told investors that Tesla
+expects to produce “ thousands of Optimus robots ” in 2025 alone, en route to scaling to millions of units
+per year as soon as possible . He went so far as to say Optimus could “ultimately be worth more than the car
+business”  for Tesla. In Musk’s view,  “This [humanoid robot] has the potential to be more significant than the
+vehicle business over time”  – a bold claim considering Tesla’s automotive division is a Fortune 100-scale
+enterprise. This confidence is backed by early prototypes of Optimus which, by late 2023, were shown
+capable of basic navigation, carrying objects, and simple tool use, all using the same AI vision system that
+powers Tesla’s self-driving cars. Tesla is building on its expertise in batteries, actuators, and AI to iterate
+quickly; Musk has indicated that a version of Optimus is already working (at least in demo) on tasks like
+moving items in Tesla factories.
+Tesla is not alone. Startup Figure AI emerged in 2022 with a mission to build a general-purpose humanoid;
+by 2023 it had raised over $100 million and revealed a full-scale humanoid design. Figure expects to have its
+Figure 01  robots performing real-world pilot tests in industries like logistics in the next couple of years.
+Another U.S. firm, Agility Robotics , has been a pioneer in legged robots – their human-sized biped Digit
+(which walks on two legs and has gripper “arms”) is already being sold for warehouse pilots. Agility opened
+a new factory in late 2023 capable of producing thousands of Digits annually, after securing a $180M
+funding round led by Amazon. Meanwhile, Apptronik , a Texas-based startup, unveiled its Apollo  humanoid
+in 2023 and likewise announced plans for mass production in the mid-2020s. Even Sanctuary AI, from
+Canada, is developing a slightly smaller humanoid intended for general office and retail tasks, emphasizing
+software intelligence in controlling the robot. 
+This flurry of activity extends worldwide. In China , several companies are aggressively entering humanoid
+robotics. Shanghai-based  Unitree  (known for its quadruped robot dogs) has teased development of a
+bipedal humanoid. Another Chinese firm, Fourier Intelligence , collaborated with university researchers to
+debut a humanoid prototype (GR-1) in 2023. At China’s big annual tech expo – the World Robot Conference
+(WRC) in Beijing  – humanoids have increasingly taken center stage. The 2024 WRC showcased a record 27
+different humanoid robot models  from various companies, a clear indication that many players are now
+in the game. The Chinese government is investing heavily: over 100 billion yuan (∼$14B) was reportedly
+poured into the country’s robotics industry, aiming not just at industrial arms but at service and humanoid
+robots as a new growth sector . China’s push is motivated by both economic opportunity and needs like an
+aging workforce – humanoid robots are seen as potential helpers in healthcare, elder care, and other
+service roles. 
+Japan , with its long history of robotics, has also re-entered the humanoid race. Honda’s famous ASIMO
+robot was retired in 2018, but companies like Toyota and startups like Preferred Networks  (which unveiled
+a prototype human-assist robot) are making strides. Japan sees humanoid robots as part of a solution to its
+demographic challenges; the government has funded projects for robots in nursing and caregiving. For
+example,  researchers  in  Japan  have  developed  caretaker  humanoids  that  can  lift  patients  or  provide
+companionship, and a prototype named “AIREC” is being tested as a future eldercare robot. In Germany ,
+the focus tends to be on high-end engineering and industrial use-cases. German firms (e.g., Siemens,
+Bosch) and research institutes are improving robotic hands and tactile sensors, which feed into humanoid
+designs. One German startup, Neura Robotics , announced it is working on a cognitive humanoid named
+“Maya”, reflecting European interest in not falling behind in the humanoid arena. Additionally, Germany
+remains a powerhouse in industrial robotics (with companies like KUKA, which is now Chinese-owned, and
+Franka Emika). 5
+5
+Robots in Specialized Domains
+While general-purpose humanoids grab headlines, domain-specific robots  have also quietly matured to an
+impressive degree, proving that robots can excel in specialized tasks. A prime example is surgical robotics:
+the  da Vinci surgical system  (made by Intuitive Surgical) has been in use for over two decades, but its
+adoption and capability have reached new heights in the last ten years. By early 2023, surgeons worldwide
+had performed over 11 million procedures using da Vinci robots , a cumulative number that underscores
+how routine robot-assisted surgery has become for certain operations (like prostatectomies, cardiac valve
+repairs, and hysterectomies). Over 7,500 da Vinci robots are installed globally, and in 2019 alone, more than
+1.2 million robotic surgeries were conducted. These robots are not autonomous – a surgeon controls the
+instruments – but the robotic precision enables minimally invasive techniques that reduce patient recovery
+time and complication rates. Studies confirm that robotic surgery often results in less blood loss and faster
+healing compared to traditional methods. The success of surgical robots demonstrates how combining
+robotics with human expertise can greatly enhance outcomes. It also lays groundwork for future medical
+robots that could perform simpler procedures autonomously or be supervised by remote specialists (an
+area of active research). 
+Another striking case is  Neuralink’s neurosurgical robot  for brain implant procedures. Neuralink (co-
+founded by Elon Musk) developed a robot that can insert ultra-fine, flexible electrode threads into the brain
+with micron-scale precision – a task far too delicate for a human surgeon’s hands. This robot, unveiled in
+2020, uses advanced imaging and micro-manipulators to avoid blood vessels and accurately place each
+thread into target brain regions. The “needle” it operates with is thinner than a human hair , and the system
+can insert many dozens of electrodes per minute. Neuralink’s robot is effectively an  automation of a
+surgery  that  previously  would  have  been  nearly  impossible  to  do  manually  at  scale.  Its  development
+showcases how far robotics has come in terms of precision and integration with AI-driven vision (the robot
+“sees”  into  the  translucent  brain  tissue  to  guide  placement).  As  of  2023,  Neuralink  had  received  FDA
+approval for human trials of its brain-computer interface, meaning this robot may soon operate on real
+patients. Domain-specific robots are also thriving in other fields: logistics robots  (like Amazon’s warehouse
+robots or Boston Dynamics’ Stretch  robot) have automated millions of package-handling tasks; agricultural
+robots prune and harvest crops with machine vision; and in laboratories, robotic systems run experiments
+or analyze samples 24/7. Each of these are specialized automations, but they underscore a common theme:
+robots are mastering specialized tasks at a high level of proficiency , often supervised or guided by AI
+algorithms, and replacing human labor in those niches.
+Profound Implications for the Future
+The dual revolution of AI and robotics – accelerating in concert – suggests we are on the cusp of a historic
+transformation in technology’s role in society. AI’s rapidly increasing intelligence (propelled by exponential
+scaling and the “jerk” of progress) and robotics’ expanding embodiment of that intelligence in the physical
+world are together  pushing automation into realms previously thought safe from machines . This is
+more than just incremental improvement; it is a regime change. As we compile the evidence – petaflop-level
+compute on a chip, trillion-parameter models, humanoids leaping and learning, robots performing surgery
+– it becomes clear that something profound is underway.
+One immediate implication is a potential  redefinition of work and the economy . If general-purpose AI
+and agile robots can perform most routine cognitive and manual tasks, the comparative advantage of
+human  labor  shifts  to  more  creative,  managerial,  or  intrinsically  human  skills  (e.g.  social  interaction,
+6
+complex judgment) – at least until AI potentially encroaches there too. This could lead to  productivity
+windfalls : cheaper goods and services, unprecedented economic growth, and the alleviation of dangerous
+or drudgerous jobs. Indeed, AI and robotics hold the promise of abundant energy (via smarter grids), safer
+transportation (self-driving vehicles), and better health (automated care and discovery). But they also raise
+the specter of structural unemployment and inequality  if society is unprepared. The last decade’s rapid
+tech changes have already contributed to social strains (for instance, the disruption of retail by e-commerce
+automation). The coming decade could see far greater upheaval. Policymakers and business leaders are
+starting to grapple with questions like: How do we retrain or support workers displaced by AI? How do we
+update education when AI can now solve problems and even generate new knowledge? How do we ensure
+the economic gains from automation benefit the many and not only a few?
+Another implication is the shifting industrial and geopolitical power balance . Nations that lead in AI and
+robotics could dominate high-tech manufacturing and services, potentially concentrating wealth. We are
+already  seeing  strategic  jockeying:  for  example,  China  now  accounts  for  51%  of  global  industrial  robot
+installations  (276,000+ units deployed in 2023 alone), indicating its push to automate domestically at an
+unparalleled  scale.  The  global  stock  of  industrial  robots  hit  an  all-time  high  of  about  4.28  million  in
+operation in 2023, and this figure will likely seem small if humanoid service robots become as common as
+smartphones. Elon Musk mused that humanoid robots could become so widespread that we might face an
+oversupply of labor , leading to a world where work is optional and perhaps a universal basic income is
+needed – essentially a post-scarcity economy  fueled by robot labor . This optimistic view sees AI/robotics as
+freeing humanity from toil. A more pessimistic view warns of  potential loss of human control : if AI
+systems become superintelligent and are integrated into autonomous robots, ensuring they remain aligned
+with human values becomes critical (the classic AI safety concern). Musk, Hinton, and others have voiced
+concerns that an AGI or ASI, if misaligned, “could be massively dangerous to humanity” , even existentially so.
+This has led to calls for international regulation on advanced AI development – a topic now discussed at the
+level of the United Nations and major government summits. 
+In the near term, however , the trajectory seems set: AI is here to stay – and to accelerate . The data we’ve
+reviewed on compute, model scaling, investment, and adoption all point to a technology in a feedback loop
+of improvement. As AI gets better , it becomes more economically useful, driving more investment, which in
+turn yields further improvements. Likewise, robotics is benefiting from AI’s gains, becoming smarter and
+more  capable,  which  expands  the  market  and  justification  for  producing  robots  at  scale.  Humanity  is
+effectively engineering a new class of intelligent, general-purpose machines . These machines don’t tire,
+they process information in milliseconds, and now they can move and manipulate the physical world with
+increasing finesse. It is not hyperbole to compare this moment to the dawn of the industrial revolution –
+except now the “machines” can potentially outthink their creators. 
+In conclusion, the rapid acceleration of AI and humanoid robotics over the last decade supports the thesis
+that we are entering a new technological era, one characterized by exponential growth heading toward
+uncharted territory . The evidence of a “technological jerk” is clear in the numbers: faster chips, bigger
+models, more robots – year on year , the pace is quickening. This has already set in motion transformative
+changes in industry and labor . If current trends continue, the coming decade could bring us AGI-level AI
+systems and robots that are as common as cars – a scenario that was squarely in the realm of science
+fiction not long ago. As a society, we face the task of harnessing this technology for the greater good while
+managing its risks. To borrow the words of Jensen Huang, it truly is an extraordinary moment in the history of
+technology , one that will require extraordinary wisdom to navigate. The acceleration is real, and it is driving
+7
+us toward a future where highly intelligent, general-purpose machines are integral to our world  – a
+development as promising as it is challenging. 
+Sources:  Primary data and quotations have been drawn from recent reports and statements by experts and
+organizations, including energy-efficiency trends in AI hardware , AI model scaling analyses, quotes
+from AI pioneers like Geoffrey Hinton  and Sam Altman, labor market impact studies (Goldman Sachs,
+McKinsey), and industry news on robotics developments and deployments . These illustrate and support
+the accelerated trajectories discussed throughout this report. 
+Leading ML hardware becomes 40% more energy-efficient each year | Epoch AI
+https://epoch.ai/data-insights/fp16-performance-trend
+Scaling up: how increasing inputs has made artificial intelligence more capable - Our World in Data
+https://ourworldindata.org/scaling-up-ai
+Google AI pioneer says he quit to speak freely about technology's 'dangers' | Reuters
+https://www.reuters.com/technology/google-ai-pioneer-says-he-quit-speak-freely-about-technologys-dangers-2023-05-02/
+Musk's bets on Tesla: human-like robots and self-driving cars | Reuters
+https://www.reuters.com/technology/musks-bets-tesla-no-human-drivers-this-year-robots-next-2022-01-27/1
+4
+5
+1
+2 3
+4
+5
+8

@@ -1,1 +1,1369 @@
-Distributed & Decentralized Dividend Mechanisms for a Post‑Labor Economy Introduction Automation and artificial intelligence are transforming the economic landscape, potentially reducing the need for human labor on a massive scale. In a “post-labor” economy where traditional jobs are scarce, new models of broadly distributing capital and common wealth are gaining attention. These models aim to give every person an economic stake and income stream independent of wages , thereby supporting economic agency even as labor earnings decline. This report synthesizes leading proposals and implementations – in the U.S. and select international cases – for distributed, decentralized, and collective property/dividend mechanisms that could provide widespread income in a post-labor United States. We examine each model’s structure, current status, and potential payout, then compare them across key dimensions. An ambitious but plausible combination scenario is presented, estimating the total per- capita income that such mechanisms could deliver , both in nominal terms and adjusted for possible cost-of- living reductions from automation-driven deflation. National, State, and Municipal Wealth Funds Social Wealth Funds (National): A national sovereign or “social” wealth fund is a publicly owned investment fund that accumulates diversified assets (stocks, bonds, real estate, etc.) on behalf of the citizens and pays out dividends to everyone. The U.S. has no federal social wealth fund yet, but proposals exist to create one. For example, the American Solidarity Fund proposed by economists would have the federal government gradually acquire a broad portfolio of assets and pay an annual universal basic dividend (UBD) to all Americans . The concept draws inspiration from existing funds abroad: Norway’s oil-based sovereign fund has amassed public assets worth 271% of GDP, enough that its 2017 investment returns alone (if distributed) would equal $25,500 per Norwegian . A U.S. fund on that scale (roughly $54 trillion in assets) could likewise pay each American several thousand dollars per year from investment income . While that is exceptionally ambitious, even a smaller U.S. social wealth fund would meaningfully broaden capital ownership. One analysis suggests that a well-funded U.S. social wealth fund could eventually pay on the order of $6,000+ per year per adult from earnings . Such a fund remains proposed (not yet implemented) at the national level, making its viability uncertain in the near term. However , it has precedent: public investment funds exist in dozens of countries and U.S. states. State Sovereign Wealth Funds: At the subnational level, state-run wealth funds invest state revenues (often from natural resources) to benefit the public. The most famous example is the Alaska Permanent Fund (APF) , funded by oil royalties. Since 1982, the APF has paid all Alaska residents an annual Permanent Fund Dividend (PFD) drawn from the fund’s investment earnings. The dividend varies with market returns – for example, in 2017 each Alaskan received about $1,100 , and in prior years it reached as high as $2,072 per person (over $8,000 for a family of four) . This direct cash distribution of common resource wealth has made Alaska one of the most economically equal states and enjoys broad public support. Other U.S. states have smaller funds (often dedicated to education or budgets rather than personal dividends), but12 3 45 61 7 8 1 none besides Alaska currently pays residents a cash social dividend . Establishing new state wealth funds or expanding them to pay citizens is possible (especially in resource-rich states), but political and fiscal constraints make widespread adoption uncertain . Still, Alaska’s success demonstrates high viability in principle for state-level funds: the APF’s structure has withstood decades of political changes and economic cycles. Typical payouts range around $1,000–$1,500 per person yearly under moderate oil price scenarios . Ambitious scenarios (e.g. multiple states adopting Alaska-like funds or Alaska’s fund growth accelerating) could yield ~$2,000+ per resident annually. In most states, though, any future dividends would likely be more modest unless substantial new revenue sources are dedicated. Municipal Wealth Funds and Urban Asset Corporations: Cities and municipalities are also experimenting with collective ownership of assets to fund public needs. One model is the urban wealth fund , a city-owned development corporation that manages municipal assets (land, real estate, infrastructure) for public benefit. A notable example is Copenhagen City & Port Development in Denmark – a publicly owned corporation that took control of Copenhagen’s harbor and former industrial land. By leasing and selling this land for redevelopment, City & Port generated massive revenues which it reinvested in public infrastructure (famously financing Copenhagen’s metro system) . This self-sustaining model turned underutilized public assets into an engine for urban regeneration without burdening taxpayers . Essentially, the city created a wealth fund at the municipal level: profits from rising land values and rents are captured by the public entity and plowed back into community investments (transit, affordable housing, public spaces) rather than accruing to private landowners. While Copenhagen’s model does not pay direct cash dividends to individual residents, it effectively delivers a collective dividend in the form of new infrastructure and services funded by shared assets . A similar approach could be applied in U.S. cities with significant public land or enterprise assets (e.g. port authorities, utilities, redevelopment land banks). Indeed, researchers have highlighted untapped public wealth in American cities that could be managed more strategically . A few U.S. cities are exploring this concept, but it remains nascent . The legal/ institutional framework for municipal wealth funds in the U.S. is immature – most city assets are not consolidated into a single fund, and governance would be a challenge. Viability is medium-term: with political will, cities could pilot asset corporations or trust funds, but the model may need adaptation to local context. If successfully implemented, the per-capita benefit would likely come indirectly (better infrastructure or city services rather than a check). For instance, a city wealth fund might finance a transit project or affordable housing instead of raising taxes , effectively saving each resident money (a “dividend in-kind” ). In an ambitious scenario (major cities leveraging public land value), such funds could conceivably offset on the order of $1,000+ per resident per year in public costs, though direct cash payouts by cities are unlikely in the near future. Private and Participatory Capital Models (ESOPs, Co-ops, Trusts) Not all broad-based ownership models are run by government – many operate at the enterprise or community level to spread capital among workers, consumers, or stakeholders. These participatory capital models include employee stock ownership plans, cooperatives, and profit-sharing trusts. They are decentralized by nature (implemented firm by firm or community by community) but can collectively contribute to a more equitable, post-labor economy by giving people ownership stakes and income from capital. Employee Stock Ownership Plans (ESOPs): An ESOP is a program in which a company’s employees collectively own stock in the company, usually via a trust. In the U.S., ESOPs are an established mechanism (enabled by federal law since 1974) to broaden corporate ownership. Today over 6,3007 9 9 1011 • 2 companies have ESOPs , covering more than 10 million American workers . These plans hold about $1.8 trillion in assets for employees – an average of $180,000 in wealth per ESOP employee (often in the form of retirement account value). Research shows that ESOP participants benefit from higher wealth and comparable or higher pay relative to similar workers at traditional firms . For example, one study found employee-owners have over twice the average retirement savings of non-owners ( ~$170k vs $80k on average) . By giving workers a share of capital income (through profit distributions or stock appreciation), ESOPs can supplement or enhance wages – effectively providing a private dividend tied to company performance. However , these benefits currently reach only a fraction of the workforce (~6–10% of U.S. employees). If employee ownership expanded, the impact on wealth inequality could be huge: even moving to 10% employee-owned nationally would more than double the wealth of the bottom 50% of households in America . Under a very broad ESOP scenario (e.g. 30% employee-owned economy), median wealth of disadvantaged groups would multiply severalfold . ESOPs are legally mature and proven (thousands exist), with high viability for gradual expansion – policies like tax incentives and loan programs already support ESOP formation. In a post-labor future, ESOPs could ensure workers retain a share in the productivity of automated firms. Per-capita payout: ESOPs don’t provide a universal payment to all citizens; rather , they yield benefits to participating employees (often as a lump-sum retirement distribution or periodic profit-sharing). An average ESOP employee might receive the equivalent of a 5–15% boost to annual pay in profit shares or stock accrual, depending on the company’s profits. In concrete terms, that could be several thousand dollars per year in extra compensation, accumulating to six-figure ownership over time . But for the typical U.S. resident (many of whom are not ESOP participants), the current population-wide average dividend from ESOPs is effectively nil. Thus, ESOPs can be a powerful tool for those included, but their aggregate impact depends on how widely they spread. Worker Cooperatives: A worker cooperative is a business owned and democratically governed by its employees , with each worker typically having one voting share. Like ESOPs, worker co-ops give labor a direct ownership stake, but co-ops usually start as employee-owned from the outset (or convert through purchase) and emphasize democratic control (one member , one vote). The U.S. has on the order of 500–1,000 worker co-ops in operation, but most are small; total co-op employment is only ~7–8,000 workers according to recent counts . While currently a tiny niche in the U.S. economy, worker co-ops have a strong track record in other countries (for instance, the Mondragon Cooperative Corporation in Spain employs ~80,000 worker-owners). Studies find that worker co-ops can deliver higher wages, more job stability, and greater worker satisfaction compared to conventional firms . Importantly, co-ops share profits among the worker-owners, often in the form of annual patronage dividends or bonuses based on each member’s labor contribution. This means that as automation increases overall productivity, co-op members can collectively decide to reduce hours or redistribute surplus as income, rather than lay off workers – a potential model for shared prosperity with less work . The viability of scaling worker co-ops in the U.S. is moderate: legal structures exist and interest is rising (especially among younger entrepreneurs and in sectors like home care, retail, and manufacturing), but co-ops face barriers in accessing capital and supportive policy. If significantly expanded, worker co-ops could ensure that a broad swath of the labor force directly benefits from capital income . However , like ESOPs, their payouts are limited to members . A thriving co-op sector might routinely provide each worker-member an annual profit dividend of say 5–25% of their salary (varying widely by enterprise economics). This could translate to a few thousand dollars per worker per year in a modest scenario, up to tens of thousands in1213 14 15 16 17 18 14 • 1920 2122 3 highly profitable co-ops. For the general populace, though, co-op dividends are not universal – they strengthen worker-owners’ incomes rather than paying everyone. Consumer and Platform Cooperatives: Not only workers, but consumers and users can also collectively own enterprises. Consumer cooperatives (like credit unions, mutual insurance companies, or member-owned retail co-ops) distribute earnings to their customer-members, usually proportional to patronage. For example, credit unions often return profits as lower loan rates or occasional patronage dividends to their millions of depositors. These member dividends tend to be modest (e.g. a credit union member might get a year-end rebate of ~$50 or better interest rates worth a few hundred dollars), but they represent another decentralized way of sharing economic surpluses . Platform cooperatives apply similar principles in the digital economy – envision an Uber or Facebook owned by its drivers or users, who then receive a portion of the platform’s profits. This idea is largely aspirational so far , but some pilots exist (for instance, a driver-owned ride-hailing coop in New York). If gig workers or internet users collectively owned the platforms they power , they could capture income that now flows to corporate shareholders. For instance, a platform co-op social network might pay each user a small dividend from ad revenues, effectively a “data dividend.” While today platform co-ops remain experimental , they are seen as a viable future model to democratize the wealth generated by AI and networks. The payouts in consumer/platform co-ops are typically proportional to use (spending, contributions, etc.), and in many cases are delivered via better prices rather than cash. In aggregate, expanded consumer co-ops could return some value to a majority of Americans (since many people use co-ops like credit unions, grocery co-ops, rural electric co-ops, etc.), but these returns are relatively small on a per-capita basis – perhaps tens to a few hundred dollars a year in savings or patronage for an active member . Platform co-ops, if they captured major market share, could in theory pay out more significant sums (imagine if a user- owned YouTube paid popular content contributors a dividend, or if a ride-share co-op returned profits to drivers). However , because these are voluntary, market-based structures , their ability to provide a universal income floor is limited. They are best seen as part of a pluralistic approach: empowering individuals as workers and consumers to capture more of the value they create. Profit-Sharing Trusts and Inclusive Ownership: A profit-sharing trust is a broad term for arrangements where a company’s profits (or shares) are partly held in a trust for the benefit of employees, stakeholders, or the public. One example is the John Lewis Partnership in the UK – a major retailer (John Lewis department stores and Waitrose supermarkets) that is 100% owned by an employee trust. Each year , all 80,000+ employees receive a profit-sharing bonus (historically around 10–15% of their annual pay in good years) as “partners” in the firm. This model has sustained over decades, showing that large enterprises can be run for workers’ benefit at scale. Another example was proposed in the UK as “Inclusive Ownership Funds” (IOFs) : a policy idea (advanced by the Labour Party in 2018) to require large companies to gradually transfer a small percentage of shares into a fund owned by employees. The fund would pay annual dividends to the workers (capped at ~£500 per worker , with any excess potentially going to a public fund for social dividends). While the IOF policy was not implemented, it echoed earlier experiments like Sweden’s Meidner funds (discussed below) in seeking to socialize ownership incrementally . Profit-sharing trusts can also be designed to benefit communities – for instance, a local business could place some equity in a community trust that pays dividends to community projects or residents. These models are semi- private : they rely on corporate governance or legislation rather than voluntary market action alone, yet they operate within individual companies or sectors. Their legal maturity varies – employee trusts are well-established (especially in the UK and other Commonwealth countries), whereas• • 4 mandated inclusive ownership policies are still just proposals in most places. Viability is medium: profit-sharing within companies is common (many firms have bonus pools or stock grants), but formalizing a share of profits for workers by right requires stronger policy support or cultural buy-in. In terms of payouts , profit-sharing trusts can be significant for those included – e.g. John Lewis employees enjoyed substantial bonuses (in peak years, a month’s extra pay). If an American inclusive ownership mandate had been enacted, one analysis estimated workers would get a few thousand dollars each in annual dividends , and some of the fund’s gains would accrue to the public . However , like other enterprise-level solutions, these payouts do not reach people outside the participating firms. Thus, while profit-sharing and trust ownership improve equity within workplaces , additional mechanisms are needed to support those without such affiliations (e.g. the unemployed, caregivers, etc.) in a post-labor scenario. Voluntary Community Equity Vehicles (Community Investment Trusts) Not all collective wealth-building is done via employers or governments – there are also voluntary, community-based investment models that allow individuals to buy into local assets and share the returns. One innovative example is the Community Investment Trust (CIT) model pioneered in Portland, Oregon. The CIT is a community-owned real estate investment vehicle designed for low- to moderate- income residents. It enables neighbors to purchase small ownership shares (as little as $10/month) in a local commercial property (in Portland’s case, a shopping center in their community) . The trust is structured to protect against loss and to provide accessible entry for people who have never owned assets before. Investors receive annual dividends from the property’s rental income and can also benefit from property value appreciation . In the East Portland CIT’s first few years, over 160 families became co- owners; the project delivered dividends averaging ~9% annually and the share price of their investment nearly doubled (from $10 to $15.86) in about three years . Residents thus saw both ongoing income and capital gains, helping them build wealth collectively in their neighborhood. The CIT also reported positive social effects (increased civic engagement and financial literacy among participants) . The CIT model demonstrates a path for community members to voluntarily pool funds and buy assets that would otherwise be out of reach individually. By doing so, they transform from renters or consumers into owners of local capital , capturing value that might have flowed to outside investors. While the Portland CIT is relatively small, its success has led to interest from over 60 cities in 23 states looking to replicate the approach . The concept is operationally distinct from public wealth funds or ESOPs: it relies on individual contributions (not taxes or company benefits) and is open to any resident in the target community. In terms of maturity , CITs are in early pilot stages – Portland’s is a proof of concept, and replications are just beginning. The regulatory framework (securities law, etc.) needed adjustments to allow unaccredited small investors to participate, which the CIT team navigated through creative legal structuring . Viability appears reasonably good on a small scale (especially with nonprofit or municipal backing to initiate projects), but scaling up will require community organizing and identifying suitable properties and financing. For participants, a CIT can provide a modest but meaningful dividend income : in Portland, the dividend was around $30–$50 per share annually (9% of a $10 share, in early years), and many investors held multiple shares (though capped to keep the focus on broad inclusion). Someone investing $50 a month could after a few years be earning a few hundred dollars a year in dividends – not a full livelihood, but a23 2425 2627 28 2829 30 3132 5 helpful supplement and a source of equity. Per-capita impact: Because CITs are voluntary and localized, the average American isn’t receiving anything from them unless they choose to invest. In an ambitious scenario , if CITs or similar community ownership funds proliferated in many cities, millions of people could become small stakeholders in local real estate or businesses. Their annual returns might range from a few dozen to a few hundred dollars per person (depending on investment size and project success). More importantly, these vehicles would broaden asset ownership and could be especially empowering for historically marginalized communities to build wealth from the ground up. Still, CITs alone are not a solution for universal income – they are a complementary strategy to let willing individuals invest in collective assets with relatively low risk and low buy-in thresholds. Compulsory Equity Dilution Funds (Wage-Earner Funds & Universal Basic Dividend) A more radical set of proposals for broadly sharing wealth involves mandating that private corporations systematically distribute equity to workers or the public . Instead of relying on voluntary participation (as in ESOPs or CITs), these mechanisms use laws or formulas to dilute traditional ownership over time , transferring a portion of corporate wealth to collective funds. Two prominent concepts in this category are wage-earner funds (a worker-oriented model originating in Sweden) and the universal basic dividend (UBD) or public equity share idea (as championed by figures like economist Yanis Varoufakis). Meidner-Style Wage-Earner Funds: In the 1970s, Swedish economists Rudolf Meidner and Gösta Rehn, backed by the Swedish trade unions (LO), proposed establishing collective “wage-earner funds” to gradually socialize ownership of companies. The Meidner Plan called for a form of “scrip tax” on corporate profits: each year , companies above a certain size would have to issue new shares equal to a percentage of profits and contribute them to regional union-controlled funds . Over time, these funds (owned on behalf of the workers) would accumulate an increasing stake in firms. Meidner calculated that with a modest profit-based share issuance (around 20% of profits) and reinvestment of dividends, the funds could achieve majority ownership of Swedish corporations within ~25 years . In practice, a watered-down version was implemented in Sweden in the 1980s: instead of share issuance, a special excess-profits tax was levied and the proceeds used by wage- earner funds to buy stocks on the market. Though the program was politically controversial and later abolished, by 1991 the funds had managed to acquire about 7% of the outstanding shares of Swedish companies . This was far short of the original plan, but still a significant collective holding before the experiment ended. The Meidner model is notable as a compulsory mechanism to broaden worker ownership economy-wide, rather than firm-by-firm voluntary adoption. If a similar wage-earner fund were adopted in the U.S., it could incrementally shift a portion of corporate equity (and thus future profits) to either employee funds or potentially to all workers nationally. Such a policy is currently only theoretical in the U.S. (no active proposals in Congress) and would face strong political resistance, making its near-term viability low . However , the idea has influenced other proposals (like the UK’s IOF mentioned earlier). Legal maturity is low (it would require new legislation), though Sweden’s experience provides a precedent. Potential payout: A fully realized wage-earner fund would eventually give workers collective claims on profits. In Sweden, had the funds reached majority ownership, workers could effectively control dividend distributions – possibly resulting in additional income per worker on the order of thousands of dollars yearly (depending on company profits). In a partial implementation (say funds end up owning 10–20% of companies), annual dividends to the fund could be a smaller percent of total profits. Those could be distributed• 33 34 35 6 equally among workers or used for worker benefits. It’s hard to estimate U.S. per-capita numbers, as it depends on design: if, hypothetically, 10% of U.S. corporate equity was transferred to a worker fund yielding, say, a 3% dividend, and that was split among all workers, it might provide on the order of $1,000 per worker annually . Under a more aggressive plan (as Meidner imagined), it could be several times that (essentially, workers eventually replacing capitalists as recipients of most corporate dividends). But again, unlike a universal fund, this would exclude those not in the workforce, and it has yet to gain traction in U.S. policy. Universal Basic Dividend (Public Equity Share): A closely related concept shifts the focus from workers to all citizens . The idea, sometimes called a Universal Basic Dividend (UBD) , is to require companies to contribute a portion of their ownership to a public wealth fund that pays dividends to everyone. Yanis Varoufakis, for example, has argued that instead of taxing automation or robots, governments should legislate that large corporations issue new shares and deposit them into a public trust on an ongoing basis . This could be structured, for instance, as: every year , each publicly traded company must transfer shares equal to (say) 1–2% of its market value into a national “citizens’ fund.” Over time, the public fund would own an expanding slice of corporate equity, entitling it to a corresponding slice of all dividends paid. Those dividends would then be distributed equally to all citizens as a social dividend (hence “basic dividend”). Crucially, this financing mechanism does not rely on taxation – it directly allocates a portion of capital to the public as new wealth is created. The rationale is that society at large (through public infrastructure, educated workforces, data contributions, etc.) helps create corporate profits, so society should get a direct cut of those profits . Varoufakis specifically highlights Big Tech companies whose value is built on user data and publicly-funded technology; he suggests a UBD funded by share issuance as a way for people to benefit from tech-driven productivity gains . A similar idea was independently proposed by others – for example, economist Glen Weyl and lawyer Eric Posner once suggested an “IPO tax” where a percentage of shares from every initial public offering go into a sovereign fund . In the U.S., the closest historical analogue is perhaps the SEC’s small stock issuance fee (used to fund its operations), but using equity transfers to fund a universal social dividend would be a novel step. Maturity: This concept is at the proposal stage globally; no country has fully implemented a UBD via equity dilution, though it is being discussed in futurist and basic income circles. Viability: Politically, it faces resistance similar to a wealth tax or heavy regulation of corporations, but it might garner support as an alternative to general taxation for funding a basic income. If automation dramatically displaces jobs, a UBD of this sort may gain appeal as a way to directly tie everyone’s income to the economy’s capital growth. Potential payout: If, over some decades, the public fund amassed a substantial equity stake, the dividends could be sizeable. For a rough sense, consider U.S. corporate profits and dividends: U.S. nonfinancial corporate profits are on the order of trillions per year; even a 5–10% public claim on that could yield hundreds of billions annually for distribution. One analysis in The Week imagined a social wealth fund (built by various means) large enough to pay $6,400 per year to every American adult . A UBD via share issuance could potentially reach a similar magnitude in the long run. In a conservative scenario, it might start small – e.g. a few hundred dollars per person after some years. A moderate scenario might see it climb into the low thousands per year . An ambitious scenario (decades of accumulating equity) could rival a full basic income, perhaps $5,000+ per capita annually funded purely by dividends. Importantly, this would be universal – everyone from the unemployed to retirees to workers would get the dividend, reflecting their stake in the nation’s productive capital. The UBD model is essentially a way to institutionalize a share of capital income for all . It aligns with the• 36 36 36 23 6 7 idea of treating common inputs (like data, public research, social stability) as deserving a return. While still speculative, it is a powerful vision for a post-labor economy. Automation Capital Funds: A variant on the UBD theme focuses specifically on financing via automation-related gains. As automation replaces labor , one proposal is to create “automation investment funds” or require an “automation contribution” from firms. For instance, some have suggested that if a company saves money by installing robots (thus cutting jobs), it should either pay a tax or issue equity equivalent to a portion of those savings into a public fund. This is conceptually similar to Varoufakis’s idea, but justified directly as capturing the “robot dividend” for society. Microsoft founder Bill Gates famously floated the idea of a “robot tax” on companies that automate away jobs, with the revenue used to fund human services. Varoufakis countered that a robot tax is unwieldy , and a better approach is the equity-based UBD . The end goal is the same: ensure that as capital (robots, AI) replaces labor , the returns to that capital are partly socialized to provide income for those left out of work. Some thinkers also propose an “AI dividend” – if AI algorithms rely on data from the public, then any wealth generated should be shared back. These automation- focused funds would essentially operate like a specialized sovereign wealth fund (accumulating assets or fees from AI/robotics-heavy firms). Maturity: Pure automation funds are still just an idea; none exists at scale. Viability: Medium-to-low in the short term; it requires policymakers to accept the premise and either mandate share transfers (politically challenging) or impose targeted taxes (also challenging). However , as AI/automation impacts grow, there may be increasing openness to such schemes. Payouts: If, for example, every large tech firm had to gradually give 1–2% of equity to a public fund, within a decade the fund could own a noticeable stake. Automation-intensive sectors (tech, manufacturing, logistics) could feed the fund. The eventual payout would overlap with the UBD discussed above – essentially, this is one method to finance a universal dividend. So one can expect similar figures: modest at first, potentially scaling to a few thousand dollars per person per year if pursued assertively. The key difference is framing – it ties the dividend to automation’s impact, reinforcing the social contract that the benefits of automation are shared . Rent Capture and Commons Dividends (Land, Environment, Data) Another suite of models for providing broad-based income focuses on capturing rents from non-labor sources – things like land, natural resources, carbon emissions, the electromagnetic spectrum, and even personal data. These are areas where either the commons or the finite nature of a resource suggests that private actors should pay society for use, and those revenues can be redistributed as dividends . Many of these ideas draw from the notion of a “citizen’s dividend” – a payment to all citizens from commonly owned assets or rights. Land Value Tax and Land Dividends: Land (especially urban land) is a classic example of a scarce resource whose value is created by nature and the community (location, public infrastructure, economic development) rather than the landowner’s efforts. Land value taxation (LVT) – taxing the unimproved value of land – has long been advocated by economists from Henry George to Milton Friedman as an efficient and fair tax. One appealing use of land tax revenue is to fund a universal dividend . Since the value of land is effectively generated by society, taxing that value and redistributing it aligns with the idea that every citizen should benefit from the commons. How much money could this yield? Studies indicate that a full 100% tax on land rents in the U.S. (in theory capturing all surplus land value) could fund a very substantial basic income. A recent analysis estimated that a national LVT at an aggressive level could raise enough revenue to pay every adult• 3736 • 8 American roughly $5,750 per year as a universal dividend. Even a partial land value tax (or using only part of the revenue for dividends) could provide a meaningful stipend. For instance, one model found that in the UK, a much smaller LVT (1% of land value) could finance a modest universal payment of about £64 per month, significantly reducing poverty . In the U.S. context, urban land values are enormous – by capturing them for public benefit, we could both improve efficiency (reducing speculation) and fund social dividends. Maturity: Land value tax is well-understood in economic theory and has been implemented in limited ways (some cities have LVT or split-rate property taxes). However , no jurisdiction in the U.S. currently redistributes LVT revenue as a direct dividend. It’s usually used for public budgets. Viability: Politically, LVT faces opposition from landowners, but it has cross-ideological support among economists as “the least bad tax.” If framed as funding tax relief or dividends for all, it could gain traction. Some U.S. cities (e.g. Pittsburgh historically) have tried split-rate taxes with success, and places like Taiwan and Singapore effectively capture land value via public land ownership or leases. If a significant LVT were implemented at city, state, or federal level, using at least part of it for a citizen dividend is very viable (Alaska’s oil fund is analogous but for oil land). Under a conservative scenario (small land tax), the dividend might be a few hundred dollars per person. A moderate scenario (more robust land tax or in high-value regions) could yield a couple thousand per person. The ambitious scenario (the earlier $5,750 figure) would require a truly sweeping policy shift but illustrates the scale: on the order of several thousand dollars annually per citizen from land wealth . Aside from cash dividends, capturing land rents could also fund public goods or reduce other taxes, indirectly benefiting everyone. Resource and Carbon Dividends: The concept of sharing natural resource wealth with citizens is already reality in some cases – the Alaska Permanent Fund dividend, as discussed, is essentially a carbon resource dividend funded by oil revenues. The idea can be extended to other environmental commons. A leading proposal is the Carbon Fee-and-Dividend : impose a fee on carbon emissions (upstream on coal, oil, gas) and redistribute 100% of the revenue equally to citizens . This is designed to combat climate change while ensuring the policy is financially progressive (households that use less carbon come out ahead). Bills such as the Energy Innovation and Carbon Dividend Act have been introduced in Congress and garnered dozens of sponsors . Though not yet law, similar carbon rebate schemes exist elsewhere (e.g. Canadian provinces return carbon tax revenue as checks to residents). Payout: How much money are we talking about? It depends on the carbon price. The bipartisan Climate Leadership Council plan, for example, envisioned a carbon fee starting around $40/ton. They estimated this would yield about $2,000 per year for a family of four in dividend revenue – i.e. roughly $500 per person at the outset. As the fee rises over time (to spur deeper emissions cuts), the dividend would also grow. Analyses by climate policy researchers find that a $100/ton carbon price (which is considered a strong but not implausible level by 2030 or so) would generate on the order of $1,500 per person annually in the U.S. . Even at more moderate prices (say $50–$60/ton), we could see perhaps $700–$900 per person per year . Notably, carbon dividends are typically framed as per adult or per household rather than truly per-capita including children, but many proposals include a half-share for children. Maturity: The idea is fairly mature – legislation has been crafted, and the policy is well-studied . Canada, Switzerland, and some other jurisdictions are already doing forms of carbon dividends . Viability: There is significant political debate, but a carbon dividend has bipartisan appeal (it’s revenue-neutral and returns money to citizens). It could realistically be implemented in the medium term if climate consensus improves. Carbon dividends won’t replace a full income, but in combination with other dividends, $500–$1,000+ a year per person is a meaningful piece.3839 40 4142 • 4344 45 4647 4844 49 9 Spectrum and Digital Dividends: The electromagnetic spectrum used for telecommunications (TV, radio, mobile networks) is a public resource that governments often lease out to companies via auctions. The U.S. federal government has raised tens of billions of dollars from spectrum auctions (for instance, 5G spectrum auctions in recent years netted over $80 billion). Currently, those funds usually go into the Treasury or specific programs. The spectrum commons could be another source of dividend payments – essentially treating spectrum like a national asset that all citizens should benefit from. One could imagine a Spectrum Dividend , where auction revenues (or annual license fees) are placed in a trust and distributed to the public. If, for example, $20 billion per year were available from spectrum fees, that would be about $60 per person annually . That’s not huge, but it’s not nothing – and as wireless usage grows, it could increase. Some economists have suggested more regular charging for spectrum usage (since current licenses often last decades) and recycling that money to citizens . Maturity: The mechanism (auctions) exists, but using it for dividends would be new. Viability: Relatively low politically, as spectrum funds are seen as general revenue, but in principle it’s straightforward. Data Dividends: A more novel idea is that individuals should receive compensation for the personal data they generate, which tech companies monetize. This is often phrased as “data is the new oil” and thus perhaps should yield a dividend like oil does in Alaska. California’s Governor in 2019 proposed exploring a “ Data Dividend ” so that tech firms “share the wealth” with users . The idea could take forms like: companies paying users micropayments for data, or a state imposing a tax on tech firms’ data-driven revenue and redistributing it. So far , no concrete large-scale data dividend has been implemented. One challenge is determining the value of an individual’s data (which varies greatly) . Another approach is to create a public data trust : e.g., require big digital platforms to contribute a percentage of profits (or equity, akin to UBD) to a fund that pays out to citizens. Viability: It’s an emerging idea – politically there is interest (as seen in California’s discussions, and Andrew Yang’s advocacy for a data dividend during his presidential run), but it’s complex to execute. The sums at stake: tech companies do make enormous profits (the top five made over $200 billion in profit in 2021), but divided by all users, it might only be a few dollars per user per month unless a significant cut is shared. One estimate suggested if Facebook shared even 30% of its ad revenue with users, it could be on the order of $100–$200 per year per user (rough ballpark). So a data dividend might provide tens to a few hundred dollars per person annually in the ambitious case. It’s more likely to be a supplemental income stream rather than a primary one. Legal maturity: still just proposals and pilot ideas; no statutory data dividend exists yet in the U.S. Environmental and IP Royalties: Other scarce inputs could generate smaller citizen dividends. For example, a Carbon Cap-and-Trade auction (like in California’s climate program) generates revenue that could be rebated – similar to a carbon tax dividend. Some proposals also consider dividends from pollution permit auctions or congestion pricing fees , though those would be relatively small per capita and often earmarked for specific uses. Intellectual property (IP) is another area: much of the foundational research behind new technologies and drugs is publicly funded. One could imagine a system where when publicly funded IP is commercialized, a portion of royalties or equity returns to a public innovation fund that pays dividends (or is reinvested in research). For instance, the NIH funding that leads to a breakthrough drug could entitle the public to a small royalty on sales, distributed as health dividends or used to reduce drug prices. These ideas are less fleshed out, but align with the concept of a “social inheritance” – society’s cumulative knowledge and innovation yielding a return for all. • 5051 5253 54 • 10 In sum, rent-capture dividends are diverse, but together they tap into the value of commons and externalities – land, environment, spectrum, data – and ensure that value is shared rather than solely privatized. Many of these mechanisms (land tax, carbon fee) have the dual benefit of improving market outcomes (reducing speculation or pollution) while raising revenue. Each alone might provide a modest dividend; combined, they could add a few to several thousand dollars per person per year in income or equivalent benefits. Capital Endowment Accounts (Baby Bonds and Universal Inheritance) Lastly, beyond ongoing dividends, another strategy for empowering individuals in a post-labor economy is to grant people capital assets at key life stages (typically at birth or reaching adulthood). Instead of (or in addition to) giving everyone a small stream of income yearly, this approach gives each person a one-time endowment – essentially seed capital or a trust fund that they can use to generate income or invest in their future. “Baby Bonds” (Child Trust Accounts): The term “baby bonds” refers to publicly funded trust accounts established for children when they are born, which grow over time and can be accessed when the child reaches adulthood. This idea has been championed in the U.S. by scholars like Darrick Hamilton and was introduced as legislation by Senator Cory Booker and Congresswoman Ayanna Pressley (American Opportunity Accounts Act). Under Booker’s federal proposal, every newborn would receive a federal trust account with a $1,000 initial deposit , and each year the government would contribute additional funds on a sliding scale based on the family’s income (low- income kids get more, high-income kids get little or none) . The funds would be invested (for example, in safe government bonds) until the child turns 18. At 18, the young adult could use the accumulated funds for approved asset-building purposes like college tuition, buying a home, or starting a business . The goal is to ensure that every person, especially those from disadvantaged backgrounds, enters adulthood with some capital nest egg , narrowing the racial and wealth gaps that compound over generations. Research indicates this policy would dramatically reduce the racial wealth divide – one study found median wealth for young Black adults would rise from $0 (for many) to tens of thousands of dollars with robust baby bonds . Maturity: The baby bonds idea is proposed at the federal level, not enacted, but it has gained significant attention and some funding in state and local pilots. For instance, the District of Columbia launched a baby bonds program in 2021, and states like Connecticut and Washington have approved versions targeting children in low-income families (though at smaller scales than Booker’s plan). The UK actually implemented a form of child trust fund in the 2000s (giving every baby ~£250 at birth, plus another £250 at age 7), but that program was later discontinued. Viability: Politically, baby bonds have moderate viability – they directly address inequality and have a relatively clear funding mechanism (Booker’s plan suggested paying for it by higher estate and capital gains taxes ). The cost is not trivial (around $60 billion per year for Booker’s plan ), but not outlandish relative to federal budgets. It essentially transforms part of wealth redistribution into a delayed benefit for the next generation. Payout: Baby bonds are not an annual income, but rather a one-time capital grant . Under the Booker proposal, the poorest children would accumulate up to $46,000 by age 18 (in 2019 dollars) while even children from higher-income families might have a smaller account around $1,700 . The average account was estimated around $20,000 at age 18 . To put that in perspective, $20k could be invested to yield perhaps $800 a year in perpetuity (at 4%• 5556 5758 5960 61 61 6263 64 11 interest), or used to significantly offset college costs or a mortgage down payment. In an ambitious scenario (if contributions were larger or invested in higher-return assets), these accounts could be even bigger – some advocates imagine every young adult receiving, say, $50k or $100k of capital to start adult life. Baby bonds thus provide economic agency at the life stage when individuals are making key education and career decisions . They don’t directly pay a stipend to live on year-to- year , but they equip the next generation with wealth that can generate income or improve life outcomes, which is crucial in a post-labor context (where owning assets may matter more than earning wages). Social Inheritance or Universal Capital Grants: A related idea is to give everyone a capital grant at the start of adulthood funded by the taxed inheritance or wealth of the older generation – effectively a “universal inheritance.” This echoes Thomas Paine’s 18th-century proposal (in Agrarian Justice ) to give all 21-year-olds a certain sum, financed by a tax on land/property of the deceased. In modern form, economists like Anthony Atkinson and Thomas Piketty have suggested that every young adult could receive a substantial stake from the state. Piketty, for example, has floated an inheritance for all of around €120,000 (roughly 60% of average wealth) at age 25, financed by progressive wealth and inheritance taxes . In the U.S., legal scholars Ackerman and Alstott in 1999 proposed a “Stakeholder Society” grant of ~$80,000 for every citizen at age 21, paid for by an annual wealth tax. The purpose is to even out the largely unearned advantage that those with wealthy parents have, and to give everyone a fair start in an economy where capital is essential. Maturity: These grand-scale proposals are theoretical at this point – no country gives six-figure sums to all young adults. However , elements can be seen in smaller policies (e.g., some countries exempt a certain amount of inheritance tax for education accounts, etc.). Viability: As a standalone idea, it’s politically challenging – such a program would require large wealth transfers and would be labeled radical in many contexts. But it addresses a core issue of intergenerational equity in a time when capital does much of the work. If technological unemployment becomes severe, there could be greater public openness to heavier wealth redistribution in order to give everyone a stake. Payout: By design, a universal inheritance is a one-time payout rather than ongoing income. The numbers often discussed are $50,000 to $100,000 (or more) per person at adulthood (which could be, say, a inheritance-like grant from society). If prudently invested, $100k could provide a modest income stream (e.g., in a conservative portfolio yielding ~3-4%, that’s ~$3–4k/year in income). Or it could be used to buy a home (avoiding rent costs, effectively increasing disposable income) or to start a business (creating one’s own job in a post-labor economy). So while not a “dividend” in the annual sense, a universal capital grant can significantly enhance lifetime economic security. One could view it as each citizen getting a share of society’s capital at the outset , which they then manage. In a scenario where automation is generating great wealth for the owners of capital, ensuring every citizen has capital ownership (even if small) helps democratize those gains . It’s worth noting that capital endowment policies like baby bonds or universal inheritance have effects that unfold over generations. They may not immediately provide income to today’s middle-aged workers or retirees, but they fundamentally change the wealth distribution for the next generation, preparing for a future where passive capital income might be a primary source of livelihood. In combination with the annual dividends from wealth funds and rents, these endowments can ensure each person not only has some baseline income but also a cushion of assets to weather economic changes.• 60 12 Comparative Overview of Models The various mechanisms described – public wealth funds, cooperatives, dividends from rents, and endowments – differ in their implementation scale, decentralization, maturity, and the magnitude of income they can provide. Table 1 summarizes the key comparisons across these dimensions for the major models discussed: ModelImplementation & ActorDegree of DecentralizationMaturity ViabilityEstimated Annual Per- Capita Payout <br> Conservative – Moderate – Ambitious (2025 $) National Social Wealth Fund (Federal UBD fund)Federal government creates a national investment fund; publicly managed assets pay dividends to all citizens.Centralized (one national fund for entire country)Proposed (no U.S. fund yet; models in Norway, etc.)Medium – concept proven abroad but political hurdles in U.S.$2,000 – $4,000 – $6,000+ per person/ year (depends on fund size and returns) State Wealth Funds (e.g. Alaska PF)State governments invest resource or surplus revenues in funds; dividends to state residents.Semi- Centralized (state-level, varies by state)Existing in a few cases (Alaska since 1982; others mostly budgetary funds)Medium – high viability in resource- rich states, low elsewhere currently$0 – $500 – $1,000 per person/year (Most states: $0; Alaska averages ~$1k , peak ~$2k) Municipal Wealth Funds (Urban Asset Corps)City/municipal authorities own and develop assets (land, real estate, utilities); profits reinvested or shared locally.Decentralized (city-level, each city has its fund)Piloted internationally (e.g. Copenhagen, Hong Kong); rare in U.S.Medium- Low – requires asset-rich cities and strong governanceNone (direct) – public benefit via services/ infrastructure (e.g. funded metro worth ~$1k+ value per resident ); in-kind “dividend” rather than cash65 7 9 13 ModelImplementation & ActorDegree of DecentralizationMaturity ViabilityEstimated Annual Per- Capita Payout <br> Conservative – Moderate – Ambitious (2025 $) Employee Stock Ownership Plans (ESOPs)Private companies (corporate actors) set up employee trusts that own company stock; benefits to employee- owners.Highly Decentralized (thousands of individual firms)Existing (6,000+ ESOPs in U.S., $1.8 trillion assets )High – well- established legal framework; modest growth ongoingN/A (not universal) – Varies per participant : e.g. ~$5,000/year equivalent in profit shares or stock accrual for an average ESOP worker; $0 for non- employee. Worker CooperativesEnterprises owned and governed by workers; profits shared among worker- members.Highly Decentralized (enterprise/ community level)Existing (niche) – ~500 co-ops in U.S.; larger sector abroadMedium – proven concept, needs support to scale in U.S.N/A (members only) – Varies : profits distributed as patronage, often ~5– 20% of wages (could be few $k/year per worker in profitable co-ops; $0 for others). Consumer/ Platform CooperativesBusinesses (retail co-ops, credit unions, digital platforms) owned by consumers or users; share profits or better prices.Decentralized (many co-ops across industries)Existing (credit unions, mutuals) but Platform co- ops in early pilot stageMedium – traditional co-ops viable; platform co- ops nascentN/A (members only) – e.g. credit union members might get $50–$200/year in patronage/savings; larger platform co-ops could target a few hundred $ per user in best cases.14 14 ModelImplementation & ActorDegree of DecentralizationMaturity ViabilityEstimated Annual Per- Capita Payout <br> Conservative – Moderate – Ambitious (2025 $) Profit- Sharing Trusts (Employee or Multi- stakeholder)Companies establish trusts (or are entirely trust-owned) to share profits with employees (and/or community/ public). Often enabled by corporate charter or law.Decentralized (firm-level arrangements, sometimes with national policy impetus)Existing in some firms (e.g. John Lewis Partnership, various employee- owned trusts); Proposed in policies like UK Inclusive Ownership Funds.Medium – growing interest in trust ownership; requires supportive legal frameworks.N/A (participants) – John Lewis-style employee bonus historically ~10% of salary (~1–2 months’ pay); proposals like UK IOF aimed for ~$600/ worker/year initial cap. Not applicable to non- employees. Community Investment Trusts (CITs)Community- driven investment vehicles for local assets; residents voluntarily buy small equity stakes, earning dividends and appreciation.Decentralized (neighborhood/ community-level funds)Piloted (Portland CIT since 2017; interest from dozens of cities)Medium – feasible with NGO/ municipal support; scaling requires community buy-in and legal finesseN/A (voluntary investors) – ~9% annual dividend in pilot (e.g. ~$90/year on $1k invested) . A typical low-income investor might net $50–$300/ year in cash dividends (plus capital growth). Wage-Earner Funds (Swedish- style)Federal policy mandates firms contribute profits or new equity shares to union/worker- controlled funds, gradually socializing ownership.Centralized policy, decentralized funds (several funds managing equity for workers nationally)Piloted (Sweden 1980s: acquired ~7% of stocks before ended) ; Proposed elsewhere, not in U.S.Low (U.S.) – politically difficult; concept influential in theoryN/A (workers only) – If implemented, could eventually pay substantial worker dividends (e.g. ~$1k to several $k per worker annually) once funds accumulate stakes. Not a general citizen dividend.28 35 15 ModelImplementation & ActorDegree of DecentralizationMaturity ViabilityEstimated Annual Per- Capita Payout <br> Conservative – Moderate – Ambitious (2025 $) Universal Basic Dividend (Public Equity Fund)Federal policy requires corporations to issue shares or pay equity-based levy into a public citizens’ fund ; fund pays equal cash dividend to all residents.Centralized (one national public trust owning slices of many companies)Proposed (no country has full UBD fund yet; concept advocated by economists)Low- Medium – novel but addresses automation; may gain traction longer-term$500 – $2,000 – $5,000 + per person/year (small at first, growing as fund’s equity stake expands) . Fully mature fund could rival a modest UBI. Land Value Dividend (Georgist model)Governments levy land value taxes or capture land rents, then redistribute revenue as equal payments to citizens.Centralized collection, universal distribution (could be national or local implementation)Proposed (no direct U.S. citizen dividend; some LVT in use for budgets)Medium – economically efficient; political barriers with landowners$500 – $2,500 – $5,750 per adult/year (higher end if full land rent socialization; lower if partial or local-only). Carbon Tax DividendFederal carbon fee on fossil fuels; revenues placed in trust and paid out equally (typically monthly/ quarterly checks to households).Centralized collection, universal distribution (national policy)Piloted/ Proposed – e.g. Canada’s carbon rebate, U.S. bills pendingMedium – climate urgency may drive adoption; bipartisan interest as fee-and- dividend$300 – $800 – $1,500 per person/year (depends on carbon price trajectory) . (~$500 at ~$40/ton rising to ~$1.5k at $100/ ton). Spectrum/ Data Commons DividendGovernment charges rent for spectrum licenses and/or taxes digital platform revenues for using personal data; redistributes proceeds to citizens.Centralized (federal management of spectrum/data levy; national dividend)Proposed – spectrum auctions exist (revenues not yet used for dividends); data dividend conceptual (CA exploring)Low – currently minor policy focus; could grow as digital rights issue$0 – $50 – $200 per person/year (spectrum auctions might yield <$50 avg/yr; ambitious data revenue sharing could add up to a few hundred $ for heavy digital economy taxation).636 4165 43444546 5266 16 ModelImplementation & ActorDegree of DecentralizationMaturity ViabilityEstimated Annual Per- Capita Payout <br> Conservative – Moderate – Ambitious (2025 $) “Baby Bonds” (Child Trust Accounts)Federal or state government establishes a funded account for each child at birth, with progressive contributions over childhood; accessible at adulthood.Centralized funding, individual accounts (decentralized use by each individual at 18)Proposed federally (Booker/ Pressley bill); Piloted locally (DC, CT, etc.)Medium – popular in inequality discourse; moderate cost, needs political championN/A (one-time) – Lump sum at 18, not annual. Poor children ~$40k– $50k, middle-class ~$10k . (If annuitized, might yield ~$1k–$2k/year in interest). Universal Inheritance (Social Wealth Grant)Government grants a substantial sum to every individual upon reaching adulthood (e.g. 18 or 25), funded by inheritance/ wealth taxes or collective funds.Centralized redistribution, individual deploymentTheoretical (no universal grant in practice; small-scale analogues in some proposals)Low – requires major wealth taxation and public support for large transfersN/A (one-time) – Lump sum possibly $50k– $100k per young adult in ambitious scenarios (could generate a few thousand per year in investment income or equivalent economic value if used for education/ homeownership). Table 1: Comparison of Distributed Ownership/Dividend Models. Note: “Per-capita payout” is approximate and assumes full implementation of each model; many are not additive for the same population (e.g. an individual might benefit from multiple mechanisms). Aggregate Potential Income in a Combined Scenario If several of the above mechanisms were implemented together at ambitious levels, what total income floor could Americans expect in a post-labor economy? It’s instructive to sum the approximate contributions of different models under a plausible high-end scenario : National Social Wealth Fund : ~$5,000 per person annually (assuming a large fund paying a UBD, on par with a mid-century target from proposals) . Land Value Dividend : ~$5,000 per adult (full land rent utilization could provide ~$5.7k/adult ; perhaps somewhat less if not 100%). Carbon Dividend : ~$1,000 per person (if carbon fees ramp up to meaningful levels, e.g. ~$75/ton CO2). 6263 • 6 • 41 • 17 Other Rent/Commons Dividends (spectrum, data, etc.): ~$300 per person combined (e.g. spectrum $50, data $100+, other resource dividends like modest mining royalties, etc.). State/Local Dividends : ~$500 per person average (if some states add resource dividends and cities offset costs via wealth funds – highly variable; Alaska residents would get more, others less). Work-Based Distributions (ESOPs/co-ops/worker funds): These would bolster those who are employed or participating, but for a universal income perspective we focus on the above universalizable streams. (However , it’s worth noting that widespread worker ownership could raise the earned incomes of many by a significant margin, reducing pressure on the purely passive income side.) Adding these up, an ambitious yet plausible package could deliver on the order of $12,000–$15,000 per person per year in the mid-to-long term (roughly by 2025 dollars). For context, this is in the ballpark of poverty-line income for a single individual in the U.S. and would represent a dramatic shift from the status quo. It’s essentially a baseline living income funded by capital and commons, rather than wages. To be clear , this figure isn’t certain – it assumes robust political action to enact multiple programs, and the high end of what those programs might sustainably pay. For example, $15k per person would require trillions in collective assets and revenue: roughly, a combination of Norway-scale public wealth accumulation, significant land and carbon rents, and other dividends. Yet none of it is outright utopian: Alaska’s fund + a serious carbon fee + a land dividend alone could approach half that amount , and adding a national fund and other sources could feasibly reach or exceed the lower end of that range in a rich economy. For instance, one estimate finds that just a social wealth fund and carbon dividend together might yield around $7k–$8k per adult at maturity , and land value capture could double that . Purchasing Power Considerations: Crucially, in a heavily automated economy, the cost of goods and services might significantly decrease due to efficiency gains. If AI and automation lead to, say, a 30–40% reduction in the real prices of many essentials (energy, manufactured goods, basic services), then the same dividend income would stretch much further . A combined dividend of $15,000 in nominal 2025 dollars could have the effective purchasing power of ~$21,000–$25,000 in today’s terms if prices fell 30–40%. In other words, even if people’s money income is somewhat modest, their real standard of living could be closer to what $20k+ buys today, because automation makes everything cheaper . This kind of deflationary effect has historical precedent in specific sectors (think of how computing power got exponentially cheaper); if it spreads economy-wide, it boosts the impact of any universal income. Therefore, the effective income floor under the ambitious scenario might be roughly equivalent to the median disposable income of a lower-middle class lifestyle today – enough to cover basic needs and then some, especially when combined with free or cheap public services that could be funded alongside (healthcare, education, etc., which many proposals also envision). It’s important to note that these figures are illustrative estimates . The actual outcomes would depend on policy details, economic growth, and distribution choices. Nonetheless, this exercise shows that a multi- pronged approach – national wealth sharing + common resource dividends + labor-centric ownership reforms + capital grants – could realistically support a scenario where a large portion of the population’s livelihood comes from non-labor income . People would still be free to work (and earn more) if jobs are available, but the floor of economic security would be higher and decoupled from traditional employment. In a best-case post-labor economy, an American might receive a national dividend check, a carbon dividend, perhaps a state dividend, payouts from cooperative memberships, and have a nest-egg from a baby bond – together providing both steady income and capital stake . And as automation drives productivity and lowers costs, those shared gains ensure everyone benefits, not just a few owners of technology.• • • 645 41 18 Conclusion Preparing for a post-labor future calls for rethinking how income and wealth are distributed. The models covered in this report offer a toolkit of solutions to shift from an economy where wages are the primary source of livelihood to one where citizens share in ownership of wealth and common resources . National and local wealth funds can socialize a portion of capital returns; cooperatives and ESOPs can democratize private enterprise; rent-based dividends can monetize our common wealth for public benefit; and endowment accounts can give each new generation a tangible stake. These strategies are not mutually exclusive – in fact, they are complementary and can reinforce each other . For example, robust public dividends could work in tandem with employee ownership: citizens get a baseline income, while those who work in cooperative firms get additional shares of the surplus, all contributing to broad prosperity . Policy and academic circles are increasingly exploring these ideas not as fringe experiments, but as necessary adaptations to technological and social trends. Many of the models have real-world precedents (from Alaska to Mondragon to Copenhagen), proving their basic feasibility. The challenge ahead is largely political: building the coalitions and public understanding to implement and scale these mechanisms in the U.S. context. Issues of governance, financing, and equity will need careful design – for instance, ensuring funds are managed transparently and payouts are distributed fairly. But the upside is clear: a society where the fruits of capital and innovation belong to everyone , providing material freedom and security even as formal jobs become less central. In conclusion, while no single model is a silver bullet, a diversified portfolio of distributed ownership policies could collectively furnish a sustainable economic floor in a post-labor America. By learning from both domestic experiments and international examples, U.S. policymakers can craft a distinctly American approach to common wealth distribution – one that preserves entrepreneurial dynamism and decentralization (through private co-ops and trusts) while also embracing bold public mechanisms (like social wealth funds and dividends) to guarantee that no one is left without an income as work changes . Such a transformation would fulfill, in modern form, a long-held vision: that technological progress and shared ownership of resources enable greater liberty, equality, and abundance for all. Appendix: Sources (selection of citations) Alaska Permanent Fund dividend figures ; analysis of its inequality impact . Matt Bruenig, Social Wealth Fund for America – proposal for U.S. fund and comparison to Norway (Norwegian fund yields ${\sim}25$k per capita if paid out) and required U.S. fund size . Ryan Cooper , “The case for an American social wealth fund,” noting a potential $6,400 annual dividend at scale . Aspen Institute data on ESOPs (10.1 million employees, $1.8 trillion in assets, avg $180k per worker) and wealth-doubling effect of 10% employee ownership . Brookings report on Portland’s Community Investment Trust (9.3% average dividends, share price growth) . Yanis Varoufakis on Universal Basic Dividend via equity issuance (Big Tech issuing shares to public trust) . Sweden’s Meidner Plan results (wage-earner funds acquired ~7% of stocks by 1991) . • 7 8 • 5 4 • 6 • 14 17 • 28 • 36 • 35 19 Climate Leadership Council on carbon dividends ($2,000/family of4 at ~$40/ton) ; UBI Center analysis on poverty reduction and dividend size at $100/ton (~$1,500/person) . Land value tax report (LEP) on funding a UBI of ~$5,750/adult from full land rents . California “data dividend” proposal context . The case for an American social wealth fund | The Week https://theweek.com/articles/793320/case-american-social-wealth-fund Social Wealth Fund for America ❖ People’s Policy Project https://www.peoplespolicyproject.org/projects/social-wealth-fund Urban Wealth Funds: A New Approach to City Financing | City-County Observer https://city-countyobserver .com/september/ Employee Ownership and ESOPs: What We Know from Recent Research - The Aspen Institute https://www.aspeninstitute.org/blog-posts/employee-ownership-and-esops-what-we-know-from-recent-research-2/ The Economic Benefits of Employee Ownership - Mathematica https://www.mathematica.org/blogs/the-economic-benefits-of-employee-ownership Harvard Business Review Touts "Big Benefits of Employee Ownership" https://www.menke.com/esop-archives/harvard-business-review-touts-big-benefits-of-employee-ownership/ Employee Ownership: The Power of the Cooperative Model https://www.capitalimpact.org/blog/employee-ownership-cooperative-model-build-wealth-opportunity/ Worker Cooperatives https://uwcc.wisc.edu/resources/worker-cooperatives/ How worker cooperatives shift power to workers - Prism https://prismreports.org/2022/04/11/how-worker-cooperatives-shift-power/ The Benefits of Worker Cooperatives - Democracy at Work Institute http://institute.coop/about-worker-co-ops/benefits-worker-cooperatives Every company should contribute 10% of shares for a Universal ... https://diem25.org/what-comes-after-capitalism/ A community investment trust for Portland, Ore. residents to ‘buy back the block’ https://www.brookings.edu/articles/a-community-investment-trust-for-portland-ore-residents-to-buy-back-the-block/ A Tax on Robots? by Yanis Varoufakis - Project Syndicate https://www.project-syndicate.org/magazine/a-tax-on-robots-by-yanis-varoufakis-2024-03 Land Value Tax | LEP Policy Report https://www.economicpossibility.org/reports/land-value-tax Carbon dividends as anti-poverty policy https://www.ubicenter .org/us-carbon-dividend Carbon Dividends | Climate Leadership Council https://clcouncil.org/our-solutions/carbon-dividends/• 45 46 47 • 41 • 52 54 1 6 2 3 4 5 7 833 34 35 50 51 910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 36 37 38 39 40 41 42 65 43 44 46 47 48 45 20 Carbon fee and dividend - Wikipedia https://en.wikipedia.org/wiki/Carbon_fee_and_dividend The Data Dividends Initiative https://www.datadividends.org/ On 'data dividend' concept, California's Gov. Newsom searches for ... https://statescoop.com/on-data-dividend-concept-californias-gov-newsom-searches-for-workable-strategy/ California Wants To Copy Alaska And Pay People A ‘Data Dividend.’ Is It Realistic? - School of Social Policy & Practice https://sp2.upenn.edu/press/california-wants-to-copy-alaska-and-pay-people-a-data-dividend-is-it-realistic/ Cory Booker's "Baby Bonds" Plan-2019-12-18 https://www.crfb.org/blogs/cory-bookers-baby-bonds-plan Study: Cory Booker's baby bonds nearly close the racial wealth gap ... https://www.vox.com/future-perfect/2019/1/21/18185536/cory-booker-news-today-2020-presidential-election-baby-bonds Yahoo News: 'Baby bonds' bill aims to give ... - Ayanna Pressley https://pressley.house.gov/2019/07/26/yahoo-news-baby-bonds-bill-aims-give-children-50000-start-adulthood/ Newsom wants companies collecting personal data to share the ... https://www.latimes.com/politics/la-pol-ca-gavin-newsom-california-data-dividend-20190505-story.html49 52 53 54 55 56 57 58 61 62 63 64 59 60 66 21
+Distributed & Decentralized Dividend Mechanisms
+for a Post‑Labor Economy
+Introduction
+Automation and artificial intelligence are transforming the economic landscape, potentially reducing the
+need for human labor on a massive scale. In a “post-labor” economy where traditional jobs are scarce, new
+models of broadly distributing  capital and common wealth  are gaining attention. These models aim to
+give every person an economic stake and income stream  independent of wages , thereby supporting
+economic  agency  even  as  labor  earnings  decline.  This  report  synthesizes  leading  proposals  and
+implementations  –  in  the  U.S.  and  select  international  cases  –  for  distributed,  decentralized,  and
+collective property/dividend mechanisms  that could provide widespread income in a post-labor United
+States. We examine each model’s structure, current status, and potential payout, then compare them across
+key dimensions. An ambitious but plausible combination scenario  is presented, estimating the total per-
+capita income that such mechanisms could deliver , both in nominal terms and adjusted for possible cost-of-
+living reductions from automation-driven deflation.
+National, State, and Municipal Wealth Funds
+Social  Wealth  Funds  (National):  A  national  sovereign  or  “social”  wealth  fund  is  a  publicly  owned
+investment  fund  that  accumulates  diversified  assets  (stocks,  bonds,  real  estate,  etc.)  on  behalf  of  the
+citizens and pays out dividends to everyone. The U.S. has no federal social wealth fund yet, but proposals
+exist to create one. For example, the American Solidarity Fund  proposed by economists would have the
+federal  government  gradually  acquire  a  broad  portfolio  of  assets  and  pay  an  annual  universal  basic
+dividend  (UBD)  to  all  Americans .  The  concept  draws  inspiration  from  existing  funds  abroad:
+Norway’s oil-based sovereign fund has amassed public assets worth 271% of GDP, enough that its 2017
+investment returns alone (if distributed) would equal $25,500 per Norwegian . A U.S. fund on that scale
+(roughly  $54 trillion  in assets) could likewise pay each American several thousand dollars per year from
+investment income . While that is exceptionally ambitious, even a smaller U.S. social wealth fund
+would meaningfully broaden capital ownership. One analysis suggests that a well-funded U.S. social wealth
+fund could eventually pay on the order of $6,000+ per year per adult  from earnings . Such a fund
+remains proposed (not yet implemented)  at the national level, making its viability uncertain in the near
+term. However , it has precedent: public investment funds exist in dozens of countries and U.S. states.
+State Sovereign Wealth Funds:  At the subnational level,  state-run wealth funds  invest state revenues
+(often from natural resources) to benefit the public. The most famous example is the Alaska Permanent
+Fund (APF) , funded by oil royalties. Since 1982, the APF has paid all Alaska residents an annual Permanent
+Fund Dividend (PFD)  drawn from the fund’s investment earnings. The dividend varies with market returns –
+for example, in 2017 each Alaskan received about $1,100 , and in prior years it reached as high as $2,072 per
+person  (over $8,000 for a family of four) . This direct cash distribution of common resource wealth has
+made Alaska one of the most economically equal states  and enjoys broad public support. Other U.S.
+states have smaller funds (often dedicated to education or budgets rather than personal dividends), but12
+3
+45
+61
+7
+8
+1
+none besides Alaska currently pays residents a cash social dividend . Establishing new state wealth funds or
+expanding  them  to  pay  citizens  is  possible  (especially  in  resource-rich  states),  but  political  and  fiscal
+constraints make widespread adoption  uncertain . Still, Alaska’s success demonstrates high  viability  in
+principle for state-level funds: the APF’s structure has withstood decades of political changes and economic
+cycles. Typical payouts range around $1,000–$1,500 per person yearly  under moderate oil price scenarios
+.  Ambitious  scenarios  (e.g.  multiple  states  adopting  Alaska-like  funds  or  Alaska’s  fund  growth
+accelerating) could yield ~$2,000+ per resident annually. In most states, though, any future dividends would
+likely be more modest unless substantial new revenue sources are dedicated.
+Municipal Wealth Funds and Urban Asset Corporations:  Cities and municipalities are also experimenting
+with collective ownership of assets to fund public needs. One model is the urban wealth fund , a city-owned
+development  corporation  that  manages  municipal  assets  (land,  real  estate,  infrastructure)  for  public
+benefit. A notable example is  Copenhagen City & Port Development  in Denmark – a publicly owned
+corporation that took control of Copenhagen’s harbor and former industrial land. By leasing and selling this
+land  for  redevelopment,  City  &  Port  generated  massive  revenues  which  it  reinvested  in  public
+infrastructure  (famously  financing  Copenhagen’s  metro  system) .  This  self-sustaining  model  turned
+underutilized  public  assets  into  an  engine  for  urban  regeneration  without  burdening  taxpayers .
+Essentially, the city created a wealth fund at the municipal level: profits from rising land values and rents are
+captured by the public entity and plowed back into community investments (transit, affordable housing,
+public spaces) rather than accruing to private landowners. While Copenhagen’s model does not pay direct
+cash dividends  to individual residents, it effectively delivers a  collective dividend  in the form of new
+infrastructure and services funded by shared assets . A similar approach could be applied in U.S. cities with
+significant  public  land  or  enterprise  assets  (e.g.  port  authorities,  utilities,  redevelopment  land  banks).
+Indeed, researchers have highlighted untapped public wealth  in American cities that could be managed
+more strategically . A few U.S. cities are exploring this concept, but it remains nascent . The legal/
+institutional framework for municipal wealth funds in the U.S. is  immature  – most city assets are not
+consolidated into a single fund, and governance would be a challenge.  Viability  is medium-term: with
+political will, cities could pilot asset corporations or trust funds, but the model may need adaptation to local
+context.  If  successfully  implemented,  the  per-capita  benefit  would  likely  come  indirectly  (better
+infrastructure or city services rather than a check). For instance, a city wealth fund might finance a transit
+project or affordable housing instead of raising taxes , effectively saving each resident money (a “dividend
+in-kind” ). In an ambitious scenario (major cities leveraging public land value), such funds could conceivably
+offset on the order of $1,000+ per resident per year  in public costs, though direct cash payouts by cities
+are unlikely in the near future.
+Private and Participatory Capital Models (ESOPs, Co-ops, Trusts)
+Not  all  broad-based  ownership  models  are  run  by  government  –  many  operate  at  the  enterprise  or
+community  level  to  spread  capital  among  workers,  consumers,  or  stakeholders.  These  participatory
+capital models  include employee stock ownership plans, cooperatives, and profit-sharing trusts. They are
+decentralized  by  nature  (implemented  firm  by  firm  or  community  by  community)  but  can  collectively
+contribute to a more equitable, post-labor economy by giving people ownership stakes and income from
+capital.
+Employee Stock Ownership Plans (ESOPs):  An ESOP is a program in which a company’s employees
+collectively own stock in the company, usually via a trust. In the U.S., ESOPs are an established
+mechanism (enabled by federal law since 1974) to broaden corporate ownership. Today over 6,3007
+9
+9
+1011
+• 
+2
+companies have ESOPs , covering more than  10 million American workers . These plans
+hold about  $1.8 trillion  in assets for employees – an average of  $180,000 in wealth per ESOP
+employee  (often  in  the  form  of  retirement  account  value).  Research  shows  that  ESOP
+participants benefit from higher wealth and comparable or higher pay  relative to similar workers
+at  traditional  firms .  For  example,  one  study  found  employee-owners  have  over  twice  the
+average retirement savings  of non-owners ( ~$170k vs $80k on average) . By giving workers a
+share of capital income (through profit distributions or stock appreciation), ESOPs can supplement
+or  enhance  wages  –  effectively  providing  a  private  dividend  tied  to  company  performance.
+However , these benefits currently reach only a fraction of the workforce (~6–10% of U.S. employees).
+If employee ownership expanded, the impact on wealth inequality could be huge: even moving to
+10% employee-owned  nationally would more than  double the wealth of the bottom 50% of
+households  in  America .  Under  a  very  broad  ESOP  scenario  (e.g.  30%  employee-owned
+economy),  median  wealth  of  disadvantaged  groups  would  multiply  severalfold .  ESOPs  are
+legally mature and proven  (thousands exist), with high viability  for gradual expansion – policies
+like tax incentives and loan programs already support ESOP formation. In a post-labor future, ESOPs
+could ensure workers retain a share in the productivity of automated firms.  Per-capita payout:
+ESOPs don’t provide a universal payment to all citizens; rather , they yield benefits to participating
+employees (often as a lump-sum retirement distribution or periodic profit-sharing). An average ESOP
+employee might receive the equivalent of a  5–15% boost to annual pay  in profit shares or stock
+accrual, depending on the company’s profits. In concrete terms, that could be several thousand
+dollars per year in extra compensation, accumulating to six-figure ownership over time . But for
+the typical U.S. resident (many of whom are not ESOP participants), the current  population-wide
+average  dividend  from  ESOPs  is  effectively  nil.  Thus,  ESOPs  can  be  a  powerful  tool  for  those
+included, but their aggregate impact depends on how widely they spread.
+Worker Cooperatives:  A worker cooperative is a business owned and democratically governed by
+its employees , with each worker typically having one voting share. Like ESOPs, worker co-ops give
+labor a direct ownership stake, but co-ops usually start as employee-owned from the outset (or
+convert through purchase) and emphasize democratic control (one member , one vote). The U.S. has
+on the order of 500–1,000 worker co-ops  in operation, but most are small; total co-op employment
+is only ~7–8,000 workers according to recent counts . While currently a tiny niche  in the U.S.
+economy, worker co-ops have a strong track record in other countries (for instance, the Mondragon
+Cooperative Corporation in Spain employs ~80,000 worker-owners). Studies find that worker co-ops
+can  deliver  higher  wages,  more  job  stability,  and  greater  worker  satisfaction  compared  to
+conventional firms . Importantly, co-ops share profits among the worker-owners, often in the
+form of annual patronage dividends or bonuses based on each member’s labor contribution. This
+means that as automation increases overall productivity, co-op members can collectively decide to
+reduce hours or redistribute surplus as income, rather than lay off workers – a potential model for
+shared prosperity with less work . The viability  of scaling worker co-ops in the U.S. is moderate:
+legal structures exist and interest is rising (especially among younger entrepreneurs and in sectors
+like  home  care,  retail,  and  manufacturing),  but  co-ops  face  barriers  in  accessing  capital  and
+supportive policy. If significantly expanded, worker co-ops could ensure that a broad swath of the
+labor force directly benefits from capital income . However , like ESOPs, their payouts are limited
+to members . A thriving co-op sector might routinely provide each worker-member an annual profit
+dividend of say 5–25% of their salary  (varying widely by enterprise economics). This could translate
+to a few thousand dollars per worker per year in a modest scenario, up to tens of thousands in1213
+14
+15
+16
+17
+18
+14
+• 
+1920
+2122
+3
+highly profitable co-ops. For the general populace, though,  co-op dividends are not universal  –
+they strengthen worker-owners’ incomes rather than paying everyone.
+Consumer  and  Platform  Cooperatives:  Not  only  workers,  but  consumers  and  users  can  also
+collectively  own  enterprises.  Consumer  cooperatives  (like  credit  unions,  mutual  insurance
+companies, or member-owned retail co-ops) distribute earnings to their customer-members, usually
+proportional to patronage. For example, credit unions often return profits as lower loan rates or
+occasional patronage dividends to their millions of depositors. These member dividends tend to be
+modest (e.g. a credit union member might get a year-end rebate of ~$50 or better interest rates
+worth a few hundred dollars), but they represent another decentralized way of sharing economic
+surpluses . Platform cooperatives  apply similar principles in the digital economy – envision an Uber
+or Facebook owned by its drivers or users, who then receive a portion of the platform’s profits. This
+idea is largely aspirational so far , but some pilots exist (for instance, a driver-owned ride-hailing coop
+in New York). If gig workers or internet users collectively owned the platforms they power , they could
+capture income that now flows to corporate shareholders. For instance, a platform co-op social
+network might pay each user a small dividend from ad revenues, effectively a “data dividend.” While
+today  platform  co-ops  remain  experimental ,  they  are  seen  as  a  viable  future  model  to
+democratize the wealth generated by AI and networks. The payouts  in consumer/platform co-ops
+are typically proportional to use  (spending, contributions, etc.), and in many cases are delivered via
+better prices rather than cash. In aggregate, expanded consumer co-ops could return some value to
+a majority of Americans (since many people use co-ops like credit unions, grocery co-ops, rural
+electric co-ops, etc.), but these returns are relatively small on a per-capita basis – perhaps tens to a
+few hundred dollars a year  in savings or patronage for an active member . Platform co-ops, if they
+captured major market share, could in theory pay out more significant sums (imagine if a user-
+owned YouTube paid popular content contributors a dividend, or if a ride-share co-op returned
+profits to drivers). However , because these are voluntary, market-based structures , their ability to
+provide a  universal income floor  is limited. They are best seen as part of a pluralistic approach:
+empowering individuals as workers and consumers to capture more of the value they create.
+Profit-Sharing  Trusts  and  Inclusive  Ownership:  A  profit-sharing  trust  is  a  broad  term  for
+arrangements where a company’s profits (or shares) are partly held in a trust for the benefit of
+employees, stakeholders, or the public. One example is the John Lewis Partnership  in the UK – a
+major retailer (John Lewis department stores and Waitrose supermarkets) that is 100% owned by an
+employee  trust.  Each  year ,  all  80,000+  employees  receive  a  profit-sharing  bonus  (historically
+around 10–15% of their annual pay in good years) as “partners” in the firm. This model has sustained
+over decades, showing that large enterprises can be run for workers’ benefit at scale. Another
+example was proposed in the UK as “Inclusive Ownership Funds” (IOFs) : a policy idea (advanced by
+the Labour Party in 2018) to require large companies to gradually transfer a small percentage of
+shares into a fund owned by employees. The fund would pay annual dividends to the workers
+(capped at ~£500 per worker , with any excess potentially going to a public fund for social dividends).
+While the IOF policy was not implemented, it echoed earlier experiments like Sweden’s Meidner
+funds (discussed below) in seeking to socialize ownership incrementally . Profit-sharing trusts can
+also be designed to benefit communities – for instance, a local business could place some equity in a
+community trust that pays dividends to community projects or residents. These models are  semi-
+private : they rely on corporate governance or legislation rather than voluntary market action alone,
+yet they operate within individual companies or sectors. Their  legal maturity  varies – employee
+trusts  are  well-established  (especially  in  the  UK  and  other  Commonwealth  countries),  whereas• 
+• 
+4
+mandated inclusive ownership policies are still just proposals  in most places. Viability  is medium:
+profit-sharing within companies is common (many firms have bonus pools or stock grants), but
+formalizing a share of profits for workers by right requires stronger policy support or cultural buy-in.
+In terms of  payouts , profit-sharing trusts can be significant for those included – e.g. John Lewis
+employees enjoyed substantial bonuses (in peak years, a month’s extra pay). If an American inclusive
+ownership mandate had been enacted, one analysis estimated workers would get a few thousand
+dollars each in annual dividends , and some of the fund’s gains would accrue to the public .
+However ,  like  other  enterprise-level  solutions,  these  payouts  do  not  reach  people  outside  the
+participating  firms.  Thus,  while  profit-sharing  and  trust  ownership  improve  equity  within
+workplaces , additional mechanisms are needed to support those without  such affiliations (e.g. the
+unemployed, caregivers, etc.) in a post-labor scenario.
+Voluntary Community Equity Vehicles (Community Investment
+Trusts)
+Not  all  collective  wealth-building  is  done  via  employers  or  governments  –  there  are  also  voluntary,
+community-based  investment  models  that  allow  individuals  to  buy  into  local  assets  and  share  the
+returns. One innovative example is the Community Investment Trust (CIT)  model pioneered in Portland,
+Oregon. The CIT is a community-owned real estate investment vehicle  designed for low- to moderate-
+income residents. It enables neighbors to purchase small ownership shares (as little as $10/month)  in a
+local commercial property (in Portland’s case, a shopping center in their community) . The trust is
+structured to protect against loss and to provide accessible entry for people who have never owned assets
+before. Investors receive  annual dividends  from the property’s rental income and can also benefit from
+property value appreciation . In the East Portland CIT’s first few years, over 160 families became co-
+owners; the project delivered dividends averaging  ~9% annually  and the share price of their investment
+nearly doubled (from $10 to $15.86) in about three years . Residents thus saw both ongoing income and
+capital gains, helping them build wealth collectively in their neighborhood. The CIT also reported positive
+social effects (increased civic engagement and financial literacy among participants) . 
+The CIT model demonstrates a path for community members to voluntarily pool funds and buy assets
+that would otherwise be out of reach individually. By doing so, they transform from renters or consumers
+into  owners  of  local  capital ,  capturing  value  that  might  have  flowed  to  outside  investors.  While  the
+Portland CIT is relatively small, its success has led to interest from over 60 cities in 23 states  looking to
+replicate the approach . The concept is  operationally distinct  from public wealth funds or ESOPs: it
+relies on individual contributions (not taxes or company benefits) and is open to any resident in the target
+community. In terms of  maturity , CITs are in early pilot stages – Portland’s is a proof of concept, and
+replications are just beginning. The regulatory framework (securities law, etc.) needed adjustments to allow
+unaccredited small investors to participate, which the CIT team navigated through creative legal structuring
+. Viability  appears reasonably good on a small scale (especially with nonprofit or municipal backing
+to initiate projects), but scaling up will require community organizing and identifying suitable properties
+and financing. 
+For participants, a CIT can provide a modest but meaningful  dividend income : in Portland, the dividend
+was around  $30–$50 per share annually  (9% of a $10 share, in early years), and many investors held
+multiple shares (though capped to keep the focus on broad inclusion). Someone investing $50 a month
+could after a few years be earning a few hundred dollars a year in dividends – not a full livelihood, but a23
+2425
+2627
+28
+2829
+30
+3132
+5
+helpful supplement and a source of equity. Per-capita impact:  Because CITs are voluntary and localized,
+the average American isn’t receiving anything from them unless they choose to invest. In an  ambitious
+scenario , if CITs or similar community ownership funds proliferated in many cities, millions of people could
+become small stakeholders in local real estate or businesses. Their annual returns might range from a few
+dozen to a few hundred dollars per person  (depending on investment size and project success). More
+importantly,  these  vehicles  would  broaden  asset  ownership  and  could  be  especially  empowering  for
+historically  marginalized  communities  to  build  wealth  from  the  ground  up.  Still,  CITs  alone  are  not  a
+solution for universal income – they are a  complementary strategy  to let willing individuals invest in
+collective assets with relatively low risk and low buy-in thresholds.
+Compulsory Equity Dilution Funds (Wage-Earner Funds & Universal
+Basic Dividend)
+A more radical set of proposals for broadly sharing wealth involves mandating that private corporations
+systematically distribute equity to workers or the public . Instead of relying on voluntary participation
+(as in ESOPs or CITs), these mechanisms use laws or formulas to dilute traditional ownership over time ,
+transferring a portion of corporate wealth to collective funds. Two prominent concepts in this category are
+wage-earner funds  (a worker-oriented model originating in Sweden) and the  universal basic dividend
+(UBD)  or public equity share idea (as championed by figures like economist Yanis Varoufakis).
+Meidner-Style Wage-Earner Funds:  In the 1970s, Swedish economists Rudolf Meidner and Gösta
+Rehn, backed by the Swedish trade unions (LO), proposed establishing collective  “wage-earner
+funds”  to gradually socialize ownership of companies. The Meidner Plan called for a form of “scrip
+tax” on corporate profits: each year , companies above a certain size would have to issue new shares
+equal to a percentage of profits and contribute them to regional union-controlled funds . Over
+time, these funds (owned on behalf of the workers) would accumulate an increasing stake in firms.
+Meidner calculated that with a modest profit-based share issuance (around 20% of profits) and
+reinvestment of dividends, the funds could achieve majority ownership of Swedish corporations
+within ~25 years . In practice, a watered-down version was implemented in Sweden in the 1980s:
+instead of share issuance, a special excess-profits tax was levied and the proceeds used by wage-
+earner funds to buy stocks on the market. Though the program was politically controversial and later
+abolished, by 1991 the funds had managed to  acquire about 7% of the outstanding shares of
+Swedish companies . This was far short of the original plan, but still a significant collective
+holding before the experiment ended. The Meidner model is notable as a compulsory mechanism
+to broaden worker ownership  economy-wide, rather than firm-by-firm voluntary adoption. If a
+similar wage-earner fund were adopted in the U.S., it could incrementally shift a portion of corporate
+equity (and thus future profits) to either employee funds or potentially to all workers nationally. Such
+a policy is currently only theoretical in the U.S.  (no active proposals in Congress) and would face
+strong political resistance, making its near-term  viability low . However , the idea has influenced
+other proposals (like the UK’s IOF mentioned earlier). Legal maturity  is low (it would require new
+legislation), though Sweden’s experience provides a precedent.  Potential payout:  A fully realized
+wage-earner fund would eventually give workers collective claims on profits. In Sweden, had the
+funds reached majority ownership, workers could effectively control dividend distributions – possibly
+resulting in additional income per worker on the order of thousands of dollars yearly (depending on
+company profits). In a partial implementation (say funds end up owning 10–20% of companies),
+annual dividends to the fund could be a smaller percent of total profits. Those could be distributed• 
+33
+34
+35
+6
+equally among workers or used for worker benefits. It’s hard to estimate U.S. per-capita numbers, as
+it depends on design: if, hypothetically, 10% of U.S. corporate equity was transferred to a worker
+fund yielding, say, a 3% dividend, and that was split among all workers, it might provide on the order
+of $1,000 per worker annually . Under a more aggressive plan (as Meidner imagined), it could be
+several  times  that  (essentially,  workers  eventually  replacing  capitalists  as  recipients  of  most
+corporate  dividends).  But  again,  unlike  a  universal  fund,  this  would  exclude  those  not  in  the
+workforce, and it has yet to gain traction in U.S. policy.
+Universal Basic Dividend (Public Equity Share):  A closely related concept shifts the focus from
+workers to all citizens . The idea, sometimes called a Universal Basic Dividend (UBD) , is to require
+companies to contribute a portion of their ownership to a public wealth fund  that pays dividends to
+everyone. Yanis Varoufakis, for example, has argued that instead of taxing automation or robots,
+governments should legislate that large corporations issue new shares and deposit them into a
+public trust on an ongoing basis . This could be structured, for instance, as: every year , each
+publicly traded company must transfer shares equal to (say) 1–2% of its market value into a national
+“citizens’  fund.”  Over  time,  the  public  fund  would  own  an  expanding  slice  of  corporate  equity,
+entitling it to a corresponding slice of all dividends paid. Those dividends would then be distributed
+equally  to  all  citizens  as  a  social  dividend  (hence  “basic  dividend”).  Crucially,  this  financing
+mechanism does not rely on taxation  – it directly allocates a portion of capital to the public as new
+wealth is created. The rationale is that society at large (through public infrastructure, educated
+workforces, data contributions, etc.) helps create corporate profits, so society should get a direct cut
+of those profits . Varoufakis specifically highlights Big Tech companies whose value is built on
+user data and publicly-funded technology; he suggests a UBD funded by share issuance as a way for
+people  to  benefit  from  tech-driven  productivity  gains .  A  similar  idea  was  independently
+proposed by others – for example, economist Glen Weyl and lawyer Eric Posner once suggested an
+“IPO tax” where a percentage of shares from every initial public offering go into a sovereign fund
+. In the U.S., the closest historical analogue is perhaps the SEC’s small stock issuance fee  (used
+to fund its operations), but using equity transfers to fund a universal social dividend would be a
+novel  step.  Maturity:  This  concept  is  at  the  proposal  stage  globally;  no  country  has  fully
+implemented a UBD via equity dilution, though it is being discussed in futurist and basic income
+circles.  Viability:  Politically,  it  faces  resistance  similar  to  a  wealth  tax  or  heavy  regulation  of
+corporations, but it might garner support as an alternative to general taxation for funding a basic
+income. If automation dramatically displaces jobs, a UBD of this sort may gain appeal as a way to
+directly tie everyone’s income to the economy’s capital growth.  Potential payout:  If, over some
+decades, the public fund amassed a substantial equity stake, the dividends could be sizeable. For a
+rough sense, consider U.S. corporate profits and dividends: U.S. nonfinancial corporate profits are on
+the order of trillions per year; even a 5–10% public claim on that could yield hundreds of billions
+annually for distribution. One analysis in  The Week  imagined a social wealth fund (built by various
+means)  large  enough  to  pay  $6,400  per  year  to  every  American  adult .  A  UBD  via  share
+issuance could potentially reach a similar magnitude in the long run. In a conservative scenario, it
+might start small – e.g. a few hundred dollars per person after some years. A moderate scenario
+might see it climb into the low thousands per year . An ambitious scenario  (decades of accumulating
+equity)  could  rival  a  full  basic  income,  perhaps  $5,000+  per  capita  annually  funded  purely  by
+dividends. Importantly, this would be  universal  – everyone from the unemployed to retirees to
+workers would get the dividend, reflecting their stake in the nation’s productive capital. The UBD
+model is essentially a way to institutionalize a share of capital income for all . It aligns with the• 
+36
+36
+36
+23
+6
+7
+idea of treating common inputs (like data, public research, social stability) as deserving a return.
+While still speculative, it is a powerful vision for a post-labor economy.
+Automation  Capital  Funds:  A  variant  on  the  UBD  theme  focuses  specifically  on  financing  via
+automation-related gains. As automation replaces labor , one proposal is to create  “automation
+investment funds”  or require an “automation contribution” from firms. For instance, some have
+suggested that if a company saves money by installing robots (thus cutting jobs), it should either pay
+a tax or issue equity equivalent to a portion of those savings into a public fund. This is conceptually
+similar  to  Varoufakis’s  idea,  but  justified  directly  as  capturing  the  “robot  dividend”  for  society.
+Microsoft founder Bill Gates famously floated the idea of a “robot tax”  on companies that automate
+away jobs, with the revenue used to fund human services. Varoufakis countered that a robot tax is
+unwieldy , and a better approach is the equity-based UBD . The end goal is the same: ensure
+that as capital (robots, AI) replaces labor , the returns to that capital are partly socialized  to provide
+income for those left out of work. Some thinkers also propose an “AI dividend”  – if AI algorithms
+rely on data from the public, then any wealth generated should be shared back. These automation-
+focused funds would essentially operate like a specialized sovereign wealth fund (accumulating
+assets or fees from AI/robotics-heavy firms). Maturity:  Pure automation funds are still just an idea;
+none exists at scale. Viability:  Medium-to-low in the short term; it requires policymakers to accept
+the premise and either mandate share transfers (politically challenging) or impose targeted taxes
+(also challenging). However , as AI/automation impacts grow, there may be increasing openness to
+such schemes. Payouts:  If, for example, every large tech firm had to gradually give 1–2% of equity to
+a public fund, within a decade the fund could own a noticeable stake. Automation-intensive sectors
+(tech, manufacturing, logistics) could feed the fund. The eventual payout would overlap with the
+UBD discussed above – essentially, this is one method to finance a universal dividend. So one can
+expect similar figures: modest at first, potentially scaling to a few thousand dollars per person per
+year if pursued assertively. The key difference is framing – it ties the dividend to automation’s
+impact, reinforcing the social contract that the benefits of automation are shared .
+Rent Capture and Commons Dividends (Land, Environment, Data)
+Another suite of models for providing broad-based income focuses on capturing rents from non-labor
+sources – things like land, natural resources, carbon emissions, the electromagnetic spectrum, and even
+personal data. These are areas where either the commons  or the finite nature  of a resource suggests that
+private actors should pay society for use, and those revenues can be redistributed as dividends . Many of
+these ideas draw from the notion of a  “citizen’s dividend”  – a payment to all citizens from commonly
+owned assets or rights.
+Land Value Tax and Land Dividends:  Land (especially urban land) is a classic example of a scarce
+resource  whose  value  is  created  by  nature  and  the  community  (location,  public  infrastructure,
+economic development) rather than the landowner’s efforts. Land value taxation (LVT)  – taxing the
+unimproved value of land – has long been advocated by economists from Henry George to Milton
+Friedman as an efficient and fair tax. One appealing use of land tax revenue is to fund a universal
+dividend .  Since  the  value  of  land  is  effectively  generated  by  society,  taxing  that  value  and
+redistributing it aligns with the idea that every citizen should benefit from the commons. How much
+money could this yield? Studies indicate that a full  100% tax on land rents  in the U.S. (in theory
+capturing  all  surplus  land  value)  could  fund  a  very  substantial  basic  income.  A  recent  analysis
+estimated that a national LVT at an aggressive level  could raise enough revenue to pay every adult• 
+3736
+• 
+8
+American roughly $5,750 per year  as a universal dividend. Even a partial land value tax (or
+using only part of the revenue for dividends) could provide a meaningful stipend. For instance, one
+model found that in the UK, a much smaller LVT (1% of land value) could finance a modest universal
+payment of about £64 per month, significantly reducing poverty . In the U.S. context, urban land
+values are enormous – by capturing them for public benefit, we could both improve efficiency
+(reducing speculation) and fund social dividends.  Maturity:  Land value tax is well-understood in
+economic theory and has been implemented in limited ways (some cities have LVT or split-rate
+property taxes). However , no jurisdiction in the U.S. currently redistributes LVT revenue as a direct
+dividend.  It’s  usually  used  for  public  budgets.  Viability:  Politically,  LVT  faces  opposition  from
+landowners, but it has cross-ideological support among economists as “the least bad tax.” If framed
+as funding tax relief or dividends for all, it could gain traction. Some U.S. cities (e.g. Pittsburgh
+historically) have tried split-rate taxes with success, and places like Taiwan and Singapore effectively
+capture land value via public land ownership or leases. If a significant LVT were implemented at city,
+state, or federal level, using at least part of it for a citizen dividend  is very viable (Alaska’s oil fund is
+analogous but for oil land). Under a conservative scenario  (small land tax), the dividend might be a
+few  hundred  dollars  per  person.  A  moderate  scenario  (more  robust  land  tax  or  in  high-value
+regions) could yield a couple thousand per person. The  ambitious scenario  (the earlier $5,750
+figure) would require a truly sweeping policy shift but illustrates the scale: on the order of several
+thousand  dollars  annually  per  citizen  from  land  wealth .  Aside  from  cash  dividends,
+capturing  land  rents  could  also  fund  public  goods  or  reduce  other  taxes,  indirectly  benefiting
+everyone.
+Resource and Carbon Dividends:  The concept of sharing natural resource wealth  with citizens is
+already reality in some cases – the Alaska Permanent Fund dividend, as discussed, is essentially a
+carbon resource dividend  funded by oil revenues. The idea can be extended to other environmental
+commons. A leading proposal is the Carbon Fee-and-Dividend : impose a fee on carbon emissions
+(upstream on coal, oil, gas) and  redistribute 100% of the revenue equally to citizens . This is
+designed to combat climate change while ensuring the policy is financially progressive (households
+that use less carbon come out ahead). Bills such as the Energy Innovation and Carbon Dividend
+Act have been introduced in Congress and garnered dozens of sponsors . Though not yet
+law,  similar  carbon  rebate  schemes  exist  elsewhere  (e.g.  Canadian  provinces  return  carbon  tax
+revenue as checks to residents). Payout:  How much money are we talking about? It depends on the
+carbon price. The bipartisan Climate Leadership Council  plan, for example, envisioned a carbon fee
+starting around $40/ton. They estimated this would yield about $2,000 per year for a family of four
+in dividend revenue  – i.e. roughly $500 per person  at the outset. As the fee rises over time (to
+spur deeper emissions cuts), the dividend would also grow. Analyses by climate policy researchers
+find that a $100/ton carbon price (which is considered a strong but not implausible level by 2030 or
+so) would generate on the order of $1,500 per person annually  in the U.S. . Even at more
+moderate prices (say $50–$60/ton), we could see perhaps $700–$900 per person  per year . Notably,
+carbon dividends are typically framed as  per adult or per household  rather than truly per-capita
+including children, but many proposals include a half-share for children. Maturity:  The idea is fairly
+mature – legislation has been crafted, and the policy is well-studied . Canada, Switzerland,
+and some other jurisdictions are already doing forms of carbon dividends .  Viability:  There is
+significant political debate, but a carbon dividend has bipartisan appeal (it’s revenue-neutral and
+returns money to citizens). It could realistically be implemented in the medium term if climate
+consensus improves. Carbon dividends won’t replace a full income, but in combination with other
+dividends, $500–$1,000+ a year per person  is a meaningful piece.3839
+40
+4142
+• 
+4344
+45
+4647
+4844
+49
+9
+Spectrum and Digital Dividends:  The electromagnetic spectrum used for telecommunications (TV,
+radio, mobile networks) is a public resource that governments often lease out to companies via
+auctions. The U.S. federal government has raised tens of billions of dollars from spectrum auctions
+(for instance, 5G spectrum auctions in recent years netted over $80 billion). Currently, those funds
+usually go into the Treasury or specific programs. The spectrum commons  could be another source
+of dividend payments – essentially treating spectrum like a national asset that all citizens should
+benefit from. One could imagine a Spectrum Dividend , where auction revenues (or annual license
+fees) are placed in a trust and distributed to the public. If, for example, $20 billion per year were
+available from spectrum fees, that would be about $60 per person annually . That’s not huge, but it’s
+not nothing – and as wireless usage grows, it could increase. Some economists have suggested more
+regular charging for spectrum usage (since current licenses often last decades) and recycling that
+money to citizens .  Maturity:  The mechanism (auctions) exists, but using it for dividends
+would be new. Viability:  Relatively low politically, as spectrum funds are seen as general revenue,
+but in principle it’s straightforward.  Data Dividends:  A more novel idea is that individuals should
+receive compensation for the personal data they generate, which tech companies monetize. This is
+often phrased as  “data is the new oil”  and thus perhaps should yield a dividend like oil does in
+Alaska. California’s Governor in 2019 proposed exploring a “ Data Dividend ” so that tech firms “share
+the  wealth”  with  users .  The  idea  could  take  forms  like:  companies  paying  users
+micropayments  for  data,  or  a  state  imposing  a  tax  on  tech  firms’  data-driven  revenue  and
+redistributing it. So far , no concrete large-scale data dividend has been implemented. One challenge
+is determining the value of an individual’s data (which varies greatly) . Another approach is to
+create a public data trust : e.g., require big digital platforms to contribute a percentage of profits (or
+equity, akin to UBD) to a fund that pays out to citizens. Viability:  It’s an emerging idea – politically
+there is interest (as seen in California’s discussions, and Andrew Yang’s advocacy for a data dividend
+during his presidential run), but it’s complex to execute. The sums at stake: tech companies do make
+enormous profits (the top five made over $200 billion in profit in 2021), but divided by all users, it
+might only be a few dollars per user per month unless a significant cut is shared. One estimate
+suggested if Facebook shared even 30% of its ad revenue with users, it could be on the order of
+$100–$200 per year per user  (rough ballpark). So a data dividend might provide  tens to a few
+hundred dollars per person annually  in the ambitious case. It’s more likely to be a supplemental
+income stream rather than a primary one.  Legal maturity:  still just proposals and pilot ideas; no
+statutory data dividend exists yet in the U.S.
+Environmental and IP Royalties:  Other scarce inputs could generate smaller citizen dividends. For
+example, a Carbon Cap-and-Trade auction  (like in California’s climate program) generates revenue
+that could be rebated – similar to a carbon tax dividend. Some proposals also consider dividends
+from pollution permit auctions  or congestion pricing fees , though those would be relatively small
+per capita and often earmarked for specific uses. Intellectual property (IP)  is another area: much of
+the foundational research behind new technologies and drugs is publicly funded. One could imagine
+a system where when publicly funded IP is commercialized, a portion of royalties or equity returns to
+a public innovation fund that pays dividends (or is reinvested in research). For instance, the NIH
+funding that leads to a breakthrough drug could entitle the public to a small royalty on sales,
+distributed as health dividends or used to reduce drug prices. These ideas are less fleshed out, but
+align with the concept of a  “social inheritance”  – society’s cumulative knowledge and innovation
+yielding a return for all. • 
+5051
+5253
+54
+• 
+10
+In  sum,  rent-capture  dividends  are  diverse,  but  together  they  tap  into  the  value  of  commons  and
+externalities  – land, environment, spectrum, data – and ensure that value is shared rather than solely
+privatized. Many of these mechanisms (land tax, carbon fee) have the dual benefit of improving market
+outcomes  (reducing speculation or pollution) while raising revenue. Each alone might provide a modest
+dividend; combined, they could add a few to several thousand dollars per person per year in income or
+equivalent benefits.
+Capital Endowment Accounts (Baby Bonds and Universal
+Inheritance)
+Lastly, beyond ongoing dividends, another strategy for empowering individuals in a post-labor economy is
+to grant people capital assets at key life stages  (typically at birth or reaching adulthood). Instead of (or in
+addition to) giving everyone a small stream of income yearly, this approach gives each person a one-time
+endowment  – essentially seed capital or a trust fund that they can use to generate income or invest in their
+future.
+“Baby  Bonds”  (Child  Trust  Accounts):  The  term  “baby  bonds”  refers  to  publicly  funded  trust
+accounts established for children when they are born, which grow over time and can be accessed
+when the child reaches adulthood. This idea has been championed in the U.S. by scholars like Darrick
+Hamilton and was introduced as legislation by Senator Cory Booker and Congresswoman Ayanna
+Pressley (American Opportunity Accounts Act). Under Booker’s federal proposal,  every newborn
+would  receive  a  federal  trust  account  with  a  $1,000  initial  deposit ,  and  each  year  the
+government would contribute additional funds on a sliding scale based on the family’s income (low-
+income kids get more, high-income kids get little or none) . The funds would be invested (for
+example, in safe government bonds) until the child turns 18. At 18, the young adult could use the
+accumulated funds for approved asset-building purposes like college tuition, buying a home, or
+starting  a  business .  The  goal  is  to  ensure  that  every  person,  especially  those  from
+disadvantaged backgrounds, enters adulthood with some capital nest egg , narrowing the racial and
+wealth gaps that compound over generations. Research indicates this policy would dramatically
+reduce the racial wealth divide – one study found median wealth for young Black adults would rise
+from $0 (for many) to tens of thousands of dollars with robust baby bonds . Maturity:  The
+baby bonds idea is proposed  at the federal level, not enacted, but it has gained significant attention
+and some funding in state and local pilots. For instance, the District of Columbia launched a baby
+bonds  program  in  2021,  and  states  like  Connecticut  and  Washington  have  approved  versions
+targeting children in low-income families (though at smaller scales than Booker’s plan). The UK
+actually implemented a form of child trust fund in the 2000s (giving every baby ~£250 at birth, plus
+another £250 at age 7), but that program was later discontinued. Viability:  Politically, baby bonds
+have  moderate  viability  –  they  directly  address  inequality  and  have  a  relatively  clear  funding
+mechanism (Booker’s plan suggested paying for it by higher estate and capital gains taxes ). The
+cost is not trivial (around $60 billion per year for Booker’s plan ), but not outlandish relative to
+federal budgets. It essentially transforms part of wealth redistribution into a delayed benefit for the
+next generation.  Payout:  Baby bonds are not an annual income, but rather a  one-time capital
+grant . Under the Booker proposal, the poorest children would accumulate up to $46,000 by age 18
+(in 2019 dollars) while even children from higher-income families might have a smaller account
+around $1,700 . The average account was estimated around  $20,000 at age 18 . To put
+that  in  perspective,  $20k  could  be  invested  to  yield  perhaps  $800  a  year  in  perpetuity  (at  4%• 
+5556
+5758
+5960
+61
+61
+6263 64
+11
+interest), or used to significantly offset college costs or a mortgage down payment. In an ambitious
+scenario (if contributions were larger or invested in higher-return assets), these accounts could be
+even bigger – some advocates imagine every young adult receiving, say, $50k or $100k  of capital to
+start adult life. Baby bonds thus provide economic agency at the life stage when individuals are
+making key education and career decisions . They don’t directly pay a stipend to live on year-to-
+year , but they equip the next generation with wealth that can generate income or improve life
+outcomes, which is crucial in a post-labor context (where owning assets may matter more than
+earning wages).
+Social Inheritance or Universal Capital Grants:  A related idea is to give everyone a capital grant at
+the start of adulthood funded by the  taxed inheritance or wealth of the older generation  –
+effectively a “universal inheritance.” This echoes Thomas Paine’s 18th-century proposal (in Agrarian
+Justice ) to give all 21-year-olds a certain sum, financed by a tax on land/property of the deceased. In
+modern form, economists like Anthony Atkinson and Thomas Piketty have suggested that every
+young adult could receive a substantial  stake  from the state. Piketty, for example, has floated an
+inheritance for all of around €120,000 (roughly 60% of average wealth) at age 25, financed by
+progressive wealth and inheritance taxes . In the U.S., legal scholars Ackerman and Alstott in
+1999 proposed a “Stakeholder Society” grant of ~$80,000 for every citizen at age 21, paid for by an
+annual wealth tax. The purpose is to even out the largely unearned advantage that those with
+wealthy parents have, and to give everyone a fair start in an economy where capital is essential.
+Maturity:  These grand-scale proposals are  theoretical  at this point – no country gives six-figure
+sums to all young adults. However , elements can be seen in smaller policies (e.g., some countries
+exempt a certain amount of inheritance tax for education accounts, etc.). Viability:  As a standalone
+idea, it’s politically challenging – such a program would require large wealth transfers and would be
+labeled radical in many contexts. But it addresses a core issue of intergenerational equity in a time
+when capital does much of the work. If technological unemployment becomes severe, there could be
+greater public openness to heavier wealth redistribution in order to give everyone a stake. Payout:
+By design, a universal inheritance is a one-time payout  rather than ongoing income. The numbers
+often discussed are $50,000 to $100,000 (or more)  per person at adulthood (which could be, say, a
+inheritance-like grant from society). If prudently invested, $100k could provide a modest income
+stream (e.g., in a conservative portfolio yielding ~3-4%, that’s ~$3–4k/year in income). Or it could be
+used to buy a home (avoiding rent costs, effectively increasing disposable income) or to start a
+business (creating one’s own job in a post-labor economy). So while not a “dividend” in the annual
+sense, a universal capital grant can significantly enhance lifetime economic security. One could view
+it as each citizen getting a share of society’s capital at the outset , which they then manage. In a
+scenario where automation is generating great wealth for the owners of capital, ensuring every
+citizen has capital ownership (even if small) helps democratize those gains .
+It’s worth noting that  capital endowment policies  like baby bonds or universal inheritance have effects
+that unfold over generations. They may not immediately provide income to today’s middle-aged workers or
+retirees, but they fundamentally change the wealth distribution for the next generation, preparing for a
+future where passive capital income might be a primary source of livelihood. In combination with the
+annual dividends from wealth funds and rents, these endowments can ensure each person not only has
+some baseline income but also a cushion of assets  to weather economic changes.• 
+60
+12
+Comparative Overview of Models
+The  various  mechanisms  described  –  public  wealth  funds,  cooperatives,  dividends  from  rents,  and
+endowments  –  differ  in  their  implementation  scale,  decentralization,  maturity,  and  the  magnitude  of
+income they can provide. Table 1 summarizes the key comparisons across these dimensions for the major
+models discussed:
+ModelImplementation
+& ActorDegree of
+DecentralizationMaturity ViabilityEstimated Annual Per-
+Capita
+Payout <br> Conservative
+– Moderate – Ambitious
+(2025 $)
+National
+Social
+Wealth Fund
+(Federal UBD
+fund)Federal
+government
+creates a
+national
+investment fund;
+publicly
+managed assets
+pay dividends to
+all citizens.Centralized  (one
+national fund for
+entire country)Proposed  (no
+U.S. fund yet;
+models in
+Norway, etc.)Medium  –
+concept
+proven
+abroad but
+political
+hurdles in
+U.S.$2,000  – $4,000  – 
+$6,000+  per person/
+year  (depends
+on fund size and
+returns)
+State Wealth
+Funds  (e.g.
+Alaska PF)State
+governments
+invest resource
+or surplus
+revenues in
+funds; dividends
+to state
+residents.Semi-
+Centralized
+(state-level,
+varies by state)Existing  in a
+few cases
+(Alaska since
+1982; others
+mostly
+budgetary
+funds)Medium  –
+high viability
+in resource-
+rich states,
+low
+elsewhere
+currently$0 – $500  – $1,000  per
+person/year (Most
+states: $0; Alaska
+averages ~$1k ,
+peak ~$2k)
+Municipal
+Wealth
+Funds  (Urban
+Asset Corps)City/municipal
+authorities own
+and develop
+assets (land, real
+estate, utilities);
+profits
+reinvested or
+shared locally.Decentralized
+(city-level, each
+city has its fund)Piloted
+internationally
+(e.g.
+Copenhagen,
+Hong Kong);
+rare in U.S.Medium-
+Low  –
+requires
+asset-rich
+cities and
+strong
+governanceNone (direct)  – public
+benefit via services/
+infrastructure (e.g.
+funded metro worth
+~$1k+ value per
+resident ); in-kind
+“dividend” rather than
+cash65
+7
+9
+13
+ModelImplementation
+& ActorDegree of
+DecentralizationMaturity ViabilityEstimated Annual Per-
+Capita
+Payout <br> Conservative
+– Moderate – Ambitious
+(2025 $)
+Employee
+Stock
+Ownership
+Plans
+(ESOPs)Private
+companies
+(corporate
+actors) set up
+employee trusts
+that own
+company stock;
+benefits to
+employee-
+owners.Highly
+Decentralized
+(thousands of
+individual firms)Existing
+(6,000+ ESOPs
+in U.S.,
+$1.8 trillion
+assets )High  – well-
+established
+legal
+framework;
+modest
+growth
+ongoingN/A (not universal)  – 
+Varies per participant :
+e.g. ~$5,000/year
+equivalent in profit
+shares or stock accrual
+for an average ESOP
+worker; $0 for non-
+employee.
+Worker
+CooperativesEnterprises
+owned and
+governed by
+workers; profits
+shared among
+worker-
+members.Highly
+Decentralized
+(enterprise/
+community level)Existing
+(niche)  – ~500
+co-ops in U.S.;
+larger sector
+abroadMedium  –
+proven
+concept,
+needs
+support to
+scale in U.S.N/A (members only)  – 
+Varies : profits
+distributed as
+patronage, often ~5–
+20% of wages (could be
+few $k/year per worker
+in profitable co-ops; $0
+for others).
+Consumer/
+Platform
+CooperativesBusinesses (retail
+co-ops, credit
+unions, digital
+platforms)
+owned by
+consumers or
+users; share
+profits or better
+prices.Decentralized
+(many co-ops
+across industries)Existing
+(credit unions,
+mutuals) but 
+Platform co-
+ops in early
+pilot stageMedium  –
+traditional
+co-ops
+viable;
+platform co-
+ops nascentN/A (members only)  –
+e.g. credit union
+members might get
+$50–$200/year in
+patronage/savings;
+larger platform co-ops
+could target a few
+hundred $ per user in
+best cases.14
+14
+ModelImplementation
+& ActorDegree of
+DecentralizationMaturity ViabilityEstimated Annual Per-
+Capita
+Payout <br> Conservative
+– Moderate – Ambitious
+(2025 $)
+Profit-
+Sharing
+Trusts
+(Employee or
+Multi-
+stakeholder)Companies
+establish trusts
+(or are entirely
+trust-owned) to
+share profits
+with employees
+(and/or
+community/
+public). Often
+enabled by
+corporate
+charter or law.Decentralized
+(firm-level
+arrangements,
+sometimes with
+national policy
+impetus)Existing  in
+some firms
+(e.g. John
+Lewis
+Partnership,
+various
+employee-
+owned trusts);
+Proposed  in
+policies like
+UK Inclusive
+Ownership
+Funds.Medium  –
+growing
+interest in
+trust
+ownership;
+requires
+supportive
+legal
+frameworks.N/A (participants)  –
+John Lewis-style
+employee bonus
+historically ~10% of
+salary (~1–2 months’
+pay); proposals like UK
+IOF aimed for ~$600/
+worker/year initial cap.
+Not applicable to non-
+employees.
+Community
+Investment
+Trusts (CITs)Community-
+driven
+investment
+vehicles for local
+assets; residents
+voluntarily buy
+small equity
+stakes, earning
+dividends and
+appreciation.Decentralized
+(neighborhood/
+community-level
+funds)Piloted
+(Portland CIT
+since 2017;
+interest from
+dozens of
+cities)Medium  –
+feasible with
+NGO/
+municipal
+support;
+scaling
+requires
+community
+buy-in and
+legal finesseN/A (voluntary
+investors)  – ~9%
+annual dividend in pilot
+(e.g. ~$90/year on $1k
+invested) . A typical
+low-income investor
+might net $50–$300/
+year in cash dividends
+(plus capital growth).
+Wage-Earner
+Funds
+(Swedish-
+style)Federal policy
+mandates firms
+contribute
+profits or new
+equity shares to
+union/worker-
+controlled funds,
+gradually
+socializing
+ownership.Centralized
+policy,
+decentralized
+funds  (several
+funds managing
+equity for
+workers
+nationally)Piloted
+(Sweden
+1980s:
+acquired ~7%
+of stocks
+before ended)
+; 
+Proposed
+elsewhere,
+not in U.S.Low (U.S.)  –
+politically
+difficult;
+concept
+influential in
+theoryN/A (workers only)  – If
+implemented, could
+eventually pay
+substantial worker
+dividends (e.g. ~$1k to
+several $k per worker
+annually) once funds
+accumulate stakes. Not
+a general citizen
+dividend.28
+35
+15
+ModelImplementation
+& ActorDegree of
+DecentralizationMaturity ViabilityEstimated Annual Per-
+Capita
+Payout <br> Conservative
+– Moderate – Ambitious
+(2025 $)
+Universal
+Basic
+Dividend
+(Public
+Equity Fund)Federal policy
+requires
+corporations to
+issue shares or
+pay equity-based
+levy into a public 
+citizens’ fund ;
+fund pays equal
+cash dividend to
+all residents.Centralized  (one
+national public
+trust owning
+slices of many
+companies)Proposed  (no
+country has
+full UBD fund
+yet; concept
+advocated by
+economists)Low-
+Medium  –
+novel but
+addresses
+automation;
+may gain
+traction
+longer-term$500  – $2,000  – $5,000 +
+per person/year (small
+at first, growing as
+fund’s equity stake
+expands) . Fully
+mature fund could rival a
+modest UBI.
+Land Value
+Dividend
+(Georgist
+model)Governments
+levy land value
+taxes or capture
+land rents, then
+redistribute
+revenue as equal
+payments to
+citizens.Centralized
+collection,
+universal
+distribution
+(could be
+national or local
+implementation)Proposed  (no
+direct U.S.
+citizen
+dividend;
+some LVT in
+use for
+budgets)Medium  –
+economically
+efficient;
+political
+barriers with
+landowners$500  – $2,500  – $5,750
+per adult/year
+(higher end if full land
+rent socialization; lower
+if partial or local-only).
+Carbon Tax
+DividendFederal carbon
+fee on fossil
+fuels; revenues
+placed in trust
+and paid out
+equally (typically
+monthly/
+quarterly checks
+to households).Centralized
+collection,
+universal
+distribution
+(national policy)Piloted/
+Proposed  –
+e.g. Canada’s
+carbon
+rebate, U.S.
+bills pendingMedium  –
+climate
+urgency may
+drive
+adoption;
+bipartisan
+interest as
+fee-and-
+dividend$300  – $800  – $1,500
+per person/year
+(depends on carbon
+price trajectory) .
+(~$500 at ~$40/ton
+rising to ~$1.5k at $100/
+ton).
+Spectrum/
+Data
+Commons
+DividendGovernment
+charges rent for
+spectrum
+licenses and/or
+taxes digital
+platform
+revenues for
+using personal
+data;
+redistributes
+proceeds to
+citizens.Centralized
+(federal
+management of
+spectrum/data
+levy; national
+dividend)Proposed  –
+spectrum
+auctions exist
+(revenues not
+yet used for
+dividends);
+data dividend
+conceptual
+(CA exploring)Low  –
+currently
+minor policy
+focus; could
+grow as
+digital rights
+issue$0 – $50 – $200  per
+person/year (spectrum
+auctions might yield
+<$50 avg/yr; ambitious
+data revenue sharing
+could add up to a few
+hundred $ for heavy
+digital economy
+taxation).636
+4165
+43444546
+5266
+16
+ModelImplementation
+& ActorDegree of
+DecentralizationMaturity ViabilityEstimated Annual Per-
+Capita
+Payout <br> Conservative
+– Moderate – Ambitious
+(2025 $)
+“Baby
+Bonds”  (Child
+Trust
+Accounts)Federal or state
+government
+establishes a
+funded account
+for each child at
+birth, with
+progressive
+contributions
+over childhood;
+accessible at
+adulthood.Centralized
+funding,
+individual
+accounts
+(decentralized
+use by each
+individual at 18)Proposed
+federally
+(Booker/
+Pressley bill); 
+Piloted  locally
+(DC, CT, etc.)Medium  –
+popular in
+inequality
+discourse;
+moderate
+cost, needs
+political
+championN/A (one-time)  – Lump
+sum at 18, not annual.
+Poor children ~$40k–
+$50k, middle-class
+~$10k . (If
+annuitized, might yield
+~$1k–$2k/year in
+interest).
+Universal
+Inheritance
+(Social
+Wealth Grant)Government
+grants a
+substantial sum
+to every
+individual upon
+reaching
+adulthood (e.g.
+18 or 25), funded
+by inheritance/
+wealth taxes or
+collective funds.Centralized
+redistribution,
+individual
+deploymentTheoretical
+(no universal
+grant in
+practice;
+small-scale
+analogues in
+some
+proposals)Low  –
+requires
+major
+wealth
+taxation and
+public
+support for
+large
+transfersN/A (one-time)  – Lump
+sum possibly $50k–
+$100k  per young adult
+in ambitious scenarios
+(could generate a few
+thousand per year in
+investment income or
+equivalent economic
+value if used for
+education/
+homeownership).
+Table  1:  Comparison  of  Distributed  Ownership/Dividend  Models. Note:  “Per-capita  payout”  is
+approximate  and  assumes  full  implementation  of  each  model;  many  are  not  additive  for  the  same
+population (e.g. an individual might benefit from multiple mechanisms).
+Aggregate Potential Income in a Combined Scenario
+If several of the above mechanisms were implemented together at ambitious levels, what  total income
+floor  could  Americans  expect  in  a  post-labor  economy?  It’s  instructive  to  sum  the  approximate
+contributions of different models under a plausible high-end scenario :
+National Social Wealth Fund : ~$5,000 per person annually (assuming a large fund paying a UBD,
+on par with a mid-century target from proposals) . 
+Land Value Dividend : ~$5,000 per adult (full land rent utilization could provide ~$5.7k/adult ;
+perhaps somewhat less if not 100%). 
+Carbon Dividend : ~$1,000 per person (if carbon fees ramp up to meaningful levels, e.g. ~$75/ton
+CO2). 6263
+• 
+6
+• 41
+• 
+17
+Other Rent/Commons Dividends  (spectrum, data, etc.): ~$300 per person combined (e.g. spectrum
+$50, data $100+, other resource dividends like modest mining royalties, etc.). 
+State/Local Dividends : ~$500 per person average (if some states add resource dividends and cities
+offset costs via wealth funds – highly variable; Alaska residents would get more, others less). 
+Work-Based Distributions  (ESOPs/co-ops/worker funds): These would bolster those who are
+employed or participating, but for a universal income  perspective we focus on the above
+universalizable streams. (However , it’s worth noting that widespread worker ownership could raise
+the earned incomes of many by a significant margin, reducing pressure on the purely passive
+income side.)
+Adding these up, an ambitious yet plausible package  could deliver on the order of $12,000–$15,000 per
+person per year  in the mid-to-long term (roughly by 2025 dollars). For context, this is in the ballpark of
+poverty-line income for a single individual in the U.S. and would represent a dramatic shift from the status
+quo. It’s essentially a baseline living income funded by capital and commons, rather than wages.
+To be clear , this figure isn’t certain – it assumes robust political action to enact multiple programs, and the
+high end of what those programs might sustainably pay. For example, $15k per person would require
+trillions  in  collective  assets  and  revenue:  roughly,  a  combination  of  Norway-scale  public  wealth
+accumulation, significant land and carbon rents, and other dividends. Yet none of it is outright utopian:
+Alaska’s fund + a serious carbon fee + a land dividend alone could approach half that amount , and
+adding a national fund and other sources could feasibly reach or exceed the lower end of that range in a
+rich economy. For instance, one estimate finds that just a social wealth fund and carbon dividend together
+might yield around $7k–$8k per adult at maturity , and land value capture could double that .
+Purchasing Power Considerations:  Crucially, in a heavily automated economy, the cost of goods and
+services might significantly decrease due to efficiency gains. If AI and automation lead to, say, a 30–40%
+reduction in the real prices  of many essentials (energy, manufactured goods, basic services), then the
+same dividend income would stretch much further . A combined dividend of $15,000 in nominal 2025 dollars
+could have the effective purchasing power of ~$21,000–$25,000  in today’s terms if prices fell 30–40%. In
+other words, even if people’s money income is somewhat modest, their real standard of living  could be
+closer to what $20k+ buys today, because automation makes everything cheaper . This kind of deflationary
+effect  has  historical  precedent  in  specific  sectors  (think  of  how  computing  power  got  exponentially
+cheaper); if it spreads economy-wide, it boosts the impact of any universal income. Therefore, the effective
+income floor  under the ambitious scenario might be roughly equivalent to the median disposable income
+of a lower-middle class lifestyle today – enough to cover basic needs and then some, especially when
+combined with free or cheap public services that could be funded alongside (healthcare, education, etc.,
+which many proposals also envision).
+It’s important to note that these figures are illustrative estimates . The actual outcomes would depend on
+policy details, economic growth, and distribution choices. Nonetheless, this exercise shows that a multi-
+pronged approach – national wealth sharing + common resource dividends + labor-centric ownership
+reforms + capital grants  – could realistically support a scenario where a large portion of the population’s
+livelihood comes from non-labor income . People would still be free to work (and earn more) if jobs are
+available, but the floor of economic security  would be higher and decoupled from traditional employment.
+In a best-case post-labor economy, an American might receive a national dividend check, a carbon dividend,
+perhaps a state dividend, payouts from cooperative memberships, and have a nest-egg from a baby bond –
+together providing both  steady income and capital stake . And as automation drives productivity and
+lowers costs, those shared gains ensure everyone benefits, not just a few owners of technology.• 
+• 
+• 
+645 41
+18
+Conclusion
+Preparing for a post-labor future calls for rethinking how income and wealth are distributed. The models
+covered in this report offer a toolkit of solutions  to shift from an economy where wages are the primary
+source  of  livelihood  to  one  where  citizens  share  in  ownership  of  wealth  and  common  resources .
+National and local wealth funds can socialize a portion of capital returns; cooperatives and ESOPs can
+democratize private enterprise; rent-based dividends can monetize our common wealth for public benefit;
+and  endowment  accounts  can  give  each  new  generation  a  tangible  stake.  These  strategies  are  not
+mutually exclusive  – in fact, they are complementary and can reinforce each other . For example, robust
+public dividends could work in tandem with employee ownership: citizens get a baseline income, while
+those  who  work  in  cooperative  firms  get  additional  shares  of  the  surplus,  all  contributing  to  broad
+prosperity .
+Policy  and  academic  circles  are  increasingly  exploring  these  ideas  not  as  fringe  experiments,  but  as
+necessary adaptations to technological and social trends. Many of the models have real-world precedents
+(from Alaska to Mondragon to Copenhagen), proving their basic feasibility. The challenge ahead is largely
+political: building the coalitions and public understanding to implement and scale these mechanisms in the
+U.S. context. Issues of governance, financing, and equity will need careful design – for instance, ensuring
+funds are managed transparently and payouts are distributed fairly. But the upside is clear: a society where
+the fruits of capital and innovation belong to everyone , providing material freedom and security even as
+formal jobs become less central. 
+In conclusion, while no single model is a silver bullet, a  diversified portfolio of distributed ownership
+policies  could collectively furnish a sustainable economic floor in a post-labor America. By learning from
+both domestic experiments and international examples, U.S. policymakers can craft a distinctly American
+approach  to  common  wealth  distribution  –  one  that  preserves  entrepreneurial  dynamism  and
+decentralization (through private co-ops and trusts) while also embracing bold public mechanisms (like
+social wealth funds and dividends) to guarantee that no one is left without an income as work changes .
+Such a transformation would fulfill, in modern form, a long-held vision: that technological progress and
+shared ownership of resources enable greater liberty, equality, and abundance for all.
+Appendix: Sources  (selection of citations) 
+Alaska Permanent Fund dividend figures ; analysis of its inequality impact . 
+Matt Bruenig, Social Wealth Fund for America  – proposal for U.S. fund and comparison to Norway
+(Norwegian fund yields ${\sim}25$k per capita if paid out)  and required U.S. fund size . 
+Ryan Cooper , “The case for an American social wealth fund,” noting a potential $6,400 annual
+dividend at scale . 
+Aspen Institute data on ESOPs (10.1 million employees, $1.8 trillion in assets, avg $180k per worker)
+ and wealth-doubling effect of 10% employee ownership . 
+Brookings report on Portland’s Community Investment Trust (9.3% average dividends, share price
+growth) . 
+Yanis Varoufakis on Universal Basic Dividend via equity issuance (Big Tech issuing shares to public
+trust) . 
+Sweden’s Meidner Plan results (wage-earner funds acquired ~7% of stocks by 1991) . • 7 8
+• 
+5 4
+• 
+6
+• 
+14 17
+• 
+28
+• 
+36
+• 35
+19
+Climate Leadership Council on carbon dividends ($2,000/family of4 at ~$40/ton) ; UBI Center
+analysis on poverty reduction and dividend size at $100/ton (~$1,500/person) . 
+Land value tax report (LEP) on funding a UBI of ~$5,750/adult from full land rents . 
+California “data dividend” proposal context . 
+The case for an American social wealth fund | The Week
+https://theweek.com/articles/793320/case-american-social-wealth-fund
+Social Wealth Fund for America ❖ People’s Policy Project
+https://www.peoplespolicyproject.org/projects/social-wealth-fund
+Urban Wealth Funds: A New Approach to City Financing | City-County Observer
+https://city-countyobserver .com/september/
+Employee Ownership and ESOPs: What We Know from Recent Research - The Aspen Institute
+https://www.aspeninstitute.org/blog-posts/employee-ownership-and-esops-what-we-know-from-recent-research-2/
+The Economic Benefits of Employee Ownership - Mathematica
+https://www.mathematica.org/blogs/the-economic-benefits-of-employee-ownership
+Harvard Business Review Touts "Big Benefits of Employee Ownership"
+https://www.menke.com/esop-archives/harvard-business-review-touts-big-benefits-of-employee-ownership/
+Employee Ownership: The Power of the Cooperative Model
+https://www.capitalimpact.org/blog/employee-ownership-cooperative-model-build-wealth-opportunity/
+Worker Cooperatives
+https://uwcc.wisc.edu/resources/worker-cooperatives/
+How worker cooperatives shift power to workers - Prism
+https://prismreports.org/2022/04/11/how-worker-cooperatives-shift-power/
+The Benefits of Worker Cooperatives - Democracy at Work Institute
+http://institute.coop/about-worker-co-ops/benefits-worker-cooperatives
+Every company should contribute 10% of shares for a Universal ...
+https://diem25.org/what-comes-after-capitalism/
+A community investment trust for Portland, Ore. residents to ‘buy back the
+block’
+https://www.brookings.edu/articles/a-community-investment-trust-for-portland-ore-residents-to-buy-back-the-block/
+A Tax on Robots? by Yanis Varoufakis - Project Syndicate
+https://www.project-syndicate.org/magazine/a-tax-on-robots-by-yanis-varoufakis-2024-03
+Land Value Tax | LEP Policy Report
+https://www.economicpossibility.org/reports/land-value-tax
+Carbon dividends as anti-poverty policy
+https://www.ubicenter .org/us-carbon-dividend
+Carbon Dividends | Climate Leadership Council
+https://clcouncil.org/our-solutions/carbon-dividends/• 45
+46 47
+• 41
+• 52 54
+1 6
+2 3 4 5 7 833 34 35 50 51
+910 11
+12 13 14 15
+16
+17 18
+19
+20
+21
+22
+23
+24 25 26 27 28 29 30 31 32
+36 37
+38 39 40 41 42 65
+43 44 46 47 48
+45
+20
+Carbon fee and dividend - Wikipedia
+https://en.wikipedia.org/wiki/Carbon_fee_and_dividend
+The Data Dividends Initiative
+https://www.datadividends.org/
+On 'data dividend' concept, California's Gov. Newsom searches for ...
+https://statescoop.com/on-data-dividend-concept-californias-gov-newsom-searches-for-workable-strategy/
+California Wants To Copy Alaska And Pay People A ‘Data Dividend.’ Is It Realistic? - School of Social Policy
+& Practice
+https://sp2.upenn.edu/press/california-wants-to-copy-alaska-and-pay-people-a-data-dividend-is-it-realistic/
+Cory Booker's "Baby Bonds" Plan-2019-12-18
+https://www.crfb.org/blogs/cory-bookers-baby-bonds-plan
+Study: Cory Booker's baby bonds nearly close the racial wealth gap ...
+https://www.vox.com/future-perfect/2019/1/21/18185536/cory-booker-news-today-2020-presidential-election-baby-bonds
+Yahoo News: 'Baby bonds' bill aims to give ... - Ayanna Pressley
+https://pressley.house.gov/2019/07/26/yahoo-news-baby-bonds-bill-aims-give-children-50000-start-adulthood/
+Newsom wants companies collecting personal data to share the ...
+https://www.latimes.com/politics/la-pol-ca-gavin-newsom-california-data-dividend-20190505-story.html49
+52
+53
+54
+55 56 57 58 61 62 63 64
+59
+60
+66
+21

@@ -14,8 +14,9 @@ def convert_pdf_to_txt(pdf_path: str) -> str:
         text_chunks.append(page.extract_text() or "")
     raw_text = "\n".join(text_chunks)
     # Collapse any run of whitespace (spaces, tabs, newlines) to a single space
-    cleaned_text = re.sub(r"\s+", " ", raw_text).strip()
-    return cleaned_text
+    #cleaned_text = re.sub(r"\s+", " ", raw_text).strip()
+    #return cleaned_text
+    return raw_text
 
 
 def main():

@@ -1,1 +1,887 @@
-Dividends for the Age of Automation: How Economies Are Preparing for a Post-Labor Future In the fall of 1982, every man, woman, and child in the state of Alaska received an unusual check in the mail. Signed by Governor Jay Hammond, the payment was modest—about $1,000 per person—but it marked the birth of a bold experiment. Funded by the state’s new oil wealth, the Alaska Permanent Fund Dividend turned petroleum revenues into a yearly personal income for all Alaskans . Skeptics feared that handing out “free money” would dampen the work ethic, yet life in Alaska went on much as before— fishermen still cast their nets, teachers still taught, and the economy even got a small boost each fall when dividends arrived just in time for winter shopping. Four decades later , with automation and artificial intelligence threatening to upend labor markets far beyond the Last Frontier , policymakers around the world are increasingly looking to Alaska’s example—and many other unconventional experiments—as inspiration for how to prepare for a post-labor economic future . Across city halls, state capitols, national parliaments, and corporate boardrooms, a remarkable set of real- world interventions is taking shape. These programs range from universal basic income trials to public trust funds and cooperative ownership schemes. They aim to answer an urgent question: In a future where robots and algorithms produce more wealth and traditional jobs become scarcer , how can societies ensure that everyone shares in prosperity? The answers being tested are as diverse as the communities pioneering them. In some places, governments are handing out cash stipends to residents as a safety net and stimulus. In others, they are accumulating collective wealth —like land, natural resources, or equity investments—and distributing the returns as social dividends . Still others are restructuring ownership of businesses and housing so that workers and citizens have a direct stake in the economy’s output. This narrative report travels from local neighborhoods to national governments to explore these interventions in action. We’ll visit an oil-funded basic income program in a Brazilian city, community land trusts in American towns, high-tech cooperatives and shortened workweeks in Europe, and sovereign wealth funds from Alaska to ASEAN. Through these stories, a picture will emerge of how developed economies (and some developing ones) are grappling—empirically and concretely—with the coming post-labor world. Before diving into the specific programs, it’s worth briefly framing the challenge. Numerous studies have warned that automation could displace an enormous number of workers in the coming years. A seminal analysis by McKinsey, for example, estimated that between 400 million and 800 million individuals worldwide could be displaced by automation and need to find new jobs by 2030 . On average across advanced economies, roughly one-quarter to one-third of jobs may be highly susceptible to automation within the next decade or two . While new jobs will also be created, the concern is a potential decoupling of productivity from employment— a “post-labor” scenario where machines generate great wealth with far fewer workers . If 20% or 30% of today’s jobs were to disappear or radically change, how will people earn a livelihood? This fear has prompted calls for sweeping policies: some advocate a universal basic income (UBI) paid by the state to all citizens, others suggest taxing robots or data to fund social programs, and still others propose expanding education and work-sharing to soften the transition . 12 3 4 56 1 To move from theory to practice, a growing number of governments and institutions have begun piloting tangible solutions . These solutions often differ from the classic welfare state approach of taxing wages to fund benefits. Instead, many are “unconventional and property-based or market-based” – meaning they seek to distribute non-labor income (like returns on assets, natural resources, or capital) or to redesign ownership structures , rather than relying solely on taxpayers footing the bill. As MIT economist Daron Acemoglu has argued, sustaining broadly shared prosperity in the age of AI will likely require new institutions and incentive structures, much as earlier industrial eras required unions or public education. In a narrative style inspired by Acemoglu’s institutional storytelling, let’s explore these emerging experiments at four levels: local (city/county) initiatives, state/provincial programs, national strategies, and private- sector or market-driven interventions. From City Halls to Neighborhoods: Local Laboratories of the Future One of the most intriguing arenas of innovation is at the city and county level , where local leaders have considerable on-the-ground knowledge of their communities’ needs. Cities have become “laboratories” for post-labor policies, often out of necessity. When national politics are gridlocked or slow, mayors and county officials have stepped in to pilot basic incomes, community trusts, and cooperative enterprises. These local efforts are typically modest in scale, but their impacts are tangible and their stories illustrative. Consider the city of Maricá, Brazil , a coastal municipality of 160,000 people not far from Rio de Janeiro. On a morning walk through Maricá’s downtown, one might notice something different from other Brazilian cities— no trash piles on the streets and far fewer people sleeping rough , as a reporter observed . The reason becomes clearer on spotting a red sign at a pharmacy: “ Compre aqui com seu cartão Mumbuca ,” it reads—“Buy here with your Mumbuca card.” The Mumbuca is Maricá’s local social currency, issued by a city- owned community bank specifically to pay a basic income to residents. Every month, tens of thousands of Maricá citizens receive a stipend in Mumbucas that can be spent at local businesses . This money doesn’t come from taxes on workers, but from a share of oil royalties flowing from offshore petroleum fields. Maricá sits adjacent to the lucrative pre-salt oil reserves, and since 2013 the city has channeled part of its royalties into what it calls a “Renda Básica de Cidadania” – a citizen’s basic income guarantee .7 89 1011 2 A pharmacy in Maricá, Brazil advertises that it accepts payment via the Mumbuca card, a local currency through which the city distributes an oil-funded basic income to residents. The Maricá program started by targeting the town’s poorest families, but it has grown into perhaps the world’s largest basic income pilot by coverage . As of 2022, about 42,000 residents – roughly one- quarter of the population – were receiving the monthly stipend . Each beneficiary gets 170 Mumbucas a month (pegged 1:1 to the Brazilian real, so about R$170, roughly US$35) regardless of whether they work or not . Indigenous residents receive a higher amount (300 Mumbucas). There are basic eligibility rules – one must have lived in Maricá for at least three years and have a household income below three times the minimum wage – but the city’s explicit goal is to expand the program to all residents over time , effectively achieving a local UBI . To make that sustainable, Maricá’s government established a sovereign wealth fund at the municipal level , saving at least 5% of oil revenues for the future . The city also created Banco Mumbuca , a public digital bank through which the funds are disbursed and managed . Walking into Banco Mumbuca’s modest branch (a one-story building with the sign “Banco Comunitário Popular de Maricá”), one is witnessing a microcosm of a “post-labor” economic institution. The bank’s mission is not profit, but social inclusion: it not only distributes the basic income but also offers zero- interest microloans to local entrepreneurs and housing improvement loans in Mumbucas . Because merchants in Maricá know that thousands of customers will reliably have Mumbucas to spend each month, businesses readily accept the currency (over 3,000 establishments take it, from grocers to hair salons) . In essence, Maricá has engineered a virtuous cycle in which oil wealth – a form of community property – is converted into consumer buying power for the many , stimulating the local economy and lifting living standards. The results have been striking. Local poverty rates fell and quality of life improved visibly; even during the COVID-19 pandemic, Maricá was able to boost the monthly stipend temporarily to shield its people from hardship . Research teams from Brazil’s Fluminense Federal University and New York’s Jain Family Institute are now studying Maricá’s experiment closely, as its scale allows analysis of broader impacts on inflation, employment, and health . While Maricá is a unique case of a resource- rich city, it offers a powerful narrative: a city government turning technology and resource wealth into a social dividend , foreshadowing what larger polities might do. Maricá’s story parallels that of Alaska in important ways (the oil fund, the dividends), but it is unfolding at the level of a city. And Maricá is not alone. Other cities around the world are testing versions of local basic incomes , often motivated by automation and job insecurity. In the United States, for instance, the city of Stockton, California made headlines in 2019 as one of the first in the country to pilot a “no-strings- attached” income for its residents. Stockton’s young mayor at the time, Michael Tubbs, launched the Stockton Economic Empowerment Demonstration (SEED) , giving $500 per month to 125 randomly selected low-income residents. Though modest in size, the Stockton pilot yielded promising outcomes: after a year , recipients had lower financial volatility and reported improved mental health; notably, they were more likely to find full-time employment than a control group, undermining the stereotype that free money makes people stop working . The success of Stockton’s experiment helped ignite a movement. By 2021, dozens of U.S. mayors—from Los Angeles to St. Paul to Jackson, Mississippi—had formed a coalition called Mayors for a Guaranteed Income , and more than 30 cities and counties launched their own pilots . Many of these programs have been funded by philanthropy or one-time federal COVID-relief grants, but they are teaching by doing . For example, Cook County, Illinois (which includes Chicago) rolled out the nation’s largest county-level basic income trial in 2022: using $42 million of federal pandemic funds, the county provided $500 monthly to 3,250 randomly selected low-income families for two years .1213 89 14 11 15 1617 18 19 20 2122 2324 25 2426 3 Early results from Cook County’s “Promise” pilot are encouraging – participants reported significantly reduced stress and increased financial stability, leading the county to explore options to continue or expand the program . These local pilots, while not (yet) permanent or universal, demonstrate the feasibility of delivering regular income outside of employment. And critically, they build political narratives at the grassroots: beneficiaries become outspoken supporters, and data from these communities show cash stipends can improve well-being without halting people’s job-seeking . Local initiatives are not limited to cash transfers. Another class of city- and county-level interventions focuses on property and ownership models to bolster economic security. Take Community Land Trusts (CLTs) – nonprofit entities that acquire land and hold it “in trust” on behalf of a community, ensuring it is used for affordable housing, local business, or green space rather than pure profit. The CLT model, first developed by civil rights activists in the 1960s, has seen a resurgence as cities grapple with soaring housing costs and inequality. By separating the ownership of land from the ownership of homes on that land, CLTs make housing more affordable and shield residents from market speculation . A famous early example is the Dudley Street Neighborhood Initiative in Boston, which transformed a disinvested area into a thriving mixed-income community through a CLT that gave residents control over development. New York City , recognizing the value of CLTs, has actively supported their expansion in recent years: the city’s housing department partnered with neighborhood nonprofits to create CLTs in the Bronx and Queens, helping preserve hundreds of affordable homes in perpetuity . London, UK has also embraced the concept; the London Community Land Trust developed dozens of homes sold at prices linked to local incomes (not market rates), letting teachers and nurses buy flats in areas that would otherwise be unaffordable. These city-backed CLTs represent a property-based intervention where the asset (land) is held collectively and its value benefits residents (through lower rents or shared equity) rather than absentee landlords. In a post-labor context, such models mean that even if a person’s job income is low or unstable, their housing costs remain manageable and their community retains wealth . As one CLT homeowner in Portland put it, “the gift of stability and pride is just something that I could never repay,” noting that without the trust’s help she would have been perpetually priced out of ownership . A related strategy at the local level is fostering worker-owned cooperatives and employee-owned businesses . If automation threatens traditional jobs, one way to empower workers is to make them owners of the enterprises that survive (or the new ones that emerge). In the aftermath of the 2008 financial crisis, New York City launched a novel program to seed worker cooperatives as a tool for poverty reduction. In 2015, the NYC Council earmarked $1.2 million in the city budget to create the Worker Cooperative Business Development Initiative (WCBDI) . Through partnerships with nonprofits, this initiative helped incubate new worker co-ops and convert existing small businesses into employee ownership. The results in the first year included 21 new cooperatives and 141 new worker-owner jobs created , doubling the number of co-ops in the city . Buoyed by this success, New York expanded funding for the program in subsequent years . These cooperatives span industries from home cleaning services to bakeries to tech startups. While tiny in the context of NYC’s overall economy, the initiative demonstrated a key principle: with modest public support, the cooperative sector can grow, giving workers a direct share of profits and decision-making . Other cities have taken note. For instance, Cleveland, Ohio (a mid-sized Rust Belt city that lost much of its manufacturing base) pioneered the “ Evergreen Cooperatives ” model. In Cleveland’s impoverished Glenville neighborhood, a coalition of the city government, a local foundation, and major hospitals came together to launch worker-owned companies that serve those hospitals (like a green-energy laundry cooperative handling hospital linens) . Over a decade, Evergreen’s co-ops grew to employ over 200 formerly low-income residents as worker-owners, building wealth in a place that capitalism had left behind . This “Cleveland Model” of community wealth building treats anchor institutions2324 27 2829 30 31 32 33 34 35 36 4 (universities, hospitals, city agencies) as engines to drive demand to worker-owned firms, thereby anchoring the benefits of commerce locally . In Europe, similar efforts are visible in cities like Preston, England , which after 2011 embraced the “Preston Model” of community wealth building – the city council and local anchors redirected procurement contracts to local businesses and cooperatives, spurring the formation of new worker-owned companies and keeping more money circulating in the local economy . By 2018, Preston was lauded as one of the UK’s most improved communities economically, precisely because of these inclusive ownership efforts . These city-level stories – whether it’s Maricá’s oil-funded basic income, Stockton’s cash transfers, New York’s co-op incubator , or Preston’s localist renaissance – share a common narrative arc. Each responds to the stresses of the modern economy (inequality, automation, disinvestment) by changing the flow of resources at the community level . Money is being re-routed directly into people’s hands or into community institutions , rather than trickling down via traditional wages or external investment. The institutional, economic, and political contexts naturally vary: Maricá’s leftist local government leveraged an oil jackpot and faced initial skepticism from Brazil’s political class, whereas Stockton’s centrist mayor relied on philanthropic funding and had to convince a cautious public that a guaranteed income wouldn’t be squandered. New York’s coop program was born from progressive city council members seeing worker ownership as an equity strategy, while Preston’s came from a socialist city council reacting to austerity. In all cases, local leadership and community buy-in were critical . Often these programs began as pilot projects needing champions—be it an activist mayor , a determined nonprofit, or a citizens’ movement. As we shall see, similar dynamics play out at larger scales, too, but the local level is where abstract ideas become concrete people’s stories. And it is through those stories (a single mother able to buy a home through a land trust, or an unemployed father starting a dignified job at a coop laundry) that broader societal attitudes toward post-labor policies begin to shift. State and Provincial Innovations: Sharing Wealth Beyond Wages Scaling up from city halls, we find that many state-level or regional governments (in federal countries) are also experimenting with post-labor strategies. States often control substantial resources—budgets, natural assets, regulatory powers—and thus can implement interventions with broader reach than any one city. Some of the world’s most notable “alternative economy” programs operate at the state or provincial level, from sovereign wealth funds to state-sponsored employee ownership incentives . The quintessential example is again Alaska , which, although a U.S. state, essentially runs a program akin to a national wealth fund. The Alaska Permanent Fund , created by a 1976 constitutional amendment, takes at least 25% of the state’s mineral royalties (mostly oil revenues) and invests them in a diversified global portfolio . Every year , a portion of the fund’s investment earnings is paid out as the Permanent Fund Dividend (PFD) to all residents. Over time, this system has turned a depleting natural resource into a renewable source of citizen income. By 2021, the fund had grown to over $64 billion, and annual payouts typically range from $1,000 to $2,000 per person (for instance, the dividend was $1,114 in 2021) . In big years when oil prices were high, the dividend peaked at over $3,200 (in 2008, under Governor Sarah Palin) . For a family of four , such payments can be significant: roughly $4,000–$8,000 total in extra income in a year . Crucially, the PFD is unconditional . Whether you’re a barista or unemployed, a millionaire or living on subsistence hunting, as long as you’ve been a resident for a full calendar year , you get the same check. 37 3839 38 4041 1 1 1 5 The social impact of Alaska’s dividend has been well-studied, and it offers perhaps the closest thing we have to a real-world glimpse of a universal basic income in a developed economy. Studies have found that the PFD significantly reduces poverty and inequality in Alaska – one analysis showed it cut the number of Alaskans living below the poverty line by 20–40% compared to what it would be without the dividend . It has been especially beneficial for rural and Indigenous communities, where subsistence economies mean cash income is otherwise scarce . Politically, the dividend is enormously popular across the spectrum, viewed as an “earned” share of common wealth . Interestingly, fears that a no-strings cash payment would deter people from working have not materialized. A 2018 study by economists at the University of Chicago found no overall reduction in employment due to the PFD , though it did observe a slight increase in part-time work (people working a bit less, perhaps spending more time with family or on subsistence activities) . Essentially, Alaskans kept working at roughly the same rates, just with a financial buffer that improved their quality of life . One could say that Alaska, with its rugged individualism, accidentally implemented a form of commonwealth sharing that many utopian futurists had only theorized. And it did so at the initiative of a Republican governor in the 1970s, underscoring that such ideas need not be partisan . Other U.S. states haven’t (yet) copied Alaska’s dividend, largely because few have comparably large, untapped revenue streams like oil. However , several states manage trust funds that, while not paying dividends directly to individuals, support public services and could be models for future citizen payouts. For example, Texas and New Mexico have long-standing permanent school funds fueled by oil and gas leases on state lands—these funds generate income for education budgets, indirectly benefiting citizens by funding schools. In recent years, policy thinkers have suggested modernizing such funds into more direct “social wealth funds” . One prominent proposal from the People’s Policy Project envisions creating a national fund in the U.S. that would invest broadly and pay a universal dividend, similar to Alaska’s but at country scale . If Alaska’s $60 billion fund was about 113% of the state’s GDP in 2017, a comparable fund for the entire U.S. would need to be on the order of $20 trillion in assets . While such a transformation hasn’t occurred federally, states like California have toyed with related ideas , such as Governor Gavin Newsom’s 2019 call for a “Data Dividend” that would make tech companies pay Californians for the use of their personal data . Though still conceptual, the “data dividend” notion echoes Alaska: treat personal data as a resource like oil, and let citizens benefit from the profits companies reap from that data . As of 2025, California has not implemented a data dividend, facing complex questions on how to value and collect such payments . But the mere fact a major state floated the idea indicates how mainstream the quest for market-based income supplements has become. Another state-level policy gaining traction is “baby bonds” , which, rather than paying out income regularly, aim to endow every child with a capital account that matures in young adulthood. This concept, championed by economists like Darrick Hamilton, is a way to tackle wealth inequality at its roots (particularly racial wealth gaps). The state of Connecticut became a trailblazer by enacting the nation’s first fully funded baby bonds program in 2021. Under Connecticut’s law, every baby born on or after July 1, 2023, whose birth is covered by Medicaid (meaning lower-income families) is granted a $3,200 investment by the state . These funds are pooled in a trust managed by the state treasury. By the time the child reaches adulthood (age 18–30), the account is projected to grow to roughly $10,000–$24,000 (depending on market returns and how long it accrues) . At that point, the young adult can claim the money for specific asset-building purposes—such as buying a home, paying for college or job training, starting a business, or investing for retirement . To ensure prudent use, Connecticut requires beneficiaries to complete a financial literacy course . The program, financed initially by a bond issue, is fully funded for at least 12 years of births (approximately 15,000 children per year) . Connecticut’s baby bonds directly respond42 43 2 27 227 44 4546 4645 47 48 49 5051 52 5354 52 5556 6 to the concern that the next generation may find it even harder to get started in life if decent jobs are scarce . By guaranteeing a nest egg to those who need it most, the state is providing a form of universal basic capital , rather than income. Politically, the program garnered broad support as a one-time investment in future prosperity—framed less as a giveaway and more as seeding “future taxpayers.” Following Connecticut’s lead, other states have considered similar moves. In 2023, a coalition in Washington, D.C. (which isn’t a state but a city with some state-like powers) launched its own baby bonds program for low-income newborns, and legislators in states like New Jersey and Washington have introduced bills to create baby bonds trusts . At the federal level, Senator Cory Booker and Congresswoman Ayanna Pressley have repeatedly pushed for a national Baby Bonds program (the American Opportunity Accounts Act) which would give every U.S. child a $1,000 account plus annual contributions up to $2,000 for the poorest families . While not yet passed, this idea is gaining momentum with endorsements from major economics scholars and even the Biden administration’s officials discussing it as a tool for equity. State governments are also innovating in empowering workers through ownership . Employee ownership has traditionally been encouraged by federal policy (for instance, the U.S. offers tax advantages to Employee Stock Ownership Plans, or ESOPs). But some states are going further to smooth the path for businesses to become employee-owned, seeing it as a way to preserve jobs and root wealth locally . A standout case is Colorado , whose Governor , Jared Polis, declared early in his term an ambition to make Colorado “the employee ownership capital of the U.S.” The state created a specialized Employee Ownership Office and rolled out financial incentives to encourage conversions. In 2021, Colorado enacted a refundable tax credit covering 50% of the costs (up to $25,000 or more) for businesses that convert to employee ownership , whether as ESOPs, worker cooperatives, or employee trusts . This credit helps with the legal, accounting, and transaction expenses that often deter small businesses from selling to their employees. By 2025, Colorado’s legislature was expanding these incentives: a new bill (passed in May 2025) boosts the credit to 75% of conversion costs and even provides a state capital gains tax exclusion for business owners who sell to their employees . In other words, if a retiring entrepreneur sells her company to the workers instead of an outside buyer , she not only gets federal ESOP tax breaks but also pays no state capital gains tax on the sale – a substantial reward. The policy garnered rare bipartisan support, framed as a way to keep businesses locally owned and strengthen the middle class without heavy government spending (the foregone tax revenue is relatively small and arguably offset by keeping jobs in- state). Colorado’s program is already helping dozens of firms transition to employee ownership, ranging from breweries to tech firms. Likewise, states like Massachusetts , California , and Ohio have launched employee ownership centers that provide technical assistance and loans for such transitions . Internationally, we see analogous policies: Italy’s Marcora Law , in effect for over 30 years, enables workers to take over firms that are closing by pooling their unemployment benefits and receiving matching funds from the government. The Marcora Law has facilitated the creation of over 250 worker-owned firms and saved or created around 9,300 jobs by 2015 . In this model, rather than letting a factory go bust and lay off 100 people, the Italian state helps those workers buy it out and run it themselves, turning jobless workers into cooperative entrepreneurs. Such laws recognize that workers can be owners and innovators, not just labor inputs – a critical mindset shift in a post-labor economy. It’s worth noting that state-level experiments don’t always succeed or scale up. Finland provides a cautionary tale: its national government (which plays the role of a state in a European context) carried out a high-profile basic income trial in 2017-2018 , giving 2,000 unemployed Finns a monthly €560 check with no conditions. The results, published in 2020, showed no significant increase in employment among the basic income group compared to a control group , but did find higher life satisfaction and lower stress5758 5960 6162 6162 6364 6566 7 among recipients . Finnish participants reported feeling happier and healthier , even though they weren’t more likely to find jobs than those on traditional unemployment benefits . Politically, however , the incoming government in 2019 chose not to extend or expand the experiment, focusing instead on other welfare reforms. The lesson some drew is that while basic income can improve well-being, it might need to be paired with other policies to deliver on employment or cost-of-living concerns. Nonetheless, Finland’s test – the first national-level UBI pilot in a developed country – broke a taboo and inspired others. In its wake, Spain announced in 2020 that it would implement a form of minimum income (focused on the poorest households) , and regions like Catalonia and cities like Barcelona initiated their own guaranteed income trials. Meanwhile, some state actors are tackling the future-of-work problem from the angle of work reduction and redistribution . If we anticipate fewer traditional jobs, one response is to share the remaining work more evenly – for example, through a shorter workweek . In 2022–2023, the UK conducted the world’s largest four-day workweek pilot , coordinated by academics and the nonprofit 4 Day Week Global. Some 61 companies (from banks to marketing agencies to a fish-and-chip shop) reduced their workweek to 32 hours (with no pay cut) for six months as a trial. The outcomes were striking: 56 out of 61 companies decided to continue the four-day week after the trial, and 18 made it permanent . Employee burnout fell, self-reported health and work-life balance improved dramatically, and importantly, business productivity and revenues did not suffer – in fact, many firms saw performance improve . This suggests that at least in certain industries, we may already be at a point where a five-day grind isn’t necessary for strong output, thanks to technology gains. A parliamentary committee in Wales even urged moving to a 32-hour week nationally, seeing it as beneficial for society . While not a direct financial support like UBI or a dividend, a shorter workweek is another tool for a post-labor future : it spreads work among more people (potentially reducing unemployment), and gives workers more leisure or time for caregiving, education, or creative pursuits. Some governments are starting to incentivize this: for instance, Spain’s national government launched a modest grant program in 2021 to help companies pilot a four-day week , aiming to gauge impacts on employment. If widely adopted, such policies might mitigate job loss by essentially creating jobs out of what used to be overtime or overwork . The experiences at the state level underscore an important theme: institutional context and political will are decisive . Alaska’s dividend survived and thrived because it was constitutionally protected and became politically untouchable (though even Alaska has seen recent fights over the size of the PFD when oil revenues fluctuated). Connecticut’s baby bonds came about through a rare alignment of progressive vision and budgetary commitment in a small state. Colorado’s employee ownership push worked because it tapped into a business-friendly way to achieve worker empowerment – offering carrots (tax breaks) instead of sticks. Finland’s basic income, by contrast, was cut short partly due to political change and the critique that it “didn’t increase employment.” What these examples collectively illustrate is that there is no single silver bullet for the post-labor economy. Rather , governments are trying a portfolio of solutions : some directly redistribute cash or assets, others reshape how work itself is organized. When combined, these can reinforce each other – for instance, a baby bonds program (wealth at 18) could complement a UBI (income throughout life) and a shorter workweek (more free time), together providing security, opportunity, and balance. National Strategies: From Welfare States to Innovation States At the national (federal) level , the conversation about a post-labor future often intersects with debates about the role of the state in economic life. Many developed countries have extensive welfare systems –6768 6768 69 7071 7273 74 8 unemployment insurance, public pensions, etc. – but those were built in an era predicated on most adults having stable jobs. The challenge now is to update or overhaul these systems for an era when stable jobs may be fewer , gig work and automation more prevalent, and economic inequality driven not just by income but by ownership of technology and intellectual property . Some national governments are pursuing quite radical proposals . One example is the idea of a “universal basic dividend” drawn from shared capital. We’ve seen this concept with Alaska (at a state level) and in proposals like the U.S. social wealth fund. Internationally, the concept has found resonance in unexpected places. Mongolia , a lower-middle-income country, briefly implemented a quasi-UBI in the 2010s by distributing dividends from a mining wealth fund. In 2010, as Mongolia began exploiting large copper and coal deposits, the government set up a Human Development Fund and promised to pay every citizen a cash share of mining profits. Initially, Mongolians did receive some payouts (and some in-kind transfers like healthcare and education benefits) . However , due to swings in commodity prices and political changes, the program became unsustainable and was eventually scaled back. Mongolia’s experiment highlighted both the potential and pitfalls: resource booms can fund generous dividends, but busts can threaten them without prudent saving (Norway’s success with its oil fund stands in contrast, as Norway strictly limits withdrawals to preserve capital ). On the other hand, Norway – a wealthy nation – provides a model of a national fund that, while not paying checks directly to citizens, effectively underpins a post-labor social contract. Norway’s Government Pension Fund Global , often just called the “Oil Fund,” is the largest sovereign wealth fund in the world, exceeding $1.7 trillion in assets by 2025 . The fund owns on average 1.5% of all listed companies in the world – meaning every Norwegian literally has a sliver of ownership in thousands of enterprises worldwide. By design, the fund’s principal isn’t spent; instead, the government may use up to 3% of the fund’s value each year (the expected real return) to finance public services . In practice, this rule means the oil fund covers nearly 20% of Norway’s government budget annually . The benefits manifest as free education, universal healthcare, robust job retraining programs, and generous unemployment and parental leave – elements of a welfare state that cushion Norwegians against labor market disruptions. As one analysis put it, the oil fund contributes to Norway having one of the highest public spending rates per capita, effectively using returns on capital to augment the social safety net . While Norway hasn’t adopted UBI (why pay a UBI when public services are already ample and unemployment is low?), it has achieved something subtly different: a state guaranteed income floor via services and social insurance, funded largely by nonlabor income (oil and investments) . For Norwegians, the worry of a “post-labor” future is tempered by the knowledge that the national wealth is literally working on their behalf, even if they personally are between jobs or studying. Other nations have explored or implemented direct transfer schemes with various twists. Canada has a history with basic income experiments, starting with the 1970s “Mincome” pilot in Dauphin, Manitoba (which showed positive social outcomes like reduced hospitalization and better school performance). In recent years, the province of Ontario launched a basic income trial in 2017, providing about CAD $17,000 annually to thousands of adults in several cities. Though it was prematurely canceled in 2018 after a change in government, follow-up surveys indicated improvements in recipients’ health and employment prospects (many used the stipend to return to school or start small businesses). The federal Canadian discussion has since shifted to ideas like a guaranteed minimum income through the tax system. During the COVID-19 pandemic, Canada (like the U.S.) effectively ran an emergency basic income for many: the CERB program gave $2,000/month to workers who lost income, proving the administrative feasibility of rapid cash support. Similarly, the United States found itself conducting an unintentional trial of universal income in 2020–202175 7677 78 79 8081 77 82 9 through the stimulus checks. The federal government sent out three rounds of checks to most households ($1,200, $600, and $1,400 per adult in successive packages) as well as expanded child credits. The impact was dramatic: the U.S. poverty rate fell to 9.1% in 2020, the lowest on record , once those payments were accounted for – down from 11.8% in 2019 . It’s estimated that the stimulus lifted 11.7 million Americans out of poverty in 2020 . This unprecedented reduction was sadly temporary (poverty rose again after the one-time payments stopped), but it made a powerful point: direct cash from the government can swiftly and effectively improve material well-being . The political lesson in the U.S. has been more mixed, however . While many voters appreciated the help, there’s also been backlash over inflation concerns and a return to partisan divisions on government spending. It shows that sustaining such measures in normal times is a separate challenge from deploying them in crisis. Some national governments are thinking beyond income, towards ensuring citizens have stakes in productive assets . The British Labour Party, for example, went into the 2019 UK election with a proposal for an “Inclusive Ownership Fund” (IOF). Under that plan, every large company would transfer a small percentage of its shares each year into a fund owned by workers, up to a 10% total. The workers would get dividends from these shares (capped annually, with any extra potentially going to a national fund for public services) . Although Labour lost that election and the policy didn’t materialize, the IOF idea was an innovative attempt to socialize a portion of corporate wealth in a market-compatible way – effectively creating a nationwide employee ownership program by mandate. It confronted the issue that while labor’s share of income has been falling in many countries (partly due to automation and globalization), capital’s share (profits) has been rising. An IOF or social wealth fund that captures some of those profits and redirects them to workers or the public could rebalance that distribution without waiting for wages to catch up. In a similar vein, economists like Yanis Varoufakis have proposed a “universal basic dividend” funded by equity: he suggested that a percentage of all new stock issuances (e.g. when companies do IPOs) be allocated to a public fund, which would then distribute a dividend to all citizens. Such schemes haven’t been implemented yet, but they are being actively discussed in policy circles of the EU and beyond . Finally, it’s notable that some BRICS countries (Brazil, Russia, India, China, South Africa – large emerging economies) are also grappling with these ideas, albeit in different ways. We saw Brazil’s municipal pioneer in Maricá, but at the federal level Brazil also has a law on the books (championed by former Senator Eduardo Suplicy) declaring the goal of eventually instituting an unconditional basic income. For now, Brazil’s primary tool has been Bolsa Família (now Auxílio Brasil) – a targeted conditional cash transfer to poor families, which lifted millions from extreme poverty but is not universal. Brazil’s vigorous civil society keeps the UBI idea alive, and it’s possible the country’s massive new offshore oil finds could fund broader social dividends if managed well (imagine a national version of Maricá’s scheme). India , facing the world’s largest forthcoming workforce and also rapid automation in some sectors, had serious discussions about basic income around 2016–2017. India’s 2017 Economic Survey even advocated a quasi-UBI for the poor to streamline the myriad of subsidies . While a nationwide UBI didn’t happen, India has enacted partial measures: a direct cash program for farmers, and, notably, the MNREGA rural employment guarantee which, while labor-based (guaranteeing 100 days of paid work to every rural household), serves as a de facto income floor in villages. MNREGA has been called a form of “employment-based basic income,” injecting cash into rural areas and reducing distress migration. In China, the approach has been different: the state maintains a tighter grip on the economy through state-owned enterprises (SOEs) and a household registration system. While no UBI exists, China has expanded its dibao (minimum income guarantee) in cities and rolled out near-universal pensions in rural areas. Interestingly, China’s extensive investments in AI and robotics coexist with a political emphasis on employment – the Party has at times directed companies and local governments to ensure redundant workers are retrained or absorbed elsewhere. Some Chinese83 8485 8683 8788 8788 75 10 tech companies have mused about UBI (Jack Ma of Alibaba once suggested a 12-hour workweek and payments for all as a distant goal), but these remain musings. Instead, China seems to be pursuing a model of state capitalism where the dividend of automation partly flows to the state (via SOE profits and taxes) which then provides social services . We see, then, at the national level a spectrum from direct basic incomes (Finland’s trial, pandemic stimulus) to public capital ownership and dividends (Alaska, Norway, proposed wealth funds) to labor market policies like job guarantees and workweek reductions (India’s rural jobs program, Europe’s four-day week movement). Each country’s choices reflect its institutional DNA: its political culture, economic structure, and public attitudes. What’s common is the growing recognition that the old assumption—full employment as the sole guarantee of a decent life—may not hold in the future . Governments are beginning to say, “If the economy doesn’t need all of us to work all the time to produce abundance, then why should income and wealth be tied so tightly to labor? Let’s find new ways to distribute the fruits of progress.” It’s a profound shift from the 20th-century welfare paradigm, and it raises as many questions as answers (how to fund it, how to keep it fair , how to prevent political backlash). But through trial and error , pieces of a new paradigm are materializing. Market and Private-Sector Pathways: New Alliances for a Post-Work World Not all solutions are coming from government. The private sector and civil society are also active in shaping a post-labor landscape. In some cases, businesses and markets themselves can be vehicles to spread economic benefit more broadly—sometimes with a nudge from policy, sometimes through voluntary leadership or emerging norms. One approach is through corporate governance reforms that encourage sharing profits with workers or even the public. We touched on the UK’s inclusive ownership proposal. In practice, some companies already operate on variants of this principle. For instance, the John Lewis Partnership in Britain (which owns John Lewis department stores and Waitrose supermarkets) has been 100% employee-owned for decades, with employees receiving annual profit shares (and having say in governance) – essentially a built-in income supplement when times are good. Spain’s Mondragón Corporation , the world’s largest federation of cooperatives, employs over 80,000 people who are worker-owners; Mondragón’s model ensures that even assembly-line workers have ownership dividends and a vote in strategic decisions, and the enterprise network provides social services like a cooperative university and health insurance. These are legacy examples, but their success has inspired a new generation of startups to choose cooperative models or innovative ownership structures (such as “steward-ownership” where a company is held by a trust that ensures profits serve a mission). While cooperatives remain a small fraction of most economies, the digital economy has given rise to talk of “platform cooperatives” – worker-owned alternatives to Uber , Airbnb, etc. In 2021, a group of New York City drivers launched The Drivers Cooperative , a ride-hailing app owned by the drivers themselves, aiming to give them higher earnings per ride and annual dividends. Similarly, freelance creatives have started forming cooperatives to collectively negotiate with gig platforms. If these efforts gain traction, we may see a market-driven correction to the gig economy’s lopsided profit distribution , allowing those who do the work to capture more of the value even if their “boss” is an algorithm. 11 Another private-sector contribution is coming from the tech industry’s involvement in UBI research . Several tech leaders who foresee automation displacing jobs have put money into exploring basic income. The OpenAI CEO Sam Altman has funded a project called Worldcoin that aims (controversially) to create a cryptocurrency and give a share to every person on earth as a sort of global UBI (though as of 2025 it’s still in experimental stages and has raised privacy concerns). More concretely, the startup accelerator Y Combinator sponsored a multi-year basic income research trial in Oakland, California, providing cash transfers to a group of families to see how it affects life outcomes (this is ongoing). GiveDirectly , a nonprofit, raised millions in donations to launch a long-term basic income experiment in rural Kenya, supporting entire villages with a modest UBI for over a decade and rigorously measuring the results. Early findings show improved nutrition, investment in small businesses, and mental health benefits for recipients . These philanthropic and private experiments not only generate data, but they also serve to normalize the concept of unconditional cash support in realms outside government welfare. They frame it as an investment in human potential rather than charity. As one Silicon Valley supporter put it, “We need to decouple survival from employment.” Of course, the tech sector has its self-interest: a consumer base with some guaranteed income could spend more on tech services; and companies with fewer employees might prefer consumers to have alternative incomes so demand for products stays high. Yet, regardless of motive, the involvement of private capital has broadened the coalition pushing post-labor ideas. Market mechanisms are also being explored to fund these interventions without raising traditional taxes. One intriguing idea is the “carbon dividend.” This approach would impose a fee on carbon emissions (charging companies for their fossil fuel use) and then rebate 100% of the revenue back to citizens as equal payments . It’s a climate policy that doubles as a basic income of sorts. A plan along these lines was advocated by a bipartisan group of U.S. statesmen (the Climate Leadership Council’s plan) and a version was trialed in Canada: Canada’s federal carbon tax actually rebates most of the money back to households as a “climate action incentive” check. In 2021, the average Canadian family got about CAD $600 back – more than many paid in higher fuel costs – effectively making it a net gain for lower-income families and an extra income source except for the biggest polluters. While intended primarily to win support for carbon pricing, it incidentally models how fees on negative externalities (like pollution or perhaps AI-caused unemployment) could fund universal dividends . Imagine a future “robot tax” where companies that replace workers with AI pay a fee that bankrolls a citizen dividend or retraining fund. In fact, the idea of a robot tax was floated by no less than Bill Gates in 2017, and South Korea took a mild step by reducing tax incentives for automation investments (a de facto partial robot tax) in 2018 . The EU even debated (but did not pass) a resolution on taxing robots. Although not implemented at scale, these discussions point toward market-aware solutions: if technology yields efficiency gains, skim a bit off and share it broadly. The financial industry is also finding opportunities in the post-labor transition. Consider the rise of impact investing in projects like affordable housing, community solar power , or microenterprise development, often structured to give modest but steady returns. These are essentially private sector attempts to create assets that deliver social outcomes and income streams. A community land trust might issue bonds to investors to buy land, then repay them via the ground lease fees from residents—channeling private investment into communal assets. Social impact bonds (SIBs) go a step further: private investors fund a social program (say, job training for displaced workers) and the government repays them (with interest) only if the program achieves specified success metrics (like employment rates). SIBs align profit with social good, though their track record is mixed and they are complex to manage. Still, they reflect a trend of blurring lines between public and private roles . If government budgets are strained to fund UBI or job guarantees, could private financing bridge the gap, expecting that a healthier , more skilled population43 89 6 12 eventually leads to economic gains that pay back the investment? It sounds speculative, but some economists are exploring such models under names like “UBI bonds.” Even within traditional corporations, there is a push for more stakeholder-oriented models that could indirectly support a post-labor economy. Movements for corporate social responsibility (CSR) and Environmental, Social, and Governance (ESG) criteria pressure companies to treat workers and communities not just as means to profit but as ends themselves. Companies like Patagonia (which famously redirected its profits to environmental causes by transferring ownership to a purpose trust) and Unilever (which has long touted its equitable supply chain practices) are held up as examples that you can “do well by doing good.” If more corporations ensure living wages, upskilling for their employees, or even provide equity to employees (like many tech startups do through stock options), then even as overall labor demand shifts, those who are employed might have greater financial resilience and flexibility. For instance, it’s not uncommon now for rank-and-file tech employees to have stock worth tens of thousands of dollars; in effect, they have a second form of income (capital gains) alongside their salary. That’s not universal, but it’s more prevalent than a generation ago. A challenge remains to extend such ownership culture to service sectors and gig workers. One emerging idea is to let gig workers collectively negotiate for equity in the platforms they sustain – perhaps drivers could earn small Uber stock grants per 1,000 rides, for example. This hasn’t materialized yet in mainstream gig companies, but alternate models are popping up, like delivery co-ops. Lastly, the private sector is crucial in the realm of education and retraining , which, while not a direct wealth distribution, is key to any transition. Many large employers now partner with government or pay out of pocket to retrain workers whose jobs are being phased out. For example, AT&T undertook a multi-billion dollar initiative to retrain tens of thousands of its employees in new tech skills when old telephone network jobs became obsolete. Some European countries (like Germany ) have long had strong systems of apprenticeship and vocational training funded jointly by industry and government, which can be repurposed to train people for “jobs of the future” that automation creates (e.g., robot maintenance, AI oversight) while easing them out of jobs of the past. If done well, this can reduce the number of people who end up needing UBI in the first place. However , given the scale of potential displacement, retraining alone likely isn’t sufficient without the other policies we’ve discussed. Still, it’s a piece of the puzzle, and one where private enterprise naturally plays a role because companies know the skills they need and, ideally, have an interest in retaining workers by moving them into new roles. In all these market-based approaches, the institutional context is one of partnership rather than pure laissez-faire. It’s about harnessing markets’ dynamism but steering it towards social goals. Key players often include public development banks, cooperatives, unions, and socially-conscious investors alongside traditional businesses. For instance, a union might negotiate an agreement with an automaker that if robots are introduced, a fund will be set up for displaced workers or they will be given an ownership stake in the robots’ output. These kind of arrangements can be seen as part of a broader social contract renewal happening quietly in some sectors. Conclusion: Toward a New Social Contract for a Post-Work World Across cities, states, nations, and markets, we are witnessing the first draft of a new social contract—one fit for an era when labor may no longer be the sole source of one’s livelihood or societal contribution. The interventions detailed in this report are diverse, but all grapple with the same foundational shift: the decoupling of income from traditional employment . 13 In the industrial age, the solution to technological disruption was typically “more jobs” – moving from farm to factory, or factory to office. In the digital age, if productivity surges while employment stagnates, the solution must instead be “ more income, regardless of jobs ” and “ more ownership, regardless of class .” That is what programs like universal basic income and social wealth funds attempt to achieve. Early evidence suggests that these can be done in ways that enhance dignity and freedom without destroying work ethic or bankrupting the treasury, though scaling them remains the challenge. For example, we’ve seen that a partial basic income in Maricá vastly improved social conditions , and that even a temporary basic income in the U.S. during COVID dramatically cut poverty . We’ve seen that giving workers ownership stakes (whether in New York City co-ops or under Italy’s Marcora law) can save jobs and even make firms more resilient . We’ve seen that sharing resource wealth (Alaska, Norway, Macau’s casino revenues) can foster an ethic of common stake – Alaskans today fiercely “demand the state maximize returns from its resource wealth” precisely because they directly benefit . Yet, these programs also highlight debates to come. How universal should benefits be versus targeted to the needy? Maricá started targeted but aspires to universality ; Alaska is universal by residency. How to finance them at scale – through taxes, savings, monetizing new assets like data? Some, like baby bonds or sovereign funds, require up-front outlays or sequestering revenues that might have been spent today for future gains. Politically, that’s hard in cash-strapped governments. There’s also the question of what mix of policies works best together . In economic terms, giving everyone a basic income might raise the floor , but without something like a land trust or public housing, landlords could just capture that income via higher rents. That implies complementary measures (like housing supply or rent stabilization) are needed, as advocates of “Universal Basic Services” argue (the idea of guaranteeing essentials like housing, healthcare, education, and transport, in addition to or instead of UBI). There’s also the cultural dimension: work has been a source of meaning and socialization for many. If we truly move toward less work, societies will need to reorient how people find purpose and community – perhaps through lifelong learning, arts, civic engagement, or care work (much of which is unpaid). Some of the interventions, like reduced workweeks, already aim at freeing time for those pursuits without economic penalty . Importantly, the politics of a post-labor future are still being written. Each program we’ve examined faced initial skepticism, if not outright opposition. The Finnish basic income trial was criticized by some labor unions who worried it might undermine the traditional social insurance model . In the U.S., proposals like UBI have been attacked by conservatives as budget-busting and by some leftists as distractions from job-creation. However , as more empirical results come in from pilots, ideological positions can shift. When Stockton, California showed that guaranteed income recipients actually worked more (because they could afford to search for better jobs or get training), some skeptics became supporters . When COVID relief checks lifted millions out of poverty, it became harder to argue that such policies have no place in normal times . One might recall the words of Thomas Paine, who over two centuries ago argued for a “citizen’s dividend” from land rents as a right – seeing it not as charity but as compensation for the enclosure of the commons. In a very real sense, today’s governments and institutions are rediscovering Paine’s logic for the 21st century: that each of us is entitled to a share of the wealth we collectively create or inherit , whether that wealth comes from the ground (oil, minerals), from past generations’ ingenuity (technological capital), or from the efficiencies of AI and networks. The post-labor future could be frightening if it means tech oligopolies get richer while most scrape by in a gig economy. But the same future could be liberating if the bounty of automation is channeled into public coffers, trust funds, cooperatives, and universal dividends . The difference will lie in the choices societies make now, while the transition is underway.78 8683 6590 9192 93 72 94 2324 8683 14 As we conclude this narrative survey, one overarching insight stands out: preparation for a post-labor economy is happening, not in theory, but in practice – through many small steps . A city guaranteeing income to a few hundred residents, a state creating savings accounts for newborns, a country paying everyone a slice of oil revenue, a company handing workers shares, a local bank lending in social currency – each is a piece of a mosaic that could form a new picture of economic citizenship. We are moving from a world where people’s well-being was tied primarily to their job, to one where well-being is tied to their membership in a community or a polity that owns wealth . It’s a revival of the idea that “we’re all in this together ,” updated for high-tech capitalism. Daron Acemoglu often emphasizes that technology’s effects are shaped by institutions and policies – that we have agency in whether the robot age leads to shared prosperity or neo-feudal inequality. The stories in this report are evidence of that agency being exercised. In the American Midwest, in Nordic social democracies, in Asian city-states, in Latin American towns, people are proactively forging institutions of inclusion for the automated age . They are not waiting passively for the “robots to take our jobs” and then chaos to ensue; they are, step by step, building the scaffolding of a society where income and dignity do not depend on having a traditional job . Much work remains. Many of these programs are in infancy and will need refinement. Funding sources need to be secured (perhaps through progressive taxation of the enormous wealth that automation is generating for some). Political coalitions must be broadened – one promising sign is the coalition around concepts like baby bonds or dividends often cuts across usual left-right lines, uniting those concerned about equity with those focused on freedom and simplification of welfare. In a sense, a post-labor social contract can appeal to conservatives (less bureaucracy, just give people money/property) and liberals (reduce poverty and power imbalances) alike. Alaska’s dividend was a conservative governor’s brainchild implemented in a libertarian-leaning state, yet it achieved one of the country’s most progressive distributions of wealth . In closing, imagine a day in the year 2035: A young adult in Connecticut uses her publicly funded nest egg to start a green business. Her cousin in California receives a quarterly data dividend from a state fund that monetizes Big Tech’s profits. They both get a small national carbon dividend that helps pay their bills as they work four-day weeks by choice. Their parents, now older , live in a house on community land trust land, so their housing cost is reasonable, and they supplement their part-time gig income with a universal basic dividend from the national social wealth fund that has finally been established. It’s not a utopia, but it’s a society where technology’s bounty circulates widely. That future is not guaranteed, but as this report has shown, its foundations are being laid in our present. The more we learn from each pilot and program – from Maricá to Alaska, from Stockton to Helsinki – the more intelligently we can scale up what works. A post-labor economic future can be one of widespread leisure, creativity, and security , or one of mass unemployment and extreme inequality. The interventions chronicled here are humanity’s early attempts to tilt toward the former . They represent an evolving narrative of hope: that we can, through empirical trial and democratic deliberation, rewrite the rules of distribution for the next epoch of our economy. The narrative is still being written, but the plot is clear – it is a story of adaptation, of sharing, and ultimately of redefining the value of human beings beyond their labor . The resolution of that story will depend on us, and whether we choose to invest in each other as wholeheartedly as we invest in our technology.2 15 Sources: Earth4All, “The Alaska Permanent Fund: A model for a Universal Basic Dividend?” – discusses Alaska’s fund size and payouts . Reuters, “U.S. government aid helped reduce poverty in 2020, Census data shows” – reports that stimulus payments lifted 11.7 million out of poverty and cut the poverty rate to 9.1% . YES! Magazine, “How a Brazilian Town Took a Bet on Basic Income” – describes Maricá’s basic income program funded by oil royalties, with 42,000 residents receiving local currency stipends . Cook County Government (press release), “Largest Guaranteed Income Pilot” – notes Cook County’s $42 million program giving 3,250 families $500/month for two years . Shareable, “NYC’s Worker Cooperative Business Development Initiative” – details New York City’s support for co-ops, creating 21 co-ops and 141 worker-owner jobs in the first year . ICA (International Cooperative Alliance), “Marcora Law supporting worker buyouts” – reports Italy’s Marcora Law helped create 257 worker cooperatives, saving ~9,300 jobs . NCEO, “Colorado Expands Employee Ownership Incentives” – notes Colorado’s tax credits (50% of conversion costs up to $150k) and plans to increase to 75%, plus capital gains tax exclusion for sales to employees . World Economic Forum, “Finland’s basic income trial: happier, not more employed” – summarizes that Finland’s UBI trial improved well-being but had no significant job effect . Guardian, “Four-day week trial success” – reports that 56 of 61 companies in a UK pilot extended the 4- day week, citing dramatic well-being improvements and maintained productivity . OECD / McKinsey – data on potential automation impact (400–800 million global job displacement by 2030) . The Alaska Permanent Fund: A model for a Universal Basic Dividend? - Earth4All https://earth4all.life/views/the-alaska-permanent-fund/ Jobs of the future: Jobs lost, jobs gained | McKinsey https://www.mckinsey.com/featured-insights/future-of-work/jobs-lost-jobs-gained-what-the-future-of-work-will-mean-for-jobs- skills-and-wages Future of work | OECD https://www.oecd.org/en/topics/policy-issues/future-of-work.html Should we tax robots? | MIT News https://news.mit.edu/2022/robot-tax-income-inequality-1221 How a Brazilian Town Took a Bet on Basic Income - YES! Magazine Solutions Journalism https://www.yesmagazine.org/economy/2022/05/26/basic-income-brazil The Brazilian Town (Quietly) Experimenting with Basic Income https://www.americasquarterly.org/article/brazils-hidden-basic-income-experiment/ President Preckwinkle unveils next phase of Guaranteed Income https://chicagocrusader .com/president-preckwinkle-unveils-next-phase-of-guaranteed-income/ Guaranteed Income Pilots Dashboard: Home https://guaranteedincome.us/• 1 2 • 86 83 • 12 11 • 24 • 32 33 • 65 • 61 62 • 67 68 • 71 72 • 3 1 227 40 41 43 44 3 4 5 6 7 8 915 16 17 18 19 20 10 11 12 13 14 21 22 75 93 23 24 26 25 16 Community Land Trust: Meaning, Pros and Cons, Example https://www.investopedia.com/community-land-trust-5206374 Community land trusts - Local Housing Solutions https://localhousingsolutions.org/housing-policy-library/community-land-trusts/ How Local Governments Can Effectively Partner with Community ... https://mrsc.org/stay-informed/mrsc-insight/september-2023/partner-with-community-land-trusts A Look at Community Land Trusts and How They Work | TIME https://time.com/7212194/community-land-trusts-how-they-combat-affordable-housing-crisis/ A look at New York City's Worker Cooperative Business Development Initiative - Shareable https://www.shareable.net/a-look-at-new-york-citys-worker-cooperative-business-development-initiative/ Cleveland Model for Worker Cooperative Stands Test of Time https://shelterforce.org/2021/03/09/despite-a-rocky-start-cleveland-model-for-worker-co-ops-stands-test-of-time/ The Cleveland Model - Atlas of the Future https://atlasofthefuture.org/project/the-cleveland-model/ The Preston Model: Driving wealth generation, community ... https://www.lancashire.ac.uk/articles/research/preston-model-community-wealth-building Preston Community Wealth Building - Change The Rules https://letschangetherules.org/map/preston-community-wealth-building A rising tide that lifts all boats: Long‐term effects of the Alaska ... https://onlinelibrary.wiley.com/doi/10.1002/pop4.398 Social Wealth Fund for America ❖ People’s Policy Project https://www.peoplespolicyproject.org/projects/social-wealth-fund/ California Gov. Newsom calls for 'new data dividend' for consumers https://www.cnbc.com/2019/02/12/california-gov-newsom-calls-for-new-data-dividend-for-consumers.html The Data Dividends Initiative https://www.datadividends.org/ On 'data dividend' concept, California's Gov. Newsom searches for ... https://statescoop.com/on-data-dividend-concept-californias-gov-newsom-searches-for-workable-strategy/ CT Baby Bonds https://portal.ct.gov/ott/debt-management/ct-baby-bonds Baby Bonds in Connecticut https://racepowerpolicy.org/baby-bonds/baby-bonds-in-connecticut/ Can Baby Bonds Fight the Wealth Gap and Racial Inequality ... https://www.ineteconomics.org/perspectives/blog/can-baby-bonds-fight-the-wealth-gap-and-propel-racial-equality-connecticut- aims-to-find-out [PDF] The American Opportunity Accounts Act (“Baby Bonds”) https://pressley.house.gov/wp-content/uploads/2023/02/Baby-Bonds-One-Pager-1.pdf28 29 30 31 32 33 34 35 36 37 38 39 42 45 46 91 92 47 48 49 50 51 52 53 54 55 56 57 58 59 17 Booker , Pressley Reintroduce Bicameral 'Baby Bonds' Legislation to ... https://www.crossstate.org/about/communications/blog/booker-pressley-reintroduce-bicameral-baby-bonds-legislation-to-tackle- wealth-inequality/ Colorado Legislature Passes Legislation to Expand Employee Ownership Incentives https://www.nceo.org/employee-ownership-blog/proposed-colorado-legislation-expands-employee-ownership-incentives [PDF] Cities Developing Worker Co-ops: Efforts in Ten Cities https://mayorsinnovation.wiscweb.wisc.edu/wp-content/uploads/sites/868/2019/12/Winter-2019-Cities-Developing-Worker-Co- ops.pdf New York City Continues to Pioneer Innovative Economic ... http://institute.coop/news/new-york-city-continues-pioneer-innovative-economic-development-strategies-committing-another The Marcora Law supporting worker buyouts for thirty years | ICA https://ica.coop/en/media/news/marcora-law-supporting-worker-buyouts-thirty-years What were the results of Finland's basic income trial? | World Economic Forum https://www.weforum.org/stories/2020/05/finlands-basic-income-trial-found-people-were-happier-but-werent-more-likely-to-get- jobs/ Four-day week: ‘major breakthrough’ as most UK firms in trial extend changes | Work-life balance | The Guardian https://www.theguardian.com/money/2023/feb/21/four-day-week-uk-trial-success-pattern About the fund | Norges Bank Investment Management https://www.nbim.no/en/about-us/about-the-fund/ Government Pension Fund of Norway - Wikipedia https://en.wikipedia.org/wiki/Government_Pension_Fund_of_Norway Sovereign Wealth Fund: Norway - Pathfinders https://www.sdg16.plus/policies/sovereign-wealth-fund-norway/ U.S. government aid helped reduce poverty in 2020, Census data shows | Reuters https://www.reuters.com/world/us/us-median-income-dropped-2020-poverty-rose-census-data-shows-2021-09-14/ The Welfare State and Social Wealth Funds - Jacobin https://jacobin.com/2019/09/universal-basic-income-job-guarantee The Case for Giving Every American a Share of a Public Wealth Fund https://inthesetimes.com/article/social-wealth-fund-matt-bruenig-peoples-policy-project South Korea's robot tax - TaxFitness https://taxfitness.com.au/blog/south-korea-s-robot-tax/60 61 62 63 64 65 66 90 67 68 69 94 70 71 72 73 74 76 77 79 80 81 78 82 83 84 85 86 87 88 89 18
+Dividends for the Age of Automation: How
+Economies Are Preparing for a Post-Labor Future
+In the fall of 1982, every man, woman, and child in the state of Alaska received an unusual check in the mail.
+Signed by Governor Jay Hammond, the payment was modest—about $1,000 per person—but it marked the
+birth of a bold experiment. Funded by the state’s new oil wealth, the Alaska Permanent Fund Dividend
+turned petroleum revenues into a yearly personal income for all Alaskans . Skeptics feared that
+handing out “free money” would dampen the work ethic, yet life in Alaska went on much as before—
+fishermen still cast their nets, teachers still taught, and the economy even got a small boost each fall when
+dividends  arrived  just  in  time  for  winter  shopping.  Four  decades  later ,  with  automation  and  artificial
+intelligence threatening to upend labor markets far beyond the Last Frontier , policymakers around the
+world  are  increasingly  looking  to  Alaska’s  example—and  many  other  unconventional  experiments—as
+inspiration for how to prepare for a post-labor economic future .
+Across city halls, state capitols, national parliaments, and corporate boardrooms, a remarkable set of real-
+world interventions is taking shape. These programs range from  universal basic income  trials to public
+trust funds and cooperative ownership schemes. They aim to answer an urgent question: In a future where
+robots and algorithms produce more wealth and traditional jobs become scarcer , how can societies
+ensure that everyone shares in prosperity? The answers being tested are as diverse as the communities
+pioneering them. In some places, governments are handing out cash stipends  to residents as a safety net
+and stimulus. In others, they are accumulating collective wealth —like land, natural resources, or equity
+investments—and distributing the returns as social dividends . Still others are restructuring ownership of
+businesses and housing  so that workers and citizens have a direct stake in the economy’s output. This
+narrative report travels from local neighborhoods to national governments to explore these interventions in
+action. We’ll visit an oil-funded basic income program in a Brazilian city, community land trusts in American
+towns,  high-tech  cooperatives  and  shortened  workweeks  in  Europe,  and  sovereign  wealth  funds  from
+Alaska to ASEAN. Through these stories, a picture will emerge of how developed economies (and some
+developing ones) are grappling—empirically and concretely—with the coming post-labor world.
+Before diving into the specific programs, it’s worth briefly framing the challenge. Numerous studies have
+warned that automation could displace an enormous number of workers in the coming years. A seminal
+analysis  by  McKinsey,  for  example,  estimated  that  between  400  million  and  800  million  individuals
+worldwide could be displaced by automation and need to find new jobs by 2030 . On average across
+advanced economies, roughly one-quarter to one-third of jobs  may be highly susceptible to automation
+within the next decade or two . While new jobs will also be created, the concern is a potential decoupling
+of productivity from employment— a “post-labor” scenario  where machines generate great wealth with
+far fewer workers . If 20% or 30% of today’s jobs were to disappear or radically change, how will people
+earn a livelihood?  This fear has prompted calls for sweeping policies: some advocate a  universal basic
+income (UBI)  paid by the state to all citizens, others suggest taxing robots or data to fund social programs,
+and still others propose expanding education and work-sharing to soften the transition . 12
+3
+4
+56
+1
+To move from theory to practice, a growing number of governments and institutions have begun piloting
+tangible solutions . These solutions often differ from the classic welfare state approach of taxing wages to
+fund benefits. Instead, many are “unconventional and property-based or market-based”  – meaning they
+seek to distribute non-labor income  (like returns on assets, natural resources, or capital) or to redesign
+ownership structures , rather than relying solely on taxpayers footing the bill. As MIT economist Daron
+Acemoglu  has  argued,  sustaining  broadly  shared  prosperity  in  the  age  of  AI  will  likely  require  new
+institutions and incentive structures, much as earlier industrial eras required unions or public education. In
+a narrative style inspired by Acemoglu’s institutional storytelling, let’s explore these emerging experiments
+at four levels: local (city/county)  initiatives, state/provincial  programs, national  strategies, and private-
+sector or market-driven  interventions.
+From City Halls to Neighborhoods: Local Laboratories of the Future
+One of the most intriguing arenas of innovation is at the city and county level , where local leaders have
+considerable on-the-ground knowledge of their communities’ needs. Cities have become “laboratories” for
+post-labor policies, often out of necessity. When national politics are gridlocked or slow, mayors and county
+officials have stepped in to pilot basic incomes, community trusts, and cooperative enterprises. These local
+efforts are typically modest in scale, but their impacts are tangible and their stories illustrative.
+Consider the city of Maricá, Brazil , a coastal municipality of 160,000 people not far from Rio de Janeiro. On
+a morning walk through Maricá’s downtown, one might notice something different from other Brazilian
+cities— no trash piles on the streets and far fewer people sleeping rough , as a reporter observed .
+The reason becomes clearer on spotting a red sign at a pharmacy: “ Compre aqui com seu cartão Mumbuca ,” it
+reads—“Buy here with your Mumbuca card.” The Mumbuca is Maricá’s local social currency, issued by a city-
+owned community bank specifically to pay a basic income  to residents. Every month, tens of thousands of
+Maricá citizens receive a stipend in Mumbucas that can be spent at local businesses . This money
+doesn’t come from taxes on workers, but from a share of oil royalties  flowing from offshore petroleum
+fields. Maricá sits adjacent to the lucrative pre-salt oil reserves, and since 2013 the city has channeled part
+of its royalties into what it calls a “Renda Básica de Cidadania”  – a citizen’s basic income guarantee .7
+89
+1011
+2
+A pharmacy in Maricá, Brazil advertises that it accepts payment via the Mumbuca card, a local currency through
+which the city distributes an oil-funded basic income to residents.
+The Maricá program started by targeting the town’s poorest families, but it has grown into perhaps  the
+world’s largest basic income pilot by coverage . As of 2022, about  42,000 residents – roughly one-
+quarter of the population – were receiving the monthly stipend . Each beneficiary gets 170
+Mumbucas  a  month  (pegged  1:1  to  the  Brazilian  real,  so  about  R$170,  roughly  US$35)  regardless  of
+whether they work or not . Indigenous residents receive a higher amount (300 Mumbucas). There
+are basic eligibility rules – one must have lived in Maricá for at least three years and have a household
+income below three times the minimum wage – but the city’s explicit goal is to expand the program to all
+residents over time , effectively achieving a local UBI . To make that sustainable, Maricá’s government
+established a  sovereign wealth fund at the municipal level , saving at least 5% of oil revenues for the
+future . The city also created  Banco Mumbuca , a public digital bank through which the funds are
+disbursed and managed . 
+Walking into Banco Mumbuca’s modest branch (a one-story building with the sign “Banco Comunitário
+Popular de Maricá”), one is witnessing a microcosm of a “post-labor” economic institution. The bank’s
+mission is not profit, but social inclusion: it not only distributes the basic income but also offers zero-
+interest microloans to local entrepreneurs and housing improvement loans in Mumbucas . Because
+merchants in Maricá know that thousands of customers will reliably have Mumbucas to spend each month,
+businesses readily accept the currency (over 3,000 establishments take it, from grocers to hair salons)
+. In essence, Maricá has engineered a virtuous cycle in which  oil wealth – a form of community
+property – is converted into consumer buying power for the many , stimulating the local economy and
+lifting living standards. The results have been striking. Local poverty rates fell and quality of life improved
+visibly; even during the COVID-19 pandemic, Maricá was able to boost  the monthly stipend temporarily to
+shield its people from hardship . Research teams from Brazil’s Fluminense Federal University and New
+York’s Jain Family Institute are now studying Maricá’s experiment closely, as its scale allows analysis of
+broader impacts on inflation, employment, and health . While Maricá is a unique case of a resource-
+rich city, it offers a powerful narrative: a city government turning technology and resource wealth into
+a social dividend , foreshadowing what larger polities might do.
+Maricá’s story parallels that of Alaska  in important ways (the oil fund, the dividends), but it is unfolding at
+the level of a city. And Maricá is not alone. Other cities around the world are testing versions of local basic
+incomes , often motivated by automation and job insecurity. In the United States, for instance, the city of
+Stockton, California  made headlines in 2019 as one of the first in the country to pilot a “no-strings-
+attached”  income  for  its  residents.  Stockton’s  young  mayor  at  the  time,  Michael  Tubbs,  launched  the
+Stockton  Economic  Empowerment  Demonstration  (SEED) ,  giving  $500  per  month  to  125  randomly
+selected low-income residents. Though modest in size, the Stockton pilot yielded promising outcomes: after
+a year , recipients had lower financial volatility and reported improved mental health; notably, they were
+more  likely to find full-time employment than a control group, undermining the stereotype that free money
+makes people stop working . The success of Stockton’s experiment helped ignite a movement. By
+2021, dozens of U.S. mayors—from Los Angeles to St. Paul to Jackson, Mississippi—had formed a coalition
+called Mayors for a Guaranteed Income , and more than 30 cities and counties launched their own pilots
+. Many of these programs have been funded by philanthropy or one-time federal COVID-relief grants,
+but they are teaching by doing . For example, Cook County, Illinois  (which includes Chicago) rolled out the
+nation’s largest county-level basic income trial in 2022: using $42 million of federal pandemic funds, the
+county provided $500 monthly to 3,250 randomly selected low-income families for two years .1213
+89
+14
+11
+15
+1617
+18
+19
+20
+2122
+2324
+25
+2426
+3
+Early  results  from  Cook  County’s  “Promise”  pilot  are  encouraging  –  participants  reported  significantly
+reduced stress and increased financial stability, leading the county to explore options to continue or expand
+the program . These local pilots, while not (yet) permanent or universal, demonstrate the feasibility
+of delivering regular income outside of employment. And critically, they build political narratives at the
+grassroots:  beneficiaries  become  outspoken  supporters,  and  data  from  these  communities  show  cash
+stipends can improve well-being without halting people’s job-seeking .
+Local  initiatives  are  not  limited  to  cash  transfers.  Another  class  of  city-  and  county-level  interventions
+focuses on property and ownership models  to bolster economic security. Take Community Land Trusts
+(CLTs)  – nonprofit entities that acquire land and hold it “in trust” on behalf of a community, ensuring it is
+used for affordable housing, local business, or green space rather than pure profit. The CLT model, first
+developed by civil rights activists in the 1960s, has seen a resurgence as cities grapple with soaring housing
+costs and inequality. By separating the ownership of land from the ownership of homes on that land, CLTs
+make  housing  more  affordable  and  shield  residents  from  market  speculation .  A  famous  early
+example is the Dudley Street Neighborhood Initiative  in Boston, which transformed a disinvested area
+into a thriving mixed-income community through a CLT that gave residents control over development. New
+York City , recognizing the value of CLTs, has actively supported their expansion in recent years: the city’s
+housing department partnered with neighborhood nonprofits to create CLTs in the Bronx and Queens,
+helping preserve hundreds of affordable homes in perpetuity .  London, UK  has also embraced the
+concept; the  London Community Land Trust  developed dozens of homes sold at prices linked to local
+incomes  (not  market  rates),  letting  teachers  and  nurses  buy  flats  in  areas  that  would  otherwise  be
+unaffordable. These city-backed CLTs represent a property-based intervention  where the asset (land) is held
+collectively  and its value benefits residents (through lower rents or shared equity) rather than absentee
+landlords. In a post-labor context, such models mean that even if a person’s job income is low or unstable,
+their housing costs remain manageable and their community retains wealth . As one CLT homeowner
+in Portland put it, “the gift of stability and pride is just something that I could never repay,” noting that
+without the trust’s help she would have been perpetually priced out of ownership .
+A  related  strategy  at  the  local  level  is  fostering  worker-owned  cooperatives  and  employee-owned
+businesses . If automation threatens traditional jobs, one way to empower workers is to make them owners
+of the enterprises that survive (or the new ones that emerge). In the aftermath of the 2008 financial crisis,
+New York City  launched a novel program to seed worker cooperatives as a tool for poverty reduction. In
+2015, the NYC Council earmarked  $1.2 million in the city budget to create the Worker Cooperative
+Business Development Initiative (WCBDI) . Through partnerships with nonprofits, this initiative helped
+incubate new worker co-ops and convert existing small businesses into employee ownership. The results in
+the first year included  21 new cooperatives and 141 new worker-owner jobs created , doubling the
+number of co-ops in the city . Buoyed by this success, New York expanded funding for the program in
+subsequent years . These cooperatives span industries from home cleaning services to bakeries to tech
+startups. While tiny in the context of NYC’s overall economy, the initiative demonstrated a key principle:
+with modest public support, the cooperative sector can grow, giving workers a direct share of profits
+and decision-making . Other cities have taken note. For instance, Cleveland, Ohio  (a mid-sized Rust Belt
+city  that  lost  much  of  its  manufacturing  base)  pioneered  the  “ Evergreen  Cooperatives ”  model.  In
+Cleveland’s impoverished Glenville neighborhood, a coalition of the city government, a local foundation,
+and major hospitals came together to launch worker-owned companies that serve those hospitals (like a
+green-energy laundry cooperative handling hospital linens) . Over a decade, Evergreen’s co-ops grew to
+employ over 200 formerly low-income residents as worker-owners, building wealth in a place that capitalism
+had  left  behind .  This  “Cleveland  Model”  of  community  wealth  building  treats  anchor  institutions2324
+27
+2829
+30
+31
+32
+33
+34
+35
+36
+4
+(universities,  hospitals,  city  agencies)  as  engines  to  drive  demand  to  worker-owned  firms,  thereby
+anchoring  the  benefits  of  commerce  locally .  In  Europe,  similar  efforts  are  visible  in  cities  like
+Preston, England , which after 2011 embraced the  “Preston Model”  of community wealth building – the
+city  council  and  local  anchors  redirected  procurement  contracts  to  local  businesses  and  cooperatives,
+spurring the formation of new worker-owned companies and keeping more money circulating in the local
+economy .  By  2018,  Preston  was  lauded  as  one  of  the  UK’s  most  improved  communities
+economically, precisely because of these inclusive ownership efforts .
+These city-level stories – whether it’s Maricá’s oil-funded basic income, Stockton’s cash transfers, New York’s
+co-op incubator , or Preston’s localist renaissance – share a common narrative arc. Each responds to the
+stresses  of  the  modern  economy  (inequality,  automation,  disinvestment)  by  changing  the  flow  of
+resources at the community level .  Money is being re-routed directly into people’s hands or into
+community institutions , rather than trickling down via traditional wages or external investment. The
+institutional, economic, and political contexts  naturally vary: Maricá’s leftist local government leveraged
+an oil jackpot and faced initial skepticism from Brazil’s political class, whereas Stockton’s centrist mayor
+relied on philanthropic funding and had to convince a cautious public that a guaranteed income wouldn’t be
+squandered. New York’s coop program was born from progressive city council members seeing worker
+ownership as an equity strategy, while Preston’s came from a socialist city council reacting to austerity. In all
+cases,  local  leadership  and  community  buy-in  were  critical .  Often  these  programs  began  as  pilot
+projects needing champions—be it an activist mayor , a determined nonprofit, or a citizens’ movement. As
+we shall see, similar dynamics play out at larger scales, too, but the local level is where abstract ideas
+become concrete people’s stories. And it is through those stories (a single mother able to buy a home
+through a land trust, or an unemployed father starting a dignified job at a coop laundry) that broader
+societal attitudes toward post-labor policies begin to shift.
+State and Provincial Innovations: Sharing Wealth Beyond Wages
+Scaling up from city halls, we find that many state-level or regional governments  (in federal countries) are
+also experimenting with post-labor strategies. States often control substantial resources—budgets, natural
+assets, regulatory powers—and thus can implement interventions with broader reach than any one city.
+Some of the world’s most notable “alternative economy” programs operate at the state or provincial level,
+from sovereign wealth funds  to state-sponsored employee ownership incentives .
+The quintessential example is again Alaska , which, although a U.S. state, essentially runs a program akin to
+a national wealth fund. The Alaska Permanent Fund , created by a 1976 constitutional amendment, takes
+at least 25% of the state’s mineral royalties (mostly oil revenues) and invests them in a diversified global
+portfolio . Every year , a portion of the fund’s investment earnings is paid out as the Permanent Fund
+Dividend (PFD) to all residents. Over time, this system has turned a depleting natural resource into a
+renewable source of citizen income. By 2021, the fund had grown to over $64 billion, and annual payouts
+typically range from $1,000 to $2,000 per person  (for instance, the dividend was $1,114 in 2021) . In
+big years when oil prices were high, the dividend peaked at over $3,200 (in 2008, under Governor Sarah
+Palin) . For a family of four , such payments can be significant: roughly $4,000–$8,000 total in extra
+income in a year . Crucially, the  PFD is unconditional . Whether you’re a barista or unemployed, a
+millionaire or living on subsistence hunting, as long as you’ve been a resident for a full calendar year , you
+get the same check. 37
+3839
+38
+4041
+1
+1
+1
+5
+The social impact of Alaska’s dividend has been well-studied, and it offers perhaps the closest thing we have
+to a real-world glimpse of a universal basic income in a developed economy. Studies have found that the
+PFD significantly reduces poverty and inequality  in Alaska – one analysis showed it cut the number of
+Alaskans living below the poverty line by 20–40% compared to what it would be without the dividend . It
+has been especially beneficial for rural and Indigenous communities, where subsistence economies mean
+cash income is otherwise scarce . Politically, the dividend is enormously popular across the spectrum,
+viewed as an “earned” share of common wealth . Interestingly, fears that a no-strings cash payment
+would deter people from working have not materialized. A 2018 study by economists at the University of
+Chicago found  no overall reduction in employment due to the PFD , though it did observe a slight
+increase in part-time work (people working a bit less, perhaps spending more time with family or on
+subsistence activities) . Essentially,  Alaskans kept working at roughly the same rates, just with a
+financial buffer that improved their quality of life . One could say that Alaska, with its rugged
+individualism, accidentally implemented a form of commonwealth sharing that many utopian futurists had
+only theorized. And it did so at the initiative of a Republican governor in the 1970s, underscoring that such
+ideas need not be partisan .
+Other  U.S.  states  haven’t  (yet)  copied  Alaska’s  dividend,  largely  because  few  have  comparably  large,
+untapped revenue streams like oil. However , several states manage trust funds that, while not paying
+dividends directly to individuals, support public services and could be models for future citizen payouts. For
+example, Texas  and New Mexico  have long-standing permanent school funds  fueled by oil and gas leases
+on  state  lands—these  funds  generate  income  for  education  budgets,  indirectly  benefiting  citizens  by
+funding schools. In recent years, policy thinkers have suggested modernizing such funds into more direct
+“social  wealth  funds” .  One  prominent  proposal  from  the  People’s  Policy  Project  envisions  creating  a
+national  fund in the U.S. that would invest broadly and pay a universal dividend, similar to Alaska’s but at
+country scale . If Alaska’s $60 billion fund was about 113% of the state’s GDP in 2017, a comparable
+fund for the entire U.S. would need to be on the order of $20 trillion in assets . While such a
+transformation hasn’t occurred federally,  states like California have toyed with related ideas , such as
+Governor Gavin Newsom’s 2019 call for a “Data Dividend” that would make tech companies pay Californians
+for the use of their personal data . Though still conceptual, the “data dividend” notion echoes Alaska:
+treat personal data as a resource  like oil, and let citizens benefit from the profits companies reap from
+that data . As of 2025, California has not implemented a data dividend, facing complex questions on how
+to value and collect such payments . But the mere fact a major state floated the idea indicates how
+mainstream the quest for market-based income supplements  has become.
+Another state-level policy gaining traction is “baby bonds” , which, rather than paying out income regularly,
+aim  to  endow  every  child  with  a  capital  account  that  matures  in  young  adulthood.  This  concept,
+championed  by  economists  like  Darrick  Hamilton,  is  a  way  to  tackle  wealth  inequality  at  its  roots
+(particularly racial wealth gaps). The state of Connecticut  became a trailblazer by enacting the nation’s first
+fully funded baby bonds program in 2021. Under Connecticut’s law, every baby born on or after July 1, 2023,
+whose birth is covered by Medicaid (meaning lower-income families) is granted a $3,200 investment by the
+state . These funds are pooled in a trust managed by the state treasury. By the time the child
+reaches adulthood (age 18–30), the account is projected to grow to roughly $10,000–$24,000  (depending on
+market returns and how long it accrues) . At that point, the young adult can claim the money for specific
+asset-building purposes—such as buying a home, paying for college or job training, starting a business, or
+investing for retirement . To ensure prudent use, Connecticut requires beneficiaries to complete a
+financial literacy course . The program, financed initially by a bond issue, is fully funded for at least 12
+years of births  (approximately 15,000 children per year) . Connecticut’s baby bonds directly respond42
+43
+2
+27
+227
+44
+4546
+4645
+47
+48
+49
+5051
+52
+5354
+52
+5556
+6
+to the concern that the next generation may find it even harder to get started in life if decent jobs are
+scarce . By guaranteeing a nest egg to those who need it most, the state is providing a form of universal
+basic  capital ,  rather  than  income.  Politically,  the  program  garnered  broad  support  as  a  one-time
+investment  in  future  prosperity—framed  less  as  a  giveaway  and  more  as  seeding  “future  taxpayers.”
+Following  Connecticut’s  lead,  other  states  have  considered  similar  moves.  In  2023,  a  coalition  in
+Washington, D.C. (which isn’t a state but a city with some state-like powers) launched its own baby bonds
+program  for  low-income  newborns,  and  legislators  in  states  like  New  Jersey  and  Washington  have
+introduced  bills  to  create  baby  bonds  trusts .  At  the  federal  level,  Senator  Cory  Booker  and
+Congresswoman  Ayanna  Pressley  have  repeatedly  pushed  for  a  national  Baby  Bonds  program  (the
+American  Opportunity  Accounts  Act)  which  would  give  every  U.S.  child  a  $1,000  account  plus  annual
+contributions  up  to  $2,000  for  the  poorest  families .  While  not  yet  passed,  this  idea  is  gaining
+momentum  with  endorsements  from  major  economics  scholars  and  even  the  Biden  administration’s
+officials discussing it as a tool for equity. 
+State  governments  are  also  innovating  in  empowering  workers  through  ownership .  Employee
+ownership  has traditionally been encouraged by federal policy (for instance, the U.S. offers tax advantages
+to Employee Stock Ownership Plans, or ESOPs). But some states are going further to smooth the path for
+businesses to become employee-owned, seeing it as a way to  preserve jobs and root wealth locally . A
+standout case is  Colorado , whose Governor , Jared Polis, declared early in his term an ambition to make
+Colorado  “the  employee  ownership  capital  of  the  U.S.”  The  state  created  a  specialized  Employee
+Ownership Office and rolled out financial incentives to encourage conversions. In 2021, Colorado enacted a
+refundable tax credit covering 50% of the costs (up to $25,000 or more) for businesses that convert to
+employee ownership , whether as ESOPs, worker cooperatives, or employee trusts . This credit helps
+with the legal, accounting, and transaction expenses that often deter small businesses from selling to their
+employees. By 2025, Colorado’s legislature was expanding these incentives: a new bill (passed in May 2025)
+boosts the credit to 75% of conversion costs  and even provides a state capital gains tax exclusion for
+business owners who sell to their employees . In other words, if a retiring entrepreneur sells her
+company to the workers instead of an outside buyer , she not only gets federal ESOP tax breaks but also
+pays no state capital gains tax on the sale – a substantial reward. The policy garnered rare bipartisan
+support, framed as a way to keep businesses locally owned and strengthen the middle class without heavy
+government spending (the foregone tax revenue is relatively small and arguably offset by keeping jobs in-
+state). Colorado’s program is already helping dozens of firms transition to employee ownership, ranging
+from breweries to tech firms. Likewise, states like  Massachusetts ,  California , and  Ohio  have launched
+employee  ownership  centers  that  provide  technical  assistance  and  loans  for  such  transitions .
+Internationally, we see analogous policies: Italy’s Marcora Law , in effect for over 30 years, enables workers
+to take over firms that are closing by pooling their unemployment benefits and receiving matching funds
+from the government. The Marcora Law has facilitated the creation of over 250 worker-owned firms and
+saved or created around 9,300 jobs  by 2015 . In this model, rather than letting a factory go bust
+and lay off 100 people, the Italian state helps those workers buy it out and run it themselves, turning
+jobless workers into cooperative entrepreneurs. Such laws recognize that  workers can be owners and
+innovators, not just labor inputs  – a critical mindset shift in a post-labor economy.
+It’s  worth  noting  that  state-level  experiments  don’t  always  succeed  or  scale  up.  Finland  provides  a
+cautionary tale: its national government (which plays the role of a state in a European context) carried out a
+high-profile basic income trial in 2017-2018 , giving 2,000 unemployed Finns a monthly €560 check with no
+conditions. The results, published in 2020, showed  no significant increase in employment among the
+basic income group compared to a control group , but did find higher life satisfaction and lower stress5758
+5960
+6162
+6162
+6364
+6566
+7
+among recipients . Finnish participants reported feeling happier and healthier , even though they
+weren’t  more  likely  to  find  jobs  than  those  on  traditional  unemployment  benefits .  Politically,
+however , the incoming government in 2019 chose not to extend or expand the experiment, focusing instead
+on other welfare reforms. The lesson some drew is that while basic income can improve well-being, it might
+need to be paired with other policies to deliver on employment or cost-of-living concerns. Nonetheless,
+Finland’s test – the first national-level UBI pilot in a developed country – broke a taboo and inspired others.
+In its wake, Spain  announced in 2020 that it would implement a form of minimum income (focused on the
+poorest  households) ,  and  regions  like  Catalonia  and  cities  like  Barcelona  initiated  their  own
+guaranteed income trials. 
+Meanwhile, some state actors are tackling the future-of-work problem from the angle of work reduction
+and redistribution . If we anticipate fewer traditional jobs, one response is to share the remaining work
+more evenly  – for example, through a shorter workweek . In 2022–2023, the UK conducted the world’s
+largest four-day workweek pilot , coordinated by academics and the nonprofit 4 Day Week Global. Some
+61 companies (from banks to marketing agencies to a fish-and-chip shop) reduced their workweek to 32
+hours (with no pay cut) for six months as a trial. The outcomes were striking:  56 out of 61 companies
+decided to continue the four-day week after the trial, and 18 made it permanent . Employee
+burnout fell, self-reported health and work-life balance improved dramatically, and importantly, business
+productivity and revenues did not suffer – in fact, many firms saw performance improve . This
+suggests that at least in certain industries, we may already be at a point where a five-day grind isn’t
+necessary for strong output, thanks to technology gains. A parliamentary committee in Wales even urged
+moving to a 32-hour week nationally, seeing it as beneficial for society . While not a direct financial
+support like UBI or a dividend, a shorter workweek is another tool for a post-labor future : it spreads
+work among more people (potentially reducing unemployment), and gives workers more leisure or time for
+caregiving, education, or creative pursuits. Some governments are starting to incentivize this: for instance,
+Spain’s national government launched a modest grant program in 2021 to help companies pilot a
+four-day week , aiming to gauge impacts on employment. If widely adopted, such policies might mitigate
+job loss by essentially creating jobs out of what used to be overtime or overwork .
+The experiences at the state level underscore an important theme: institutional context and political will
+are decisive . Alaska’s dividend survived and thrived because it was constitutionally protected and became
+politically  untouchable  (though  even  Alaska  has  seen  recent  fights  over  the  size  of  the  PFD  when  oil
+revenues fluctuated). Connecticut’s baby bonds came about through a rare alignment of progressive vision
+and budgetary commitment in a small state. Colorado’s employee ownership push worked because it
+tapped into a business-friendly way to achieve worker empowerment – offering carrots (tax breaks) instead
+of sticks. Finland’s basic income, by contrast, was cut short partly due to political change and the critique
+that it “didn’t increase employment.” What these examples collectively illustrate is that there is  no single
+silver bullet  for the post-labor economy. Rather , governments are trying a portfolio of solutions : some
+directly redistribute cash or assets, others reshape how work itself is organized. When combined, these can
+reinforce each other – for instance, a baby bonds program (wealth at 18) could complement a UBI (income
+throughout life) and a shorter workweek (more free time), together providing security, opportunity, and
+balance.
+National Strategies: From Welfare States to Innovation States
+At the  national (federal) level , the conversation about a post-labor future often intersects with debates
+about the role of the state in economic life. Many developed countries have extensive welfare systems –6768
+6768
+69
+7071
+7273
+74
+8
+unemployment insurance, public pensions, etc. – but those were built in an era predicated on most adults
+having stable jobs. The challenge now is to update or overhaul these systems for an era when stable jobs
+may be fewer , gig work and automation more prevalent, and economic inequality driven not just by income
+but by ownership of technology and intellectual property .
+Some national governments are pursuing quite radical proposals . One example is the idea of a “universal
+basic dividend”  drawn from shared capital. We’ve seen this concept with Alaska (at a state level) and in
+proposals like the U.S. social wealth fund. Internationally, the concept has found resonance in unexpected
+places.  Mongolia ,  a  lower-middle-income  country,  briefly  implemented  a  quasi-UBI  in  the  2010s  by
+distributing dividends from a mining wealth fund. In 2010, as Mongolia began exploiting large copper and
+coal deposits, the government set up a Human Development Fund  and promised to pay every citizen a
+cash share of mining profits. Initially, Mongolians did receive some payouts (and some in-kind transfers like
+healthcare and education benefits) . However , due to swings in commodity prices and political changes,
+the program became unsustainable and was eventually scaled back. Mongolia’s experiment highlighted
+both the potential and pitfalls: resource booms can fund generous dividends, but busts can threaten them
+without prudent saving (Norway’s success with its oil fund stands in contrast, as Norway strictly limits
+withdrawals to preserve capital ). 
+On the other hand, Norway  – a wealthy nation – provides a model of a national fund that, while not paying
+checks directly to citizens, effectively underpins a post-labor social contract. Norway’s Government Pension
+Fund Global , often just called the “Oil Fund,” is the largest sovereign wealth fund in the world, exceeding
+$1.7 trillion in assets by 2025 . The fund owns on average 1.5% of all listed companies in the world
+ – meaning every Norwegian literally has a sliver of ownership in thousands of enterprises worldwide.
+By design, the fund’s principal isn’t spent; instead, the government may use up to 3% of the fund’s value
+each year (the expected real return) to finance public services . In practice, this rule means the oil
+fund covers  nearly 20% of Norway’s government budget annually . The benefits manifest as free
+education, universal healthcare, robust job retraining programs, and generous unemployment and parental
+leave – elements of a welfare state that cushion Norwegians against labor market disruptions. As one
+analysis put it, the oil fund contributes to Norway having one of the highest public spending rates per
+capita, effectively  using returns on capital to augment the social safety net . While Norway hasn’t
+adopted UBI (why pay a UBI when public services are already ample and unemployment is low?), it has
+achieved something subtly different: a state guaranteed income floor via services and social insurance,
+funded largely by nonlabor income (oil and investments) . For Norwegians, the worry of a “post-labor”
+future is tempered by the knowledge that the national wealth is literally working on their behalf, even if they
+personally are between jobs or studying. 
+Other nations have explored or implemented direct transfer schemes with various twists.  Canada  has a
+history with basic income experiments, starting with the 1970s “Mincome” pilot in Dauphin, Manitoba
+(which showed positive social outcomes like reduced hospitalization and better school performance). In
+recent years, the province of Ontario  launched a basic income trial in 2017, providing about CAD $17,000
+annually to thousands of adults in several cities. Though it was prematurely canceled in 2018 after a change
+in government, follow-up surveys indicated improvements in recipients’ health and employment prospects
+(many used the stipend to return to school or start small businesses). The federal Canadian discussion has
+since shifted to ideas like a guaranteed minimum income through the tax system. During the COVID-19
+pandemic, Canada (like the U.S.) effectively ran an emergency basic income for many: the CERB program
+gave $2,000/month to workers who lost income, proving the administrative feasibility of rapid cash support.
+Similarly, the United States  found itself conducting an unintentional trial of universal income in 2020–202175
+7677
+78
+79
+8081
+77
+82
+9
+through the stimulus checks. The federal government sent out three rounds of checks to most households
+($1,200, $600, and $1,400 per adult in successive packages) as well as expanded child credits. The impact
+was dramatic: the U.S. poverty rate fell to 9.1% in 2020, the lowest on record , once those payments were
+accounted  for  –  down  from  11.8%  in  2019 .  It’s  estimated  that  the  stimulus  lifted  11.7  million
+Americans out of poverty in 2020 . This unprecedented reduction was sadly temporary (poverty
+rose again after the one-time payments stopped), but it made a powerful point: direct cash from the
+government can swiftly and effectively improve material well-being . The political lesson in the U.S.
+has been more mixed, however . While many voters appreciated the help, there’s also been backlash over
+inflation concerns and a return to partisan divisions on government spending. It shows that sustaining such
+measures in normal times is a separate challenge from deploying them in crisis.
+Some  national  governments  are  thinking  beyond  income,  towards  ensuring  citizens  have  stakes  in
+productive assets . The British Labour Party, for example, went into the 2019 UK election with a proposal
+for an “Inclusive Ownership Fund” (IOF). Under that plan, every large company would transfer a small
+percentage of its shares each year into a fund owned by workers, up to a 10% total. The workers would get
+dividends from these shares (capped annually, with any extra potentially going to a national fund for public
+services) . Although Labour lost that election and the policy didn’t materialize, the IOF idea was an
+innovative attempt to  socialize a portion of corporate wealth  in a market-compatible way – effectively
+creating a nationwide employee ownership program by mandate. It confronted the issue that while labor’s
+share of income has been falling in many countries (partly due to automation and globalization), capital’s
+share (profits) has been rising. An IOF or social wealth fund that captures some of those profits and
+redirects them to workers or the public could rebalance that distribution without waiting for wages to catch
+up. In a similar vein, economists like Yanis Varoufakis have proposed a “universal basic dividend” funded by
+equity: he suggested that a percentage of all new stock issuances (e.g. when companies do IPOs) be
+allocated to a public fund, which would then distribute a dividend to all citizens. Such schemes haven’t been
+implemented yet, but they are being actively discussed in policy circles of the EU and beyond . 
+Finally, it’s notable that some BRICS countries  (Brazil, Russia, India, China, South Africa – large emerging
+economies) are also grappling with these ideas, albeit in different ways. We saw Brazil’s municipal pioneer
+in Maricá, but at the federal level Brazil also has a law on the books (championed by former Senator
+Eduardo Suplicy) declaring the goal of eventually instituting an unconditional basic income. For now, Brazil’s
+primary tool has been  Bolsa Família  (now Auxílio Brasil) – a targeted conditional cash transfer to poor
+families, which lifted millions from extreme poverty but is not universal. Brazil’s vigorous civil society keeps
+the UBI idea alive, and it’s possible the country’s massive new offshore oil finds could fund broader social
+dividends if managed well (imagine a national version of Maricá’s scheme). India , facing the world’s largest
+forthcoming workforce and also rapid automation in some sectors, had serious discussions about basic
+income around 2016–2017. India’s 2017 Economic Survey even advocated a quasi-UBI for the poor to
+streamline the myriad of subsidies . While a nationwide UBI didn’t happen, India has enacted partial
+measures: a direct cash program for farmers, and, notably, the  MNREGA  rural employment guarantee
+which, while labor-based (guaranteeing 100 days of paid work to every rural household), serves as a de
+facto  income  floor  in  villages.  MNREGA  has  been  called  a  form  of  “employment-based  basic  income,”
+injecting cash into rural areas and reducing distress migration. In China, the approach has been different:
+the state maintains a tighter grip on the economy through state-owned enterprises (SOEs) and a household
+registration system. While no UBI exists, China has expanded its dibao (minimum income guarantee) in
+cities and rolled out near-universal pensions in rural areas. Interestingly, China’s extensive investments in AI
+and robotics coexist with a political emphasis on employment – the Party has at times directed companies
+and local governments to ensure redundant workers are retrained or absorbed elsewhere. Some Chinese83
+8485
+8683
+8788
+8788
+75
+10
+tech companies have mused about UBI (Jack Ma of Alibaba once suggested a 12-hour workweek and
+payments for all as a distant goal), but these remain musings. Instead, China seems to be pursuing a model
+of state capitalism where the dividend of automation partly flows to the state (via SOE profits and
+taxes) which then provides social services . 
+We see, then, at the national level a spectrum from direct basic incomes (Finland’s trial, pandemic stimulus)
+to public capital ownership and dividends (Alaska, Norway, proposed wealth funds)  to labor market
+policies like job guarantees and workweek reductions  (India’s rural jobs program, Europe’s four-day
+week  movement).  Each  country’s  choices  reflect  its  institutional  DNA:  its  political  culture,  economic
+structure, and public attitudes. What’s common is the growing recognition that the old assumption—full
+employment as the sole guarantee of a decent life—may not hold in the future . Governments are
+beginning to say, “If the economy doesn’t need all of us to work all the time to produce abundance, then
+why should income and wealth be tied so tightly to labor? Let’s find new ways to distribute the fruits of
+progress.” It’s a profound shift from the 20th-century welfare paradigm, and it raises as many questions as
+answers (how to fund it, how to keep it fair , how to prevent political backlash). But through trial and error ,
+pieces of a new paradigm are materializing.
+Market and Private-Sector Pathways: New Alliances for a Post-Work
+World
+Not all solutions are coming from government. The  private sector and civil society  are also active in
+shaping a post-labor landscape. In some cases, businesses and markets themselves can be vehicles to
+spread  economic  benefit  more  broadly—sometimes  with  a  nudge  from  policy,  sometimes  through
+voluntary leadership or emerging norms.
+One approach is through corporate governance reforms  that encourage sharing profits with workers or
+even the public. We touched on the UK’s inclusive ownership proposal. In practice, some companies already
+operate on variants of this principle. For instance, the John Lewis Partnership  in Britain (which owns John
+Lewis department stores and Waitrose supermarkets) has been 100% employee-owned for decades, with
+employees receiving annual profit shares (and having say in governance) – essentially a built-in income
+supplement  when  times  are  good.  Spain’s  Mondragón  Corporation ,  the  world’s  largest  federation  of
+cooperatives, employs over 80,000 people who are worker-owners; Mondragón’s model ensures that even
+assembly-line workers have ownership dividends and a vote in strategic decisions, and the enterprise
+network  provides  social  services  like  a  cooperative  university  and  health  insurance.  These  are  legacy
+examples, but their success has inspired a new generation of startups to choose cooperative models or
+innovative ownership structures (such as “steward-ownership” where a company is held by a trust that
+ensures profits serve a mission). While cooperatives remain a small fraction of most economies, the digital
+economy has given rise to talk of “platform cooperatives”  – worker-owned alternatives to Uber , Airbnb,
+etc. In 2021, a group of New York City drivers launched The Drivers Cooperative , a ride-hailing app owned
+by the drivers themselves, aiming to give them higher earnings per ride and annual dividends. Similarly,
+freelance creatives have started forming cooperatives to collectively negotiate with gig platforms. If these
+efforts gain traction, we may see a  market-driven correction to the gig economy’s lopsided profit
+distribution , allowing those who do the work to capture more of the value even if their “boss” is an
+algorithm.
+11
+Another private-sector contribution is coming from the  tech industry’s involvement in UBI research .
+Several tech leaders who foresee automation displacing jobs have put money into exploring basic income.
+The OpenAI CEO Sam Altman  has funded a project called Worldcoin that aims (controversially) to create a
+cryptocurrency and give a share to every person on earth as a sort of global UBI (though as of 2025 it’s still
+in  experimental  stages  and  has  raised  privacy  concerns).  More  concretely,  the  startup  accelerator  Y
+Combinator  sponsored  a  multi-year  basic  income  research  trial  in  Oakland,  California,  providing  cash
+transfers  to  a  group  of  families  to  see  how  it  affects  life  outcomes  (this  is  ongoing).  GiveDirectly ,  a
+nonprofit, raised millions in donations to launch a long-term basic income experiment in rural Kenya,
+supporting entire villages with a modest UBI for over a decade and rigorously measuring the results. Early
+findings show improved nutrition, investment in small businesses, and mental health benefits for recipients
+. These philanthropic and private experiments not only generate data, but they also serve to normalize
+the concept of unconditional cash support in realms outside government welfare. They frame it as an
+investment in human potential rather than charity. As one Silicon Valley supporter put it, “We need to
+decouple survival from employment.” Of course, the tech sector has its self-interest: a consumer base with
+some guaranteed income could spend more on tech services; and companies with fewer employees might
+prefer consumers to have alternative incomes so demand for products stays high. Yet, regardless of motive,
+the involvement of private capital has broadened the coalition pushing post-labor ideas.
+Market mechanisms are also being explored to fund these interventions without raising traditional taxes.
+One intriguing idea is the  “carbon dividend.”  This approach would impose a fee on carbon emissions
+(charging companies for their fossil fuel use) and then rebate 100% of the revenue back to citizens as
+equal payments . It’s a climate policy that doubles as a basic income of sorts. A plan along these lines was
+advocated by a bipartisan group of U.S. statesmen (the Climate Leadership Council’s plan) and a version was
+trialed in Canada: Canada’s federal carbon tax actually rebates most of the money back to households as a
+“climate action incentive” check. In 2021, the average Canadian family got about CAD $600 back – more than
+many paid in higher fuel costs – effectively making it a net gain for lower-income families and an extra
+income source except for the biggest polluters. While intended primarily to win support for carbon pricing,
+it  incidentally  models  how  fees  on  negative  externalities  (like  pollution  or  perhaps  AI-caused
+unemployment) could fund universal dividends . Imagine a future “robot tax” where companies that
+replace workers with AI pay a fee that bankrolls a citizen dividend or retraining fund. In fact, the idea of a
+robot tax was floated by no less than Bill Gates in 2017, and South Korea took a mild step by reducing tax
+incentives for automation investments (a de facto partial robot tax) in 2018 . The EU even
+debated  (but  did  not  pass)  a  resolution  on  taxing  robots.  Although  not  implemented  at  scale,  these
+discussions point toward market-aware solutions: if technology yields efficiency gains, skim a bit off and
+share it broadly.
+The financial industry  is also finding opportunities in the post-labor transition. Consider the rise of impact
+investing  in projects like affordable housing, community solar power , or microenterprise development,
+often structured to give modest but steady returns. These are essentially private sector attempts to create
+assets that deliver social outcomes and income streams. A community land trust might issue bonds to
+investors  to  buy  land,  then  repay  them  via  the  ground  lease  fees  from  residents—channeling  private
+investment into communal assets. Social impact bonds (SIBs) go a step further: private investors fund a
+social program (say, job training for displaced workers) and the government repays them (with interest)
+only if the program achieves specified success metrics (like employment rates). SIBs align profit with social
+good, though their track record is mixed and they are complex to manage. Still, they reflect a trend of
+blurring lines between public and private roles . If government budgets are strained to fund UBI or job
+guarantees, could private financing bridge the gap, expecting that a healthier , more skilled population43
+89 6
+12
+eventually  leads  to  economic  gains  that  pay  back  the  investment?  It  sounds  speculative,  but  some
+economists are exploring such models under names like “UBI bonds.”
+Even within traditional corporations, there is a push for more  stakeholder-oriented models  that could
+indirectly  support  a  post-labor  economy.  Movements  for  corporate  social  responsibility  (CSR)  and
+Environmental,  Social,  and  Governance  (ESG)  criteria  pressure  companies  to  treat  workers  and
+communities  not  just  as  means  to  profit  but  as  ends  themselves.  Companies  like  Patagonia  (which
+famously redirected its profits to environmental causes by transferring ownership to a purpose trust) and
+Unilever  (which has long touted its equitable supply chain practices) are held up as examples that you can
+“do well by doing good.” If more corporations ensure living wages, upskilling for their employees, or even
+provide equity to employees (like many tech startups do through stock options), then even as overall labor
+demand shifts, those who are employed might have greater financial resilience and flexibility. For instance,
+it’s not uncommon now for rank-and-file tech employees to have stock worth tens of thousands of dollars;
+in effect, they have a second form of income (capital gains) alongside their salary. That’s not universal, but
+it’s more prevalent than a generation ago. A challenge remains to extend such  ownership culture  to
+service sectors and gig workers. One emerging idea is to let gig workers collectively negotiate for equity in
+the  platforms  they  sustain  –  perhaps  drivers  could  earn  small  Uber  stock  grants  per  1,000  rides,  for
+example. This hasn’t materialized yet in mainstream gig companies, but alternate models are popping up,
+like delivery co-ops.
+Lastly, the private sector is crucial in the realm of  education and retraining , which, while not a direct
+wealth distribution, is key to any transition. Many large employers now partner with government or pay out
+of pocket to retrain workers whose jobs are being phased out. For example, AT&T undertook a multi-billion
+dollar initiative to retrain tens of thousands of its employees in new tech skills when old telephone network
+jobs  became  obsolete.  Some  European  countries  (like  Germany )  have  long  had  strong  systems  of
+apprenticeship  and  vocational  training  funded  jointly  by  industry  and  government,  which  can  be
+repurposed to train people for “jobs of the future” that automation creates (e.g., robot maintenance, AI
+oversight) while easing them out of jobs of the past. If done well, this can reduce the number of people who
+end up needing UBI in the first place. However , given the scale of potential displacement, retraining alone
+likely isn’t sufficient without the other policies we’ve discussed. Still, it’s a piece of the puzzle, and one where
+private enterprise naturally plays a role because companies know the skills they need and, ideally, have an
+interest in retaining workers by moving them into new roles.
+In all these market-based approaches, the  institutional context  is one of partnership rather than pure
+laissez-faire. It’s about harnessing markets’ dynamism but steering it towards social goals. Key players often
+include  public development banks, cooperatives, unions, and socially-conscious investors  alongside
+traditional businesses. For instance, a union might negotiate an agreement with an automaker that if
+robots are introduced, a fund will be set up for displaced workers or they will be given an ownership stake
+in the robots’ output. These kind of arrangements can be seen as part of a broader social contract renewal
+happening quietly in some sectors. 
+Conclusion: Toward a New Social Contract for a Post-Work World
+Across cities, states, nations, and markets, we are witnessing the first draft of a new social contract—one fit
+for an era when labor may no longer be the sole source of one’s livelihood or societal contribution. The
+interventions detailed in this report are diverse, but all grapple with the same foundational shift:  the
+decoupling of income from traditional employment . 
+13
+In the industrial age, the solution to technological disruption was typically “more jobs” – moving from farm
+to factory, or factory to office. In the digital age, if productivity surges while employment stagnates, the
+solution must instead be “ more income, regardless of jobs ” and “ more ownership, regardless of class .”
+That  is  what  programs  like  universal  basic  income  and  social  wealth  funds  attempt  to  achieve.  Early
+evidence suggests that these can be done in ways that enhance dignity and freedom without destroying
+work ethic or bankrupting the treasury, though scaling them remains the challenge. For example, we’ve
+seen  that  a  partial  basic  income  in  Maricá  vastly  improved  social  conditions ,  and  that  even  a
+temporary  basic income in the U.S. during COVID dramatically cut poverty . We’ve seen that giving
+workers ownership stakes (whether in New York City co-ops or under Italy’s Marcora law) can save jobs and
+even make firms more resilient . We’ve seen that sharing resource wealth (Alaska, Norway, Macau’s
+casino revenues) can foster an ethic of common stake – Alaskans today fiercely “demand the state maximize
+returns from its resource wealth” precisely because they directly benefit .
+Yet, these programs also highlight debates to come. How universal  should benefits be versus targeted to
+the needy? Maricá started targeted but aspires to universality ; Alaska is universal by residency. How to
+finance  them at scale – through taxes, savings, monetizing new assets like data? Some, like baby bonds or
+sovereign funds, require up-front outlays or sequestering revenues that might have been spent today for
+future gains. Politically, that’s hard in cash-strapped governments. There’s also the question of what mix of
+policies works best together . In economic terms, giving everyone a basic income might raise the floor , but
+without something like a land trust or public housing, landlords could just capture that income via higher
+rents. That implies  complementary measures  (like housing supply or rent stabilization) are needed, as
+advocates of “Universal Basic Services” argue (the idea of guaranteeing essentials like housing, healthcare,
+education, and transport, in addition to or instead of UBI). There’s also the cultural dimension: work has
+been a source of meaning and socialization for many. If we truly move toward less work, societies will need
+to  reorient  how  people  find  purpose  and  community  –  perhaps  through  lifelong  learning,  arts,  civic
+engagement, or care work (much of which is unpaid). Some of the interventions, like reduced workweeks,
+already aim at freeing time for those pursuits without economic penalty .
+Importantly, the politics of a post-labor future are still being written. Each program we’ve examined faced
+initial skepticism, if not outright opposition. The Finnish basic income trial was criticized by some labor
+unions who worried it might undermine the traditional social insurance model . In the U.S., proposals
+like UBI have been attacked by conservatives as budget-busting and by some leftists as distractions from
+job-creation. However , as more empirical results come in from pilots, ideological positions can shift. When
+Stockton, California showed that guaranteed income recipients actually  worked more  (because they could
+afford to search for better jobs or get training), some skeptics became supporters . When COVID
+relief checks lifted millions out of poverty, it became harder to argue that such policies have no place in
+normal times . 
+One might recall the words of Thomas Paine, who over two centuries ago argued for a “citizen’s dividend”
+from land rents as a right – seeing it not as charity but as compensation for the enclosure of the commons.
+In a very real sense, today’s governments and institutions are rediscovering Paine’s logic for the 21st
+century: that each of us is entitled to a share of the wealth we collectively create or inherit , whether
+that wealth comes from the ground (oil, minerals), from past generations’ ingenuity (technological capital),
+or from the efficiencies of AI and networks. The post-labor future could be frightening if it means tech
+oligopolies get richer while most scrape by in a gig economy. But the same future could be liberating if the
+bounty  of  automation  is  channeled  into  public  coffers,  trust  funds,  cooperatives,  and  universal
+dividends . The difference will lie in the choices societies make now, while the transition is underway.78
+8683
+6590
+9192
+93
+72
+94
+2324
+8683
+14
+As we conclude this narrative survey, one overarching insight stands out:  preparation for a post-labor
+economy is happening, not in theory, but in practice – through many small steps . A city guaranteeing
+income to a few hundred residents, a state creating savings accounts for newborns, a country paying
+everyone a slice of oil revenue, a company handing workers shares, a local bank lending in social currency –
+each is a piece of a mosaic that could form a new picture of economic citizenship. We are moving from a
+world where people’s well-being was tied primarily to their job, to one where well-being is tied to their
+membership in a community or a polity that owns wealth . It’s a revival of the idea that “we’re all in this
+together ,” updated for high-tech capitalism. 
+Daron Acemoglu often emphasizes that technology’s effects are shaped by institutions and policies – that
+we have agency in whether the robot age leads to shared prosperity or neo-feudal inequality. The stories in
+this  report  are  evidence  of  that  agency  being  exercised.  In  the  American  Midwest,  in  Nordic  social
+democracies, in Asian city-states, in Latin American towns, people are proactively forging  institutions of
+inclusion for the automated age . They are not waiting passively for the “robots to take our jobs” and then
+chaos to ensue; they are, step by step, building the scaffolding of a society where income and dignity
+do not depend on having a traditional job .
+Much work remains. Many of these programs are in infancy and will need refinement. Funding sources
+need to be secured (perhaps through progressive taxation of the enormous wealth that automation is
+generating for some). Political coalitions must be broadened – one promising sign is the coalition around
+concepts like baby bonds or dividends often cuts across usual left-right lines, uniting those concerned
+about equity  with those focused on freedom and simplification  of welfare. In a sense, a post-labor social
+contract  can  appeal  to  conservatives  (less  bureaucracy,  just  give  people  money/property)  and  liberals
+(reduce poverty and power imbalances) alike. Alaska’s dividend was a conservative governor’s brainchild
+implemented  in  a  libertarian-leaning  state,  yet  it  achieved  one  of  the  country’s  most  progressive
+distributions of wealth . 
+In closing, imagine a day in the year 2035: A young adult in Connecticut uses her publicly funded nest egg
+to start a green business. Her cousin in California receives a quarterly data dividend from a state fund that
+monetizes Big Tech’s profits. They both get a small national carbon dividend that helps pay their bills as they
+work four-day weeks by choice. Their parents, now older , live in a house on community land trust land, so
+their housing cost is reasonable, and they supplement their part-time gig income with a universal basic
+dividend from the national social wealth fund that has finally been established. It’s not a utopia, but it’s a
+society where technology’s bounty circulates widely. That future is not guaranteed, but as this report has
+shown, its foundations are being laid in our present. The more we learn from each pilot and program – from
+Maricá to Alaska, from Stockton to Helsinki – the more intelligently we can scale up what works. 
+A post-labor economic future can be one of widespread leisure, creativity, and security , or one of mass
+unemployment and extreme inequality. The interventions chronicled here are humanity’s early attempts to
+tilt toward the former . They represent an evolving narrative of hope: that we can, through empirical trial and
+democratic  deliberation,  rewrite  the  rules  of  distribution  for  the  next  epoch  of  our  economy.  The
+narrative is still being written, but the plot is clear – it is a story of adaptation, of sharing, and ultimately of
+redefining the value of human beings beyond their labor . The resolution of that story will depend on us,
+and whether we choose to invest in each other as wholeheartedly as we invest in our technology.2
+15
+Sources:
+Earth4All, “The Alaska Permanent Fund: A model for a Universal Basic Dividend?”  – discusses Alaska’s
+fund size and payouts .
+Reuters, “U.S. government aid helped reduce poverty in 2020, Census data shows”  – reports that stimulus
+payments lifted 11.7 million out of poverty and cut the poverty rate to 9.1% .
+YES! Magazine, “How a Brazilian Town Took a Bet on Basic Income”  – describes Maricá’s basic income
+program funded by oil royalties, with 42,000 residents receiving local currency stipends .
+Cook County Government (press release), “Largest Guaranteed Income Pilot”  – notes Cook County’s
+$42 million program giving 3,250 families $500/month for two years .
+Shareable, “NYC’s Worker Cooperative Business Development Initiative”  – details New York City’s support
+for co-ops, creating 21 co-ops and 141 worker-owner jobs in the first year .
+ICA (International Cooperative Alliance), “Marcora Law supporting worker buyouts”  – reports Italy’s
+Marcora Law helped create 257 worker cooperatives, saving ~9,300 jobs .
+NCEO, “Colorado Expands Employee Ownership Incentives”  – notes Colorado’s tax credits (50% of
+conversion costs up to $150k) and plans to increase to 75%, plus capital gains tax exclusion for sales
+to employees .
+World Economic Forum, “Finland’s basic income trial: happier, not more employed”  – summarizes that
+Finland’s UBI trial improved well-being but had no significant job effect .
+Guardian, “Four-day week trial success”  – reports that 56 of 61 companies in a UK pilot extended the 4-
+day week, citing dramatic well-being improvements and maintained productivity .
+OECD / McKinsey – data on potential automation impact (400–800 million global job displacement by
+2030) .
+The Alaska Permanent Fund: A model for a Universal Basic Dividend?  - Earth4All
+https://earth4all.life/views/the-alaska-permanent-fund/
+Jobs of the future: Jobs lost, jobs gained | McKinsey
+https://www.mckinsey.com/featured-insights/future-of-work/jobs-lost-jobs-gained-what-the-future-of-work-will-mean-for-jobs-
+skills-and-wages
+Future of work | OECD
+https://www.oecd.org/en/topics/policy-issues/future-of-work.html
+Should we tax robots? | MIT News
+https://news.mit.edu/2022/robot-tax-income-inequality-1221
+How a Brazilian Town Took a Bet on Basic Income - YES! Magazine Solutions
+Journalism
+https://www.yesmagazine.org/economy/2022/05/26/basic-income-brazil
+The Brazilian Town (Quietly) Experimenting with Basic Income
+https://www.americasquarterly.org/article/brazils-hidden-basic-income-experiment/
+President Preckwinkle unveils next phase of Guaranteed Income 
+https://chicagocrusader .com/president-preckwinkle-unveils-next-phase-of-guaranteed-income/
+Guaranteed Income Pilots Dashboard: Home
+https://guaranteedincome.us/• 
+1 2
+• 
+86 83
+• 
+12 11
+• 
+24
+• 
+32 33
+• 
+65
+• 
+61 62
+• 
+67 68
+• 
+71 72
+• 
+3
+1 227 40 41 43 44
+3
+4 5
+6
+7 8 915 16 17 18 19 20
+10 11 12 13 14 21 22 75 93
+23 24 26
+25
+16
+Community Land Trust: Meaning, Pros and Cons, Example
+https://www.investopedia.com/community-land-trust-5206374
+Community land trusts - Local Housing Solutions
+https://localhousingsolutions.org/housing-policy-library/community-land-trusts/
+How Local Governments Can Effectively Partner with Community ...
+https://mrsc.org/stay-informed/mrsc-insight/september-2023/partner-with-community-land-trusts
+A Look at Community Land Trusts and How They Work | TIME
+https://time.com/7212194/community-land-trusts-how-they-combat-affordable-housing-crisis/
+A look at New York City's Worker Cooperative Business Development Initiative - Shareable
+https://www.shareable.net/a-look-at-new-york-citys-worker-cooperative-business-development-initiative/
+Cleveland Model for Worker Cooperative Stands Test of Time
+https://shelterforce.org/2021/03/09/despite-a-rocky-start-cleveland-model-for-worker-co-ops-stands-test-of-time/
+The Cleveland Model - Atlas of the Future
+https://atlasofthefuture.org/project/the-cleveland-model/
+The Preston Model: Driving wealth generation, community ...
+https://www.lancashire.ac.uk/articles/research/preston-model-community-wealth-building
+Preston Community Wealth Building - Change The Rules
+https://letschangetherules.org/map/preston-community-wealth-building
+A rising tide that lifts all boats: Long‐term effects of the Alaska ...
+https://onlinelibrary.wiley.com/doi/10.1002/pop4.398
+Social Wealth Fund for America ❖ People’s Policy Project
+https://www.peoplespolicyproject.org/projects/social-wealth-fund/
+California Gov. Newsom calls for 'new data dividend' for consumers
+https://www.cnbc.com/2019/02/12/california-gov-newsom-calls-for-new-data-dividend-for-consumers.html
+The Data Dividends Initiative
+https://www.datadividends.org/
+On 'data dividend' concept, California's Gov. Newsom searches for ...
+https://statescoop.com/on-data-dividend-concept-californias-gov-newsom-searches-for-workable-strategy/
+CT Baby Bonds
+https://portal.ct.gov/ott/debt-management/ct-baby-bonds
+Baby Bonds in Connecticut
+https://racepowerpolicy.org/baby-bonds/baby-bonds-in-connecticut/
+Can Baby Bonds Fight the Wealth Gap and Racial Inequality ...
+https://www.ineteconomics.org/perspectives/blog/can-baby-bonds-fight-the-wealth-gap-and-propel-racial-equality-connecticut-
+aims-to-find-out
+[PDF] The American Opportunity Accounts Act (“Baby Bonds”)
+https://pressley.house.gov/wp-content/uploads/2023/02/Baby-Bonds-One-Pager-1.pdf28
+29
+30
+31
+32 33 34
+35 36
+37
+38
+39
+42
+45 46 91 92
+47
+48
+49
+50 51 52 53 54 55 56
+57
+58
+59
+17
+Booker , Pressley Reintroduce Bicameral 'Baby Bonds' Legislation to ...
+https://www.crossstate.org/about/communications/blog/booker-pressley-reintroduce-bicameral-baby-bonds-legislation-to-tackle-
+wealth-inequality/
+Colorado Legislature Passes Legislation to Expand Employee Ownership Incentives
+https://www.nceo.org/employee-ownership-blog/proposed-colorado-legislation-expands-employee-ownership-incentives
+[PDF] Cities Developing Worker Co-ops: Efforts in Ten Cities
+https://mayorsinnovation.wiscweb.wisc.edu/wp-content/uploads/sites/868/2019/12/Winter-2019-Cities-Developing-Worker-Co-
+ops.pdf
+New York City Continues to Pioneer Innovative Economic ...
+http://institute.coop/news/new-york-city-continues-pioneer-innovative-economic-development-strategies-committing-another
+The Marcora Law supporting worker buyouts for thirty years | ICA
+https://ica.coop/en/media/news/marcora-law-supporting-worker-buyouts-thirty-years
+What were the results of Finland's basic income trial? | World Economic Forum
+https://www.weforum.org/stories/2020/05/finlands-basic-income-trial-found-people-were-happier-but-werent-more-likely-to-get-
+jobs/
+Four-day week: ‘major breakthrough’ as most UK firms in trial extend changes | Work-life
+balance | The Guardian
+https://www.theguardian.com/money/2023/feb/21/four-day-week-uk-trial-success-pattern
+About the fund | Norges Bank Investment Management
+https://www.nbim.no/en/about-us/about-the-fund/
+Government Pension Fund of Norway - Wikipedia
+https://en.wikipedia.org/wiki/Government_Pension_Fund_of_Norway
+Sovereign Wealth Fund: Norway - Pathfinders
+https://www.sdg16.plus/policies/sovereign-wealth-fund-norway/
+U.S. government aid helped reduce poverty in 2020, Census data shows | Reuters
+https://www.reuters.com/world/us/us-median-income-dropped-2020-poverty-rose-census-data-shows-2021-09-14/
+The Welfare State and Social Wealth Funds - Jacobin
+https://jacobin.com/2019/09/universal-basic-income-job-guarantee
+The Case for Giving Every American a Share of a Public Wealth Fund
+https://inthesetimes.com/article/social-wealth-fund-matt-bruenig-peoples-policy-project
+South Korea's robot tax - TaxFitness
+https://taxfitness.com.au/blog/south-korea-s-robot-tax/60
+61 62
+63
+64
+65 66 90
+67 68 69 94
+70 71 72 73 74
+76 77 79 80 81
+78
+82
+83 84 85 86
+87
+88
+89
+18
