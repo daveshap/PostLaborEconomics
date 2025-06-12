@@ -1,0 +1,1093 @@
+Toward a New Digital Social Contract: Global
+Survey of Key Technologies
+Programmable Digital Currencies and Payment Platforms
+Ethereum and Smart Contract Blockchains
+Ethereum is a decentralized blockchain platform that introduced programmable smart contracts , enabling
+a wide variety of decentralized applications beyond simple payments . Technically, Ethereum works as a
+global distributed computer: anyone can deploy irreversible code (smart contracts) to the blockchain, and a
+network  of  nodes  executes  these  programs  and  validates  transactions.  This  allows  creation  of
+decentralized finance (DeFi)  protocols, non-fungible token markets, and organizational governance tools
+without  a  central  intermediary.  Unlike  a  traditional  system  where  a  bank  or  government  mediates
+transactions, Ethereum’s consensus mechanism and cryptography ensure that code-defined agreements
+self-execute with transparency and security. For example, a loan or vote encoded in a smart contract will
+automatically follow the rules everyone agreed to, without requiring a bank or agency to enforce it.
+From a policy perspective, Ethereum operates in a gray area: it challenges existing legal frameworks by
+providing an alternative infrastructure for money and contracts that is borderless and permissionless.
+Regulators worldwide have grappled with classifying assets like Ether (Ethereum’s native currency) and
+tokens launched on Ethereum, as these do not fit neatly into traditional definitions of currency or securities.
+No single entity controls Ethereum, so enforcement of laws (like securities regulations or KYC/AML financial
+rules) must happen at the periphery (e.g. exchanges or user interfaces) rather than the protocol itself. Some
+governments  and  enterprises,  however ,  have  engaged  with  Ethereum  technology  via  consortia  and
+private  chains  (e.g.  the  Enterprise  Ethereum  Alliance)  to  integrate  blockchain-based  efficiencies  into
+existing institutions. Ethereum thus both integrates with  and circumvents  legacy systems – for instance,
+anyone with internet can access Ethereum’s financial apps (increasing inclusion), but this open access also
+means services can operate outside of traditional licenses or oversight.
+Social contract analysis:  Ethereum’s design shifts power and agency toward network participants and
+away from centralized gatekeepers. By replacing certain functions of banks, registries, or even voting
+systems with transparent code, it empowers individuals to transact and organize on their own terms .
+This can increase equity in access – e.g. someone in a remote region can raise funds via an Ethereum-based
+crowdsale or get a loan on a DeFi platform without a bank’s permission. The blockchain’s transparency (all
+transactions are publicly auditable) creates a new level of accountability compared to opaque institutional
+ledgers . However , power can still concentrate in new ways: for instance, large holders of Ether or
+governance tokens can influence outcomes (much like wealthy shareholders), and core developers who
+maintain  the  protocol  wield  informal  influence  over  updates.  Ethereum’s  governance  is  deliberately
+decentralized and consensus-driven  – changes require broad agreement from the global community of
+users,  developers,  and  miners/validators .  This  high  coordination  threshold  gives  the  system
+legitimacy in the eyes of its community (no single party can easily force a change) at the cost of slower
+evolution. In essence, Ethereum offers a “trustless”  platform – you trust the code and distributed consensus1
+2
+34
+1
+over any central authority – marking a shift in the social contract toward  code as law . This raises new
+questions  of  legitimacy:  Does  an  outcome  determined  purely  by  code  (e.g.  an  automatic  financial
+liquidation or a hacked contract draining funds) carry the same justice as one adjudicated by courts?
+Ethereum’s ecosystem is still experimenting with reconciling strict rule-by-code with human values (for
+example,  the  community  hard-forked  in  2016  to  undo  the  infamous  “The  DAO”  hack,  an  extra-legal
+intervention). Nonetheless, Ethereum has clearly demonstrated a new paradigm where transparency and
+programmable rules  can enhance trust and enable coordination among strangers, albeit with ongoing
+tension between decentralization and effectiveness.
+Central Bank Digital Currencies (CBDCs)
+Unlike  open  cryptocurrencies,  CBDCs  are  digital  currencies  issued  and  governed  by  states,  essentially
+programmable digital cash  sanctioned by law. Two pioneering examples are China’s digital yuan  (e-CNY) and
+the Bahamas’ Sand Dollar . Technically, most CBDCs are centralized or permissioned systems – the central
+bank (or authorized intermediaries) runs the infrastructure, which may or may not use blockchain-like
+ledgers. For instance, China’s digital yuan is issued by the People’s Bank of China and does not rely on a
+public blockchain ; instead, it uses a two-tier architecture where commercial banks and payment providers
+distribute  the  currency  to  users .  It  functions  similar  to  existing  mobile  payment  apps  except  that
+transactions settle directly in central bank money. The e-CNY is designed to work offline and without fees,
+moving value via digital wallets as easily as handing over cash . The Bahamian Sand Dollar likewise is a
+centrally managed digital token equal in value to the Bahamian dollar , held in mobile wallets. Its rollout
+focused on reaching residents on remote islands who lacked access to physical banks or card services
+. Technically, the Sand Dollar system allows users to make instant transfers via their phones; in the
+background the central bank maintains the ledger and uses authorized financial institutions to KYC (know-
+your-customer) and provision wallets .
+In terms of policy integration, CBDCs are explicitly crafted to fit into existing legal tender and banking
+frameworks. Governments use them to extend state monetary sovereignty into the digital realm. China’s
+digital yuan, for example, was showcased at the Beijing Winter Olympics and is gradually expanding from
+pilot cities to nationwide use . The Chinese government has promoted e-CNY by mandating its
+acceptance alongside cash, distributing small sums as incentives, and even using it for civil servant salaries
+in trial regions . The policy goal is partly to improve payments efficiency and financial inclusion ,
+but also to increase state oversight and control  over the economy . Officials have openly noted that a
+digital currency can help monitor illicit activity, enforce currency rules, and even implement targeted
+economic policies  (for example, funds that expire if not used by a certain date, or are restricted to certain
+purposes) . This raises privacy concerns: the e-CNY is designed with “controllable anonymity” – small
+transactions  can  have  some  privacy,  but  large  ones  are  traceable  by  authorities .  Western  security
+experts have warned that such a system could enhance government surveillance or be used to sidestep
+international sanctions . Meanwhile, the Bahamian Sand Dollar was introduced with an emphasis on
+financial inclusion and resilience  (after hurricanes, getting physical cash to islands is hard, so a digital
+alternative helps). It operates under the Central Bank of The Bahamas, which instituted regulations to
+ensure Sand Dollar wallets follow anti-money-laundering rules and are only held by residents. Usage of the
+Sand Dollar remains modest – under 8% of Bahamians have a wallet and the digital currency accounts for
+tiny fractions of currency in circulation so far . The policy lesson  from the Bahamas is that merely
+issuing  a  CBDC  is  not  enough;  public  education,  merchant  acceptance,  and  demonstrated  utility  are
+needed. Still, the Sand Dollar’s legal status as equivalent to cash gives it a strong foundation to build on,5
+6
+7
+8
+9
+1011
+1213
+14
+15
+16
+14
+1718
+2
+and international observers (IMF, central banks) consider it a valuable case study in what works and what
+doesn’t for CBDCs .
+Social contract analysis:  CBDCs represent a digital extension of the social contract between citizens and
+state regarding money. They shift power dynamics  in subtle ways. With a CBDC, individuals hold claims on
+the  central  bank  directly  (digital  cash),  potentially  reducing  reliance  on  private  banks  or  payment
+companies. This could  enhance citizens’ agency and equity  by providing a public, zero-cost payments
+infrastructure that everyone can use – much like cash – thereby including those who are unbanked or
+paying high fees to money transmitters. The Bahamas’ stated goal, for example, was to reach remote
+communities and lower-income residents with a safe digital means of payment . If successful, this
+can promote equity in access to finance. On the other hand, CBDCs can shift power toward the state  if not
+properly designed. In China’s case, the digital yuan arguably increases the central bank’s visibility into
+transactions and its ability to implement monetary policy or even social controls at the individual level
+. Unlike physical cash (anonymous and untraceable), a digital currency gives authorities fine-grained
+data – which could be used for good (e.g. catching fraud) or for intrusive surveillance and control of dissent.
+This raises questions of legitimacy and trust  in the issuer: a democratic society might demand strong legal
+safeguards (for privacy and freedom) if a CBDC is introduced, whereas in an authoritarian context the social
+contract may tilt toward government prerogative. CBDCs can improve transparency  of money flows at the
+macro level (central banks get real-time economic data) but reduce personal  transactional privacy. Notably,
+the “social contract” of money traditionally involves implicit trust that the state won’t misuse its monetary
+power; CBDCs amplify that power , so maintaining legitimacy will require new checks and balances (such as
+independent oversight or technical privacy features). Another aspect is  programmability  – a CBDC can
+embed  rules  (for  taxes,  subsidies,  UBI,  etc.)  directly  into  currency.  This  could  make  fiscal  policy  more
+efficient or equitable (imagine stimulus money that can only go to buying necessities), effectively encoding
+policy into the money itself. But again, who decides those rules and can citizens consent or appeal? In
+summary, CBDCs hold promise for a more inclusive and efficient financial system aligning with public
+interests, but they also challenge liberal values by granting states unprecedented control. The evolving
+design and governance of CBDCs will determine whether they fortify the social contract (by  delivering
+public value and retaining trust ) or erode it (through overreach into citizens’ economic lives).
+MIT’s Digital Currency Research (Project Hamilton)
+A notable effort in the CBDC arena is  Project Hamilton , a collaboration between MIT’s Digital Currency
+Initiative and the Federal Reserve Bank of Boston to explore a hypothetical U.S. digital dollar . Technically,
+this project produced a high-performance transaction processor that could handle an enormous volume of
+payments with minimal latency . Unlike many blockchain systems, the prototype was not a classical
+blockchain  but a more centralized architecture optimized for speed and resilience, capable of processing
+hundreds of thousands of transactions per second. Interestingly, the team did make the system compatible
+with  smart  contracts  (it  could  support  Ethereum-like  contract  logic)  but  without  the  energy-intensive
+distributed mining – it’s an example of designing digital currency tech tailored for central bank use . MIT
+released the code open-source (OpenCBDC), emphasizing transparency and public input into CBDC design
+. The project was exploratory and explicitly not a pilot or actual currency; rather , it aimed to inform
+policymakers about what’s possible and how design choices (like account-based vs token-based models)
+affect security, privacy, and performance .
+In policy terms, Project Hamilton served as a bridge between academia and central bankers. It doesn’t
+interact with legal frameworks yet (since the U.S. has not decided to issue a CBDC), but it has influenced the1918
+78
+20
+21
+2223
+24
+25
+2223
+3
+policy  discussion  by  demonstrating,  for  example,  that  a  digital  dollar  could  be  built  to  combine  high
+throughput with privacy protections . One outcome is that it dispelled the notion that a CBDC must run
+on  a  slow,  fully  decentralized  blockchain  –  showing  that  other  architectures  can  meet  central  bank
+requirements . This gives policymakers more options to chew on (e.g. a two-tier model where the Fed
+provides the core ledger and private firms handle user-facing wallets, akin to how cash is distributed by
+banks  today).  The  project’s  openness  (publishing  a  whitepaper  and  code)  also  set  a  standard  for
+transparency – a stark contrast to more secretive state projects. While the Fed has not committed to a
+CBDC, research like this prepares the institutional groundwork (legal and technical) if the decision is made.
+It also feeds into legitimacy : any U.S. digital dollar would need broad public and political buy-in, and MIT’s
+involvement adds credibility that design choices are being vetted for public good (e.g. robust security,
+avoiding single points of failure, and considering user privacy).
+Social contract analysis:  Although just a research project, Hamilton highlights how technological design
+can encode the values  we want in a new social contract for money. By exploring an  open-source and
+technically inclusive  approach, it implicitly argues that a future digital dollar should be a public good, not a
+corporate product. This touches on power and agency – in a world of digital payments dominated by private
+Big Tech platforms, a state-issued, open infrastructure could give individuals more agency (no need to rely
+on a tech giant that might lock you out or exploit your data). If the public through democratic institutions
+influences CBDC design (as MIT’s open approach encourages), then issues like equity (universal access)
+and privacy rights  can be built into the technology from day one. For instance, the Hamilton prototypes
+considered modes for offline transactions  (so people could pay even during internet outages) and examined
+how to avoid centralizing too much information (perhaps via cryptographic tricks or distributing the ledger
+among  intermediaries).  These  technical  features  correspond  to  social  values:  offline  capability  boosts
+resilience and inclusion  (rural or poor communities with patchy internet won’t be left out), while minimizing
+data  collection  protects  individual  liberty .  In  contrast,  if  such  a  currency  were  solely  engineered  for
+maximum control or efficiency without regard to rights, it might undermine trust. Thus, Project Hamilton
+represents a consultative, public-interest-driven approach  – arguably a more legitimate social contract
+for digital currency  in a democracy. It acknowledges that how we design our digital money will shape the
+power relations between citizens, banks, and state . A well-designed CBDC could empower citizens with a
+safe, accessible means of exchange guaranteed by the state (much like cash does), while also giving the
+state new tools to serve the public (like direct stimulus payments). Ensuring that power is not a one-way
+street (all to the state) is crucial – and projects like this show that we can bake in checks (e.g. tiered
+anonymity, so small purchases are private) and balances (e.g. audits and open code for transparency). In
+summary, MIT’s digital currency research contributes to a social contract discussion by injecting  technical
+knowledge, transparency, and public values  into what could otherwise be a top-down implementation of a
+very impactful technology.
+Self-Sovereign and Digital Identity Systems
+Figure: Conceptual illustration of a decentralized identity network. Self-sovereign identity technologies aim to give
+individuals direct control over their personal data and credentials in a connected system.
+Self-Sovereign Identity (SSI) Networks – Sovrin and Beyond
+Digital identity is a cornerstone of the social contract – it defines who is recognized by institutions and how
+individuals assert and protect their rights.  Self-sovereign identity (SSI)  is a movement and technology
+stack that re-imagines identity as a user-centric asset rather than something solely issued and owned by24
+4
+central authorities. In an SSI system, individuals have digital identity credentials (e.g. proofs of their name,
+qualifications,  or  entitlements)  that  are  cryptographically  signed  by  issuers  (like  governments,
+universities, banks) but controlled by the individual  in a secure digital wallet. A key innovation enabling
+this is the concept of decentralized identifiers (DIDs)  and verifiable credentials, standardized by W3C. The
+Sovrin Network is a prominent example of an SSI infrastructure. Technically, Sovrin is a public-permissioned
+blockchain (built on Hyperledger Indy) that serves as a global ledger for DIDs and credential schemas
+. It doesn’t store personal data on-chain; rather , it stores cryptographic public keys and proofs  needed
+to verify credentials offline. Sovrin is run by a decentralized network of “Stewards” (trusted organizations
+operating nodes) under a governance framework that treats the network as a public utility . When
+someone (say Alice) wants to prove her identity or a claim about herself, she can present a verifiable
+credential (like a digital diploma or an ID card) to a verifier . The verifier can check the digital signature
+against  the  issuer’s  public  key,  which  is  fetched  from  the  Sovrin  ledger ,  to  ensure  it’s  authentic  and
+untampered.  Advanced  cryptography  like  zero-knowledge  proofs  is  used  so  Alice  can  reveal  just  the
+necessary information (e.g. “I am over 18” without revealing her exact birthdate) . In summary, SSI tech
+like Sovrin provides the technical means for portable, user-controlled identity  across the internet – akin
+to showing your driver’s license in person, but online and without always disclosing all details.
+From a policy and institutional standpoint, SSI networks interface in novel ways with traditional identity
+regimes. Rather than replacing government IDs, SSI extends them: a government could issue a digital ID
+credential to a citizen’s wallet, and the citizen could then use it widely without new integrations each time,
+because verification is standard and decentralized. Sovrin’s governance framework was developed to ensure
+compliance with laws (e.g. data protection regulations like GDPR) and to delineate liability of issuers and
+verifiers. However , SSI does challenge the monopoly and silo  model of identity. For example, today a bank
+identity check might rely on scanning a passport or querying a government database; with SSI, the passport
+office could have digitally signed Alice’s identity credential, and Alice can directly present it to the bank. The
+bank doesn’t need to call the government – it trusts the digital signature via the blockchain. This reduces
+the  dependence  on  central  data  silos  and  potentially  the  load  on  agencies,  but  it  requires  legal
+recognition that a credential shown by the user is as valid as one fetched by the institution. Governments in
+Canada, Europe, and elsewhere have run pilots using Sovrin/Indy tech for things like business registrations
+and inter-agency data sharing, precisely to test this integration. One  friction point  is establishing trust
+frameworks: agreeing on which issuers are trusted for which attributes (e.g. only a DMV can issue a driver’s
+license credential, only an accredited university can issue a degree credential, etc.). Sovrin’s approach has
+been to form a nonprofit foundation to curate governance and promote interoperability so that, say, a
+healthcare credential issued in one country could be understood and accepted in another . In essence, policy
+is catching up to allow individual-centric credential portability  – the EU, for instance, in its forthcoming
+digital identity wallet framework (see below) heavily borrows from SSI concepts.
+Social contract analysis:  Self-sovereign identity shifts power over personal data and identity assertions
+from central authorities to individuals . Under the traditional model, one’s identity “exists” in myriad
+databases – you have a citizenship record in a government registry, a customer profile at each bank, a
+student record at a university, etc., and you depend on those entities to vouch for you when needed. SSI
+inverts this: you become the point of integration for your identity , holding cryptographic proofs from
+those entities. This enhances individual agency – you decide when  and with whom  to share which aspect of
+your  identity,  rather  than  leaving  that  to  siloed  institutions  (which  might  share  data  without  your
+knowledge). It can also improve privacy and equity . Privacy, because only the minimum necessary info is
+disclosed and there’s no need for verifiers to continually query big databases (reducing surveillance and
+honeypots of data). Equity, because individuals who historically lack identity documents or struggle to26
+27
+2829
+27
+5
+access them might leapfrog to digital credentials that are widely accepted – for example, refugees could
+carry verifiable education certificates issued by now-defunct institutions, or the homeless could retain ID
+credentials without physical documents. SSI could empower marginalized groups by giving them a portable
+trust mechanism  not dependent on always going back to the issuer (who might be out of reach or
+prejudiced). The social contract implications are significant: trust in society would be more peer-to-peer ,
+mediated  by  cryptography.  This  might  increase  overall  transparency  and  legitimacy  –  if  a  landlord
+verifies a tenant’s income via a verifiable credential from an employer , they aren’t prying into all finances,
+just  getting  a  yes/no  proof.  It’s  transparent  in  terms  of  authenticity  (they  know  it’s  legit)  but  privacy-
+preserving in content. There are challenges too: not everyone is capable of managing cryptographic keys
+safely, so questions arise about guardianship, digital literacy, and ensuring no one is left behind  (the social
+contract  must  still  protect  those  who  use  paper).  Additionally,  SSI  networks  like  Sovrin  introduce  new
+stewards and governance bodies – the trust shifts partly to these network maintainers. The legitimacy of an
+SSI system will depend on open governance and accountability  (so that, for instance, the organizations
+running the ledger cannot collude or be coerced to falsify records). Sovrin’s governance framework is an
+attempt at this, treating identity as a public utility with checks and balances . In summary, SSI offers
+a vision of identity that  respects individual autonomy and privacy by default . If widely adopted, it could
+recalibrate  the  social  contract  around  personal  data:  individuals  become  active  managers  of  their
+identity ,  and  institutions  must  request  consent  and  trust  user-presented  data  instead  of  hoarding
+information. This represents a more  egalitarian and agency-enhancing model  of identity – essentially
+shifting  some  power  from  bureaucracies  to  people ,  while  ideally  retaining  (or  even  boosting)  trust
+through cryptographic guarantees rather than human oversight alone.
+European Digital Identity and EIDAS 2.0 (EBSI and Digital Wallet Pilots)
+In  the  public-sector  domain,  the  European  Union  is  spearheading  a  blend  of  centralized  policy  and
+decentralized technology for digital identity. In 2021, the EU proposed an  eIDAS 2.0 regulation  that will
+require every Member State to offer a European Digital Identity (EUDI) Wallet  to citizens and residents by
+2026 . This wallet is essentially a mobile app that can store verified digital IDs and credentials (from
+government-issued ID cards to diplomas, driver’s licenses, professional certificates, etc.) and allow the user
+to control and share them across borders. The vision is explicitly influenced by SSI principles: EU lawmakers
+want citizens to  gain more control over how their data is handled  and to  enable seamless, privacy-
+preserving  authentication  for  online  services .  To  implement  this,  they  are  leveraging  the
+European Blockchain Services Infrastructure (EBSI)  – a pan-European distributed ledger network run
+jointly by EU countries. EBSI is not a public, permissionless blockchain like Ethereum; it’s a permissioned
+network where nodes are operated by member state authorities. One of EBSI’s key use cases is  digital
+identity  and  credentials  verification .  For  example,  the  EU  has  piloted  cross-border  digital  diploma
+verification: a university in one country issues a graduate’s diploma as a verifiable credential, anchored on
+EBSI, and an employer in another country can instantly verify its authenticity via the ledger , rather than
+exchanging paper and stamps. The IOTA Foundation and other tech providers participated in early EBSI
+pilots, experimenting with DLT-based  identity management under a single protocol  that could unify
+many national systems . Essentially, EBSI provides an EU-controlled backbone to verify signatures
+and status of credentials, complementing the eIDAS legal framework which gives these digital signatures
+legal effect.
+From a policy integration standpoint, the EU approach is top-down but innovative. The original eIDAS
+(Electronic Identification, Authentication and Trust Services) regulation (2014) allowed cross-recognition of
+national e-ID schemes, but uptake was limited. EIDAS 2.0 is a game-changer: it compels member states to2829
+3031
+3233
+3334
+6
+adopt a common technical standards (likely the W3C Verifiable Credentials and DID standards) and to
+recognize each other’s digital identity means via the wallet . Because it’s regulatory, it overcomes the
+trust issue by fiat: if a country issues a credential into the wallet, all other countries must accept it as proof
+per eIDAS law. At the same time, the architecture is relatively decentralized and user-centric – credentials
+are stored at the user’s side and shared only as needed . The state doesn’t get a log each time you show
+your ID to a private company in another country, for instance. The EU is financing large-scale pilots (with
+tens of millions of euros) to test use cases like opening a bank account across border with the wallet, or
+proving  one’s  age  on  a  social  network  without  revealing  identity .  The  integration  with  legal
+frameworks is explicit: the wallet will be legally valid for things like KYC (know-your-customer checks) in
+finance, e-prescriptions across countries, signing documents, etc. . This is one of the first instances of a
+supranational  policy  embracing  SSI :  by  mandating  interoperable,  user-controlled  wallets ,  the  EU  is
+effectively challenging Big Tech’s single sign-on systems (like logging in with Google or Facebook) and
+asserting a digital public infrastructure  for identity. It also raises the bar on privacy – the regulation talks
+about selective disclosure  and minimizing data, in line with GDPR principles.
+Social contract analysis:  The EU’s digital identity initiative can be seen as a renewal of the social contract in
+the digital age, led by government but empowering the individual. It enhances citizen agency  by giving
+everyone a state-backed tool to identify themselves online without relying on commercial providers. In
+terms of power: currently, large platforms often mediate digital identity (think of how many sites rely on
+Google/Facebook logins or how your data is brokered by companies). In the new model,  power shifts
+toward citizens and the state  as primary identity providers, sidelining middlemen. However , it’s a nuanced
+shift: the state is providing the tool (wallet) and base credentials, but the citizen wields it. One might say it
+tries to  re-balance power between Big Tech and individuals/governments . The social contract here
+emphasizes  trust  and  transparency :  because  the  digital  wallet  is  implemented  under  law,  there  are
+accountability mechanisms. European residents can expect certain rights – e.g. that their wallet data won’t
+be harvested for ads (unlike commercial IDs) and that they can see and control every attribute release. This
+fosters  legitimacy and trust in digital interactions : If you use your EU wallet to prove your age to an
+online service, you know that only the fact of you being an adult is revealed, not your name or ID number ,
+and that this method is legally recognized . This could reduce the current mistrust in digital life
+where people feel they have lost privacy. By building privacy into the official system (with techniques like
+pseudonymous verification keys on EBSI and selective disclosure), the transparency shifts  – you as a user
+get  more  transparency  about  who  is  requesting  your  data  and  why ,  while  large  institutions  get  less
+unnecessary info. In theory, this should enhance equity  as well: all residents, not just those who can afford
+premium identity protection services, get a high-quality identity tool for free. It may particularly help mobile
+EU citizens (students, workers across borders) and those in smaller countries who previously had trouble
+getting their IDs recognized abroad. The introduction of data minimization and user consent as standard
+practice  changes the social norms – it legitimizes the idea that you shouldn’t have to hand over more data
+than  needed ,  shifting  the  expectation  of  privacy.  There  are  still  open  questions:  Will  people  trust  a
+government-issued app more than, say, Apple’s or Google’s wallet? The social contract between citizen and
+state in Europe includes a relatively high trust in regulators to enforce privacy (GDPR), so leveraging that
+trust to reclaim ground from unregulated digital identities is strategic. If successful, the outcome is a
+strengthening  of  democratic  values  (privacy,  personal  autonomy)  in  the  digital  realm,  with  the
+government actively safeguarding those values through technology. It is a melding of the  decentralized
+ethos  (take control of your identity) with the  legitimacy of state authority  (so it’s widely accepted and
+protected by law). This combination could set a precedent globally for how digital public infrastructure can
+enhance individual rights rather than eroding them, marking a positive evolution of the social contract as
+societies digitize.3536
+35
+3738
+7
+National Digital ID Initiatives (Estonia’s E-State and Others)
+On the national level, countries like  Estonia  and  India  have built sweeping digital identity systems that
+underpin  broader  digital  governance.  Estonia  is  often  cited  as  a  model  digital  society  –  it  provides  a
+compulsory e-ID card  (and mobile ID) to all citizens and residents, which is used to access virtually every
+government service online, to sign documents, and even to vote in elections. The  technical overview :
+Estonia’s system relies on strong cryptography (each ID has private-public key pairs) and a distributed data
+exchange layer called X-Road  to link databases. When a citizen authenticates with their ID card or mobile-
+ID, they can fetch or submit data across different agencies seamlessly . For instance, if you move
+house, updating your address in one place updates it for all agencies – a “once-only” principle. The X-Road
+infrastructure logs every data exchange, and those logs are in part secured by blockchain-like integrity
+proofs (Estonia was an early adopter of the KSI blockchain to timestamp records) . On top of this,
+Estonia has rolled out dozens of services: e-Tax (98% file taxes online), e-Health records (with patients
+controlling access), e-Residency (a program giving foreigners a digital identity to start businesses remotely),
+and i-Voting  (internet voting in national elections) . All government services are available through a
+single portal, and 99% of services are online (you only need to visit in person for very few things like
+marriage). Notably, transparency is built in : citizens can log into a state portal and see which officials have
+accessed their data (e.g., which police officer queried your driver’s license info), providing oversight against
+misuse. In India, by contrast, the  Aadhaar  system provides a biometric digital identity to over a billion
+people. Aadhaar issues a unique 12-digit ID linked to fingerprints and iris scans in a central database.
+Technically, it’s a centralized system that authenticates identity via biometrics or OTP, allowing residents to
+access services or open bank accounts without traditional documents. Aadhaar doesn’t itself carry other
+attributes (like address or entitlements), but it has become the foundational ID that other databases use as
+a key.
+Policy-wise, these national ID infrastructures are deeply integrated into the state’s legal and administrative
+framework. Estonia’s digital ID is legally equivalent to a handwritten signature . Laws were passed to
+recognize digital documents and to mandate data sharing between agencies (so citizens are not asked for
+the same info twice). Estonia also reformed its legal codes to enable online voting and to accept the
+legitimacy of logs as evidence. One remarkable policy aspect is e-Residency : Estonia extended parts of its
+digital identity system beyond its citizens, allowing entrepreneurs worldwide to legally register companies
+in Estonia and manage them online with an e-ID (though not granting citizenship rights). This blurs the
+traditional social contract of nation-state and citizen, creating a new category of digital stakeholder in a
+state. In India, Aadhaar was voluntary at first but became quasi-mandatory for accessing welfare and even
+private services (telcos, banks) – until the Supreme Court intervened to curtail some uses in 2018, citing
+privacy concerns. The  social contract tensions  were evident: the government argued Aadhaar would
+ensure  equity and inclusion  (e.g., eliminating ghost beneficiaries and guaranteeing subsidies reach the
+poor directly), while critics worried about state surveillance and the exclusion of those whose fingerprints
+don’t scan well (the elderly, laborers). Legally, India enacted a law to govern Aadhaar and created a national
+data protection law as a response to privacy issues. Both Estonia and India illustrate how digital IDs can
+redefine the relationship between state and individual  – potentially increasing the state’s ability to
+deliver services and the individual’s convenience, but also requiring new rights and protections.
+Social contract analysis:  A robust digital ID infrastructure can greatly shift power, agency, and trust  in
+society. In Estonia, the effect has largely been to  empower citizens as digital participants . Because
+everyone has a secure digital identity,  participation in governance is easier (e-voting)  and accessing
+one’s rights (filing for benefits, registering a business) is straightforward and quick. This reduces inequality3940
+4142
+4344
+43
+8
+in access – e.g., rural citizens get the same quality of service via internet as city-dwellers, and bureaucratic
+discretion or petty corruption is minimized when processes are automated. The transparency of Estonia’s
+system  enhances its legitimacy: knowing that your data accesses are tracked and visible to you builds trust
+that the government isn’t misusing information. Indeed, Estonia reports high public trust in its digital
+services, arguably because the social contract was carefully managed – citizens are educated about digital
+safety, and the government has proven itself a reliable custodian (there have been no major data breaches
+of the X-Road, and even when a flaw was found in the physical ID cards’ chip security, authorities acted
+quickly and openly to replace certificates) . The power relations shifted in that public servants have
+less arbitrary power  – since processes are digitized and standardized, there’s little room for an official to
+“lose your file” or demand a bribe. At the same time, the Estonian state itself became highly efficient and
+somewhat more powerful in capability (it can respond or adapt quickly because data flows freely between
+its  organs).  The  legitimacy  of  the  Estonian  government  arguably  increased:  fulfilling  the  modern
+expectation that government should be as efficient and user-friendly as a digital service, it strengthened
+citizens’  perception  that  the  state  delivers  value  for  their  consent  and  taxes.  It  also  introduced  novel
+concepts like “data embassy”  – Estonia stores encrypted data backups in other countries, treating data as
+critical national infrastructure. This again is part of the social contract: the state commits to safeguarding
+citizen data even under existential threats (like cyber-attacks or invasion), akin to protecting the populace
+itself.
+In India, the Aadhaar experience shows both the positive and cautionary sides of rewriting the social
+contract with tech. On one hand, Aadhaar gave millions of people a formal identity for the first time, which
+is fundamental to accessing rights (you can’t get welfare or vote easily if you lack ID). This inclusion is a big
+equity gain – it’s often said “identity is the gateway to opportunities.” It also helped reduce certain forms of
+corruption (ghost recipients in welfare rolls were eliminated, saving public money). So, in that sense, the
+power  shifted  toward  ordinary  people  who  now  reliably  receive  their  entitlements  directly  into  bank
+accounts  linked  to  Aadhaar ,  rather  than  trickling  through  corrupt  intermediaries.  However ,  the
+centralization and biometric nature of Aadhaar raised concerns about state power and individual privacy.
+Unlike Estonia’s decentralized X-Road model, Aadhaar put a vast amount of personal info (biometrics and
+authentication  logs)  in  one  database,  which  some  see  as  an  instrument  of  surveillance.  When  the
+government started requiring Aadhaar for more and more services, it felt coercive – citizens were suddenly
+forced to link all aspects of their life to a single ID. The social contract tension here was: do citizens get
+enough benefit (in convenience and services) to justify giving the state (and possibly private companies) the
+ability to track their activities via a unified ID? Civil society pushed back, leading to court rulings that, for
+example, private telecom companies can’t demand Aadhaar , and that a law was needed with limits on
+usage. This reflects a negotiation of legitimacy: a digital ID system must maintain trust by protecting
+rights, not just by preventing abuse but by being seen to prevent it . As a result, India is working on a
+Data Protection Act and features like offline Aadhaar IDs to appease privacy concerns. This trajectory
+underscores that digital ID systems can enhance or undermine legitimacy  depending on governance. If
+implemented with transparency, choice, and security, they strengthen the social contract by improving
+service delivery and inclusion (citizens see the government working better for them). If implemented in a
+coercive or surveillance-heavy way, they risk eroding trust and agency (citizens feel watched or forced,
+which is corrosive to the voluntary trust that underpins any social contract).
+In summary, national digital ID initiatives show that technology can  dramatically improve the citizen-
+state relationship  – making it more efficient, fair , and participatory – but they must be accompanied by
+robust safeguards and an ethical framework. The “digital social contract” in these cases means the state
+promises to use tech to benefit people (no more waiting in line for hours, more equitable access), and the4546
+9
+people,  in  turn,  trust  the  state  with  more  data/power ,  expecting  it  to  be  used  responsibly.  Estonia
+exemplifies a well-balanced outcome (earning the moniker “digital republic” for how it married liberty and
+efficiency ),  while  others  are  learning  that  finding  the  right  balance  of  power,  agency,  and
+transparency  is key to legitimacy in the digital age.
+Proof-of-Personhood and Worldcoin
+A novel entry in the identity domain is  Worldcoin , a private project blending biometrics, cryptocurrency,
+and the concept of a global basic income. Worldcoin’s approach to digital identity is through  “proof-of-
+personhood” : it aims to issue everyone a unique digital ID (World ID) that proves they are a real, individual
+human  –  without  revealing  their  actual  identity .  Technically,  Worldcoin  devised  a  physical  imaging
+device (the Orb) which scans an individual’s iris to create a unique biometric hash. This hash is then used to
+issue a World ID (a cryptographic token) that the person can use in online interactions to prove “I am a
+unique human” (and not a bot or duplicate) . Importantly, the system employs  zero-knowledge
+proofs  so that the World ID does not contain the biometric itself – the iris image is converted to a code that
+can be checked for uniqueness, and the original image isn’t supposed to be stored (or so the project claims)
+. With a World ID, a person could log in to websites or services anonymously but verifiably human,
+solving the problem of bots and fake accounts proliferating in the age of AI . On top of the ID,
+Worldcoin also has a cryptocurrency (WLD) which it distributes in part to people who sign up – essentially
+providing an incentive (some free tokens) for undergoing the iris scan . The broader vision espoused by
+Worldcoin’s founders is to lay the groundwork for a universal basic income (UBI)  in the future by having a
+global registry of humans (so you could, for instance, drop airdrops of money to everyone exactly once) .
+In July 2023, Worldcoin launched and by that time had over 2 million sign-ups from trial deployments in
+various countries .
+Policy integration and challenges around Worldcoin are substantial. As a private, globe-spanning initiative,
+it doesn’t fit neatly under any single regulatory regime for identity or finance. Immediately, data privacy
+regulators  in  various  countries  scrutinized  Worldcoin’s  collection  of  sensitive  biometric  data.  Kenya
+suspended Worldcoin  shortly after launch, citing concerns over data protection and even national security
+.  European  authorities  also  opened  investigations,  as  EU  law  (GDPR)  has  stringent  rules  about
+processing biometrics – consent must be explicit, purpose-limited, and there are doubts whether primarily
+offering  a  financial  incentive  (free  crypto)  is  valid  consent.  Worldcoin’s  model  effectively  leapfrogs
+government ID to create a new kind of ID – this can be seen as disruptive or complementary. On one hand,
+proof-of-personhood could greatly help in digital governance: e.g., one person–one-vote online polls or
+distributing aid fairly. But if a private company controls the database of unique humans, it raises questions
+of sovereignty and oversight . No state is formally involved in verifying or backing these identities; it’s all
+via technology and the company’s Orb devices. This can clash with laws that require certain ID verification
+(for  instance,  you  still  need  a  government  ID  to  exchange  Worldcoin  tokens  for  cash  on  regulated
+exchanges due to KYC laws; a World ID alone isn’t a legal identity document). Some jurisdictions might ban
+or regulate the biometric aspect – requiring Worldcoin to have licenses for handling sensitive data. Another
+policy  aspect  is  financial  regulation :  Worldcoin’s  token  distribution  to  possibly  billions  of  people  is
+unprecedented. If widely adopted, the WLD token could have monetary significance, raising issues for
+central banks or securities regulators (is it an unregistered security distribution?). The project thus sits at
+the  frontier  of  law,  likely  needing  new  rules  if  it  grows  (perhaps  classified  as  critical  personal  data
+infrastructure  or  subject  to  something  akin  to  how  passports  are  handled,  but  globally).  Right  now,
+integration  with  state  frameworks  is  minimal  –  rather ,  Worldcoin  is  attempting  to  create  a  parallel
+infrastructure and hoping for tacit acceptance. It is also  challenging institutions  by positing that a private45
+47
+4847
+49
+5049
+51
+52
+51
+53
+10
+initiative can do what traditionally only governments did: guarantee uniqueness of an identity on a global
+scale.
+Social contract analysis:  Worldcoin is a provocative experiment in how technology might reconfigure
+power and trust at a planetary scale. It posits a new kind of social contract:  each human  gets a crypto
+identity and potentially an economic stake, managed by a transnational system of algorithms and devices,
+rather than by nation-states. This carries some  utopian promises and dystopian risks . On the positive
+side, if something like World ID became widely accepted, it could  democratize access to the digital
+economy  and  perhaps  to  future  social  benefits .  For  example,  in  an  AI-dominated  future  where
+distinguishing real humans is hard (to prevent bot abuse or ensure fair resource allocation), having a proof-
+of-personhood could empower individuals to claim their voice (one human, one account) and even a share
+of AI-generated wealth (the UBI idea) . In that vision,  agency and equity  are enhanced globally: a
+person in a poor country might have the same World ID and same claim to certain global distributions as
+someone in a rich country. It bypasses the lottery of citizenship and could be a leveller , establishing a kind
+of global citizenship in economic terms . It also could increase transparency in online interactions – one could
+demand  that  voting  or  reviews  are  by  verified  humans,  cleaning  up  digital  discourse  and  improving
+legitimacy of online communities (no more armies of bots drowning out real opinions). However , these
+benefits come only if people trust the system – and that’s where the power dynamics raise eyebrows. Right
+now, a private foundation/companies control the Orb manufacturing, the initial token allocation, and the
+backend algorithms. This  centralizes power in the hands of Worldcoin’s operators  (and investors) in a
+way  that  might  be  even  less  accountable  than  governments.  Unlike  a  democratic  state  bound  by
+constitution, Worldcoin’s governance is not yet transparent – though they talk of eventually decentralizing,
+currently users must trust  that the biometric hashing is secure and that their data won’t be misused. There’s
+a troubling scenario: if such an ID became critical and the organization behind it failed or acted maliciously,
+people  could  lose  an  essential  credential  or  be  subject  to  surveillance  without  recourse.  Thus  the
+legitimacy  of Worldcoin’s approach is contested – privacy advocates call it “dystopian, a trade of biometrics
+for tokens”  and worry about exploitation (early deployments targeted poorer communities with the allure of
+free crypto) . The transparency  in how the system actually works and how data is stored is also under
+question; the company claims to delete raw images, but outsiders have limited ways to verify these claims. 
+In essence, Worldcoin’s social contract is trying to leap beyond the nation-state: “trust this technology and
+organization with your biometric, and in return, you get a secure digital identity and a share in a new global
+economy.” This is a radical reshaping of power relations – potentially weakening the role of states (who
+traditionally  provide  IDs  and  social  safety  nets)  and  strengthening  a  techno-economic  network  as  the
+guarantor of some rights (the right to a global basic income, perhaps, or the right to a verified voice online).
+If Worldcoin or similar projects succeed, we might see a shift where  people hold multiple overlapping
+social contracts : one with their country (citizenship) and one with global networks (e.g., Worldcoin ID
+holders, members of a global DAO, etc.), each granting different benefits and requiring different forms of
+trust. This pluralism could empower individuals (giving them alternatives if their state fails them) or confuse
+loyalty and accountability (to whom do you turn if the system breaks?). The notion of legitimacy will have to
+be extended – beyond governmental legitimacy to  technological legitimacy , earned by openness and
+fairness. For now, the pushback Worldcoin has received highlights a fundamental point:  no new social
+contract can survive without trust , and trust must be earned by transparency, inclusivity, and clear
+benefit. Worldcoin has started a conversation about proof-of-personhood  as a public good, but whether it
+evolves into something that communities accept and govern (perhaps as a decentralized public utility) or
+remains a controversial private venture will determine if it truly reshapes the social contract or just becomes
+a footnote. In summary, Worldcoin illuminates both the aspiration of a borderless digital social contract52
+54
+11
+– equality and agency for all humans in cyberspace – and the  pragmatic challenges  of achieving that
+without creating new concentrations of power or violating fundamental rights like privacy and consent
+.
+Decentralized Governance and DAOs
+Decentralized Autonomous Organizations (DAOs) and New Governance Models
+DAOs  are organizations represented and run by rules encoded as smart contracts on a blockchain, with
+decisions  often  made  by  token-holding  members  voting  on  proposals.  They  embody  a  new  form  of
+governance  that  is  natively  digital  and  potentially  global,  without  a  centralized  leadership  hierarchy.
+Technically, a DAO typically consists of a set of smart contracts (often on Ethereum or similar platforms) that
+manage a treasury of tokens and implement governance processes. For example, a DAO might have a
+contract where members can submit proposals (e.g. to fund a project or change a parameter) and then vote
+during a fixed period. If the proposal passes per the encoded rules (say, >50% quorum and approval), the
+smart contract automatically executes the decision – for instance, transferring funds or updating variables.
+This automated execution  means that once the community’s will (as measured by votes) is expressed, the
+outcome isn’t dependent on any single person to carry out; the blockchain enforces it impartially .
+The first high-profile DAO, known simply as “The DAO” in 2016, sought to be a decentralized venture capital
+fund. It raised $150 million in Ether from thousands of participants with no centralized management – an
+unprecedented experiment, until a hack exploited its code. Despite that rocky start, today there are many
+functioning  DAOs:  from  protocol  DAOs  that  govern  blockchain  projects  (e.g.,  MakerDAO  governing  a
+stablecoin system, Uniswap’s DAO governing a decentralized exchange) to  investment DAOs  (collective
+funds like Flamingo DAO for NFT art),  social DAOs  (communities like Friends With Benefits), and  service
+DAOs  (decentralized freelance collectives). 
+Major  DAO  governance  models  have  emerged,  each  with  different  implications  for  participation  and
+power . The most common is token-weighted voting : members hold governance tokens and usually one
+token  equals  one  vote .  This  model  mirrors  shareholder  voting  in  corporations  and  is  easy  to
+implement. However , it often leads to  whale domination  – those with large token holdings (often early
+investors or wealthy backers) can disproportionately influence or even dictate outcomes . Some
+DAOs have mitigated this by introducing delegated voting (liquid democracy) , where token holders can
+assign their voting power to delegates who vote on proposals on their behalf (Compound and MakerDAO
+follow this model) . Delegation can lead to more informed decision-making (delegates specialize and
+research  issues)  and  reduce  voter  apathy,  but  it  also  introduces  a  representative  layer  –  potentially
+recreating a mini political class within the DAO, which could centralize influence if not checked .
+Another  model  is  quadratic  voting/quadratic  funding  used  experimentally  by  DAOs  like  Gitcoin  for
+community grants. In quadratic voting, the cost of additional votes grows quadratically, so a person with
+100 tokens doesn’t get 100 votes for free – it might cost them 10,000 tokens’ worth of voting power to cast
+100 votes (simplified example) . This way, the influence of large holders is dampened  and broad
+support matters more than raw capital – it’s more “one person, one vote” in spirit, though still not exactly
+that if tokens can be split among identities. Quadratic funding, similarly, matches funds based on number
+of contributors rather than size of contributions . Few governance decisions use pure quadratic
+voting due to complexity, but the concept is influential as a way to inject more equity  (small token holders
+banding together can outweigh a whale). There’s also  conviction voting  (used by 1Hive), where votes
+accumulate  weight  over  time,  favoring  long-term  stakers  over  quick  flippers .  Some  DAOs  use
+reputation-based voting  instead of transferable tokens – members earn non-tradable “reputation” points48
+55
+5657
+5837
+5960
+61
+6263
+6465
+6667
+68
+12
+through  contributions,  which  determine  voting  power .  This  can  align  power  with  merit  or
+participation rather than wealth, but setting and maintaining the reputation system is complex and can be
+subjective. Lastly, some governance is multisig or committee-based  (a multi-signature wallet controlled by
+a small group), particularly for executing sensitive decisions or as a backstop for security . Many DAOs
+actually use a mix: for instance, off-chain Snapshot  polls for informal voting, followed by on-chain execution
+by a multisig if the vote passes – blending decentralization with a bit of human oversight for safety.
+Legally and institutionally, DAOs operate in a gray zone, but this is changing. They inherently challenge the
+traditional legal notion of corporations or nonprofits. A DAO doesn’t map neatly to any existing entity: it
+might have no registration, no address, its “members” are pseudonymous wallet addresses around the
+world, and its “charter” is open-source code on GitHub. This has posed issues – for example, if a DAO gets
+sued, who is liable? If it wants to sign a contract with a real-world vendor , who signs? Recognizing this gap,
+some jurisdictions have started to integrate DAOs into legal frameworks.  Wyoming’s DAO legislation
+(2021) was groundbreaking: it allows DAOs to register as a special form of LLC (Limited Liability Company) in
+Wyoming . This means a DAO can obtain legal entity status – it files an LLC operating agreement that
+can reference its smart contracts and bylaws, and it must have a registered agent in the state, but otherwise
+can operate using its on-chain governance. Wyoming even updated this in 2024 to create a new category
+called Decentralized Autonomous Nonprofit Associations (DUNA) , granting DAOs legal personhood as
+unincorporated associations with limited liability for members . Key features include recognizing the
+use of blockchain for governance, protecting individual members from being personally liable for DAO
+debts,  and  allowing  DAOs  to  own  property,  sue  and  be  sued,  etc.,  just  like  companies .  This
+integration is significant – it lends  legitimacy and legal clarity  to DAOs, encouraging experimentation
+within the bounds of law. Other places like Vermont, Tennessee, and even overseas (e.g., Malta, and a
+special  zone  in  the  UAE)  have  also  introduced  DAO-friendly  laws  or  frameworks .  On  the  flip  side,
+regulators like the U.S. SEC and CFTC have asserted that  DAOs are not above the law  – if a DAO sells
+tokens that function like securities, it must comply with securities laws . In 2023, the CFTC even took
+enforcement action against a DeFi protocol’s DAO (Ooki DAO), treating the voting token holders as an
+unincorporated association responsible for legal violations, which was a wake-up call: participating in a DAO
+doesn’t magically shield one from legal responsibility unless it’s formally wrapped in a legal entity. So DAOs
+are pushing the envelope, and the legal system is gradually responding by either offering incorporation
+pathways (to bring DAOs into the fold) or by pursuing them under existing laws (to not let them become
+lawless zones).
+Social contract analysis:  DAOs are a laboratory for  reimagining governance – who holds power and
+how  decisions  gain  legitimacy  –  beyond  the  constraints  of  geography  and  traditional  organizational
+charts. They shift power by potentially  flattening hierarchies : in a pure DAO, there is no CEO or board;
+token holders collectively decide. This can be highly empowering for individuals: anyone with some tokens
+(often earnable through contribution, not just purchase) has a voice in decisions that matter to them,
+whether it’s managing a community treasury, deciding on project direction, or setting community rules. In
+that  sense,  DAOs  strive  to  embody  a  more  participatory  and  meritocratic  social  contract  within
+organizations: if you contribute value, you gain influence (as with reputation systems), and every member’s
+vote  is  counted  transparently.  The  transparency  of  DAO  governance  is  a  strong  point  –  proposals,
+discussions (usually on forums or Discord), and on-chain votes are open for all to see . This level of
+openness can increase trust among members compared to a black-box corporation; decisions are justified
+in public, and records are immutable on the blockchain for audit. It’s a bit of Rousseau’s social contract ideal
+(direct participation of citizens) implemented with code and tokens.3869
+70
+7172
+7374
+7576
+77
+78
+7980
+13
+However , the reality has been mixed. Token-based voting often replicates plutocracy:  wealthy actors or
+early insiders hold outsized power , which can lead to a social contract that is less egalitarian than hoped.
+In some prominent DAOs, a handful of wallets can sway any vote – analogous to having oligarchs in a
+nation-state. This undermines the legitimacy  of those DAOs in the eyes of smaller participants; they may
+feel disenfranchised, seeing it as a feudal token system rather than a democratic one. Recognizing this,
+many  communities  are  discussing  or  implementing  measures  to  broaden  participation:  from  user
+verification (proof-of-human or soulbound tokens)  to prevent one person masquerading as many, to
+quadratic  voting  to  favor  broad  consensus,  to  delegation  with  accountable  delegates  to  combine
+expertise  with  representation .  These  experiments  mirror  political  science  debates  –  essentially,
+DAOs are testing digital forms of direct democracy, representative democracy, liquid democracy, etc., trying
+to find what yields both efficiency and fairness. The social contract within each DAO is often codified in a
+constitution or manifesto  that sets the values (e.g., “one token one vote” or “commitment to transparency”
+or community goals). The process of creating and amending these is itself a new kind of social contract
+formation: it’s usually open to all members to propose changes and requires supermajority votes to alter
+core rules, akin to amending a constitution but at rapid startup speed.
+In terms of  agency , DAOs give individuals the freedom to organize economically and socially without
+needing legal charter or corporate overhead – you can spin up a DAO with strangers around the world to
+fundraise for a cause (like ConstitutionDAO did to bid on a copy of the U.S. Constitution) or to build an open-
+source  project.  This  is  collective  agency  unleashed  by  technology:  people  coordinate  trustlessly  with
+escrowed funds and enforceable rules, achieving feats (raising tens of millions in days, for example) that
+previously required trust in established institutions. It lowers the barrier to collective action. That can shift
+power  away  from  traditional  centralized  entities  (companies,  governments)  if,  say,  people  choose  a
+community-run alternative. One could imagine in the future even local governments or co-ops being run as
+DAOs for transparency – indeed some city experiments (like “CityDAO” in Wyoming, which bought land as a
+DAO) hint at that. There’s also exit rights  in DAOs – many DAOs allow members to exit with their share of
+assets (“rage quit” in Moloch DAO design) if they disagree with a decision. This concept, borrowed from
+Albert O. Hirschman’s “exit vs voice” idea, means the social contract in a DAO might be upheld not just by
+loyalty and voice (voting), but also by the freedom to leave without loss. That potentially keeps power in
+check: leaders (if any) know that if they go against the community’s interest, members can fork or exit,
+draining the project of resources. This is a dynamic less available in nations (where leaving is hard) or
+corporations (where you may lose your job or share value if you dissent).
+The broader societal impact of DAOs ties into legitimacy and law. As DAOs become more prevalent, people
+might  start  expecting  real-world  governance  to  also  be  more  transparent  and  participatory .  For
+example,  someone  active  in  a  well-run  DAO  might  wonder ,  “why  can’t  my  city  budget  use  a  similar
+participatory process?” It’s telling that some local governments have even tried quadratic voting/funding for
+budgeting (Colorado did a pilot with quadratic funding for grants). In this way, DAOs are  incubators for
+governance  innovation  that  could  trickle  out  to  the  non-crypto  world  if  successful.  They  press  on
+questions of legitimacy : does a vote on-chain by anonymous token holders carry moral weight? Perhaps
+yes, if those token holders are the ones affected and invested in the outcome (like stakeholders). But what
+about the stakeholders who have no tokens? This is analogous to shareholders vs stakeholders debates in
+corporate governance, now in hyper-speed. If a DeFi platform’s DAO votes to change interest rates, it affects
+users who may not all have governance tokens. So, the social contract in these ecosystems can struggle
+with representation – an area for improvement. 6181
+14
+Wyoming’s granting of legal status to DAOs is a recognition that they can be legitimate entities representing
+a collective will . It’s a case of law catching up to on-ground social contracts: people acted as if their
+DAO was an organization, and now the law is saying “okay, we will treat it as one, under these conditions.”
+This integration strengthens the  agency and power  of DAOs in society – they can buy property, hire
+employees, enter contracts. At the same time, it  imposes accountability  (a DAO can be sued, whereas
+before  it  was  nebulous  who  to  sue).  That  is  a  maturation  of  the  social  contract:  rights  come  with
+responsibilities. DAO members get limited liability (a perk from society’s legal system) in exchange for some
+transparency  and  compliance  (e.g.,  filing  public  registration).  This  is  akin  to  how  the  corporate  social
+contract works, now extended to decentralized orgs.
+In summary, DAOs are redefining how people coordinate resources and authority. The best of them show
+that  distributed  governance  can  be  effective  and  align  incentives  –  e.g.,  community-run  protocols
+managing billions in cryptoassets without centralized oversight, guided by the collective decisions of users.
+They highlight values of  transparency, inclusiveness, and merit-based contribution , which can make
+organizational governance feel more  legitimate to participants  than a distant shareholder-elected board.
+However ,  they  also  reveal  pitfalls  like  plutocracy,  voter  apathy,  and  security  risks,  reminding  us  that
+technology alone doesn’t guarantee fairness – the rules and culture matter . The evolving social contract
+around DAOs seems to be one that prizes voluntary association  (you choose to join/leave a DAO by buying
+or selling tokens),  open participation  (anyone with interest can get involved, at least in theory), and
+algorithmic trust  (trust in code rather than in bosses). As these concepts prove themselves (or fail) in
+practice, they may influence broader expectations of governance in our societies, pushing us toward either
+more direct participation or cautioning where decentralization has limits. Either way, DAOs have already
+shifted the conversation about who can hold power and how we collectively decide on the rules that bind
+us.
+Digital Education and Credentialing
+Blockchain Credentials and Digital Diplomas (MIT’s Blockcerts and Beyond)
+Educational and professional credentials – diplomas, certificates, licenses – are vital to how modern society
+allocates opportunities, yet the current system for managing them is often slow, siloed, and fraud-prone.
+Digital credentialing initiatives seek to modernize this by issuing tamper-proof, verifiable credentials  that
+individuals can hold and share. One notable project is Blockcerts , an open standard co-developed by MIT.
+In 2017, MIT piloted issuing digital diplomas  to graduates using the Bitcoin blockchain . Technically,
+the MIT Blockcerts system worked as follows: Each student received a digital diploma file (essentially a JSON
+document) signed by MIT. A cryptographic  hash  of that diploma was recorded on the blockchain (in this
+case, Bitcoin’s, via a transaction) as a permanent timestamp . The student stores their diploma in a
+smartphone wallet app (the Blockcerts Wallet). If they need to prove their degree to an employer , they can
+simply send the digital file; the employer , using a Blockcerts verifier , checks that the file’s hash matches
+what’s on the blockchain and that the signature is MIT’s. Because any alteration to the diploma would
+change the hash, and because MIT’s public key is known, this verification proves that “MIT issued this
+diploma to this person and it has not been altered” . The  beauty of the design  is that it doesn’t
+require MIT or any intermediary to confirm the credential each time – the  graduate has autonomy  to
+present it, and anyone in the world can independently verify it in seconds using the blockchain record. MIT
+described it as giving students “ ownership of their records ” in a permanent way . The blockchain
+acts as a decentralized trust anchor  ensuring longevity (even if MIT or the vendor goes away, the record
+still exists on Bitcoin’s ledger) .8272
+8384
+285
+8687
+8488
+89
+15
+Since  that  pilot,  the  concept  has  spread.  Countries  like  Malta  conducted  nationwide  pilots  to  put  all
+educational  certificates  on  blockchain,  using  Blockcerts  for  secondary  school  and  vocational  training
+credentials . The goal was to ease verification for employers and cross-border recognition (Malta’s
+small, many students go abroad, so having a trusted digital credential helps). Likewise, many universities
+and MOOC providers have experimented with issuing  verifiable digital certificates  – some on public
+chains like Ethereum, others on private ledgers or simply using digital signature frameworks (like signing a
+PDF with a cert). Another relevant standard is the  W3C Verifiable Credentials (VC)  data model, which
+generalizes what Blockcerts did: any issuer can issue a signed credential (not necessarily on a blockchain,
+but can be anchored to one), and the holder can present it to a verifier who checks the signature and
+optional ledger entry. For instance, the European EBSI pilot we mentioned in identity is doing  digital
+diplomas across universities  using VCs anchored on a blockchain, so an employer in one EU country can
+trust a diploma from another’s university without lengthy bureaucratic checks. There are also platforms like
+Learning Machine (now Hyland Credentials)  and BCdiploma  that offer blockchain credential services to
+institutions, and open source efforts for “Open Badges” (which started as a non-blockchain digital badge
+standard by Mozilla, now converging with W3C VC). So, the tech is fairly mature: it usually involves a public-
+private key infrastructure where institutions sign credentials and optionally a blockchain or distributed
+ledger to timestamp or register those credentials for extra security and discovery.
+Policy  integration  is  gradually  happening.  Some  governments  have  begun  to  legally  recognize  digital
+credentials.  For  example,  in  2018,  Malaysia  reportedly  recognized  blockchain  certificates  from  some
+universities  as  valid.  Georgia  (the  country) ,  beyond  land  titles,  also  worked  on  verifying  education
+credentials using similar tech for public sector hiring. A major barrier to adoption is not technical but
+institutional inertia and standards . Verifiers (employers, licensing boards) need to be onboard with new
+verification  processes.  However ,  we’re  seeing  movement:  the  Bologna  Digital  Credentials  initiative  in
+Europe is aligning blockchain credential projects with the existing frameworks for degree recognition. Also,
+during COVID-19, digital credentials got a boost out of necessity – some universities issued e-diplomas
+when  graduations  went  remote.  Another  angle  is  professional  licenses  and  continuing  education  –
+putting those on blockchain can help prevent fraud (like fake medical licenses) and ease portability (if you
+move states or countries). Governments are interested because it can reduce credential fraud (a huge
+problem in some regions where fake degrees are common) and administrative overhead. Yet, policy must
+ensure privacy (a student might not want their credentials on a public ledger without control). Blockcerts
+handled this by not putting any personal data on-chain, only hashes . The user shares the actual
+data off-chain. This is a privacy-friendly approach aligning with data protection laws.
+Social contract analysis:  Digital credentialing changes the power and trust relationships in education and
+hiring. Traditionally, institutions held all the cards  – you often have to request transcripts or verification
+letters, and you trust institutions (and sometimes intermediaries like background check companies) to
+certify your accomplishments. This can be time-consuming and exclude the individual from the loop (e.g.,
+an employer writes to a university, the student isn’t involved). With systems like Blockcerts, the  agency
+shifts to the individual : you directly hold your proof of achievement and can decide when and with whom
+to share it. This empowerment is analogous to self-sovereign identity – your diplomas become part of your
+personal  portfolio  that  you  control.  It  reduces  dependency  on  institutional  gatekeeping  for  routine
+verification. That can particularly help in cases where institutions shut down or records are lost – e.g.,
+refugees or migrants could carry their verifiable credentials even if the issuing school no longer exists or
+can’t be contacted internationally. It contributes to equity  by leveling the field: smaller institutions or those
+in developing countries can issue globally verifiable credentials just like top universities can, increasing the
+legitimacy of those credentials abroad and the opportunities for graduates. It also deters fraud: from the9091
+8685
+16
+employer’s side, they now have a tool to instantly catch fake certificates (the hash won’t match anything on
+the blockchain if someone fabricates a diploma). So the  transparency and integrity  of qualifications in
+society improve. This might build a more meritocratic social contract: jobs and positions can truly be given
+based on credentials that are verified, not just who can afford fancy credential evaluation or who can fake a
+document.
+For the social contract between learners, institutions, and employers, these technologies add a layer of
+trustworthiness  and potentially change expectations. If my diploma is digital and verifiable, perhaps I can
+also assert partial credentials (like specific skills or courses) in a trusted way. This leads to the idea of micro-
+credentials  and lifelong learning: individuals might accumulate many certified skills from various providers
+(not just one alma mater), and present relevant ones for a job. The new social contract here is more
+granular – not just “I trust you have a degree” but “I trust you have these specific competencies, because
+each is verified.” That could democratize hiring by focusing on skills over pedigree, if done right, thereby
+promoting fairness. It also could reduce the time and cost involved in credentialing processes, making it
+easier for people to move and apply their qualifications elsewhere (a win for labor mobility and personal
+growth).
+There are potential downsides or at least new considerations. Privacy : while Blockcerts-type designs hide
+details on-chain, if not carefully implemented, digital credentials could inadvertently leak data. For example,
+an employer could require a verification that effectively tells them “this person graduated in the bottom half
+of their class” if the system isn’t careful (imagine if more info than necessary is revealed). The  power
+dynamic between employers and applicants  could shift – employers might demand to see your whole
+wallet  of  credentials  (like  seeing  all  your  badges,  not  just  the  degree  you  offer),  possibly  pressuring
+candidates to expose more than they’d like. Society will have to set norms (perhaps legal ones) on what’s
+appropriate, much as we did with credit reports or social media in hiring.
+Another effect on the social contract is longevity and legitimacy  of credentials. A paper diploma can be
+lost or destroyed, but a blockchain credential in theory lives forever online. Does that mean society will
+expect you to prove a 20-year-old degree more often? Or could help with long-term verification (no more
+skepticism “did you really graduate? yes, here’s the proof even if the university archive burned down”).
+Legitimacy of institutions  might also become more transparent: a diploma mill can’t easily fake being
+accredited if the verifying networks only honor signatures from recognized institutions. Over time, one
+could see emergent reputation scores for issuers (like, credentials from University X are verified and widely
+accepted, whereas some shady issuer’s credentials are not present on the trusted ledger or are flagged).
+This could push the education ecosystem toward quality and accountability.
+From a policy standpoint, if governments endorse blockchain credentials, they are basically enshrining that
+individuals have the right to their own achievement data  in a usable form. This aligns with broader data
+portability  rights  (like  in  GDPR).  It  shifts  the  social  contract  in  education  from  “the  university  as  the
+custodian  of  your  achievements”  to  “you  as  the  custodian,  with  the  university  as  the  certifier .”
+Psychologically, that’s empowering – it treats the learner as the owner of their learning outcomes. It’s a
+more client-centric view of education. 
+In  summary,  digital  and  verifiable  credentialing  technologies  enhance  transparency,  trust,  and
+individual agency  in the realm of qualifications, which is a key part of societal structure (jobs, status, etc.).
+By securing credentials with cryptography and decentralization, they make the verification process more
+legitimate and efficient  – a truth claim like “Alice has a PhD” no longer relies solely on institutional prestige
+17
+or bureaucratic letters, but on a verifiable fact. This can strengthen the social contract by reducing the
+friction and suspicion in credential-based interactions. People can trust each other’s qualifications more
+readily, and individuals can trust that their hard-earned credentials won’t be doubted or held hostage by
+gatekeepers.  It’s  a  move  toward  a  more  transparent  meritocracy ,  though  care  must  be  taken  to
+implement these systems in ways that respect privacy and don’t inadvertently create new inequalities (like a
+divide  between  those  who  have  digital  credentials  and  those  who  don’t  –  hopefully  mitigated  by  the
+proliferation of the technology itself). Overall, this is a case where technology can fortify the social contract’s
+fairness  element:  rewarding  merit,  enabling  trust,  and  giving  individuals  rightful  ownership  of  their
+achievements.
+Data Unions and Collective Data Ownership
+Data Unions: Monetizing and Governing Personal Data Collectively
+In today’s digital economy, personal data (web browsing habits, purchase history, location trails, etc.) is
+mostly harvested by big companies, often without much benefit to the individuals who produce it.  Data
+unions  are an emerging model that flips this script: they enable individuals to pool their data and share in
+the value  created by it, typically by bargaining collectively with data buyers. Technically, data unions are
+facilitated by platforms that gather streams of user data with consent, anonymize or aggregate it, and then
+allow external entities to query or purchase insights from the combined data set . An example is Swash , a
+browser extension that lets users contribute their browsing history data to a common pool . Users
+can toggle certain sites or data types off to protect sensitive info, but otherwise their data flows into the
+pool in real-time. The data union (built on the Streamr platform) then sells access to this large anonymized
+browsing dataset – buyers might be marketing firms, researchers, or others seeking web usage patterns
+. Revenue from the sale is automatically shared among the contributors  (often via crypto tokens
+or micropayments) and a portion goes to the maintainers of the union (for running the service) . Under
+the  hood,  smart  contract-based  solutions  like  Streamr’s  Monetization  stack  (Monoplasma)  handle
+splitting payments among potentially thousands of participants efficiently . Another data union,
+Reputation  or Data Union DAO , focuses on things like IoT data or personal health data, using a similar
+concept: each person contributes small data points that alone aren’t worth much, but together form a
+valuable corpus . The crowdselling  of data is thus made convenient and safe (in theory) by these
+frameworks.
+One  critical  technical  aspect  is  anonymization  and  privacy .  Data  unions  strive  to  protect  individual
+identities while still extracting value. This can involve on-device preprocessing (e.g., Swash filtering out
+personal identifiers) and ensuring that queries to the data can’t isolate one person. Some use differential
+privacy or aggregate statistics so buyers only get trends, not raw personal records. Additionally, many data
+unions issue participants a token or credential  proving their membership and sometimes weighting their
+share by how much data they contribute or its value. These tokens can also confer governance rights –
+hence the “union” analogy: members could vote on policies, such as who can buy the data and at what
+price,  akin  to  a  cooperative.  In  practice,  we  are  in  early  days,  and  much  of  the  governance  of  these
+platforms is still in the hands of the startup teams or foundations, but the intent is to evolve into more
+decentralized governance (hence the term Data Union  DAO in some cases).
+From a policy perspective, data unions fit into a nexus of data privacy laws, labor/collective bargaining laws,
+and competition policy.  Privacy laws (like GDPR in Europe)  actually encourage empowering users over
+their data – GDPR enshrines data portability and consent. Data unions can be seen as a user-friendly way to9293
+9495
+96
+9798
+99100
+18
+exercise those rights: instead of each person individually trying to monetize or manage their data (an
+overwhelming task), the union aggregates consents and negotiates deals. Provided they get clear consent
+and allow opt-out, they likely comply with GDPR and similar regimes. In fact, regulators have shown interest
+in the concept as a means to address the power imbalance in the data economy . The EU’s Data
+Governance Act even mentions the idea of data cooperatives . Legally, some data unions might register as
+cooperatives  or  companies  owned  by  their  users.  Others  might  remain  informal  DAOs  on  blockchain.
+There’s the question: is personal data labor? If so, data unions might be akin to labor unions, raising the
+possibility of applying collective bargaining laws – though currently, individuals licensing their data isn’t
+categorized as employment, so it’s a novel terrain. Policy might need to adapt to define what rights data
+union members have and to ensure they truly benefit (for instance, avoiding exploitation by the union
+operators themselves or ensuring fair competition – if one platform dominates, are users locked in? They
+shouldn’t be, due to data portability rights).
+Data  unions  also  challenge  the  dominant  business  models  of  big  tech.  If  users  en  masse  decide  to
+contribute their browsing or shopping data to a union for compensation, and perhaps even  withhold it
+from Big Tech unless paid , that shifts power . Companies like Facebook/Google rely on free data; a data
+union world could force a more  equitable value distribution  or at least transparency. We might see
+pushback or co-option – e.g., big companies might try to quash these efforts or conversely buy data from
+data unions (implicitly paying users) rather than gather it all themselves under scrutiny. Already, we see
+proposals for “data dividends” in places like California (inspired by Jaron Lanier and others) which are
+philosophically aligned with data unions: the notion that if your data is being sold, you should get a cut.
+Social contract analysis:  Data unions represent an attempt to renegotiate the modern social contract
+around personal data. Presently, the implicit contract has been: users give away data for free (or for use of a
+service),  and  companies  monetize  it  with  little  accountability.  This  has  led  to  huge  power  and  wealth
+asymmetries (big tech giants) and concerns about surveillance and manipulation, with individuals having
+scant control. The data union model proposes a new bargain: individuals collectively reclaim agency over
+data , treating it as an economic resource they have rights to. In doing so, they gain  both  a voice and a
+reward in how data is used. This is empowering: one person alone cannot do much with their data (and
+selling it themselves would yield pennies and raise privacy risks), but a million people together can demand
+a fair price and set terms (e.g., “we only sell to research beneficial to society, not to spammy advertisers,” if
+they so choose). It’s a shift from being exploited subjects to active market participants  or even data co-
+owners. This adds a measure of equity  to the digital economy: people who generate value get to see some
+of that value back. It could mitigate the trend of all value accumulating to platform owners, thus addressing
+inequality at least marginally.
+Another  important  aspect  is  transparency  and  consent .  In  a  data  union,  there’s  ideally  a  clear
+understanding  of  what  data  is  collected  and  who  buys  it  (the  union  can  inform  members,  since
+members have governance or at least a dashboard). This contrasts with the opaque tracking today where
+users rarely know which third parties trade their data behind the scenes. By making data transactions
+collective and above-board, it  restores some honesty to the social contract : people know what they’re
+part of and can exit if they dislike it. As the Streamr example pointed out, “it is up to the individual to decide
+which Data Unions can sell their information, emphasizing privacy, transparency, and user control, where there
+was little to none before” . That pretty much encapsulates the new contract: user control first.
+Moreover , data unions encourage thinking of personal data as  labor or property  that one can organize
+around. This could have far-reaching social implications. If people feel they are contributing productive100 101
+102
+19
+asset (data) and being compensated, they may feel less alienated by technology. It could improve trust in
+the digital ecosystem – instead of a sense that “the system is spying on me,” participants feel “I’m knowingly
+contributing my data for agreed uses and getting fair compensation.” That said, some critique whether this
+truly empowers or just commodifies privacy. If people start depending on data union income, could that
+incentivize them to allow more intrusion into their lives for money? There’s a balance: the union structure is
+meant to advocate for members’ best interests, not just maximize data extraction, so presumably they’d set
+ethical  boundaries.  But  if  someone  is  desperate  for  income,  they  might  join  many  data  unions  and
+overshare, potentially risking privacy for money. Society might need to consider safety nets or standards so
+that monetizing data remains a choice, not a necessity that erodes privacy for the vulnerable (just like labor
+laws prevent exploitation of labor).
+In terms of power relations , data unions somewhat level the playing field between individuals and large
+data consumers (corporations, AI firms, etc.). Individually, our data power is negligible; collectively, it’s
+significant. A data union can negotiate prices or demand certain usage restrictions that an individual never
+could. This collective bargaining can infuse more  democratic control  into data markets. For example, a
+data union might vote not to sell to an entity known for unethical behavior , thus exerting moral agency.
+That’s a shift: currently individuals have basically no say in how their data is used once it’s out; a union can
+impose community values on data usage. This is reminiscent of how labor unions didn’t just get higher
+wages but also improved working conditions by collective action – data unions could push for privacy-
+respecting practices as a condition of sale, improving conditions in the digital environment.
+Another interesting angle is the  concept of a data commons  – data unions could ultimately facilitate
+pooling data for public good too. Not all data use is about ads; it could be about medical research. One can
+imagine health data unions where patients share health telemetry in a pool for pharma research and get
+compensated or get access to insights/treatments discovered. The social contract in that case becomes
+almost civic: citizens contributing to a commons with safeguards and fair return. This collective approach
+might increase willingness to share data for beneficial purposes (like fighting a pandemic) because trust is
+higher when people feel in control and part of the decision loop.
+In summary, data unions aim to inject agency, fairness, and collective governance  into the personal data
+arena,  thereby  rewriting  the  digital  social  contract  that  has  so  far  been  very  one-sided.  They  treat
+individuals not as passive data sources but as stakeholders who can unite to claim property rights or
+bargaining rights over their digital selves. If widely adopted, this could diminish the unchecked power of
+data  monopolies  and  lead  to  a  more  balanced  and  transparent  digital  economy ,  where  consent  is
+informed and value distribution more just. However , success requires that data unions themselves stay true
+to their promise – they must be trustworthy intermediaries (likely with oversight or open-source code or
+DAO structures to ensure they don’t become new exploiters). In essence, data unions have the potential to
+empower  individuals  and  communities,  align  data  practices  with  democratic  values ,  and  grant
+legitimacy to the idea that  our data is ours , to be used on our terms for mutual benefit, rather than
+something surreptitiously taken and used without accountability .
+Conclusion:  Across these diverse domains – currency, identity, property, governance, education, and data –
+a common theme emerges: digital technologies are enabling  new forms of trust, participation, and control
+that can fundamentally reshape the  social contract . Blockchain and related innovations provide tools to
+redistribute power (from central authorities to networks or individuals), enhance transparency (through
+immutable  public  records),  and  encode  fairness  and  consent  into  systems  (via  smart  contracts  and99100
+20
+decentralized governance). Each technology comes with its unique balance of benefits and challenges, and
+none is a panacea on its own. But together , they point toward a future where  agency is more evenly
+distributed : citizens can have more say in how money works, how identity is managed, how communities
+govern themselves, how public goods are funded, and how personal data is used. This is essentially about
+legitimacy  in the digital age – systems that are seen as legitimate are those that are accountable, inclusive,
+and align with societal values like equity and freedom. By integrating technical design with enlightened
+policy  (such  as  Wyoming’s  DAO  law  or  the  EU’s  identity  framework),  we  see  a  path  to  digital  public
+infrastructure  that is not just efficient, but also respects and elevates the role of the individual and the
+community. 
+The new social contract being forged is one where code and law work hand in hand : code to enforce rules
+transparently and impartially, and law to ensure those rules were chosen through a legitimate, human-
+centric process. Whether it’s a self-sovereign ID that gives a refugee access to services, a DAO that lets a
+cooperative of artists make decisions without a manager , or a central bank digital currency that directly
+empowers citizens financially, these innovations reimagine classic social contract questions – Who decides?
+Who benefits? Who is accountable? – in light of technological possibility. The answer increasingly can be: we
+decide, we benefit, and we are accountable , as a collective of peers, not just through top-down hierarchy.
+Achieving this requires vigilance (to avoid new forms of concentration or exclusion) and experimentation (as
+we are learning what works in real time). But the projects surveyed here demonstrate that around the
+world,  from  small  nations  to  global  networks,  the  momentum  is  toward  digitally  transforming
+governance and social relations  in a way that could make them more open, fair , and resilient. Each pilot –
+be it Estonia’s e-state or Ethereum’s platform or Gitcoin’s quadratic funding – offers lessons and building
+blocks for this broader evolution. The ultimate success will be measured by how much these technologies
+enhance human dignity, trust, and collective prosperity . If they continue on their current trajectory with
+thoughtful integration of policy and ethics, we may well witness a historic renewal of the social contract,
+one that is fit for the digital era . 
+Sources:
+Ethereum’s decentralized platform and governance
+China’s digital yuan design and surveillance concerns
+Bahamian Sand Dollar inclusion goals and uptake
+MIT’s Project Hamilton and CBDC research outcomes
+Sovrin SSI network goals and privacy-by-design approach
+EU’s eIDAS 2.0 digital wallet embracing SSI for citizens
+Worldcoin’s biometric ID and global UBI vision
+Gitcoin’s quadratic funding for public goods
+Wyoming’s legal DAO frameworks granting entity status
+Georgian blockchain land registry and property security
+MIT’s Blockcerts digital diplomas empowering students
+Streamr’s Data Union model for crowdselling data• 13
+• 514
+• 717
+• 2223
+• 2627
+• 3230
+• 4847
+• 66103
+• 7374
+• 104 2
+• 8489
+• 99100
+21
+Ethereum - Wikipedia
+https://en.wikipedia.org/wiki/Ethereum
+Improving the security of a government land registry
+https://exonum.com/story-georgia
+Ethereum Governance
+https://ethereum.org/en/governance/
+China’s Digital Yuan Works Just Like Cash—With Added Surveillance | WIRED
+https://www.wired.com/story/chinas-digital-yuan-ecny-works-just-like-cash-surveillance/
+How is the “world’s most advanced central bank digital currency” progressing? - LSE
+Business Review
+https://blogs.lse.ac.uk/businessreview/2022/11/22/how-is-the-worlds-most-advanced-central-bank-digital-currency-progressing/
+About SandDollar - Bahamas
+https://www.sanddollar .bs/about
+The Digital Yuan: Purpose, Progress, and Politics
+https://madeinchinajournal.com/2023/11/27/the-digital-yuan-purpose-progress-and-politics/
+Analysis: Digital yuan could lead to more government 'surveillance ...
+https://iapp.org/news/b/analysis-digital-yuan-could-lead-to-more-government-surveillance-and-social-control
+Project Hamilton/OpenCBDC — MIT Digital Currency Initiative
+https://www.dci.mit.edu/projects/project-hamilton-open-cbdc
+Sovrin: A Protocol and Token for Self-Sovereign Identity and Decentralized Trust - Sovrin
+https://sovrin.org/library/sovrin-protocol-and-token-white-paper/
+SSI advocates welcome EU digital wallet, IOTA sees opportunity | Biometric Update
+https://www.biometricupdate.com/202403/ssi-advocates-welcome-eu-digital-wallet-iota-sees-opportunity
+Decoding DAO Governance: Models in Action | RIF
+https://rif.technology/content-hub/dao-governance-models/
+Digital identity in practice – Estonia and the e-state | GBG
+https://www.gbg.com/en/blog/digital-identity-in-practice-estonia/
+Estonia's E-Identity Programme - Digital Identities: Design and Uses
+https://digitalid.design/evaluation-framework-case-studies/estonia.html
+KSI blockchain - e-Estonia
+https://e-estonia.com/solutions/cyber-security/ksi-blockchain/
+Guardtime Secures Estonian Health Records - e-Estonia
+https://e-estonia.com/guardtime-secures-estonian-health-records/
+e-Estonia - Wikipedia
+https://en.wikipedia.org/wiki/E-Estonia
+What to Know About Worldcoin and the Controversy Around It | TIME
+https://time.com/6300522/worldcoin-sam-altman/
+The Orb Will See You Now | TIME
+https://time.com/7288387/sam-altman-orb-tools-for-humanity/1
+285104
+3 4
+5 610 11 12 13 14 15
+7 817 18 19
+9
+16 20
+21
+22 23 24 25
+26 27 28 29
+30 31 32 33 34 35 36
+37 38 60 65 69 81
+39
+40
+41
+42
+43 44 45 46
+47 48 49 50 51 53 55
+52
+22
+Don't Scan Your Eyeballs for Worldcoin's Magic Beans
+https://www.bloomberg.com/news/newsletters/2023-08-07/what-s-the-purpose-of-worldcoin-orb-eye-scanning-crypto-token-
+project
+DAO Governance: Mechanisms, Architecture, and
+Implementation
+https://www.linkedin.com/pulse/dao-governance-mechanisms-architecture-implementation-garima-singh-897ef
+Gitcoin Grants – Quadratic Funding for the World | Gitcoin Blog
+https://www.gitcoin.co/blog/gitcoin-grants-quadratic-funding-for-the-world
+Wyoming Adopts New Legal Structure for DAOs | Global Fintech & Digital
+Assets Blog
+https://www.fintechanddigitalassets.com/2024/04/wyoming-adopts-new-legal-structure-for-daos/
+DAO Regulation: Wyoming, RAK DAO & Global Legal Frameworks
+https://www.rakdao.com/dao-regulation-wyoming-rak-dao/
+Digital Diploma debuts at MIT | MIT News | Massachusetts Institute of Technology
+https://news.mit.edu/2017/mit-debuts-secure-digital-diploma-using-bitcoin-blockchain-technology-1017
+Education | Company Newsroom of Learning Machine
+https://learningmachine.newswire.com/browse/beat/education
+Education: Decentralized Certificate Management in Malta by ... - Prezi
+https://prezi.com/p/jjbmtpdarxzs/education-decentralized-certificate-management-in-malta/
+What are Data Unions? How do they work? Which ones can I use?
+https://blog.streamr .network/what-are-data-unions-how-do-they-work-which-ones-can-i-use/
+Blockchain Startup Swash Raises $4M to Make Data Monetization ...
+https://www.coindesk.com/business/2021/09/27/blockchain-startup-swash-raises-4m-to-make-data-monetization-click54
+56 57 58 59 61 62 63 64 68 70 79 80
+66 67103
+71 72 73 74 75 76 78 82
+77
+83 84 86 87 88 89
+90
+91
+92 93 96 97 98 99100 101 102
+94 95
+23
