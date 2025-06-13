@@ -13,6 +13,7 @@
 - [Economic Agency and Upheaval_ A Historical Narrative](research/economic-agency-and-upheaval-a-historical-narrative.html)
 - [Evolution of Social Contracts_ From Ancient Kingdoms to Modern Nation-States](research/evolution-of-social-contracts-from-ancient-kingdoms-to-modern-nation-states.html)
 - [Evolving Role of Labor Unions in a Post‑Labor Future](research/evolving-role-of-labor-unions-in-a-post-labor-future.html)
+- [Forecasting the Deployment and Cost Trajectory of Medium-Utility Humanoid Robots Through 2060](research/forecasting-the-deployment-and-cost-trajectory-of-medium-utility-humanoid-robots-through-2060.html)
 - [From Labor Power to Digital Commons_ Evolution of Collective Economic Leverage](research/from-labor-power-to-digital-commons-evolution-of-collective-economic-leverage.html)
 - [From S-Curves to New Frontiers_ The Pace of Tech Adoption](research/from-s-curves-to-new-frontiers-the-pace-of-tech-adoption.html)
 - [Global Geopolitical Inflection and the Post-Labor Economic Prospect](research/global-geopolitical-inflection-and-the-post-labor-economic-prospect.html)
