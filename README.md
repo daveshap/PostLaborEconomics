@@ -13,4 +13,15 @@ This material is to be used as research tools in the drafting of several books, 
 - Copy the PDFs to NotebookLM to rapidly interrogate the model
 - Open an `Issue` here on GitHub if you spot anything glaringly wrong or obviously missing
 - Start a `Discussion` here on GitHub to discuss the PLE framework
-- Do NOT submit a pull request. It will be deleted and you will be banned. Zero tolerance. 
+- Do NOT submit a pull request. It will be deleted and you will be banned. Zero tolerance.
+
+## GitHub Pages
+
+The `docs/` folder hosts an HTML version of the research. Run one of the
+conversion scripts in `Research/` to generate pages before pushing updates:
+
+```bash
+python convert_pdfs_to_html.py   # better layout preservation
+# or
+python convert_pdfs_to_md.py     # simple Markdown text
+```
