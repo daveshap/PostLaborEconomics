@@ -2,6 +2,8 @@
 
 Welcome to the GitHub Pages site for the Post-Labor Economics project.
 
-This site will host HTML versions of the research PDFs found in the `/Research` directory.
+Converted versions of the PDFs in the `/Research` directory will appear here as
+searchable Markdown pages.
 
-Stay tuned as content is converted and added here.
+Run `convert_pdfs_to_md.py` in the `Research` folder to regenerate the Markdown
+files whenever new PDFs are added.
