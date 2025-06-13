@@ -12,3 +12,5 @@ This material is to be used as research tools in the drafting of several books, 
 
 - Copy the PDFs to NotebookLM to rapidly interrogate the model
 - Open an `Issue` here on GitHub if you spot anything glaringly wrong or obviously missing
+- Start a `Discussion` here on GitHub to discuss the PLE framework
+
