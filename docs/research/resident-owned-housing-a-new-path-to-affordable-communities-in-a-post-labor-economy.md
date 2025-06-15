@@ -1,3 +1,3 @@
-# Resident-Owned Housing_ A New Path to Affordable Communities in a Post-Labor Economy
+# Resident-Owned Housing - A New Path to Affordable Communities in a Post-Labor Economy
 
-<embed src="Resident-Owned Housing_ A New Path to Affordable Communities in a Post-Labor Economy.pdf" type="application/pdf" width="100%" height="600px">
+<embed src="Resident-Owned Housing - A New Path to Affordable Communities in a Post-Labor Economy.pdf" type="application/pdf" width="100%" height="600px">

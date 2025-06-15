@@ -1,3 +1,3 @@
-# Automation's Impact on Developed Economies_
+# Automation's Impact on Developed Economies
 
-<embed src="Automation's Impact on Developed Economies_.pdf" type="application/pdf" width="100%" height="600px">
+<embed src="Automation's Impact on Developed Economies.pdf" type="application/pdf" width="100%" height="600px">
