@@ -1,11 +1,12 @@
 # Post-Labor Economics Research
 
-- [AI and Humanoid Robotics_ An Era of Exponential Acceleration](research/ai-and-humanoid-robotics-an-era-of-exponential-acceleration.html)
+- [AI and Humanoid Robotics - An Era of Exponential Acceleration](research/ai-and-humanoid-robotics-an-era-of-exponential-acceleration.html)
+- [Arguments Against the Job Automation Apocalypse](research/arguments-against-the-job-automation-apocalypse.html)
 - [Automation's Impact on Developed Economies](research/automation-s-impact-on-developed-economies.html)
 - [Better, Faster, Cheaper, Safer - The March of Labor-Saving Technology](research/better-faster-cheaper-safer-the-march-of-labor-saving-technology.html)
 - [Blockchain and the New Civic Contract in a Post-Labor Economy](research/blockchain-and-the-new-civic-contract-in-a-post-labor-economy.html)
-- [Blockchain and the State_ Functions, Opportunities, and Constraints](research/blockchain-and-the-state-functions-opportunities-and-constraints.html)
-- [Capital Endowment Programs_ Direct Asset Grants to Individuals](research/capital-endowment-programs-direct-asset-grants-to-individuals.html)
+- [Blockchain and the State - Functions, Opportunities, and Constraints](research/blockchain-and-the-state-functions-opportunities-and-constraints.html)
+- [Capital Endowment Programs - Direct Asset Grants to Individuals](research/capital-endowment-programs-direct-asset-grants-to-individuals.html)
 - [Cultural Upheaval in the Age of Industry](research/cultural-upheaval-in-the-age-of-industry.html)
 - [Decentralized and Productive - DAOs Building Real-World Value by 2025](research/decentralized-and-productive-daos-building-real-world-value-by-2025.html)
 - [Distributed & Decentralized Dividend Mechanisms for a Post‑Labor Economy](research/distributed-decentralized-dividend-mechanisms-for-a-post-labor-economy.html)
