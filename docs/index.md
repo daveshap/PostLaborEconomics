@@ -20,6 +20,7 @@
 - [From Labor Power to Digital Commons - Evolution of Collective Economic Leverage](research/from-labor-power-to-digital-commons-evolution-of-collective-economic-leverage.html)
 - [From S-Curves to New Frontiers - The Pace of Tech Adoption](research/from-s-curves-to-new-frontiers-the-pace-of-tech-adoption.html)
 - [Geographically-Constrained Income Systems in a Post-Labor Economy](research/geographically-constrained-income-systems-in-a-post-labor-economy.html)
+- [Global Burnout – Cultural Receptivity to New Economic Paradigms](research/global-burnout-cultural-receptivity-to-new-economic-paradigms.html)
 - [Global Geopolitical Inflection and the Post-Labor Economic Prospect](research/global-geopolitical-inflection-and-the-post-labor-economic-prospect.html)
 - [Global Survey of Urban Wealth Funds and Community Trusts](research/global-survey-of-urban-wealth-funds-and-community-trusts.html)
 - [Government Responses to Unemployment and Economic Crises - 1920s–Present](research/government-responses-to-unemployment-and-economic-crises-1920s-present.html)
