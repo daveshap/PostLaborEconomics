@@ -31,6 +31,7 @@
 - [Mobilizing for Technological Revolutions - Lessons from History](research/mobilizing-for-technological-revolutions-lessons-from-history.html)
 - [Modeling a Five-Tier Income Hierarchy in a Post-Labor Economy (2060)](research/modeling-a-five-tier-income-hierarchy-in-a-post-labor-economy-2060.html)
 - [Participatory Ownership Models in a Post‑Labor Economy](research/participatory-ownership-models-in-a-post-labor-economy.html)
+- [Post-Labor Economics - Classical Economic and Moral-Philosophical Perspectives](research/post-labor-economics-classical-economic-and-moral-philosophical-perspectives.html)
 - [Post-Labor Economics Survey - Contemporary Voices, Convergence, and Divergence](research/post-labor-economics-survey-contemporary-voices-convergence-and-divergence.html)
 - [Post-Labor Lifestyles Across Cultures and History](research/post-labor-lifestyles-across-cultures-and-history.html)
 - [Resident-Owned Housing - A New Path to Affordable Communities in a Post-Labor Economy](research/resident-owned-housing-a-new-path-to-affordable-communities-in-a-post-labor-economy.html)
