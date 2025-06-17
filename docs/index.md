@@ -26,6 +26,7 @@
 - [Government Responses to Unemployment and Economic Crises - 1920s–Present](research/government-responses-to-unemployment-and-economic-crises-1920s-present.html)
 - [How to Avoid Elite Capture in a Post-Labor World](research/how-to-avoid-elite-capture-in-a-post-labor-world.html)
 - [Implementing Grand Economic Change - A 150-Year Narrative](research/implementing-grand-economic-change-a-150-year-narrative.html)
+- [Inclusive Capital Income Ratio (ICIR) in a Post-Labor Economy - A Comprehensive U.S. Perspective](research/inclusive-capital-income-ratio-icir-in-a-post-labor-economy-a-comprehensive-u-s-perspective.html)
 - [Industrial Transformation and National Missions - From the Great Depression to the AI Era](research/industrial-transformation-and-national-missions-from-the-great-depression-to-the-ai-era.html)
 - [Labor Power in Chinese History - From Imperial Abundance to Modern Transitions](research/labor-power-in-chinese-history-from-imperial-abundance-to-modern-transitions.html)
 - [Labor’s Pendulum - Scarcity, Glut, and Power Through World History](research/labor-s-pendulum-scarcity-glut-and-power-through-world-history.html)
