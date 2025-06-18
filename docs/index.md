@@ -9,7 +9,7 @@
 - [Capital Endowment Programs - Direct Asset Grants to Individuals](research/capital-endowment-programs-direct-asset-grants-to-individuals.html)
 - [Cultural Upheaval in the Age of Industry](research/cultural-upheaval-in-the-age-of-industry.html)
 - [Decentralized and Productive - DAOs Building Real-World Value by 2025](research/decentralized-and-productive-daos-building-real-world-value-by-2025.html)
-- [Degrowth and Post-Labor Economics_ A Blueprint for Sustainable Growth](research/degrowth-and-post-labor-economics-a-blueprint-for-sustainable-growth.html)
+- [Degrowth and Post-Labor Economics - A Blueprint for Sustainable Growth](research/degrowth-and-post-labor-economics-a-blueprint-for-sustainable-growth.html)
 - [Distributed & Decentralized Dividend Mechanisms for a Post‑Labor Economy](research/distributed-decentralized-dividend-mechanisms-for-a-post-labor-economy.html)
 - [Dividends for the Age of Automation - How Economies Are Preparing for a Post-Labor Future](research/dividends-for-the-age-of-automation-how-economies-are-preparing-for-a-post-labor-future.html)
 - [Dollar Matching Schemes for Wages and Investments in a Post-Labor Economy – Extant and Hypothetical ](research/dollar-matching-schemes-for-wages-and-investments-in-a-post-labor-economy-extant-and-hypothetical.html)
