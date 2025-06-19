@@ -7,6 +7,7 @@
 - [Blockchain and the New Civic Contract in a Post-Labor Economy](research/blockchain-and-the-new-civic-contract-in-a-post-labor-economy.html)
 - [Blockchain and the State - Functions, Opportunities, and Constraints](research/blockchain-and-the-state-functions-opportunities-and-constraints.html)
 - [Capital Endowment Programs - Direct Asset Grants to Individuals](research/capital-endowment-programs-direct-asset-grants-to-individuals.html)
+- [Credential Inflation Over the Centuries – The Rise and Forecast of Median Education for Entry-Level ](research/credential-inflation-over-the-centuries-the-rise-and-forecast-of-median-education-for-entry-level.html)
 - [Cultural Upheaval in the Age of Industry](research/cultural-upheaval-in-the-age-of-industry.html)
 - [Decentralized and Productive - DAOs Building Real-World Value by 2025](research/decentralized-and-productive-daos-building-real-world-value-by-2025.html)
 - [Degrowth and Post-Labor Economics - A Blueprint for Sustainable Growth](research/degrowth-and-post-labor-economics-a-blueprint-for-sustainable-growth.html)
