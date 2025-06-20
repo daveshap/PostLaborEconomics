@@ -32,6 +32,7 @@
 - [Labor Power in Chinese History - From Imperial Abundance to Modern Transitions](research/labor-power-in-chinese-history-from-imperial-abundance-to-modern-transitions.html)
 - [Labor’s Pendulum - Scarcity, Glut, and Power Through World History](research/labor-s-pendulum-scarcity-glut-and-power-through-world-history.html)
 - [Long-Term Decline in U.S. Labor Demand (1950–Present)](research/long-term-decline-in-u-s-labor-demand-1950-present.html)
+- [Macroeconomics and Boundary Conditions_ The Edges of Post-Labor Economic Theory](research/macroeconomics-and-boundary-conditions-the-edges-of-post-labor-economic-theory.html)
 - [Market-Based Solutions for Economic Inclusion in a Post-Work Future](research/market-based-solutions-for-economic-inclusion-in-a-post-work-future.html)
 - [Measuring the Great Decoupling - How Institutions Are Tracking Collapsing Wages in the Age of Automat](research/measuring-the-great-decoupling-how-institutions-are-tracking-collapsing-wages-in-the-age-of-automat.html)
 - [Mobilizing for Technological Revolutions - Lessons from History](research/mobilizing-for-technological-revolutions-lessons-from-history.html)
