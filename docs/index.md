@@ -3,6 +3,7 @@
 - [AI and Humanoid Robotics - An Era of Exponential Acceleration](research/ai-and-humanoid-robotics-an-era-of-exponential-acceleration.html)
 - [Arguments Against the Job Automation Apocalypse](research/arguments-against-the-job-automation-apocalypse.html)
 - [Automation's Impact on Developed Economies](research/automation-s-impact-on-developed-economies.html)
+- [Baumol's Cost Disease – Automation-Resistant Job Growth Sectors](research/baumol-s-cost-disease-automation-resistant-job-growth-sectors.html)
 - [Better, Faster, Cheaper, Safer - The March of Labor-Saving Technology](research/better-faster-cheaper-safer-the-march-of-labor-saving-technology.html)
 - [Blockchain and the New Civic Contract in a Post-Labor Economy](research/blockchain-and-the-new-civic-contract-in-a-post-labor-economy.html)
 - [Blockchain and the State - Functions, Opportunities, and Constraints](research/blockchain-and-the-state-functions-opportunities-and-constraints.html)
