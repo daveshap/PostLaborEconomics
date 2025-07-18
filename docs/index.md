@@ -45,6 +45,7 @@
 - [Measuring the Great Decoupling - How Institutions Are Tracking Collapsing Wages in the Age of Automat](research/measuring-the-great-decoupling-how-institutions-are-tracking-collapsing-wages-in-the-age-of-automat.html)
 - [Mobilizing for Technological Revolutions - Lessons from History](research/mobilizing-for-technological-revolutions-lessons-from-history.html)
 - [Modeling a Five-Tier Income Hierarchy in a Post-Labor Economy (2060)](research/modeling-a-five-tier-income-hierarchy-in-a-post-labor-economy-2060.html)
+- [Non-Rivalry in AI - What Makes It a Different Kind of Automation](research/non-rivalry-in-ai-what-makes-it-a-different-kind-of-automation.html)
 - [Participatory Ownership Models in a Post‑Labor Economy](research/participatory-ownership-models-in-a-post-labor-economy.html)
 - [Post-Labor Economics - Classical Economic and Moral-Philosophical Perspectives](research/post-labor-economics-classical-economic-and-moral-philosophical-perspectives.html)
 - [Post-Labor Economics is Inevitable – There is No 'Fifth Paradigm'](research/post-labor-economics-is-inevitable-there-is-no-fifth-paradigm.html)
