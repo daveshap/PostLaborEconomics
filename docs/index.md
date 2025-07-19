@@ -1,6 +1,7 @@
 # Post-Labor Economics Research
 
 - [AI and Humanoid Robotics - An Era of Exponential Acceleration](research/ai-and-humanoid-robotics-an-era-of-exponential-acceleration.html)
+- [AI as a General-Purpose Technology](research/ai-as-a-general-purpose-technology.html)
 - [Arguments Against the Job Automation Apocalypse](research/arguments-against-the-job-automation-apocalypse.html)
 - [Automation's Impact on Developed Economies](research/automation-s-impact-on-developed-economies.html)
 - [Baumol's Cost Disease – Automation-Resistant Job Growth Sectors](research/baumol-s-cost-disease-automation-resistant-job-growth-sectors.html)
@@ -29,6 +30,7 @@
 - [Global Burnout – Cultural Receptivity to New Economic Paradigms](research/global-burnout-cultural-receptivity-to-new-economic-paradigms.html)
 - [Global Geopolitical Inflection and the Post-Labor Economic Prospect](research/global-geopolitical-inflection-and-the-post-labor-economic-prospect.html)
 - [Global Survey of Urban Wealth Funds and Community Trusts](research/global-survey-of-urban-wealth-funds-and-community-trusts.html)
+- [Government Adoption of Generative AI (Late 2022–2025)](research/government-adoption-of-generative-ai-late-2022-2025.html)
 - [Government Responses to Unemployment and Economic Crises - 1920s–Present](research/government-responses-to-unemployment-and-economic-crises-1920s-present.html)
 - [History of Tax Resistance and Economic Withdrawal as Political Tools](research/history-of-tax-resistance-and-economic-withdrawal-as-political-tools.html)
 - [History of Transparency and Accountability Between Citizens and Power](research/history-of-transparency-and-accountability-between-citizens-and-power.html)
@@ -55,6 +57,7 @@
 - [Shared Wealth - Participatory Ownership Models in the 21st Century](research/shared-wealth-participatory-ownership-models-in-the-21st-century.html)
 - [Social and Cultural Adaptations to Labor Shocks – Automation's Long Historical Arc and the AI Wave](research/social-and-cultural-adaptations-to-labor-shocks-automation-s-long-historical-arc-and-the-ai-wave.html)
 - [Solar PV and the Post-Labor Economy - Energy Abundance as a Foundation for Decentralized Prosperity](research/solar-pv-and-the-post-labor-economy-energy-abundance-as-a-foundation-for-decentralized-prosperity.html)
+- [State and Local Policies on Generative AI in the U.S.](research/state-and-local-policies-on-generative-ai-in-the-u-s.html)
 - [Strange Attractors for a Solarpunk Future - Shifting Civilizational Path Dependency](research/strange-attractors-for-a-solarpunk-future-shifting-civilizational-path-dependency.html)
 - [Technology and Economic Paradigm Shifts - From Agrarian to Industrial to Service Economies](research/technology-and-economic-paradigm-shifts-from-agrarian-to-industrial-to-service-economies.html)
 - [Technology, Automation, and the Erosion of Labor Demand in Developed Economies](research/technology-automation-and-the-erosion-of-labor-demand-in-developed-economies.html)
