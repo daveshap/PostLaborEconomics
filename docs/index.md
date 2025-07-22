@@ -53,6 +53,7 @@
 - [Post-Labor Economics is Inevitable – There is No 'Fifth Paradigm'](research/post-labor-economics-is-inevitable-there-is-no-fifth-paradigm.html)
 - [Post-Labor Economics Survey - Contemporary Voices, Convergence, and Divergence](research/post-labor-economics-survey-contemporary-voices-convergence-and-divergence.html)
 - [Post-Labor Lifestyles Across Cultures and History](research/post-labor-lifestyles-across-cultures-and-history.html)
+- [Rapid Advancements in AI Capabilities Across Sectors (2020–2025)](research/rapid-advancements-in-ai-capabilities-across-sectors-2020-2025.html)
 - [Resident-Owned Housing - A New Path to Affordable Communities in a Post-Labor Economy](research/resident-owned-housing-a-new-path-to-affordable-communities-in-a-post-labor-economy.html)
 - [Shared Wealth - Participatory Ownership Models in the 21st Century](research/shared-wealth-participatory-ownership-models-in-the-21st-century.html)
 - [Social and Cultural Adaptations to Labor Shocks – Automation's Long Historical Arc and the AI Wave](research/social-and-cultural-adaptations-to-labor-shocks-automation-s-long-historical-arc-and-the-ai-wave.html)
