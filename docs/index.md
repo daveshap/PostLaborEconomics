@@ -77,6 +77,7 @@
 - [The Structural Decline of Labor’s Share in the Age of Automation](research/the-structural-decline-of-labor-s-share-in-the-age-of-automation.html)
 - [The Unambiguous Trend of Technological Labor Substitution](research/the-unambiguous-trend-of-technological-labor-substitution.html)
 - [The “Labor Substitution Fallacy” - Technology, Employment, and the Future of Work](research/the-labor-substitution-fallacy-technology-employment-and-the-future-of-work.html)
+- [Total Factor Productivity in a Post‑Labor Economy](research/total-factor-productivity-in-a-post-labor-economy.html)
 - [Toward a New Digital Social Contract - Global Survey of Key Technologies](research/toward-a-new-digital-social-contract-global-survey-of-key-technologies.html)
 - [Towards an Economic Agency Index - Income Composition in a Post-Neoliberal Era](research/towards-an-economic-agency-index-income-composition-in-a-post-neoliberal-era.html)
 - [Universal Basic Income in a Post‑Labor Economy - Necessary but Not Sufficient](research/universal-basic-income-in-a-post-labor-economy-necessary-but-not-sufficient.html)
