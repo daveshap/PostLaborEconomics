@@ -87,4 +87,5 @@
 - [Towards an Economic Agency Index - Income Composition in a Post-Neoliberal Era](research/towards-an-economic-agency-index-income-composition-in-a-post-neoliberal-era.html)
 - [Universal Basic Income in a Post‑Labor Economy - Necessary but Not Sufficient](research/universal-basic-income-in-a-post-labor-economy-necessary-but-not-sufficient.html)
 - [Useless Eaters – A First Principles View of Automation](research/useless-eaters-a-first-principles-view-of-automation.html)
+- [Why the Attention Economy Cannot Absorb “Labor Refugees”](research/why-the-attention-economy-cannot-absorb-labor-refugees.html)
 - [Zero-Labor Enterprises - Automation and the “Optimal” Workforce of Zero](research/zero-labor-enterprises-automation-and-the-optimal-workforce-of-zero.html)
