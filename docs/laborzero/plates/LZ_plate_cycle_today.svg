@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="4.5in" height="7.5in" viewBox="0 0 324 540" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+<title>Labor Zero: Today, the the wage-based system</title>
+<desc>Front-matter plate. Live area 4.5 x 7.5 in (324 x 540 pt). Greyscale, print-first: black type and rules, flat 10-45%% tints, minimum stroke 0.6 pt, minimum type 8 pt.</desc>
+<style>.kick{font-family:'Gill Sans MT', 'Gill Sans', 'Segoe UI', sans-serif;font-size:8px;letter-spacing:2.4px;fill:#000}.pre{font-family:'Perpetua Titling MT', 'Perpetua', serif;font-weight:300;font-size:12px;letter-spacing:2.2px;fill:#000}.big{font-family:'Perpetua Titling MT', 'Perpetua', serif;font-weight:700;font-size:31px;letter-spacing:2.2px;fill:#000}.q{font-family:'Perpetua', 'Garamond', serif;font-style:italic;font-size:13px;fill:#000}.flow{font-family:'Gill Sans MT', 'Gill Sans', 'Segoe UI', sans-serif;font-weight:700;font-size:10.5px;letter-spacing:2px;fill:#000}.flowd{font-family:'Gill Sans MT', 'Gill Sans', 'Segoe UI', sans-serif;font-style:italic;font-size:8.75px;fill:#000}.node{font-family:'Gill Sans MT', 'Gill Sans', 'Segoe UI', sans-serif;font-weight:700;font-size:8.75px;letter-spacing:1.1px;fill:#000}.ic{font-family:'Gill Sans MT', 'Gill Sans', 'Segoe UI', sans-serif;font-style:italic;font-size:8.25px;fill:#000}.bt{font-family:'Gill Sans MT', 'Gill Sans', 'Segoe UI', sans-serif;font-size:8px;letter-spacing:1.5px;fill:#000}.leg{font-family:'Gill Sans MT', 'Gill Sans', 'Segoe UI', sans-serif;font-size:8px;letter-spacing:0.8px;fill:#000}.legb{font-family:'Gill Sans MT', 'Gill Sans', 'Segoe UI', sans-serif;font-weight:700;font-size:8px;letter-spacing:0.5px;fill:#000}.note{font-family:'Gill Sans MT', 'Gill Sans', 'Segoe UI', sans-serif;font-style:italic;font-size:8.5px;fill:#000}.ref{font-family:'Gill Sans MT', 'Gill Sans', 'Segoe UI', sans-serif;font-size:8px;letter-spacing:2px;fill:#000}.refs{font-family:'Perpetua', 'Garamond', serif;font-style:italic;font-size:11px;fill:#000}</style>
+<rect x="0.6" y="0.6" width="322.80" height="538.80" fill="none" stroke="#000" stroke-width="1.2"/>
+<rect x="4.5" y="4.5" width="315.00" height="531.00" fill="none" stroke="#000" stroke-width="0.6"/>
+<rect x="2.00" y="2.00" width="5" height="5" fill="#000" transform="rotate(45 4.50 4.50)"/>
+<rect x="317.00" y="2.00" width="5" height="5" fill="#000" transform="rotate(45 319.50 4.50)"/>
+<rect x="2.00" y="533.00" width="5" height="5" fill="#000" transform="rotate(45 4.50 535.50)"/>
+<rect x="317.00" y="533.00" width="5" height="5" fill="#000" transform="rotate(45 319.50 535.50)"/>
+<text x="163.20" y="34.00" class="kick" text-anchor="middle">BEFORE THE GREAT DECOUPLING</text>
+<text x="163.10" y="62.00" class="pre" text-anchor="middle">THE WAGE-BASED SYSTEM</text>
+<text x="163.10" y="98.00" class="big" text-anchor="middle">TODAY</text>
+<line x1="104.00" y1="115.00" x2="152.00" y2="115.00" stroke="#000" stroke-width="0.6"/>
+<line x1="172.00" y1="115.00" x2="220.00" y2="115.00" stroke="#000" stroke-width="0.6"/>
+<circle cx="162.00" cy="115.00" r="4.4" fill="none" stroke="#000" stroke-width="0.7"/>
+<path d="M 163.60 110.60 L 160.60 108.60 L 160.60 112.60 Z" fill="#000"/>
+<text x="162.00" y="137.00" class="q" text-anchor="middle">Households earn by working.</text>
+<circle cx="90.00" cy="266.00" r="57.00" fill="#e6e6e6" stroke="#000" stroke-width="0.9"/>
+<circle cx="234.00" cy="266.00" r="57.00" fill="#e6e6e6" stroke="#000" stroke-width="0.9"/>
+<text x="90.55" y="243.20" class="node" text-anchor="middle" data-circle="90.00 266.00 57.00">HOUSEHOLDS</text>
+<path d="M 65.50 271.50 L 81.00 258.00 L 96.50 271.50 Z" fill="#bfbfbf" stroke="#000" stroke-width="0.80" stroke-linejoin="round"/><rect x="69.00" y="271.50" width="24" height="18" fill="#fff" stroke="#000" stroke-width="0.80"/><rect x="78.00" y="280.00" width="6" height="9.5" fill="#bfbfbf" stroke="#000" stroke-width="0.80"/><rect x="71.40" y="274.50" width="5" height="5" fill="#fff" stroke="#000" stroke-width="0.80"/><rect x="85.60" y="274.50" width="5" height="5" fill="#fff" stroke="#000" stroke-width="0.80"/>
+<circle cx="108.00" cy="267.75" r="3.25" fill="#fff" stroke="#000" stroke-width="0.80"/><path d="M 108.00 271.00 L 108.00 279.00 M 102.50 277.00 L 108.00 273.00 L 113.50 277.00 M 103.50 289.50 L 108.00 279.00 L 112.50 289.50" fill="none" stroke="#000" stroke-width="0.80" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="119.00" cy="274.71" r="2.21" fill="#fff" stroke="#000" stroke-width="0.80"/><path d="M 119.00 276.92 L 119.00 282.36 M 115.26 281.00 L 119.00 278.28 L 122.74 281.00 M 115.94 289.50 L 119.00 282.36 L 122.06 289.50" fill="none" stroke="#000" stroke-width="0.80" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="234.55" y="243.20" class="node" text-anchor="middle" data-circle="234.00 266.00 57.00">FIRMS</text>
+<path d="M 207.00 287.70 L 253.00 287.70 L 253.00 308.40 L 207.00 308.40 Z" fill="#fff" stroke="#000" stroke-width="0.80" stroke-linejoin="round"/><path d="M 207.00 287.70 L 207.00 276.20 L 217.35 287.70 L 217.35 276.20 L 227.70 287.70 L 227.70 276.20 L 238.05 287.70" fill="#bfbfbf" stroke="#000" stroke-width="0.80" stroke-linejoin="round"/><rect x="241.50" y="261.25" width="6.90" height="26.45" fill="#fff" stroke="#000" stroke-width="0.80"/><circle cx="248.97" cy="256.65" r="3.45" fill="#fff" stroke="#000" stroke-width="0.80"/><circle cx="254.72" cy="251.47" r="4.14" fill="#fff" stroke="#000" stroke-width="0.80"/><rect x="212.75" y="294.60" width="6.90" height="5.75" fill="#bfbfbf" stroke="#000" stroke-width="0.80"/><rect x="224.25" y="294.60" width="6.90" height="5.75" fill="#bfbfbf" stroke="#000" stroke-width="0.80"/><rect x="235.75" y="294.60" width="6.90" height="5.75" fill="#bfbfbf" stroke="#000" stroke-width="0.80"/>
+<path d="M 122.59 213.85 C 132.59 176.00 191.41 176.00 199.97 208.41" fill="none" stroke="#000" stroke-width="1.60" stroke-linecap="round"/><path d="M 201.41 213.85 L 196.45 207.40 L 202.54 205.79 Z" fill="#000" stroke="#000" stroke-width="0.6" stroke-linejoin="miter"/>
+<path d="M 201.41 318.15 C 191.41 360.00 132.59 360.00 123.90 323.63" fill="none" stroke="#000" stroke-width="1.60" stroke-linecap="round"/><path d="M 122.59 318.15 L 127.40 324.72 L 121.27 326.18 Z" fill="#000" stroke="#000" stroke-width="0.6" stroke-linejoin="miter"/>
+<circle cx="135.36" cy="156.20" r="5.20" fill="#fff" stroke="#000" stroke-width="0.9"/><path d="M 135.36 152.98 L 135.36 156.20 L 137.96 157.34" fill="none" stroke="#000" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="148.86" y="160.00" class="flow" text-anchor="start" data-group="flow">LABOR</text>
+<text x="162.00" y="172.50" class="flowd" text-anchor="middle" data-group="flow">time and effort</text>
+<rect x="125.00" y="367.20" width="17" height="10" fill="#bfbfbf" stroke="#000" stroke-width="0.9"/><circle cx="133.50" cy="372.20" r="2.8" fill="#fff" stroke="#000" stroke-width="0.8"/>
+<text x="147.00" y="376.00" class="flow" text-anchor="start" data-group="flow">WAGES</text>
+<text x="162.00" y="388.50" class="flowd" text-anchor="middle" data-group="flow">paychecks</text>
+<text x="162.75" y="417.00" class="bt" text-anchor="middle">THE THREE BUCKETS OF HOUSEHOLD INCOME</text>
+<rect x="34.00" y="424.00" width="153.60" height="13.00" fill="#999999" stroke="#000" stroke-width="0.7"/>
+<rect x="187.60" y="424.00" width="51.20" height="13.00" fill="#bfbfbf" stroke="#000" stroke-width="0.7"/>
+<rect x="238.80" y="424.00" width="51.20" height="13.00" fill="#e6e6e6" stroke="#000" stroke-width="0.7"/>
+<rect x="40.43" y="445.80" width="8" height="8" fill="#999999" stroke="#000" stroke-width="0.7"/>
+<text x="52.43" y="453.00" class="leg" text-anchor="start" data-group="legend">WAGES</text>
+<text x="87.69" y="453.00" class="legb" text-anchor="start" data-group="legend">60%</text>
+<rect x="119.27" y="445.80" width="8" height="8" fill="#bfbfbf" stroke="#000" stroke-width="0.7"/>
+<text x="131.27" y="453.00" class="leg" text-anchor="start" data-group="legend">TRANSFERS</text>
+<text x="183.63" y="453.00" class="legb" text-anchor="start" data-group="legend">20%</text>
+<rect x="215.22" y="445.80" width="8" height="8" fill="#e6e6e6" stroke="#000" stroke-width="0.7"/>
+<text x="227.22" y="453.00" class="leg" text-anchor="start" data-group="legend">CAPITAL</text>
+<text x="267.98" y="453.00" class="legb" text-anchor="start" data-group="legend">20%</text>
+<text x="162.00" y="471.00" class="note" text-anchor="middle">About $1 from capital for every $4 from wages and transfers (CAR ≈ 0.25)</text>
+<line x1="140.00" y1="492.00" x2="184.00" y2="492.00" stroke="#000" stroke-width="0.6"/>
+<text x="163.00" y="507.00" class="ref" text-anchor="middle">SEE CHAPTER 5</text>
+<text x="162.00" y="521.00" class="refs" text-anchor="middle">The Fourth Pillar: Measuring the Great Decoupling</text>
+</svg>

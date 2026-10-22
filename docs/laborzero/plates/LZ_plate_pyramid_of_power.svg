@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="4.5in" height="7.5in" viewBox="0 0 324 540" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+<title>Labor Zero: The Pyramid of Power</title>
+<desc>Front-matter plate. Live area 4.5 x 7.5 in (324 x 540 pt). Greyscale, print-first: black type and rules, flat 10-30% tints, minimum stroke 0.6 pt, minimum type 8 pt.</desc>
+<style>.kick{font-family:'Gill Sans MT', 'Gill Sans', 'Segoe UI', sans-serif;font-size:8px;letter-spacing:2.4px;fill:#000}.pre{font-family:'Perpetua Titling MT', 'Perpetua', serif;font-weight:300;font-size:13px;letter-spacing:2.6px;fill:#000}.big{font-family:'Perpetua Titling MT', 'Perpetua', serif;font-weight:700;font-size:31px;letter-spacing:2.2px;fill:#000}.q{font-family:'Perpetua', 'Garamond', serif;font-style:italic;font-size:12px;fill:#000}.tn{font-family:'Gill Sans MT', 'Gill Sans', 'Segoe UI', sans-serif;font-weight:700;font-size:8.5px;letter-spacing:0.9px;fill:#000}.td{font-family:'Gill Sans MT', 'Gill Sans', 'Segoe UI', sans-serif;font-style:italic;font-size:8.25px;fill:#000}.num{font-family:'Perpetua Titling MT', 'Perpetua', serif;font-weight:700;font-size:9.5px;fill:#000}.ax{font-family:'Gill Sans MT', 'Gill Sans', 'Segoe UI', sans-serif;font-size:8px;letter-spacing:1.6px;fill:#000}.axt{font-family:'Gill Sans MT', 'Gill Sans', 'Segoe UI', sans-serif;font-weight:700;font-size:8px;letter-spacing:1.8px;fill:#000}.epi{font-family:'Perpetua', 'Garamond', serif;font-style:italic;font-size:13px;fill:#000}.ref{font-family:'Gill Sans MT', 'Gill Sans', 'Segoe UI', sans-serif;font-size:8px;letter-spacing:2px;fill:#000}.refs{font-family:'Perpetua', 'Garamond', serif;font-style:italic;font-size:11px;fill:#000}</style>
+<rect x="0.6" y="0.6" width="322.80" height="538.80" fill="none" stroke="#000" stroke-width="1.2"/>
+<rect x="4.5" y="4.5" width="315.00" height="531.00" fill="none" stroke="#000" stroke-width="0.6"/>
+<rect x="2.00" y="2.00" width="5" height="5" fill="#000" transform="rotate(45 4.50 4.50)"/>
+<rect x="317.00" y="2.00" width="5" height="5" fill="#000" transform="rotate(45 319.50 4.50)"/>
+<rect x="2.00" y="533.00" width="5" height="5" fill="#000" transform="rotate(45 4.50 535.50)"/>
+<rect x="317.00" y="533.00" width="5" height="5" fill="#000" transform="rotate(45 319.50 535.50)"/>
+<text x="163.20" y="34.00" class="kick" text-anchor="middle">THE SECOND OF TWO PYRAMIDS</text>
+<text x="163.30" y="64.00" class="pre" text-anchor="middle">THE PYRAMID OF</text>
+<text x="163.10" y="100.00" class="big" text-anchor="middle">POWER</text>
+<line x1="104.00" y1="117.00" x2="152.00" y2="117.00" stroke="#000" stroke-width="0.6"/>
+<line x1="172.00" y1="117.00" x2="220.00" y2="117.00" stroke="#000" stroke-width="0.6"/>
+<path d="M 162.00 112.40 L 167.20 120.40 L 156.80 120.40 Z" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="162.00" y="137.00" class="q" text-anchor="middle">How do we create new ways to force concessions</text>
+<text x="162.00" y="151.50" class="q" text-anchor="middle">when labor no longer provides that leverage?</text>
+<path class="tier" data-tier="1" d="M 33.00 450.00 L 291.00 450.00 L 275.38 398.80 L 48.62 398.80 Z" fill="#b2b2b2" stroke="#000" stroke-width="0.6" stroke-linejoin="miter"/>
+<text x="162.45" y="410.10" class="tn" text-anchor="middle" data-tier="1">IMMUTABLE</text>
+<text x="162.45" y="420.10" class="tn" text-anchor="middle" data-tier="1">CIVIC BEDROCK</text>
+<text x="162.00" y="433.30" class="td" text-anchor="middle" data-tier="1">A tamper-resistant record of who people are</text>
+<text x="162.00" y="443.20" class="td" text-anchor="middle" data-tier="1">and what the state has promised them</text>
+<circle cx="297.19" cy="424.40" r="7.2" fill="#fff" stroke="#000" stroke-width="0.6"/>
+<text x="297.19" y="427.80" class="num" text-anchor="middle">1</text>
+<path class="tier" data-tier="2" d="M 49.84 394.80 L 274.16 394.80 L 258.53 343.60 L 65.47 343.60 Z" fill="#bfbfbf" stroke="#000" stroke-width="0.6" stroke-linejoin="miter"/>
+<text x="162.45" y="359.90" class="tn" text-anchor="middle" data-tier="2">OPEN PAYMENT RAILS</text>
+<text x="162.00" y="373.10" class="td" text-anchor="middle" data-tier="2">Who can pay whom, how fast,</text>
+<text x="162.00" y="383.00" class="td" text-anchor="middle" data-tier="2">for how much, and at what toll</text>
+<circle cx="280.34" cy="369.20" r="7.2" fill="#fff" stroke="#000" stroke-width="0.6"/>
+<text x="280.34" y="372.60" class="num" text-anchor="middle">2</text>
+<path class="tier" data-tier="3" d="M 66.69 339.60 L 257.31 339.60 L 241.69 288.40 L 82.31 288.40 Z" fill="#cccccc" stroke="#000" stroke-width="0.6" stroke-linejoin="miter"/>
+<text x="162.45" y="299.70" class="tn" text-anchor="middle" data-tier="3">RADICAL</text>
+<text x="162.45" y="309.70" class="tn" text-anchor="middle" data-tier="3">TRANSPARENCY</text>
+<text x="162.00" y="322.90" class="td" text-anchor="middle" data-tier="3">Public visibility, by default,</text>
+<text x="162.00" y="332.80" class="td" text-anchor="middle" data-tier="3">into the guts of government</text>
+<circle cx="263.50" cy="314.00" r="7.2" fill="#fff" stroke="#000" stroke-width="0.6"/>
+<text x="263.50" y="317.40" class="num" text-anchor="middle">3</text>
+<path class="tier" data-tier="4" d="M 83.53 284.40 L 240.47 284.40 L 224.84 233.20 L 99.16 233.20 Z" fill="#d9d9d9" stroke="#000" stroke-width="0.6" stroke-linejoin="miter"/>
+<text x="162.45" y="244.50" class="tn" text-anchor="middle" data-tier="4">DIRECT</text>
+<text x="162.45" y="254.50" class="tn" text-anchor="middle" data-tier="4">DEMOCRACY</text>
+<text x="162.00" y="267.70" class="td" text-anchor="middle" data-tier="4">Referendums, initiatives, participatory</text>
+<text x="162.00" y="277.60" class="td" text-anchor="middle" data-tier="4">budgets and citizens’ assemblies</text>
+<circle cx="246.66" cy="258.80" r="7.2" fill="#fff" stroke="#000" stroke-width="0.6"/>
+<text x="246.66" y="262.20" class="num" text-anchor="middle">4</text>
+<path class="tier" data-tier="5" d="M 100.38 229.20 L 223.62 229.20 L 208.00 178.00 L 116.00 178.00 Z" fill="#e6e6e6" stroke="#000" stroke-width="0.6" stroke-linejoin="miter"/>
+<text x="162.45" y="189.30" class="tn" text-anchor="middle" data-tier="5">META-</text>
+<text x="162.45" y="199.30" class="tn" text-anchor="middle" data-tier="5">GOVERNANCE</text>
+<text x="162.00" y="212.50" class="td" text-anchor="middle" data-tier="5">Changing the rules themselves</text>
+<text x="162.00" y="222.40" class="td" text-anchor="middle" data-tier="5">by choice, not crisis or conquest</text>
+<circle cx="229.81" cy="203.60" r="7.2" fill="#fff" stroke="#000" stroke-width="0.6"/>
+<text x="229.81" y="207.00" class="num" text-anchor="middle">5</text>
+<line x1="21.00" y1="450.00" x2="102.25" y2="183.74" stroke="#000" stroke-width="1.1"/>
+<path d="M 104.00 178.00 L 104.82 187.66 L 97.93 185.56 Z" fill="#000"/>
+<line x1="37.23" y1="396.80" x2="40.49" y2="397.79" stroke="#000" stroke-width="0.8"/>
+<line x1="54.08" y1="341.60" x2="57.33" y2="342.59" stroke="#000" stroke-width="0.8"/>
+<line x1="70.92" y1="286.40" x2="74.17" y2="287.39" stroke="#000" stroke-width="0.8"/>
+<line x1="87.77" y1="231.20" x2="91.02" y2="232.19" stroke="#000" stroke-width="0.8"/>
+<text x="0" y="0" class="axt" text-anchor="middle" transform="translate(59.76 307.22) rotate(-73.03)">ORDER OF OPERATIONS</text>
+<text x="12.00" y="465.00" class="ax" text-anchor="start">BUILT FIRST</text>
+<text x="104.80" y="169.00" class="ax" text-anchor="middle">BUILT LAST</text>
+<text x="162.00" y="490.00" class="epi" text-anchor="middle">“… and the other provides the teeth.”</text>
+<line x1="140.00" y1="501.00" x2="184.00" y2="501.00" stroke="#000" stroke-width="0.6"/>
+<text x="163.00" y="515.00" class="ref" text-anchor="middle">SEE CHAPTER 6</text>
+<text x="162.00" y="528.00" class="refs" text-anchor="middle">The Fifth Pillar: Concrete Interventions</text>
+</svg>

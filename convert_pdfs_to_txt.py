@@ -1,14 +1,15 @@
 #!/usr/bin/env python3
 """
-Batch convert all PDFs in ./Research to text files in ./Research_txt.
+Batch convert the PDFs in ./Research to text files in ./Research_txt.
 
-- Clears (deletes) existing contents of ./Research_txt at start.
+- Converts each PDF that has no text file yet. Pass --all to convert every PDF again.
+- Never deletes anything: a text file whose PDF has gone is left in place.
 - Creates ./Research_txt if it doesn't exist.
 - Keeps base filenames the same, but with .txt extension.
 """
 
 import re
-import shutil
+import sys
 from pathlib import Path
 from PyPDF2 import PdfReader
 
@@ -28,28 +29,18 @@ def convert_pdf_to_txt(pdf_path: Path) -> str:
     return cleaned_text
 
 
-def prepare_output_dir() -> None:
-    """Ensure TXT_DIR exists and is empty."""
-    if TXT_DIR.exists():
-        # Remove everything inside the directory
-        for item in TXT_DIR.iterdir():
-            if item.is_file() or item.is_symlink():
-                item.unlink(missing_ok=True)
-            elif item.is_dir():
-                shutil.rmtree(item, ignore_errors=True)
-    else:
-        TXT_DIR.mkdir(parents=True, exist_ok=True)
-
-
 def main() -> None:
     if not PDF_DIR.exists():
         print(f"PDF source directory '{PDF_DIR}' does not exist.")
         return
 
-    prepare_output_dir()
+    TXT_DIR.mkdir(parents=True, exist_ok=True)
+    redo_all = "--all" in sys.argv[1:]
 
-    for pdf_file in PDF_DIR.glob("*.pdf"):
+    for pdf_file in sorted(PDF_DIR.glob("*.pdf")):
         txt_filename = TXT_DIR / (pdf_file.stem + ".txt")
+        if txt_filename.exists() and not redo_all:
+            continue
         print(f"Converting {pdf_file.name} -> {txt_filename.name}")
         try:
             text = convert_pdf_to_txt(pdf_file)

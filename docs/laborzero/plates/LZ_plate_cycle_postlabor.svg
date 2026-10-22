@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="4.5in" height="7.5in" viewBox="0 0 324 540" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+<title>Labor Zero: Post-Labor, the the capital-based system</title>
+<desc>Front-matter plate. Live area 4.5 x 7.5 in (324 x 540 pt). Greyscale, print-first: black type and rules, flat 10-45%% tints, minimum stroke 0.6 pt, minimum type 8 pt.</desc>
+<style>.kick{font-family:'Gill Sans MT', 'Gill Sans', 'Segoe UI', sans-serif;font-size:8px;letter-spacing:2.4px;fill:#000}.pre{font-family:'Perpetua Titling MT', 'Perpetua', serif;font-weight:300;font-size:12px;letter-spacing:2.2px;fill:#000}.big{font-family:'Perpetua Titling MT', 'Perpetua', serif;font-weight:700;font-size:31px;letter-spacing:2.2px;fill:#000}.q{font-family:'Perpetua', 'Garamond', serif;font-style:italic;font-size:13px;fill:#000}.flow{font-family:'Gill Sans MT', 'Gill Sans', 'Segoe UI', sans-serif;font-weight:700;font-size:10.5px;letter-spacing:2px;fill:#000}.flowd{font-family:'Gill Sans MT', 'Gill Sans', 'Segoe UI', sans-serif;font-style:italic;font-size:8.75px;fill:#000}.node{font-family:'Gill Sans MT', 'Gill Sans', 'Segoe UI', sans-serif;font-weight:700;font-size:8.75px;letter-spacing:1.1px;fill:#000}.ic{font-family:'Gill Sans MT', 'Gill Sans', 'Segoe UI', sans-serif;font-style:italic;font-size:8.25px;fill:#000}.bt{font-family:'Gill Sans MT', 'Gill Sans', 'Segoe UI', sans-serif;font-size:8px;letter-spacing:1.5px;fill:#000}.leg{font-family:'Gill Sans MT', 'Gill Sans', 'Segoe UI', sans-serif;font-size:8px;letter-spacing:0.8px;fill:#000}.legb{font-family:'Gill Sans MT', 'Gill Sans', 'Segoe UI', sans-serif;font-weight:700;font-size:8px;letter-spacing:0.5px;fill:#000}.note{font-family:'Gill Sans MT', 'Gill Sans', 'Segoe UI', sans-serif;font-style:italic;font-size:8.5px;fill:#000}.ref{font-family:'Gill Sans MT', 'Gill Sans', 'Segoe UI', sans-serif;font-size:8px;letter-spacing:2px;fill:#000}.refs{font-family:'Perpetua', 'Garamond', serif;font-style:italic;font-size:11px;fill:#000}</style>
+<rect x="0.6" y="0.6" width="322.80" height="538.80" fill="none" stroke="#000" stroke-width="1.2"/>
+<rect x="4.5" y="4.5" width="315.00" height="531.00" fill="none" stroke="#000" stroke-width="0.6"/>
+<rect x="2.00" y="2.00" width="5" height="5" fill="#000" transform="rotate(45 4.50 4.50)"/>
+<rect x="317.00" y="2.00" width="5" height="5" fill="#000" transform="rotate(45 319.50 4.50)"/>
+<rect x="2.00" y="533.00" width="5" height="5" fill="#000" transform="rotate(45 4.50 535.50)"/>
+<rect x="317.00" y="533.00" width="5" height="5" fill="#000" transform="rotate(45 319.50 535.50)"/>
+<text x="163.20" y="34.00" class="kick" text-anchor="middle">AFTER THE GREAT DECOUPLING</text>
+<text x="163.10" y="62.00" class="pre" text-anchor="middle">THE CAPITAL-BASED SYSTEM</text>
+<text x="163.10" y="98.00" class="big" text-anchor="middle">POST-LABOR</text>
+<line x1="104.00" y1="115.00" x2="152.00" y2="115.00" stroke="#000" stroke-width="0.6"/>
+<line x1="172.00" y1="115.00" x2="220.00" y2="115.00" stroke="#000" stroke-width="0.6"/>
+<circle cx="162.00" cy="115.00" r="4.4" fill="none" stroke="#000" stroke-width="0.7"/>
+<path d="M 163.60 110.60 L 160.60 108.60 L 160.60 112.60 Z" fill="#000"/>
+<text x="162.00" y="137.00" class="q" text-anchor="middle">Households earn by owning.</text>
+<circle cx="76.00" cy="266.00" r="51.00" fill="#e6e6e6" stroke="#000" stroke-width="0.9"/>
+<circle cx="228.00" cy="266.00" r="79.00" fill="#e6e6e6" stroke="#000" stroke-width="0.9"/>
+<text x="76.55" y="247.64" class="node" text-anchor="middle" data-circle="76.00 266.00 51.00">HOUSEHOLDS</text>
+<path d="M 51.50 271.50 L 67.00 258.00 L 82.50 271.50 Z" fill="#bfbfbf" stroke="#000" stroke-width="0.80" stroke-linejoin="round"/><rect x="55.00" y="271.50" width="24" height="18" fill="#fff" stroke="#000" stroke-width="0.80"/><rect x="64.00" y="280.00" width="6" height="9.5" fill="#bfbfbf" stroke="#000" stroke-width="0.80"/><rect x="57.40" y="274.50" width="5" height="5" fill="#fff" stroke="#000" stroke-width="0.80"/><rect x="71.60" y="274.50" width="5" height="5" fill="#fff" stroke="#000" stroke-width="0.80"/>
+<circle cx="94.00" cy="267.75" r="3.25" fill="#fff" stroke="#000" stroke-width="0.80"/><path d="M 94.00 271.00 L 94.00 279.00 M 88.50 277.00 L 94.00 273.00 L 99.50 277.00 M 89.50 289.50 L 94.00 279.00 L 98.50 289.50" fill="none" stroke="#000" stroke-width="0.80" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="105.00" cy="274.71" r="2.21" fill="#fff" stroke="#000" stroke-width="0.80"/><path d="M 105.00 276.92 L 105.00 282.36 M 101.26 281.00 L 105.00 278.28 L 108.74 281.00 M 101.94 289.50 L 105.00 282.36 L 108.06 289.50" fill="none" stroke="#000" stroke-width="0.80" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="228.55" y="220.18" class="node" text-anchor="middle" data-circle="228.00 266.00 79.00">CAPITAL</text>
+<path d="M 175.80 254.88 L 198.20 254.88 L 198.20 264.96 L 175.80 264.96 Z" fill="#fff" stroke="#000" stroke-width="0.80" stroke-linejoin="round"/><path d="M 175.80 254.88 L 175.80 249.28 L 180.84 254.88 L 180.84 249.28 L 185.88 254.88 L 185.88 249.28 L 190.92 254.88" fill="#bfbfbf" stroke="#000" stroke-width="0.80" stroke-linejoin="round"/><rect x="192.60" y="242.00" width="3.36" height="12.88" fill="#fff" stroke="#000" stroke-width="0.80"/><circle cx="196.24" cy="239.76" r="1.68" fill="#fff" stroke="#000" stroke-width="0.80"/><circle cx="199.04" cy="237.24" r="2.02" fill="#fff" stroke="#000" stroke-width="0.80"/><rect x="178.60" y="258.24" width="3.36" height="2.80" fill="#bfbfbf" stroke="#000" stroke-width="0.80"/><rect x="184.20" y="258.24" width="3.36" height="2.80" fill="#bfbfbf" stroke="#000" stroke-width="0.80"/><rect x="189.80" y="258.24" width="3.36" height="2.80" fill="#bfbfbf" stroke="#000" stroke-width="0.80"/>
+<text x="187.00" y="274.00" class="ic" text-anchor="middle" data-circle="228.00 266.00 79.00">firms</text>
+<line x1="228.00" y1="239.50" x2="228.00" y2="242.50" stroke="#000" stroke-width="0.80"/><circle cx="228.00" cy="238.80" r="1.4" fill="#000"/><rect x="221.50" y="242.50" width="13" height="8.5" rx="1.5" fill="#fff" stroke="#000" stroke-width="0.80"/><circle cx="225.40" cy="246.60" r="1.2" fill="#000"/><circle cx="230.60" cy="246.60" r="1.2" fill="#000"/><rect x="220.50" y="252.20" width="15" height="11" rx="1.5" fill="#bfbfbf" stroke="#000" stroke-width="0.80"/><path d="M 220.50 255.00 L 217.50 260.50 M 235.50 255.00 L 238.50 260.50" stroke="#000" stroke-width="0.80" stroke-linecap="round"/>
+<text x="228.00" y="274.00" class="ic" text-anchor="middle" data-circle="228.00 266.00 79.00">robots</text>
+<rect x="261.50" y="244.50" width="15" height="15" fill="#fff" stroke="#000" stroke-width="0.80"/><rect x="265.50" y="248.50" width="7" height="7" fill="#bfbfbf" stroke="#000" stroke-width="0.80"/><path d="M 264.50 244.50 L 264.50 241.50 M 264.50 259.50 L 264.50 262.50 M 261.50 247.50 L 258.50 247.50 M 276.50 247.50 L 279.50 247.50 M 269.00 244.50 L 269.00 241.50 M 269.00 259.50 L 269.00 262.50 M 261.50 252.00 L 258.50 252.00 M 276.50 252.00 L 279.50 252.00 M 273.50 244.50 L 273.50 241.50 M 273.50 259.50 L 273.50 262.50 M 261.50 256.50 L 258.50 256.50 M 276.50 256.50 L 279.50 256.50" stroke="#000" stroke-width="0.80"/>
+<text x="269.00" y="274.00" class="ic" text-anchor="middle" data-circle="228.00 266.00 79.00">AI</text>
+<path d="M 174.00 302.00 Q 187.00 289.00 200.00 302.00 Z" fill="#bfbfbf" stroke="#000" stroke-width="0.80" stroke-linejoin="round"/><line x1="187.00" y1="295.00" x2="187.00" y2="288.00" stroke="#000" stroke-width="1.1"/><circle cx="187.00" cy="284.50" r="4.6" fill="#bfbfbf" stroke="#000" stroke-width="0.80"/>
+<text x="187.00" y="316.00" class="ic" text-anchor="middle" data-circle="228.00 266.00 79.00">land</text>
+<path d="M 231.00 283.00 L 221.50 297.00 L 227.20 297.00 L 224.50 305.00 L 234.50 292.00 L 228.80 292.00 L 232.60 283.00 Z" fill="#000" stroke="#000" stroke-width="0.6" stroke-linejoin="round"/>
+<text x="228.00" y="316.00" class="ic" text-anchor="middle" data-circle="228.00 266.00 79.00">energy</text>
+<path d="M 256.50 290.00 L 269.00 283.00 L 281.50 290.00 Z" fill="#bfbfbf" stroke="#000" stroke-width="0.80" stroke-linejoin="round"/><rect x="256.50" y="290.00" width="25" height="2.6" fill="#fff" stroke="#000" stroke-width="0.80"/><rect x="259.80" y="293.40" width="1.8" height="8.6" fill="#000"/><rect x="265.40" y="293.40" width="1.8" height="8.6" fill="#000"/><rect x="271.00" y="293.40" width="1.8" height="8.6" fill="#000"/><rect x="276.60" y="293.40" width="1.8" height="8.6" fill="#000"/><rect x="255.50" y="302.00" width="27" height="2.6" fill="#fff" stroke="#000" stroke-width="0.80"/>
+<text x="269.00" y="316.00" class="ic" text-anchor="middle" data-circle="228.00 266.00 79.00">funds</text>
+<path d="M 103.75 217.94 C 113.75 176.00 166.59 176.00 174.44 195.00" fill="none" stroke="#000" stroke-width="1.60" stroke-linecap="round"/><path d="M 176.59 200.20 L 170.82 194.47 L 176.64 192.07 Z" fill="#000" stroke="#000" stroke-width="0.6" stroke-linejoin="miter"/>
+<path d="M 176.59 331.80 C 166.59 364.00 113.75 364.00 104.85 319.58" fill="none" stroke="#000" stroke-width="1.60" stroke-linecap="round"/><path d="M 103.75 314.06 L 108.31 320.80 L 102.13 322.04 Z" fill="#000" stroke="#000" stroke-width="0.6" stroke-linejoin="miter"/>
+<circle cx="135.14" cy="156.20" r="5.40" fill="#fff" stroke="#000" stroke-width="0.9"/><path d="M 135.14 156.20 L 135.14 150.80 A 5.40 5.40 0 0 1 140.54 156.20 Z" fill="#000"/>
+<text x="148.64" y="160.00" class="flow" text-anchor="start" data-group="flow">STOCK</text>
+<text x="162.00" y="172.50" class="flowd" text-anchor="middle" data-group="flow">ownership of capital and assets</text>
+<path d="M 131.88 379.40 L 131.88 381.20 A 6.5 2.3 0 0 0 144.88 381.20 L 144.88 379.40" fill="#bfbfbf" stroke="#000" stroke-width="0.8" stroke-linejoin="round"/><ellipse cx="138.38" cy="379.40" rx="6.5" ry="2.3" fill="#fff" stroke="#000" stroke-width="0.8"/><path d="M 131.88 376.30 L 131.88 378.10 A 6.5 2.3 0 0 0 144.88 378.10 L 144.88 376.30" fill="#bfbfbf" stroke="#000" stroke-width="0.8" stroke-linejoin="round"/><ellipse cx="138.38" cy="376.30" rx="6.5" ry="2.3" fill="#fff" stroke="#000" stroke-width="0.8"/><path d="M 131.88 373.20 L 131.88 375.00 A 6.5 2.3 0 0 0 144.88 375.00 L 144.88 373.20" fill="#bfbfbf" stroke="#000" stroke-width="0.8" stroke-linejoin="round"/><ellipse cx="138.38" cy="373.20" rx="6.5" ry="2.3" fill="#fff" stroke="#000" stroke-width="0.8"/>
+<text x="151.88" y="380.00" class="flow" text-anchor="start" data-group="flow">FLOW</text>
+<text x="162.00" y="392.50" class="flowd" text-anchor="middle" data-group="flow">dividends, interest and rents</text>
+<text x="162.75" y="417.00" class="bt" text-anchor="middle">THE THREE BUCKETS OF HOUSEHOLD INCOME</text>
+<rect x="34.00" y="424.00" width="51.20" height="13.00" fill="#999999" stroke="#000" stroke-width="0.7"/>
+<rect x="85.20" y="424.00" width="204.80" height="13.00" fill="#e6e6e6" stroke="#000" stroke-width="0.7"/>
+<rect x="58.47" y="445.80" width="8" height="8" fill="#999999" stroke="#000" stroke-width="0.7"/>
+<text x="70.47" y="453.00" class="leg" text-anchor="start" data-group="legend">WAGES + TRANSFERS</text>
+<text x="165.60" y="453.00" class="legb" text-anchor="start" data-group="legend">20%</text>
+<rect x="197.18" y="445.80" width="8" height="8" fill="#e6e6e6" stroke="#000" stroke-width="0.7"/>
+<text x="209.18" y="453.00" class="leg" text-anchor="start" data-group="legend">CAPITAL</text>
+<text x="249.95" y="453.00" class="legb" text-anchor="start" data-group="legend">80%</text>
+<text x="162.00" y="471.00" class="note" text-anchor="middle">Long-run target: $4 from capital for every $1 from wages and transfers (CAR 4.0)</text>
+<line x1="140.00" y1="492.00" x2="184.00" y2="492.00" stroke="#000" stroke-width="0.6"/>
+<text x="163.00" y="507.00" class="ref" text-anchor="middle">SEE CHAPTER 5</text>
+<text x="162.00" y="521.00" class="refs" text-anchor="middle">The Fourth Pillar: Measuring the Great Decoupling</text>
+</svg>

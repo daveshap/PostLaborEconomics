@@ -1,91 +1,28 @@
-# Post-Labor Economics Research
+---
+title: Post-Labor Economics
+---
 
-- [AI and Humanoid Robotics - An Era of Exponential Acceleration](research/ai-and-humanoid-robotics-an-era-of-exponential-acceleration.html)
-- [AI as a General-Purpose Technology](research/ai-as-a-general-purpose-technology.html)
-- [Arguments Against the Job Automation Apocalypse](research/arguments-against-the-job-automation-apocalypse.html)
-- [Arguments for and Against CBDC and Stablecoins](research/arguments-for-and-against-cbdc-and-stablecoins.html)
-- [Automation's Impact on Developed Economies](research/automation-s-impact-on-developed-economies.html)
-- [Baumol's Cost Disease – Automation-Resistant Job Growth Sectors](research/baumol-s-cost-disease-automation-resistant-job-growth-sectors.html)
-- [Better, Faster, Cheaper, Safer - The March of Labor-Saving Technology](research/better-faster-cheaper-safer-the-march-of-labor-saving-technology.html)
-- [Blockchain and the New Civic Contract in a Post-Labor Economy](research/blockchain-and-the-new-civic-contract-in-a-post-labor-economy.html)
-- [Blockchain and the State - Functions, Opportunities, and Constraints](research/blockchain-and-the-state-functions-opportunities-and-constraints.html)
-- [Capital Endowment Programs - Direct Asset Grants to Individuals](research/capital-endowment-programs-direct-asset-grants-to-individuals.html)
-- [Cognitive Capture in the Post-Labor Age](research/cognitive-capture-in-the-post-labor-age.html)
-- [Credential Inflation Over the Centuries – The Rise and Forecast of Median Education for Entry-Level ](research/credential-inflation-over-the-centuries-the-rise-and-forecast-of-median-education-for-entry-level.html)
-- [Cultural Upheaval in the Age of Industry](research/cultural-upheaval-in-the-age-of-industry.html)
-- [Decentralized and Productive - DAOs Building Real-World Value by 2025](research/decentralized-and-productive-daos-building-real-world-value-by-2025.html)
-- [Degrowth and Post-Labor Economics - A Blueprint for Sustainable Growth](research/degrowth-and-post-labor-economics-a-blueprint-for-sustainable-growth.html)
-- [Distributed & Decentralized Dividend Mechanisms for a Post‑Labor Economy](research/distributed-decentralized-dividend-mechanisms-for-a-post-labor-economy.html)
-- [Dividends for the Age of Automation - How Economies Are Preparing for a Post-Labor Future](research/dividends-for-the-age-of-automation-how-economies-are-preparing-for-a-post-labor-future.html)
-- [Dollar Matching Schemes for Wages and Investments in a Post-Labor Economy – Extant and Hypothetical ](research/dollar-matching-schemes-for-wages-and-investments-in-a-post-labor-economy-extant-and-hypothetical.html)
-- [Economic Agency and Upheaval - A Historical Narrative](research/economic-agency-and-upheaval-a-historical-narrative.html)
-- [Elasticity of Substitution (σ) Between Capital and Labor - A Comprehensive Analysis](research/elasticity-of-substitution-between-capital-and-labor-a-comprehensive-analysis.html)
-- [Evolution of Social Contracts - From Ancient Kingdoms to Modern Nation-States](research/evolution-of-social-contracts-from-ancient-kingdoms-to-modern-nation-states.html)
-- [Evolving Role of Labor Unions in a Post‑Labor Future](research/evolving-role-of-labor-unions-in-a-post-labor-future.html)
-- [Forecasting the Deployment and Cost Trajectory of Medium-Utility Humanoid Robots Through 2060](research/forecasting-the-deployment-and-cost-trajectory-of-medium-utility-humanoid-robots-through-2060.html)
-- [From Extraction to Experience - Paradigm Shifts, General Purpose Technologies, and the Rise of the Me](research/from-extraction-to-experience-paradigm-shifts-general-purpose-technologies-and-the-rise-of-the-me.html)
-- [From Labor Power to Digital Commons - Evolution of Collective Economic Leverage](research/from-labor-power-to-digital-commons-evolution-of-collective-economic-leverage.html)
-- [From S-Curves to New Frontiers - The Pace of Tech Adoption](research/from-s-curves-to-new-frontiers-the-pace-of-tech-adoption.html)
-- [General-Purpose Technologies - History, Impact, and Characteristics](research/general-purpose-technologies-history-impact-and-characteristics.html)
-- [Generational Wealth Patterns – Myths vs Reality](research/generational-wealth-patterns-myths-vs-reality.html)
-- [Geographically-Constrained Income Systems in a Post-Labor Economy](research/geographically-constrained-income-systems-in-a-post-labor-economy.html)
-- [Global Burnout – Cultural Receptivity to New Economic Paradigms](research/global-burnout-cultural-receptivity-to-new-economic-paradigms.html)
-- [Global Geopolitical Inflection and the Post-Labor Economic Prospect](research/global-geopolitical-inflection-and-the-post-labor-economic-prospect.html)
-- [Global Survey of Urban Wealth Funds and Community Trusts](research/global-survey-of-urban-wealth-funds-and-community-trusts.html)
-- [Government Adoption of Generative AI (Late 2022–2025)](research/government-adoption-of-generative-ai-late-2022-2025.html)
-- [Government Responses to Unemployment and Economic Crises - 1920s–Present](research/government-responses-to-unemployment-and-economic-crises-1920s-present.html)
-- [History of Tax Resistance and Economic Withdrawal as Political Tools](research/history-of-tax-resistance-and-economic-withdrawal-as-political-tools.html)
-- [History of Transparency and Accountability Between Citizens and Power](research/history-of-transparency-and-accountability-between-citizens-and-power.html)
-- [How to Avoid Elite Capture in a Post-Labor World](research/how-to-avoid-elite-capture-in-a-post-labor-world.html)
-- [Implementing Grand Economic Change - A 150-Year Narrative](research/implementing-grand-economic-change-a-150-year-narrative.html)
-- [Inclusive Capital Income Ratio (ICIR) in a Post-Labor Economy - A Comprehensive U.S. Perspective](research/inclusive-capital-income-ratio-icir-in-a-post-labor-economy-a-comprehensive-u-s-perspective.html)
-- [Industrial Transformation and National Missions - From the Great Depression to the AI Era](research/industrial-transformation-and-national-missions-from-the-great-depression-to-the-ai-era.html)
-- [Labor Power in Chinese History - From Imperial Abundance to Modern Transitions](research/labor-power-in-chinese-history-from-imperial-abundance-to-modern-transitions.html)
-- [Labor’s Pendulum - Scarcity, Glut, and Power Through World History](research/labor-s-pendulum-scarcity-glut-and-power-through-world-history.html)
-- [Levers of Power – Future Coercive Extraction of Concessions After Labor](research/levers-of-power-future-coercive-extraction-of-concessions-after-labor.html)
-- [Long-Term Decline in U.S. Labor Demand (1950–Present)](research/long-term-decline-in-u-s-labor-demand-1950-present.html)
-- [Macroeconomics and Boundary Conditions - The Edges of Post-Labor Economic Theory](research/macroeconomics-and-boundary-conditions-the-edges-of-post-labor-economic-theory.html)
-- [Market-Based Solutions for Economic Inclusion in a Post-Work Future](research/market-based-solutions-for-economic-inclusion-in-a-post-work-future.html)
-- [Measuring the Great Decoupling - How Institutions Are Tracking Collapsing Wages in the Age of Automat](research/measuring-the-great-decoupling-how-institutions-are-tracking-collapsing-wages-in-the-age-of-automat.html)
-- [Mobilizing for Technological Revolutions - Lessons from History](research/mobilizing-for-technological-revolutions-lessons-from-history.html)
-- [Modeling a Five-Tier Income Hierarchy in a Post-Labor Economy (2060)](research/modeling-a-five-tier-income-hierarchy-in-a-post-labor-economy-2060.html)
-- [Neoliberal Policy and Total Fertility – A Multidimensional Analysis](research/neoliberal-policy-and-total-fertility-a-multidimensional-analysis.html)
-- [Non-Rivalry in AI - What Makes It a Different Kind of Automation](research/non-rivalry-in-ai-what-makes-it-a-different-kind-of-automation.html)
-- [Participatory Ownership Models in a Post‑Labor Economy](research/participatory-ownership-models-in-a-post-labor-economy.html)
-- [Post-Labor Economics - Classical Economic and Moral-Philosophical Perspectives](research/post-labor-economics-classical-economic-and-moral-philosophical-perspectives.html)
-- [Post-Labor Economics is Inevitable – There is No 'Fifth Paradigm'](research/post-labor-economics-is-inevitable-there-is-no-fifth-paradigm.html)
-- [Post-Labor Economics Survey - Contemporary Voices, Convergence, and Divergence](research/post-labor-economics-survey-contemporary-voices-convergence-and-divergence.html)
-- [Post-Labor Lifestyles Across Cultures and History](research/post-labor-lifestyles-across-cultures-and-history.html)
-- [Pyramid of Power – A Hierarchy For A New Social Contract](research/pyramid-of-power-a-hierarchy-for-a-new-social-contract.html)
-- [Rapid Advancements in AI Capabilities Across Sectors (2020–2025)](research/rapid-advancements-in-ai-capabilities-across-sectors-2020-2025.html)
-- [Resident-Owned Housing - A New Path to Affordable Communities in a Post-Labor Economy](research/resident-owned-housing-a-new-path-to-affordable-communities-in-a-post-labor-economy.html)
-- [Shared Wealth - Participatory Ownership Models in the 21st Century](research/shared-wealth-participatory-ownership-models-in-the-21st-century.html)
-- [Social and Cultural Adaptations to Labor Shocks – Automation's Long Historical Arc and the AI Wave](research/social-and-cultural-adaptations-to-labor-shocks-automation-s-long-historical-arc-and-the-ai-wave.html)
-- [Solar PV and the Post-Labor Economy - Energy Abundance as a Foundation for Decentralized Prosperity](research/solar-pv-and-the-post-labor-economy-energy-abundance-as-a-foundation-for-decentralized-prosperity.html)
-- [State and Local Policies on Generative AI in the U.S.](research/state-and-local-policies-on-generative-ai-in-the-u-s.html)
-- [Strange Attractors for a Solarpunk Future - Shifting Civilizational Path Dependency](research/strange-attractors-for-a-solarpunk-future-shifting-civilizational-path-dependency.html)
-- [Technology and Economic Paradigm Shifts - From Agrarian to Industrial to Service Economies](research/technology-and-economic-paradigm-shifts-from-agrarian-to-industrial-to-service-economies.html)
-- [Technology, Automation, and the Erosion of Labor Demand in Developed Economies](research/technology-automation-and-the-erosion-of-labor-demand-in-developed-economies.html)
-- [The First Principles of Human Well-Being](research/the-first-principles-of-human-well-being.html)
-- [The Future Corporation in a Fully Automated Economy](research/the-future-corporation-in-a-fully-automated-economy.html)
-- [The Future of Advanced AI and Humanoid Robotics (2025–2050)](research/the-future-of-advanced-ai-and-humanoid-robotics-2025-2050.html)
-- [The Global Collapse of Labor Arbitrage in the Age of Synthetic Labor](research/the-global-collapse-of-labor-arbitrage-in-the-age-of-synthetic-labor.html)
-- [The Great Disconnect - Economic Growth and the Despair Beneath the Numbers](research/the-great-disconnect-economic-growth-and-the-despair-beneath-the-numbers.html)
-- [The History and Impact of General-Purpose Technologies - From the Wheel to the Internet](research/the-history-and-impact-of-general-purpose-technologies-from-the-wheel-to-the-internet.html)
-- [The Human Advantage in an Automated Age](research/the-human-advantage-in-an-automated-age.html)
-- [The Long-Term Impact of Automation on U.S. Employment - Historical Trends and Accelerating Displaceme](research/the-long-term-impact-of-automation-on-u-s-employment-historical-trends-and-accelerating-displaceme.html)
-- [The Neoliberal Attractor Basin – Trajectories and Loops](research/the-neoliberal-attractor-basin-trajectories-and-loops.html)
-- [The Next Missing Millions – Big Tech’s Productivity Outpacing Headcount](research/the-next-missing-millions-big-tech-s-productivity-outpacing-headcount.html)
-- [The Physical Limits of Machine Intelligence (Through 2050)](research/the-physical-limits-of-machine-intelligence-through-2050.html)
-- [The Political and Social Consequences of Labor’s Decline - A Historical and Contemporary Analysis](research/the-political-and-social-consequences-of-labor-s-decline-a-historical-and-contemporary-analysis.html)
-- [The Pyramid of Power - A Modular Framework for a New Digital Social Contract](research/the-pyramid-of-power-a-modular-framework-for-a-new-digital-social-contract.html)
-- [The Structural Decline of Labor’s Share in the Age of Automation](research/the-structural-decline-of-labor-s-share-in-the-age-of-automation.html)
-- [The Unambiguous Trend of Technological Labor Substitution](research/the-unambiguous-trend-of-technological-labor-substitution.html)
-- [The “Labor Substitution Fallacy” - Technology, Employment, and the Future of Work](research/the-labor-substitution-fallacy-technology-employment-and-the-future-of-work.html)
-- [Total Factor Productivity in a Post‑Labor Economy](research/total-factor-productivity-in-a-post-labor-economy.html)
-- [Toward a New Digital Social Contract - Global Survey of Key Technologies](research/toward-a-new-digital-social-contract-global-survey-of-key-technologies.html)
-- [Towards an Economic Agency Index - Income Composition in a Post-Neoliberal Era](research/towards-an-economic-agency-index-income-composition-in-a-post-neoliberal-era.html)
-- [Universal Basic Income in a Post‑Labor Economy - Necessary but Not Sufficient](research/universal-basic-income-in-a-post-labor-economy-necessary-but-not-sufficient.html)
-- [Useless Eaters – A First Principles View of Automation](research/useless-eaters-a-first-principles-view-of-automation.html)
-- [Why the Attention Economy Cannot Absorb “Labor Refugees”](research/why-the-attention-economy-cannot-absorb-labor-refugees.html)
-- [Zero-Labor Enterprises - Automation and the “Optimal” Workforce of Zero](research/zero-labor-enterprises-automation-and-the-optimal-workforce-of-zero.html)
+# Post-Labor Economics
+
+This is the public home for all my research on Post-Labor Economics: what happens to work, income and power as AI and robots take over more of the economy. This research is too important to keep locked away, so it is all free to read and download.
+
+## Labor Zero
+
+*Labor Zero: AI, Automation, and the Last Employed Generation* is the book this research built. Its free companion has the full Appendix and Bibliography, the four graphics from the front of the book, and three supplementary papers.
+
+**[Open the Labor Zero companion →](laborzero/)**
+
+## Research library
+
+103 research reports, grouped by theme: the Post-Labor Economics framework, the Pyramid of Power and the Pyramid of Prosperity, AI and automation, labor and wages, history, and society.
+
+**[Browse the research library →](research/)**
+
+## Charts and memes
+
+- [Charts](charts/): 41 charts on labor, wages, automation and wealth, with captions.
+- [Memes](memes/): 27 memes, for sharing.
+
+## The repository
+
+Everything here lives in the [PostLaborEconomics repository on GitHub](https://github.com/daveshap/PostLaborEconomics), including plain-text copies of every report, ready to load into NotebookLM or your favorite chatbot.
