@@ -1,0 +1,55 @@
+# Keeps the Videos page (docs/videos/) in step with the YouTube playlist.
+# Every six hours it runs update_videos.py, which reads the playlist's public page and feed
+# (no API key needed), and commits only when the playlist has changed. Run it by hand from
+# the Actions tab with "Run workflow".
+#
+# GitHub pauses scheduled workflows in a repository that has had no activity for 60 days.
+# If that happens, open the Actions tab and choose "Enable workflow".
+name: Update videos
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: update-videos
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          sparse-checkout: |
+            docs/_includes/pages
+            docs/assets/data
+            docs/assets/thumbs/videos
+
+      - name: Install Pillow
+        run: |
+          python3 -m venv /tmp/venv
+          /tmp/venv/bin/pip install --quiet "pillow>=10"
+
+      - name: Read the playlist
+        id: videos
+        run: /tmp/venv/bin/python update_videos.py
+
+      - name: Commit and publish the change
+        if: steps.videos.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/_includes/pages/videos.html docs/assets/data/videos.json docs/assets/thumbs/videos
+          git commit --quiet -m "Update the Videos page from the YouTube playlist"
+          git push --quiet
+          gh api --method POST "repos/${GITHUB_REPOSITORY}/pages/builds" --silent \
+            || echo "::notice::The Pages build request was not accepted; the push itself starts a build."

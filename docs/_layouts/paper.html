@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en-US' }}">
+{% include head.html %}
+<body>
+{% include header.html %}
+<main id="main" tabindex="-1">
+<div class="wrap report-head">
+  <nav class="crumbs" aria-label="Breadcrumb">
+    <ol>
+      <li><a href="{{ '/whitepapers/' | relative_url }}">White papers</a></li>
+    </ol>
+  </nav>
+  <h1>{{ page.title | escape }}</h1>
+  <p class="paper-blurb">{{ page.blurb | escape }}</p>
+  <ul class="report-meta" aria-label="About this paper">
+    <li>White paper</li>
+    <li>{{ page.page_count }} pages</li>
+    <li>{{ page.pdf_size }}</li>
+  </ul>
+  <div class="actions">
+    <a class="btn btn-primary" href="{{ page.pdf_path | relative_url }}" download><span>Download<span class="vh"> the PDF</span> <span class="btn-note">({{ page.pdf_size }})</span></span> <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 4v11M7 10l5 5 5-5M5 20h14"/></svg></a>
+    <a class="btn btn-ghost" href="{{ page.pdf_path | relative_url }}">Open full screen <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
+  </div>
+</div>
+
+<div class="wrap">
+  <div class="viewer">
+    <div class="viewer-bar">
+      <span class="viewer-badge">PDF</span>
+      <span class="viewer-name">{{ page.pdf | escape }}</span>
+      <a href="{{ page.pdf_path | relative_url }}">Open<span class="vh"> the PDF</span> <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
+    </div>
+    <object class="viewer-doc" data="{{ page.pdf_path | relative_url }}" type="application/pdf" title="{{ page.title | escape }} (PDF)">
+      <div class="viewer-fallback">
+        <p>This browser can&rsquo;t show the PDF on the page.</p>
+        <p><a class="btn btn-primary" href="{{ page.pdf_path | relative_url }}"><span>Open the PDF <span class="btn-note">({{ page.pdf_size }})</span></span> <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17 17 7M9 7h8v8"/></svg></a></p>
+      </div>
+    </object>
+  </div>
+  <nav class="pager" aria-label="Other white papers">
+    {% if page.prev_url %}<a href="{{ page.prev_url }}" rel="prev"><small>&larr; Previous white paper</small><strong>{{ page.prev_title | escape }}</strong></a>{% endif %}
+    {% if page.next_url %}<a class="next" href="{{ page.next_url }}" rel="next"><small>Next white paper &rarr;</small><strong>{{ page.next_title | escape }}</strong></a>{% endif %}
+  </nav>
+  <p class="back-note"><a class="arrow-link" href="{{ '/whitepapers/' | relative_url }}">&larr; All white papers</a></p>
+</div>
+{{ content }}
+</main>
+{% include footer.html %}
+</body>
+</html>

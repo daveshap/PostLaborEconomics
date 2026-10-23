@@ -1,0 +1,15 @@
+---
+layout: "paper"
+title: "Post-Labor Household Income Interventions"
+blurb: "A catalogue of 213 programs implemented or tested worldwide, from citizen dividends and asset accounts to worker ownership, guaranteed income, conditional and emergency cash, and public jobs."
+description: "Post-Labor Household Income Interventions: a Post-Labor Economics white paper (63 pages), free to read in the browser or download as a PDF."
+nav: "whitepapers"
+page_count: "63"
+pdf: "Post-Labor_Economics_Household_Income_Interventions.pdf"
+pdf_path: "/laborzero/supplements/Post-Labor_Economics_Household_Income_Interventions.pdf"
+pdf_size: "PDF, 1.7 MB"
+prev_url: "derived-and-essential-demand.html"
+prev_title: "Derived and Essential Demand"
+next_url: "metrics-reference.html"
+next_title: "Post-Labor Economics Metrics Reference"
+---

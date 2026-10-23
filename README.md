@@ -10,6 +10,8 @@ This is a public repository for all my research going into Post-Labor Economics,
 
 - **Reading *Labor Zero*?** The book's free companion is at [daveshap.github.io/PostLaborEconomics/laborzero](https://daveshap.github.io/PostLaborEconomics/laborzero/): the full Appendix and Bibliography, the four graphics from the front of the book, and three supplementary papers.
 - **The research library:** [all 103 reports, grouped by theme](https://daveshap.github.io/PostLaborEconomics/research/).
+- **White papers:** [three in-depth papers](https://daveshap.github.io/PostLaborEconomics/whitepapers/): Derived and Essential Demand, Post-Labor Household Income Interventions, and the Post-Labor Economics Metrics Reference.
+- **Videos:** [the Post-Labor Economics playlist](https://daveshap.github.io/PostLaborEconomics/videos/), kept up to date from YouTube.
 - **Charts and memes:** [41 charts with captions](https://daveshap.github.io/PostLaborEconomics/charts/) and [27 memes](https://daveshap.github.io/PostLaborEconomics/memes/).
 
 ## Repo structure
@@ -27,6 +29,7 @@ This material is to be used as research tools in the drafting of several books, 
 | [`Memes/`](Memes/) | 27 memes. |
 | [`docs/`](docs/) | The website (GitHub Pages). `docs/laborzero/` is the *Labor Zero* companion; its address is printed in the book, so it never moves. |
 | `generate_pdf_pages.py` | Puts new reports from `Research/` on the website. |
+| `update_videos.py` | Keeps the website's Videos page in step with the YouTube playlist. The *Update videos* GitHub Action runs it every six hours and commits only when the playlist changes. |
 | `convert_pdfs_to_txt.py` | Makes the plain-text copies in `Research_txt/`. |
 
 Files here keep their paths, so links to them keep working.
@@ -40,4 +43,4 @@ This repo is just for personal use. I have it public for open source access. I d
 
 ## License
 
-This repository is dedicated to the public domain under [CC0 1.0](LICENSE), except the *Labor Zero* companion material in [`docs/laborzero/`](docs/laborzero/), which is © 2026 David Shapiro, all rights reserved.
+This repository is dedicated to the public domain under [CC0 1.0](LICENSE), except the *Labor Zero* companion material in [`docs/laborzero/`](docs/laborzero/), the website's thumbnails of it (`docs/assets/thumbs/plates/` and `docs/assets/thumbs/whitepapers/`), and the YouTube video thumbnails in `docs/assets/thumbs/videos/`. Those are © 2026 David Shapiro, all rights reserved.

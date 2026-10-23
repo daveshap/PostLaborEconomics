@@ -9,7 +9,9 @@
       <ul>
         <li><a href="{{ '/' | relative_url }}"{% if page.nav == 'home' %} aria-current="page"{% endif %}>Home</a></li>
         <li><a href="{{ '/laborzero/' | relative_url }}"{% if page.nav == 'laborzero' %} aria-current="page"{% endif %}>Labor Zero companion</a></li>
+        <li><a href="{{ '/whitepapers/' | relative_url }}"{% if page.body == 'pages/whitepapers.html' %} aria-current="page"{% endif %}{% if page.layout == 'paper' %} aria-current="true"{% endif %}>White papers</a></li>
         <li><a href="{{ '/research/' | relative_url }}"{% if page.body == 'pages/research.html' %} aria-current="page"{% endif %}{% if page.layout == 'report' %} aria-current="true"{% endif %}>Research library</a></li>
+        <li><a href="{{ '/videos/' | relative_url }}"{% if page.nav == 'videos' %} aria-current="page"{% endif %}>Videos</a></li>
         <li><a href="{{ '/charts/' | relative_url }}"{% if page.nav == 'charts' %} aria-current="page"{% endif %}>Charts</a></li>
         <li><a href="{{ '/memes/' | relative_url }}"{% if page.nav == 'memes' %} aria-current="page"{% endif %}>Memes</a></li>
       </ul>
