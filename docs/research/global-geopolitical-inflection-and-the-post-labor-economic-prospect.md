@@ -1,5 +1,15 @@
-# Global Geopolitical Inflection and the Post-Labor Economic Prospect
-
-[← Research library](./) · [Download the PDF](Global%20Geopolitical%20Inflection%20and%20the%20Post-Labor%20Economic%20Prospect.pdf)
-
-<embed src="Global Geopolitical Inflection and the Post-Labor Economic Prospect.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Global Geopolitical Inflection and the Post-Labor Economic Prospect"
+description: "Global Geopolitical Inflection and the Post-Labor Economic Prospect: a report in the Post-Labor Economics research library, under The Post-Labor Economics framework, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "The Post-Labor Economics framework"
+theme_id: "the-post-labor-economics-framework"
+pdf: "Global Geopolitical Inflection and the Post-Labor Economic Prospect.pdf"
+pdf_url: "Global%20Geopolitical%20Inflection%20and%20the%20Post-Labor%20Economic%20Prospect.pdf"
+pdf_size: "PDF, 208 KB"
+prev_url: "elasticity-of-substitution-between-capital-and-labor-a-comprehensive-analysis.html"
+prev_title: "Elasticity of Substitution (σ) Between Capital and Labor - A Comprehensive Analysis"
+next_url: "macroeconomics-and-boundary-conditions-the-edges-of-post-labor-economic-theory.html"
+next_title: "Macroeconomics and Boundary Conditions - The Edges of Post-Labor Economic Theory"
+---

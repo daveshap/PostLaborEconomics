@@ -1,5 +1,16 @@
-# Pyramid of Power L2 - Open Value Rails (Gemini)
-
-[← Research library](./) · [Download the PDF](Pyramid%20of%20Power%20L2%20-%20Open%20Value%20Rails%20%28Gemini%29.pdf)
-
-<embed src="Pyramid of Power L2 - Open Value Rails (Gemini).pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Pyramid of Power L2"
+subtitle: "Open Value Rails (Gemini)"
+description: "Pyramid of Power L2 - Open Value Rails (Gemini): a report in the Post-Labor Economics research library, under The Pyramid of Power, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "The Pyramid of Power"
+theme_id: "the-pyramid-of-power"
+pdf: "Pyramid of Power L2 - Open Value Rails (Gemini).pdf"
+pdf_url: "Pyramid%20of%20Power%20L2%20-%20Open%20Value%20Rails%20%28Gemini%29.pdf"
+pdf_size: "PDF, 550 KB"
+prev_url: "pyramid-of-power-l2-open-programmable-value-rails-chatgpt.html"
+prev_title: "Pyramid of Power L2 - Open, Programmable Value Rails (ChatGPT)"
+next_url: "pyramid-of-power-l3-radical-transparency-of-money-and-algorithms-chatgpt.html"
+next_title: "Pyramid of Power L3 - Radical Transparency of Money and Algorithms (ChatGPT)"
+---

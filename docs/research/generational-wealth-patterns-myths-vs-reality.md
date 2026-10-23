@@ -1,5 +1,16 @@
-# Generational Wealth Patterns – Myths vs Reality
-
-[← Research library](./) · [Download the PDF](Generational%20Wealth%20Patterns%20%E2%80%93%20Myths%20vs%20Reality.pdf)
-
-<embed src="Generational Wealth Patterns – Myths vs Reality.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Generational Wealth Patterns"
+subtitle: "Myths vs Reality"
+description: "Generational Wealth Patterns – Myths vs Reality: a report in the Post-Labor Economics research library, under The Pyramid of Prosperity: household income and ownership, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "The Pyramid of Prosperity: household income and ownership"
+theme_id: "the-pyramid-of-prosperity-household-income-and-ownership"
+pdf: "Generational Wealth Patterns – Myths vs Reality.pdf"
+pdf_url: "Generational%20Wealth%20Patterns%20%E2%80%93%20Myths%20vs%20Reality.pdf"
+pdf_size: "PDF, 182 KB"
+prev_url: "dollar-matching-schemes-for-wages-and-investments-in-a-post-labor-economy-extant-and-hypothetical.html"
+prev_title: "Dollar Matching Schemes for Wages and Investments in a Post-Labor Economy – Extant and Hypothetical Models"
+next_url: "geographically-constrained-income-systems-in-a-post-labor-economy.html"
+next_title: "Geographically-Constrained Income Systems in a Post-Labor Economy"
+---

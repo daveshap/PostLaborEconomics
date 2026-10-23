@@ -1,5 +1,16 @@
-# Solar PV and the Post-Labor Economy - Energy Abundance as a Foundation for Decentralized Prosperity
-
-[← Research library](./) · [Download the PDF](Solar%20PV%20and%20the%20Post-Labor%20Economy%20-%20Energy%20Abundance%20as%20a%20Foundation%20for%20Decentralized%20Prosperity.pdf)
-
-<embed src="Solar PV and the Post-Labor Economy - Energy Abundance as a Foundation for Decentralized Prosperity.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Solar PV and the Post-Labor Economy"
+subtitle: "Energy Abundance as a Foundation for Decentralized Prosperity"
+description: "Solar PV and the Post-Labor Economy - Energy Abundance as a Foundation for Decentralized Prosperity: a report in the Post-Labor Economics research library, under The Post-Labor Economics framework, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "The Post-Labor Economics framework"
+theme_id: "the-post-labor-economics-framework"
+pdf: "Solar PV and the Post-Labor Economy - Energy Abundance as a Foundation for Decentralized Prosperity.pdf"
+pdf_url: "Solar%20PV%20and%20the%20Post-Labor%20Economy%20-%20Energy%20Abundance%20as%20a%20Foundation%20for%20Decentralized%20Prosperity.pdf"
+pdf_size: "PDF, 196 KB"
+prev_url: "post-labor-economics-survey-contemporary-voices-convergence-and-divergence.html"
+prev_title: "Post-Labor Economics Survey - Contemporary Voices, Convergence, and Divergence"
+next_url: "strange-attractors-for-a-solarpunk-future-shifting-civilizational-path-dependency.html"
+next_title: "Strange Attractors for a Solarpunk Future - Shifting Civilizational Path Dependency"
+---

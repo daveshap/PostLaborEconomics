@@ -1,5 +1,16 @@
-# Post-Labor Economics is Inevitable – There is No 'Fifth Paradigm'
-
-[← Research library](./) · [Download the PDF](Post-Labor%20Economics%20is%20Inevitable%20%E2%80%93%20There%20is%20No%20%27Fifth%20Paradigm%27.pdf)
-
-<embed src="Post-Labor Economics is Inevitable – There is No 'Fifth Paradigm'.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Post-Labor Economics is Inevitable"
+subtitle: "There is No 'Fifth Paradigm'"
+description: "Post-Labor Economics is Inevitable – There is No 'Fifth Paradigm': a report in the Post-Labor Economics research library, under The Post-Labor Economics framework, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "The Post-Labor Economics framework"
+theme_id: "the-post-labor-economics-framework"
+pdf: "Post-Labor Economics is Inevitable – There is No 'Fifth Paradigm'.pdf"
+pdf_url: "Post-Labor%20Economics%20is%20Inevitable%20%E2%80%93%20There%20is%20No%20%27Fifth%20Paradigm%27.pdf"
+pdf_size: "PDF, 422 KB"
+prev_url: "post-labor-economics-classical-economic-and-moral-philosophical-perspectives.html"
+prev_title: "Post-Labor Economics - Classical Economic and Moral-Philosophical Perspectives"
+next_url: "post-labor-economics-survey-contemporary-voices-convergence-and-divergence.html"
+next_title: "Post-Labor Economics Survey - Contemporary Voices, Convergence, and Divergence"
+---

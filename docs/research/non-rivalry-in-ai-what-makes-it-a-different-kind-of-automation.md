@@ -1,5 +1,16 @@
-# Non-Rivalry in AI - What Makes It a Different Kind of Automation
-
-[← Research library](./) · [Download the PDF](Non-Rivalry%20in%20AI%20-%20What%20Makes%20It%20a%20Different%20Kind%20of%20Automation.pdf)
-
-<embed src="Non-Rivalry in AI - What Makes It a Different Kind of Automation.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Non-Rivalry in AI"
+subtitle: "What Makes It a Different Kind of Automation"
+description: "Non-Rivalry in AI - What Makes It a Different Kind of Automation: a report in the Post-Labor Economics research library, under The Post-Labor Economics framework, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "The Post-Labor Economics framework"
+theme_id: "the-post-labor-economics-framework"
+pdf: "Non-Rivalry in AI - What Makes It a Different Kind of Automation.pdf"
+pdf_url: "Non-Rivalry%20in%20AI%20-%20What%20Makes%20It%20a%20Different%20Kind%20of%20Automation.pdf"
+pdf_size: "PDF, 121 KB"
+prev_url: "macroeconomics-and-boundary-conditions-the-edges-of-post-labor-economic-theory.html"
+prev_title: "Macroeconomics and Boundary Conditions - The Edges of Post-Labor Economic Theory"
+next_url: "post-labor-economics-classical-economic-and-moral-philosophical-perspectives.html"
+next_title: "Post-Labor Economics - Classical Economic and Moral-Philosophical Perspectives"
+---

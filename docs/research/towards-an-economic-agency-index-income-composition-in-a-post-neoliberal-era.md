@@ -1,5 +1,16 @@
-# Towards an Economic Agency Index - Income Composition in a Post-Neoliberal Era
-
-[← Research library](./) · [Download the PDF](Towards%20an%20Economic%20Agency%20Index%20-%20Income%20Composition%20in%20a%20Post-Neoliberal%20Era.pdf)
-
-<embed src="Towards an Economic Agency Index - Income Composition in a Post-Neoliberal Era.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Towards an Economic Agency Index"
+subtitle: "Income Composition in a Post-Neoliberal Era"
+description: "Towards an Economic Agency Index - Income Composition in a Post-Neoliberal Era: a report in the Post-Labor Economics research library, under The Pyramid of Prosperity: household income and ownership, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "The Pyramid of Prosperity: household income and ownership"
+theme_id: "the-pyramid-of-prosperity-household-income-and-ownership"
+pdf: "Towards an Economic Agency Index - Income Composition in a Post-Neoliberal Era.pdf"
+pdf_url: "Towards%20an%20Economic%20Agency%20Index%20-%20Income%20Composition%20in%20a%20Post-Neoliberal%20Era.pdf"
+pdf_size: "PDF, 93 KB"
+prev_url: "shared-wealth-participatory-ownership-models-in-the-21st-century.html"
+prev_title: "Shared Wealth - Participatory Ownership Models in the 21st Century"
+next_url: "universal-basic-income-in-a-post-labor-economy-necessary-but-not-sufficient.html"
+next_title: "Universal Basic Income in a Post-Labor Economy - Necessary but Not Sufficient"
+---

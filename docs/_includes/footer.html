@@ -1,0 +1,30 @@
+<footer class="site-footer">
+  <div class="wrap footer-grid">
+    <div class="footer-about">
+      <a class="brand" href="{{ '/' | relative_url }}"><svg class="brand-mark" viewBox="0 0 32 32" width="32" height="32" aria-hidden="true" focusable="false"><rect class="mark-bg" x=".5" y=".5" width="31" height="31" rx="8"/><g fill="#fff"><rect x="5" y="12" width="2.2" height="2.2" opacity=".55"/><rect x="7.6" y="16.4" width="2.4" height="2.4" opacity=".8"/><rect x="4.6" y="19.6" width="1.8" height="1.8" opacity=".4"/><rect x="8.4" y="21.6" width="2" height="2" opacity=".7"/></g><path d="M21.6 4.6 10.4 27.4" stroke="#2f86ff" stroke-width="3.4" stroke-linecap="round" filter="url(#bm-f)"/><path d="M21.6 4.6 10.4 27.4" stroke="url(#bm-g)" stroke-width="1.8" stroke-linecap="round"/></svg><span>Post-Labor Economics</span></a>
+      <p>Research on what happens to work, income and power as AI and robots take over more of the economy. Free to read and download.</p>
+    </div>
+    <nav class="footer-col" aria-labelledby="f-site">
+      <h2 id="f-site">Site</h2>
+      <ul>
+        <li><a href="{{ '/' | relative_url }}"{% if page.nav == 'home' %} aria-current="page"{% endif %}>Home</a></li>
+        <li><a href="{{ '/laborzero/' | relative_url }}"{% if page.nav == 'laborzero' %} aria-current="page"{% endif %}>Labor Zero companion</a></li>
+        <li><a href="{{ '/research/' | relative_url }}"{% if page.body == 'pages/research.html' %} aria-current="page"{% endif %}{% if page.layout == 'report' %} aria-current="true"{% endif %}>Research library</a></li>
+        <li><a href="{{ '/charts/' | relative_url }}"{% if page.nav == 'charts' %} aria-current="page"{% endif %}>Charts</a></li>
+        <li><a href="{{ '/memes/' | relative_url }}"{% if page.nav == 'memes' %} aria-current="page"{% endif %}>Memes</a></li>
+      </ul>
+    </nav>
+    <div class="footer-col">
+      <h2 id="f-repo">Repository</h2>
+      <ul aria-labelledby="f-repo">
+        <li><a href="https://github.com/daveshap/PostLaborEconomics">GitHub repository <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17 17 7M9 7h8v8"/></svg></a></li>
+        <li><a href="https://github.com/daveshap/PostLaborEconomics/tree/main/Research_txt">Plain-text reports <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17 17 7M9 7h8v8"/></svg></a></li>
+        <li><a href="https://github.com/daveshap/PostLaborEconomics/blob/main/LICENSE">CC0 1.0 licence <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17 17 7M9 7h8v8"/></svg></a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="wrap footer-base">
+    <p>Research, charts and memes are dedicated to the public domain under CC0 1.0. <cite>Labor Zero</cite> companion material &copy; 2026 David Shapiro. All rights reserved.</p>
+    <a href="#main">Back to top</a>
+  </div>
+</footer>

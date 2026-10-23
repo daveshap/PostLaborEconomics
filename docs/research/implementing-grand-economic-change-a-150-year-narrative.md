@@ -1,5 +1,16 @@
-# Implementing Grand Economic Change - A 150-Year Narrative
-
-[← Research library](./) · [Download the PDF](Implementing%20Grand%20Economic%20Change%20-%20A%20150-Year%20Narrative.pdf)
-
-<embed src="Implementing Grand Economic Change - A 150-Year Narrative.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Implementing Grand Economic Change"
+subtitle: "A 150-Year Narrative"
+description: "Implementing Grand Economic Change - A 150-Year Narrative: a report in the Post-Labor Economics research library, under History and economic change, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "History and economic change"
+theme_id: "history-and-economic-change"
+pdf: "Implementing Grand Economic Change - A 150-Year Narrative.pdf"
+pdf_url: "Implementing%20Grand%20Economic%20Change%20-%20A%20150-Year%20Narrative.pdf"
+pdf_size: "PDF, 842 KB"
+prev_url: "government-responses-to-unemployment-and-economic-crises-1920s-present.html"
+prev_title: "Government Responses to Unemployment and Economic Crises - 1920s–Present"
+next_url: "industrial-transformation-and-national-missions-from-the-great-depression-to-the-ai-era.html"
+next_title: "Industrial Transformation and National Missions - From the Great Depression to the AI Era"
+---

@@ -1,5 +1,15 @@
-# Evolving Role of Labor Unions in a Post-Labor Future
-
-[← Research library](./) · [Download the PDF](Evolving%20Role%20of%20Labor%20Unions%20in%20a%20Post%E2%80%91Labor%20Future.pdf)
-
-<embed src="Evolving Role of Labor Unions in a Post‑Labor Future.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Evolving Role of Labor Unions in a Post-Labor Future"
+description: "Evolving Role of Labor Unions in a Post-Labor Future: a report in the Post-Labor Economics research library, under Labor, jobs and wages, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "Labor, jobs and wages"
+theme_id: "labor-jobs-and-wages"
+pdf: "Evolving Role of Labor Unions in a Post‑Labor Future.pdf"
+pdf_url: "Evolving%20Role%20of%20Labor%20Unions%20in%20a%20Post%E2%80%91Labor%20Future.pdf"
+pdf_size: "PDF, 162 KB"
+prev_url: "credential-inflation-over-the-centuries-the-rise-and-forecast-of-median-education-for-entry-level.html"
+prev_title: "Credential Inflation Over the Centuries – The Rise and Forecast of Median Education for Entry-Level Jobs"
+next_url: "from-labor-power-to-digital-commons-evolution-of-collective-economic-leverage.html"
+next_title: "From Labor Power to Digital Commons - Evolution of Collective Economic Leverage"
+---

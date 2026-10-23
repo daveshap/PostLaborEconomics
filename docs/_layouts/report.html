@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en-US' }}">
+{% include head.html %}
+<body>
+{% include header.html %}
+<main id="main" tabindex="-1">
+<div class="wrap report-head">
+  <nav class="crumbs" aria-label="Breadcrumb">
+    <ol>
+      <li><a href="{{ '/research/' | relative_url }}">Research library</a></li>
+      <li><a href="{{ '/research/' | relative_url }}#{{ page.theme_id }}">{{ page.theme | escape }}</a></li>
+    </ol>
+  </nav>
+  <h1>{{ page.title | escape }}{% if page.subtitle %}<span class="vh"> - </span><span class="h-sub">{{ page.subtitle | escape }}</span>{% endif %}</h1>
+  <ul class="report-meta" aria-label="About this report">
+    <li>Research report</li>
+    <li>{{ page.pdf_size }}</li>
+  </ul>
+  <div class="actions">
+    <a class="btn btn-primary" href="{{ page.pdf_url }}" download><span>Download<span class="vh"> the PDF</span> <span class="btn-note">({{ page.pdf_size }})</span></span> <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 4v11M7 10l5 5 5-5M5 20h14"/></svg></a>
+    <a class="btn btn-ghost" href="{{ page.pdf_url }}">Open full screen <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
+    <a class="btn btn-ghost" href="https://github.com/daveshap/PostLaborEconomics/tree/main/Research_txt">Plain-text reports <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
+  </div>
+</div>
+
+<div class="wrap">
+  <div class="viewer">
+    <div class="viewer-bar">
+      <span class="viewer-badge">PDF</span>
+      <span class="viewer-name">{{ page.pdf | escape }}</span>
+      <a href="{{ page.pdf_url }}">Open<span class="vh"> the PDF</span> <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
+    </div>
+    <object class="viewer-doc" data="{{ page.pdf_url }}" type="application/pdf" title="{{ page.title | escape }} (PDF)">
+      <div class="viewer-fallback">
+        <p>This browser can&rsquo;t show the PDF on the page.</p>
+        <p><a class="btn btn-primary" href="{{ page.pdf_url }}"><span>Open the PDF <span class="btn-note">({{ page.pdf_size }})</span></span> <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17 17 7M9 7h8v8"/></svg></a></p>
+      </div>
+    </object>
+  </div>
+  <nav class="pager" aria-label="More in this theme">
+    {% if page.prev_url %}<a href="{{ page.prev_url }}" rel="prev"><small>&larr; Previous in this theme</small><strong>{{ page.prev_title | escape }}</strong></a>{% endif %}
+    {% if page.next_url %}<a class="next" href="{{ page.next_url }}" rel="next"><small>Next in this theme &rarr;</small><strong>{{ page.next_title | escape }}</strong></a>{% endif %}
+  </nav>
+  <p class="back-note"><a class="arrow-link" href="{{ '/research/' | relative_url }}#{{ page.theme_id }}">&larr; Back to {{ page.theme | escape }}</a></p>
+</div>
+{{ content }}
+</main>
+{% include footer.html %}
+</body>
+</html>

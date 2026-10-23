@@ -1,5 +1,15 @@
-# The Physical Limits of Machine Intelligence (Through 2050)
-
-[← Research library](./) · [Download the PDF](The%20Physical%20Limits%20of%20Machine%20Intelligence%20%28Through%202050%29.pdf)
-
-<embed src="The Physical Limits of Machine Intelligence (Through 2050).pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "The Physical Limits of Machine Intelligence (Through 2050)"
+description: "The Physical Limits of Machine Intelligence (Through 2050): a report in the Post-Labor Economics research library, under AI, automation and robotics, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "AI, automation and robotics"
+theme_id: "ai-automation-and-robotics"
+pdf: "The Physical Limits of Machine Intelligence (Through 2050).pdf"
+pdf_url: "The%20Physical%20Limits%20of%20Machine%20Intelligence%20%28Through%202050%29.pdf"
+pdf_size: "PDF, 61 KB"
+prev_url: "the-history-and-impact-of-general-purpose-technologies-from-the-wheel-to-the-internet.html"
+prev_title: "The History and Impact of General-Purpose Technologies - From the Wheel to the Internet"
+next_url: "the-unambiguous-trend-of-technological-labor-substitution.html"
+next_title: "The Unambiguous Trend of Technological Labor Substitution"
+---

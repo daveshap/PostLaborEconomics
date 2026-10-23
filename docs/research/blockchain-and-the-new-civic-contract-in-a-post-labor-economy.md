@@ -1,5 +1,15 @@
-# Blockchain and the New Civic Contract in a Post-Labor Economy
-
-[← Research library](./) · [Download the PDF](Blockchain%20and%20the%20New%20Civic%20Contract%20in%20a%20Post-Labor%20Economy.pdf)
-
-<embed src="Blockchain and the New Civic Contract in a Post-Labor Economy.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Blockchain and the New Civic Contract in a Post-Labor Economy"
+description: "Blockchain and the New Civic Contract in a Post-Labor Economy: a report in the Post-Labor Economics research library, under Governance, technology and the social contract, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "Governance, technology and the social contract"
+theme_id: "governance-technology-and-the-social-contract"
+pdf: "Blockchain and the New Civic Contract in a Post-Labor Economy.pdf"
+pdf_url: "Blockchain%20and%20the%20New%20Civic%20Contract%20in%20a%20Post-Labor%20Economy.pdf"
+pdf_size: "PDF, 216 KB"
+prev_url: "arguments-for-and-against-cbdc-and-stablecoins.html"
+prev_title: "Arguments for and Against CBDC and Stablecoins"
+next_url: "blockchain-and-the-state-functions-opportunities-and-constraints.html"
+next_title: "Blockchain and the State - Functions, Opportunities, and Constraints"
+---

@@ -1,5 +1,16 @@
-# The “Labor Substitution Fallacy” - Technology, Employment, and the Future of Work
-
-[← Research library](./) · [Download the PDF](The%20%E2%80%9CLabor%20Substitution%20Fallacy%E2%80%9D%20-%20Technology%2C%20Employment%2C%20and%20the%20Future%20of%20Work.pdf)
-
-<embed src="The “Labor Substitution Fallacy” - Technology, Employment, and the Future of Work.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "The “Labor Substitution Fallacy”"
+subtitle: "Technology, Employment, and the Future of Work"
+description: "The “Labor Substitution Fallacy” - Technology, Employment, and the Future of Work: a report in the Post-Labor Economics research library, under AI, automation and robotics, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "AI, automation and robotics"
+theme_id: "ai-automation-and-robotics"
+pdf: "The “Labor Substitution Fallacy” - Technology, Employment, and the Future of Work.pdf"
+pdf_url: "The%20%E2%80%9CLabor%20Substitution%20Fallacy%E2%80%9D%20-%20Technology%2C%20Employment%2C%20and%20the%20Future%20of%20Work.pdf"
+pdf_size: "PDF, 339 KB"
+prev_url: "the-unambiguous-trend-of-technological-labor-substitution.html"
+prev_title: "The Unambiguous Trend of Technological Labor Substitution"
+next_url: "zero-labor-enterprises-automation-and-the-optimal-workforce-of-zero.html"
+next_title: "Zero-Labor Enterprises - Automation and the “Optimal” Workforce of Zero"
+---

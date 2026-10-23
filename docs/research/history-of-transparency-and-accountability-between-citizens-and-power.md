@@ -1,5 +1,15 @@
-# History of Transparency and Accountability Between Citizens and Power
-
-[← Research library](./) · [Download the PDF](History%20of%20Transparency%20and%20Accountability%20Between%20Citizens%20and%20Power.pdf)
-
-<embed src="History of Transparency and Accountability Between Citizens and Power.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "History of Transparency and Accountability Between Citizens and Power"
+description: "History of Transparency and Accountability Between Citizens and Power: a report in the Post-Labor Economics research library, under Governance, technology and the social contract, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "Governance, technology and the social contract"
+theme_id: "governance-technology-and-the-social-contract"
+pdf: "History of Transparency and Accountability Between Citizens and Power.pdf"
+pdf_url: "History%20of%20Transparency%20and%20Accountability%20Between%20Citizens%20and%20Power.pdf"
+pdf_size: "PDF, 100 KB"
+prev_url: "history-of-tax-resistance-and-economic-withdrawal-as-political-tools.html"
+prev_title: "History of Tax Resistance and Economic Withdrawal as Political Tools"
+next_url: "how-to-avoid-elite-capture-in-a-post-labor-world.html"
+next_title: "How to Avoid Elite Capture in a Post-Labor World"
+---

@@ -1,5 +1,15 @@
-# Forecasting the Deployment and Cost Trajectory of Medium-Utility Humanoid Robots Through 2060
-
-[← Research library](./) · [Download the PDF](Forecasting%20the%20Deployment%20and%20Cost%20Trajectory%20of%20Medium-Utility%20Humanoid%20Robots%20Through%202060.pdf)
-
-<embed src="Forecasting the Deployment and Cost Trajectory of Medium-Utility Humanoid Robots Through 2060.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Forecasting the Deployment and Cost Trajectory of Medium-Utility Humanoid Robots Through 2060"
+description: "Forecasting the Deployment and Cost Trajectory of Medium-Utility Humanoid Robots Through 2060: a report in the Post-Labor Economics research library, under AI, automation and robotics, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "AI, automation and robotics"
+theme_id: "ai-automation-and-robotics"
+pdf: "Forecasting the Deployment and Cost Trajectory of Medium-Utility Humanoid Robots Through 2060.pdf"
+pdf_url: "Forecasting%20the%20Deployment%20and%20Cost%20Trajectory%20of%20Medium-Utility%20Humanoid%20Robots%20Through%202060.pdf"
+pdf_size: "PDF, 390 KB"
+prev_url: "better-faster-cheaper-safer-the-march-of-labor-saving-technology.html"
+prev_title: "Better, Faster, Cheaper, Safer - The March of Labor-Saving Technology"
+next_url: "from-s-curves-to-new-frontiers-the-pace-of-tech-adoption.html"
+next_title: "From S-Curves to New Frontiers - The Pace of Tech Adoption"
+---

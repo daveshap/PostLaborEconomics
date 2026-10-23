@@ -1,5 +1,16 @@
-# The Next Missing Millions – Big Tech’s Productivity Outpacing Headcount
-
-[← Research library](./) · [Download the PDF](The%20Next%20Missing%20Millions%20%E2%80%93%20Big%20Tech%E2%80%99s%20Productivity%20Outpacing%20Headcount.pdf)
-
-<embed src="The Next Missing Millions – Big Tech’s Productivity Outpacing Headcount.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "The Next Missing Millions"
+subtitle: "Big Tech’s Productivity Outpacing Headcount"
+description: "The Next Missing Millions – Big Tech’s Productivity Outpacing Headcount: a report in the Post-Labor Economics research library, under Labor, jobs and wages, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "Labor, jobs and wages"
+theme_id: "labor-jobs-and-wages"
+pdf: "The Next Missing Millions – Big Tech’s Productivity Outpacing Headcount.pdf"
+pdf_url: "The%20Next%20Missing%20Millions%20%E2%80%93%20Big%20Tech%E2%80%99s%20Productivity%20Outpacing%20Headcount.pdf"
+pdf_size: "PDF, 78 KB"
+prev_url: "the-long-term-impact-of-automation-on-u-s-employment-historical-trends-and-accelerating-displaceme.html"
+prev_title: "The Long-Term Impact of Automation on U.S. Employment - Historical Trends and Accelerating Displacement"
+next_url: "the-structural-decline-of-labor-s-share-in-the-age-of-automation.html"
+next_title: "The Structural Decline of Labor’s Share in the Age of Automation"
+---

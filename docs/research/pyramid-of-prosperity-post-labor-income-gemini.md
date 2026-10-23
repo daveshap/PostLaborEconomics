@@ -1,5 +1,16 @@
-# Pyramid of Prosperity - Post-Labor Income (Gemini)
-
-[← Research library](./) · [Download the PDF](Pyramid%20of%20Prosperity%20-%20Post-Labor%20Income%20%28Gemini%29.pdf)
-
-<embed src="Pyramid of Prosperity - Post-Labor Income (Gemini).pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Pyramid of Prosperity"
+subtitle: "Post-Labor Income (Gemini)"
+description: "Pyramid of Prosperity - Post-Labor Income (Gemini): a report in the Post-Labor Economics research library, under The Pyramid of Prosperity: household income and ownership, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "The Pyramid of Prosperity: household income and ownership"
+theme_id: "the-pyramid-of-prosperity-household-income-and-ownership"
+pdf: "Pyramid of Prosperity - Post-Labor Income (Gemini).pdf"
+pdf_url: "Pyramid%20of%20Prosperity%20-%20Post-Labor%20Income%20%28Gemini%29.pdf"
+pdf_size: "PDF, 825 KB"
+prev_url: "modeling-a-five-tier-income-hierarchy-in-a-post-labor-economy-2060.html"
+prev_title: "Pyramid of Prosperity - Modeling a 5 Tier Income for Post-Labor"
+next_url: "resident-owned-housing-a-new-path-to-affordable-communities-in-a-post-labor-economy.html"
+next_title: "Resident-Owned Housing - A New Path to Affordable Communities in a Post-Labor Economy"
+---

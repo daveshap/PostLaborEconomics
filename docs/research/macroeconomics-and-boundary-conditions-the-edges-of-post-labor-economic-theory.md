@@ -1,5 +1,16 @@
-# Macroeconomics and Boundary Conditions - The Edges of Post-Labor Economic Theory
-
-[← Research library](./) · [Download the PDF](Macroeconomics%20and%20Boundary%20Conditions%20-%20The%20Edges%20of%20Post-Labor%20Economic%20Theory.pdf)
-
-<embed src="Macroeconomics and Boundary Conditions - The Edges of Post-Labor Economic Theory.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Macroeconomics and Boundary Conditions"
+subtitle: "The Edges of Post-Labor Economic Theory"
+description: "Macroeconomics and Boundary Conditions - The Edges of Post-Labor Economic Theory: a report in the Post-Labor Economics research library, under The Post-Labor Economics framework, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "The Post-Labor Economics framework"
+theme_id: "the-post-labor-economics-framework"
+pdf: "Macroeconomics and Boundary Conditions - The Edges of Post-Labor Economic Theory.pdf"
+pdf_url: "Macroeconomics%20and%20Boundary%20Conditions%20-%20The%20Edges%20of%20Post-Labor%20Economic%20Theory.pdf"
+pdf_size: "PDF, 138 KB"
+prev_url: "global-geopolitical-inflection-and-the-post-labor-economic-prospect.html"
+prev_title: "Global Geopolitical Inflection and the Post-Labor Economic Prospect"
+next_url: "non-rivalry-in-ai-what-makes-it-a-different-kind-of-automation.html"
+next_title: "Non-Rivalry in AI - What Makes It a Different Kind of Automation"
+---

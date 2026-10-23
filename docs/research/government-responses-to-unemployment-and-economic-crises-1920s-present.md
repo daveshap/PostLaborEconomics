@@ -1,5 +1,16 @@
-# Government Responses to Unemployment and Economic Crises - 1920s–Present
-
-[← Research library](./) · [Download the PDF](Government%20Responses%20to%20Unemployment%20and%20Economic%20Crises%20-%201920s%E2%80%93Present.pdf)
-
-<embed src="Government Responses to Unemployment and Economic Crises - 1920s–Present.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Government Responses to Unemployment and Economic Crises"
+subtitle: "1920s–Present"
+description: "Government Responses to Unemployment and Economic Crises - 1920s–Present: a report in the Post-Labor Economics research library, under History and economic change, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "History and economic change"
+theme_id: "history-and-economic-change"
+pdf: "Government Responses to Unemployment and Economic Crises - 1920s–Present.pdf"
+pdf_url: "Government%20Responses%20to%20Unemployment%20and%20Economic%20Crises%20-%201920s%E2%80%93Present.pdf"
+pdf_size: "PDF, 728 KB"
+prev_url: "from-extraction-to-experience-paradigm-shifts-general-purpose-technologies-and-the-rise-of-the-me.html"
+prev_title: "From Extraction to Experience - Paradigm Shifts, General Purpose Technologies, and the Rise of the Meaning Economy"
+next_url: "implementing-grand-economic-change-a-150-year-narrative.html"
+next_title: "Implementing Grand Economic Change - A 150-Year Narrative"
+---

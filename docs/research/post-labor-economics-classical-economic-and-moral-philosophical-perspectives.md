@@ -1,5 +1,16 @@
-# Post-Labor Economics - Classical Economic and Moral-Philosophical Perspectives
-
-[← Research library](./) · [Download the PDF](Post-Labor%20Economics%20-%20Classical%20Economic%20and%20Moral-Philosophical%20Perspectives.pdf)
-
-<embed src="Post-Labor Economics - Classical Economic and Moral-Philosophical Perspectives.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Post-Labor Economics"
+subtitle: "Classical Economic and Moral-Philosophical Perspectives"
+description: "Post-Labor Economics - Classical Economic and Moral-Philosophical Perspectives: a report in the Post-Labor Economics research library, under The Post-Labor Economics framework, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "The Post-Labor Economics framework"
+theme_id: "the-post-labor-economics-framework"
+pdf: "Post-Labor Economics - Classical Economic and Moral-Philosophical Perspectives.pdf"
+pdf_url: "Post-Labor%20Economics%20-%20Classical%20Economic%20and%20Moral-Philosophical%20Perspectives.pdf"
+pdf_size: "PDF, 131 KB"
+prev_url: "non-rivalry-in-ai-what-makes-it-a-different-kind-of-automation.html"
+prev_title: "Non-Rivalry in AI - What Makes It a Different Kind of Automation"
+next_url: "post-labor-economics-is-inevitable-there-is-no-fifth-paradigm.html"
+next_title: "Post-Labor Economics is Inevitable – There is No 'Fifth Paradigm'"
+---

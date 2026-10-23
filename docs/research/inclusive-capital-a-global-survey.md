@@ -1,5 +1,16 @@
-# Inclusive Capital - A Global Survey
-
-[← Research library](./) · [Download the PDF](Inclusive%20Capital%20-%20A%20Global%20Survey.pdf)
-
-<embed src="Inclusive Capital - A Global Survey.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Inclusive Capital"
+subtitle: "A Global Survey"
+description: "Inclusive Capital - A Global Survey: a report in the Post-Labor Economics research library, under The Pyramid of Prosperity: household income and ownership, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "The Pyramid of Prosperity: household income and ownership"
+theme_id: "the-pyramid-of-prosperity-household-income-and-ownership"
+pdf: "Inclusive Capital - A Global Survey.pdf"
+pdf_url: "Inclusive%20Capital%20-%20A%20Global%20Survey.pdf"
+pdf_size: "PDF, 662 KB"
+prev_url: "global-survey-of-urban-wealth-funds-and-community-trusts.html"
+prev_title: "Global Survey of Urban Wealth Funds and Community Trusts"
+next_url: "inclusive-capital-income-ratio-icir-in-a-post-labor-economy-a-comprehensive-u-s-perspective.html"
+next_title: "Inclusive Capital Income Ratio (ICIR) in a Post-Labor Economy - A Comprehensive U.S. Perspective"
+---

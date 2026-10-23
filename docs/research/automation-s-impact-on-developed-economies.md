@@ -1,5 +1,15 @@
-# Automation's Impact on Developed Economies
-
-[← Research library](./) · [Download the PDF](Automation%27s%20Impact%20on%20Developed%20Economies.pdf)
-
-<embed src="Automation's Impact on Developed Economies.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Automation's Impact on Developed Economies"
+description: "Automation's Impact on Developed Economies: a report in the Post-Labor Economics research library, under Labor, jobs and wages, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "Labor, jobs and wages"
+theme_id: "labor-jobs-and-wages"
+pdf: "Automation's Impact on Developed Economies.pdf"
+pdf_url: "Automation%27s%20Impact%20on%20Developed%20Economies.pdf"
+pdf_size: "PDF, 538 KB"
+prev_url: "arguments-against-the-job-automation-apocalypse.html"
+prev_title: "Arguments Against the Job Automation Apocalypse"
+next_url: "baumol-s-cost-disease-automation-resistant-job-growth-sectors.html"
+next_title: "Baumol's Cost Disease – Automation-Resistant Job Growth Sectors"
+---

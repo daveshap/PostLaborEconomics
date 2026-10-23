@@ -1,5 +1,15 @@
-# State and Local Policies on Generative AI in the U.S.
-
-[← Research library](./) · [Download the PDF](State%20and%20Local%20Policies%20on%20Generative%20AI%20in%20the%20U.S..pdf)
-
-<embed src="State and Local Policies on Generative AI in the U.S..pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "State and Local Policies on Generative AI in the U.S."
+description: "State and Local Policies on Generative AI in the U.S.: a report in the Post-Labor Economics research library, under AI, automation and robotics, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "AI, automation and robotics"
+theme_id: "ai-automation-and-robotics"
+pdf: "State and Local Policies on Generative AI in the U.S..pdf"
+pdf_url: "State%20and%20Local%20Policies%20on%20Generative%20AI%20in%20the%20U.S..pdf"
+pdf_size: "PDF, 128 KB"
+prev_url: "rapid-advancements-in-ai-capabilities-across-sectors-2020-2025.html"
+prev_title: "Rapid Advancements in AI Capabilities Across Sectors (2020–2025)"
+next_url: "the-future-corporation-in-a-fully-automated-economy.html"
+next_title: "The Future Corporation in a Fully Automated Economy"
+---

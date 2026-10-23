@@ -1,5 +1,16 @@
-# Better, Faster, Cheaper, Safer - The March of Labor-Saving Technology
-
-[← Research library](./) · [Download the PDF](Better%2C%20Faster%2C%20Cheaper%2C%20Safer%20-%20The%20March%20of%20Labor-Saving%20Technology.pdf)
-
-<embed src="Better, Faster, Cheaper, Safer - The March of Labor-Saving Technology.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Better, Faster, Cheaper, Safer"
+subtitle: "The March of Labor-Saving Technology"
+description: "Better, Faster, Cheaper, Safer - The March of Labor-Saving Technology: a report in the Post-Labor Economics research library, under AI, automation and robotics, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "AI, automation and robotics"
+theme_id: "ai-automation-and-robotics"
+pdf: "Better, Faster, Cheaper, Safer - The March of Labor-Saving Technology.pdf"
+pdf_url: "Better%2C%20Faster%2C%20Cheaper%2C%20Safer%20-%20The%20March%20of%20Labor-Saving%20Technology.pdf"
+pdf_size: "PDF, 562 KB"
+prev_url: "ai-as-a-general-purpose-technology.html"
+prev_title: "AI as a General-Purpose Technology"
+next_url: "forecasting-the-deployment-and-cost-trajectory-of-medium-utility-humanoid-robots-through-2060.html"
+next_title: "Forecasting the Deployment and Cost Trajectory of Medium-Utility Humanoid Robots Through 2060"
+---

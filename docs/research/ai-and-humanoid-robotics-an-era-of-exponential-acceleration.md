@@ -1,5 +1,16 @@
-# AI and Humanoid Robotics - An Era of Exponential Acceleration
-
-[← Research library](./) · [Download the PDF](AI%20and%20Humanoid%20Robotics%20-%20An%20Era%20of%20Exponential%20Acceleration.pdf)
-
-<embed src="AI and Humanoid Robotics - An Era of Exponential Acceleration.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "AI and Humanoid Robotics"
+subtitle: "An Era of Exponential Acceleration"
+description: "AI and Humanoid Robotics - An Era of Exponential Acceleration: a report in the Post-Labor Economics research library, under AI, automation and robotics, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "AI, automation and robotics"
+theme_id: "ai-automation-and-robotics"
+pdf: "AI and Humanoid Robotics - An Era of Exponential Acceleration.pdf"
+pdf_url: "AI%20and%20Humanoid%20Robotics%20-%20An%20Era%20of%20Exponential%20Acceleration.pdf"
+pdf_size: "PDF, 62 KB"
+prev_url: "a-comparative-analysis-of-ai-as-a-general-purpose-technology-steam-electricity-internet-and-ai.html"
+prev_title: "A Comparative Analysis of AI as a General Purpose Technology - Steam, Electricity, Internet, and AI"
+next_url: "ai-as-a-general-purpose-technology.html"
+next_title: "AI as a General-Purpose Technology"
+---

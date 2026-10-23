@@ -1,5 +1,15 @@
-# The Structural Decline of Labor’s Share in the Age of Automation
-
-[← Research library](./) · [Download the PDF](The%20Structural%20Decline%20of%20Labor%E2%80%99s%20Share%20in%20the%20Age%20of%20Automation.pdf)
-
-<embed src="The Structural Decline of Labor’s Share in the Age of Automation.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "The Structural Decline of Labor’s Share in the Age of Automation"
+description: "The Structural Decline of Labor’s Share in the Age of Automation: a report in the Post-Labor Economics research library, under Labor, jobs and wages, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "Labor, jobs and wages"
+theme_id: "labor-jobs-and-wages"
+pdf: "The Structural Decline of Labor’s Share in the Age of Automation.pdf"
+pdf_url: "The%20Structural%20Decline%20of%20Labor%E2%80%99s%20Share%20in%20the%20Age%20of%20Automation.pdf"
+pdf_size: "PDF, 115 KB"
+prev_url: "the-next-missing-millions-big-tech-s-productivity-outpacing-headcount.html"
+prev_title: "The Next Missing Millions – Big Tech’s Productivity Outpacing Headcount"
+next_url: "why-the-attention-economy-cannot-absorb-labor-refugees.html"
+next_title: "Why the Attention Economy Cannot Absorb “Labor Refugees”"
+---

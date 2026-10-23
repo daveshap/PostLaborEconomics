@@ -1,5 +1,16 @@
-# Economic Agency and Upheaval - A Historical Narrative
-
-[← Research library](./) · [Download the PDF](Economic%20Agency%20and%20Upheaval%20-%20A%20Historical%20Narrative.pdf)
-
-<embed src="Economic Agency and Upheaval - A Historical Narrative.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Economic Agency and Upheaval"
+subtitle: "A Historical Narrative"
+description: "Economic Agency and Upheaval - A Historical Narrative: a report in the Post-Labor Economics research library, under History and economic change, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "History and economic change"
+theme_id: "history-and-economic-change"
+pdf: "Economic Agency and Upheaval - A Historical Narrative.pdf"
+pdf_url: "Economic%20Agency%20and%20Upheaval%20-%20A%20Historical%20Narrative.pdf"
+pdf_size: "PDF, 445 KB"
+prev_url: "cultural-upheaval-in-the-age-of-industry.html"
+prev_title: "Cultural Upheaval in the Age of Industry"
+next_url: "from-extraction-to-experience-paradigm-shifts-general-purpose-technologies-and-the-rise-of-the-me.html"
+next_title: "From Extraction to Experience - Paradigm Shifts, General Purpose Technologies, and the Rise of the Meaning Economy"
+---

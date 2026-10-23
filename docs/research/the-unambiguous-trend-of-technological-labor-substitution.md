@@ -1,5 +1,15 @@
-# The Unambiguous Trend of Technological Labor Substitution
-
-[← Research library](./) · [Download the PDF](The%20Unambiguous%20Trend%20of%20Technological%20Labor%20Substitution.pdf)
-
-<embed src="The Unambiguous Trend of Technological Labor Substitution.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "The Unambiguous Trend of Technological Labor Substitution"
+description: "The Unambiguous Trend of Technological Labor Substitution: a report in the Post-Labor Economics research library, under AI, automation and robotics, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "AI, automation and robotics"
+theme_id: "ai-automation-and-robotics"
+pdf: "The Unambiguous Trend of Technological Labor Substitution.pdf"
+pdf_url: "The%20Unambiguous%20Trend%20of%20Technological%20Labor%20Substitution.pdf"
+pdf_size: "PDF, 93 KB"
+prev_url: "the-physical-limits-of-machine-intelligence-through-2050.html"
+prev_title: "The Physical Limits of Machine Intelligence (Through 2050)"
+next_url: "the-labor-substitution-fallacy-technology-employment-and-the-future-of-work.html"
+next_title: "The “Labor Substitution Fallacy” - Technology, Employment, and the Future of Work"
+---

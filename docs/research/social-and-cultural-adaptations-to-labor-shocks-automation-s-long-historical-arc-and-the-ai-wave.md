@@ -1,5 +1,16 @@
-# Social and Cultural Adaptations to Labor Shocks – Automation's Long Historical Arc and the AI Wave
-
-[← Research library](./) · [Download the PDF](Social%20and%20Cultural%20Adaptations%20to%20Labor%20Shocks%20%E2%80%93%20Automation%27s%20Long%20Historical%20Arc%20and%20the%20AI%20Wave.pdf)
-
-<embed src="Social and Cultural Adaptations to Labor Shocks – Automation's Long Historical Arc and the AI Wave.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Social and Cultural Adaptations to Labor Shocks"
+subtitle: "Automation's Long Historical Arc and the AI Wave"
+description: "Social and Cultural Adaptations to Labor Shocks – Automation's Long Historical Arc and the AI Wave: a report in the Post-Labor Economics research library, under History and economic change, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "History and economic change"
+theme_id: "history-and-economic-change"
+pdf: "Social and Cultural Adaptations to Labor Shocks – Automation's Long Historical Arc and the AI Wave.pdf"
+pdf_url: "Social%20and%20Cultural%20Adaptations%20to%20Labor%20Shocks%20%E2%80%93%20Automation%27s%20Long%20Historical%20Arc%20and%20the%20AI%20Wave.pdf"
+pdf_size: "PDF, 168 KB"
+prev_url: "mobilizing-for-technological-revolutions-lessons-from-history.html"
+prev_title: "Mobilizing for Technological Revolutions - Lessons from History"
+next_url: "technology-and-economic-paradigm-shifts-from-agrarian-to-industrial-to-service-economies.html"
+next_title: "Technology and Economic Paradigm Shifts - From Agrarian to Industrial to Service Economies"
+---

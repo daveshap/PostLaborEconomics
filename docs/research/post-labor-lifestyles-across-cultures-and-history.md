@@ -1,5 +1,15 @@
-# Post-Labor Lifestyles Across Cultures and History
-
-[← Research library](./) · [Download the PDF](Post-Labor%20Lifestyles%20Across%20Cultures%20and%20History.pdf)
-
-<embed src="Post-Labor Lifestyles Across Cultures and History.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Post-Labor Lifestyles Across Cultures and History"
+description: "Post-Labor Lifestyles Across Cultures and History: a report in the Post-Labor Economics research library, under Society, culture and well-being, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "Society, culture and well-being"
+theme_id: "society-culture-and-well-being"
+pdf: "Post-Labor Lifestyles Across Cultures and History.pdf"
+pdf_url: "Post-Labor%20Lifestyles%20Across%20Cultures%20and%20History.pdf"
+pdf_size: "PDF, 158 KB"
+prev_url: "neoliberal-policy-and-total-fertility-a-multidimensional-analysis.html"
+prev_title: "Neoliberal Policy and Total Fertility – A Multidimensional Analysis"
+next_url: "the-first-principles-of-human-well-being.html"
+next_title: "The First Principles of Human Well-Being"
+---

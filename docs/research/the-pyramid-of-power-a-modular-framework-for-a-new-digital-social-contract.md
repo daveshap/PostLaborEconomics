@@ -1,5 +1,16 @@
-# Pyramid of Power - A Modular Framework for a New Digital Social Contract
-
-[← Research library](./) · [Download the PDF](The%20Pyramid%20of%20Power%20-%20A%20Modular%20Framework%20for%20a%20New%20Digital%20Social%20Contract.pdf)
-
-<embed src="The Pyramid of Power - A Modular Framework for a New Digital Social Contract.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Pyramid of Power"
+subtitle: "A Modular Framework for a New Digital Social Contract"
+description: "Pyramid of Power - A Modular Framework for a New Digital Social Contract: a report in the Post-Labor Economics research library, under The Pyramid of Power, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "The Pyramid of Power"
+theme_id: "the-pyramid-of-power"
+pdf: "The Pyramid of Power - A Modular Framework for a New Digital Social Contract.pdf"
+pdf_url: "The%20Pyramid%20of%20Power%20-%20A%20Modular%20Framework%20for%20a%20New%20Digital%20Social%20Contract.pdf"
+pdf_size: "PDF, 192 KB"
+prev_url: "pyramid-of-power-a-hierarchy-for-a-new-social-contract.html"
+prev_title: "Pyramid of Power - A Hierarchy For A New Social Contract"
+next_url: "pyramid-of-power-l1-the-immutable-civic-bedrock-chatgpt.html"
+next_title: "Pyramid of Power L1 - The Immutable Civic Bedrock (ChatGPT)"
+---

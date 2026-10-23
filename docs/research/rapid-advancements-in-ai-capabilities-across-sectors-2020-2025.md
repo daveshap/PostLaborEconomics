@@ -1,5 +1,15 @@
-# Rapid Advancements in AI Capabilities Across Sectors (2020–2025)
-
-[← Research library](./) · [Download the PDF](Rapid%20Advancements%20in%20AI%20Capabilities%20Across%20Sectors%20%282020%E2%80%932025%29.pdf)
-
-<embed src="Rapid Advancements in AI Capabilities Across Sectors (2020–2025).pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Rapid Advancements in AI Capabilities Across Sectors (2020–2025)"
+description: "Rapid Advancements in AI Capabilities Across Sectors (2020–2025): a report in the Post-Labor Economics research library, under AI, automation and robotics, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "AI, automation and robotics"
+theme_id: "ai-automation-and-robotics"
+pdf: "Rapid Advancements in AI Capabilities Across Sectors (2020–2025).pdf"
+pdf_url: "Rapid%20Advancements%20in%20AI%20Capabilities%20Across%20Sectors%20%282020%E2%80%932025%29.pdf"
+pdf_size: "PDF, 162 KB"
+prev_url: "government-adoption-of-generative-ai-late-2022-2025.html"
+prev_title: "Government Adoption of Generative AI (Late 2022–2025)"
+next_url: "state-and-local-policies-on-generative-ai-in-the-u-s.html"
+next_title: "State and Local Policies on Generative AI in the U.S."
+---

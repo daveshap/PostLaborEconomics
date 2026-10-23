@@ -1,5 +1,16 @@
-# Measuring the Great Decoupling - How Institutions Are Tracking Collapsing Wages in the Age of Automation
-
-[← Research library](./) · [Download the PDF](Measuring%20the%20Great%20Decoupling%20-%20How%20Institutions%20Are%20Tracking%20Collapsing%20Wages%20in%20the%20Age%20of%20Automat.pdf)
-
-<embed src="Measuring the Great Decoupling - How Institutions Are Tracking Collapsing Wages in the Age of Automat.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Measuring the Great Decoupling"
+subtitle: "How Institutions Are Tracking Collapsing Wages in the Age of Automation"
+description: "Measuring the Great Decoupling - How Institutions Are Tracking Collapsing Wages in the Age of Automation: a report in the Post-Labor Economics research library, under Labor, jobs and wages, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "Labor, jobs and wages"
+theme_id: "labor-jobs-and-wages"
+pdf: "Measuring the Great Decoupling - How Institutions Are Tracking Collapsing Wages in the Age of Automat.pdf"
+pdf_url: "Measuring%20the%20Great%20Decoupling%20-%20How%20Institutions%20Are%20Tracking%20Collapsing%20Wages%20in%20the%20Age%20of%20Automat.pdf"
+pdf_size: "PDF, 121 KB"
+prev_url: "long-term-decline-in-u-s-labor-demand-1950-present.html"
+prev_title: "Long-Term Decline in U.S. Labor Demand (1950–Present)"
+next_url: "technology-automation-and-the-erosion-of-labor-demand-in-developed-economies.html"
+next_title: "Technology, Automation, and the Erosion of Labor Demand in Developed Economies"
+---

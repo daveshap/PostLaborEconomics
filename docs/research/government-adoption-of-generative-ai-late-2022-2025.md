@@ -1,5 +1,15 @@
-# Government Adoption of Generative AI (Late 2022–2025)
-
-[← Research library](./) · [Download the PDF](Government%20Adoption%20of%20Generative%20AI%20%28Late%202022%E2%80%932025%29.pdf)
-
-<embed src="Government Adoption of Generative AI (Late 2022–2025).pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Government Adoption of Generative AI (Late 2022–2025)"
+description: "Government Adoption of Generative AI (Late 2022–2025): a report in the Post-Labor Economics research library, under AI, automation and robotics, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "AI, automation and robotics"
+theme_id: "ai-automation-and-robotics"
+pdf: "Government Adoption of Generative AI (Late 2022–2025).pdf"
+pdf_url: "Government%20Adoption%20of%20Generative%20AI%20%28Late%202022%E2%80%932025%29.pdf"
+pdf_size: "PDF, 219 KB"
+prev_url: "general-purpose-technologies-history-impact-and-characteristics.html"
+prev_title: "General-Purpose Technologies - History, Impact, and Characteristics"
+next_url: "rapid-advancements-in-ai-capabilities-across-sectors-2020-2025.html"
+next_title: "Rapid Advancements in AI Capabilities Across Sectors (2020–2025)"
+---

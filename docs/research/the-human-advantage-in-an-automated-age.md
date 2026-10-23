@@ -1,5 +1,15 @@
-# The Human Advantage in an Automated Age
-
-[← Research library](./) · [Download the PDF](The%20Human%20Advantage%20in%20an%20Automated%20Age.pdf)
-
-<embed src="The Human Advantage in an Automated Age.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "The Human Advantage in an Automated Age"
+description: "The Human Advantage in an Automated Age: a report in the Post-Labor Economics research library, under Labor, jobs and wages, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "Labor, jobs and wages"
+theme_id: "labor-jobs-and-wages"
+pdf: "The Human Advantage in an Automated Age.pdf"
+pdf_url: "The%20Human%20Advantage%20in%20an%20Automated%20Age.pdf"
+pdf_size: "PDF, 482 KB"
+prev_url: "the-global-collapse-of-labor-arbitrage-in-the-age-of-synthetic-labor.html"
+prev_title: "The Global Collapse of Labor Arbitrage in the Age of Synthetic Labor"
+next_url: "the-long-term-impact-of-automation-on-u-s-employment-historical-trends-and-accelerating-displaceme.html"
+next_title: "The Long-Term Impact of Automation on U.S. Employment - Historical Trends and Accelerating Displacement"
+---

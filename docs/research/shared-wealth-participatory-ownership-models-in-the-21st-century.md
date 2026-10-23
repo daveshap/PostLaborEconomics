@@ -1,5 +1,16 @@
-# Shared Wealth - Participatory Ownership Models in the 21st Century
-
-[← Research library](./) · [Download the PDF](Shared%20Wealth%20-%20Participatory%20Ownership%20Models%20in%20the%2021st%20Century.pdf)
-
-<embed src="Shared Wealth - Participatory Ownership Models in the 21st Century.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Shared Wealth"
+subtitle: "Participatory Ownership Models in the 21st Century"
+description: "Shared Wealth - Participatory Ownership Models in the 21st Century: a report in the Post-Labor Economics research library, under The Pyramid of Prosperity: household income and ownership, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "The Pyramid of Prosperity: household income and ownership"
+theme_id: "the-pyramid-of-prosperity-household-income-and-ownership"
+pdf: "Shared Wealth - Participatory Ownership Models in the 21st Century.pdf"
+pdf_url: "Shared%20Wealth%20-%20Participatory%20Ownership%20Models%20in%20the%2021st%20Century.pdf"
+pdf_size: "PDF, 1.6 MB"
+prev_url: "resident-owned-housing-a-new-path-to-affordable-communities-in-a-post-labor-economy.html"
+prev_title: "Resident-Owned Housing - A New Path to Affordable Communities in a Post-Labor Economy"
+next_url: "towards-an-economic-agency-index-income-composition-in-a-post-neoliberal-era.html"
+next_title: "Towards an Economic Agency Index - Income Composition in a Post-Neoliberal Era"
+---

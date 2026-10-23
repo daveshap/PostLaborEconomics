@@ -1,5 +1,16 @@
-# Evolution of Social Contracts - From Ancient Kingdoms to Modern Nation-States
-
-[← Research library](./) · [Download the PDF](Evolution%20of%20Social%20Contracts%20-%20From%20Ancient%20Kingdoms%20to%20Modern%20Nation-States.pdf)
-
-<embed src="Evolution of Social Contracts - From Ancient Kingdoms to Modern Nation-States.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Evolution of Social Contracts"
+subtitle: "From Ancient Kingdoms to Modern Nation-States"
+description: "Evolution of Social Contracts - From Ancient Kingdoms to Modern Nation-States: a report in the Post-Labor Economics research library, under Governance, technology and the social contract, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "Governance, technology and the social contract"
+theme_id: "governance-technology-and-the-social-contract"
+pdf: "Evolution of Social Contracts - From Ancient Kingdoms to Modern Nation-States.pdf"
+pdf_url: "Evolution%20of%20Social%20Contracts%20-%20From%20Ancient%20Kingdoms%20to%20Modern%20Nation-States.pdf"
+pdf_size: "PDF, 164 KB"
+prev_url: "decentralized-and-productive-daos-building-real-world-value-by-2025.html"
+prev_title: "Decentralized and Productive - DAOs Building Real-World Value by 2025"
+next_url: "history-of-tax-resistance-and-economic-withdrawal-as-political-tools.html"
+next_title: "History of Tax Resistance and Economic Withdrawal as Political Tools"
+---

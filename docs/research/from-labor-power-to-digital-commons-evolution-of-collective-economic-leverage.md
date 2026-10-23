@@ -1,5 +1,16 @@
-# From Labor Power to Digital Commons - Evolution of Collective Economic Leverage
-
-[← Research library](./) · [Download the PDF](From%20Labor%20Power%20to%20Digital%20Commons%20-%20Evolution%20of%20Collective%20Economic%20Leverage.pdf)
-
-<embed src="From Labor Power to Digital Commons - Evolution of Collective Economic Leverage.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "From Labor Power to Digital Commons"
+subtitle: "Evolution of Collective Economic Leverage"
+description: "From Labor Power to Digital Commons - Evolution of Collective Economic Leverage: a report in the Post-Labor Economics research library, under Labor, jobs and wages, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "Labor, jobs and wages"
+theme_id: "labor-jobs-and-wages"
+pdf: "From Labor Power to Digital Commons - Evolution of Collective Economic Leverage.pdf"
+pdf_url: "From%20Labor%20Power%20to%20Digital%20Commons%20-%20Evolution%20of%20Collective%20Economic%20Leverage.pdf"
+pdf_size: "PDF, 140 KB"
+prev_url: "evolving-role-of-labor-unions-in-a-post-labor-future.html"
+prev_title: "Evolving Role of Labor Unions in a Post-Labor Future"
+next_url: "long-term-decline-in-u-s-labor-demand-1950-present.html"
+next_title: "Long-Term Decline in U.S. Labor Demand (1950–Present)"
+---

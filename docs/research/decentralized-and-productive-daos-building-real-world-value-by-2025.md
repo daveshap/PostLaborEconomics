@@ -1,5 +1,16 @@
-# Decentralized and Productive - DAOs Building Real-World Value by 2025
-
-[← Research library](./) · [Download the PDF](Decentralized%20and%20Productive%20-%20DAOs%20Building%20Real-World%20Value%20by%202025.pdf)
-
-<embed src="Decentralized and Productive - DAOs Building Real-World Value by 2025.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Decentralized and Productive"
+subtitle: "DAOs Building Real-World Value by 2025"
+description: "Decentralized and Productive - DAOs Building Real-World Value by 2025: a report in the Post-Labor Economics research library, under Governance, technology and the social contract, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "Governance, technology and the social contract"
+theme_id: "governance-technology-and-the-social-contract"
+pdf: "Decentralized and Productive - DAOs Building Real-World Value by 2025.pdf"
+pdf_url: "Decentralized%20and%20Productive%20-%20DAOs%20Building%20Real-World%20Value%20by%202025.pdf"
+pdf_size: "PDF, 158 KB"
+prev_url: "blockchain-and-the-state-functions-opportunities-and-constraints.html"
+prev_title: "Blockchain and the State - Functions, Opportunities, and Constraints"
+next_url: "evolution-of-social-contracts-from-ancient-kingdoms-to-modern-nation-states.html"
+next_title: "Evolution of Social Contracts - From Ancient Kingdoms to Modern Nation-States"
+---

@@ -1,5 +1,16 @@
-# Dollar Matching Schemes for Wages and Investments in a Post-Labor Economy – Extant and Hypothetical Models
-
-[← Research library](./) · [Download the PDF](Dollar%20Matching%20Schemes%20for%20Wages%20and%20Investments%20in%20a%20Post-Labor%20Economy%20%E2%80%93%20Extant%20and%20Hypothetical%20.pdf)
-
-<embed src="Dollar Matching Schemes for Wages and Investments in a Post-Labor Economy – Extant and Hypothetical .pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Dollar Matching Schemes for Wages and Investments in a Post-Labor Economy"
+subtitle: "Extant and Hypothetical Models"
+description: "Dollar Matching Schemes for Wages and Investments in a Post-Labor Economy – Extant and Hypothetical Models: a report in the Post-Labor Economics research library, under The Pyramid of Prosperity: household income and ownership, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "The Pyramid of Prosperity: household income and ownership"
+theme_id: "the-pyramid-of-prosperity-household-income-and-ownership"
+pdf: "Dollar Matching Schemes for Wages and Investments in a Post-Labor Economy – Extant and Hypothetical .pdf"
+pdf_url: "Dollar%20Matching%20Schemes%20for%20Wages%20and%20Investments%20in%20a%20Post-Labor%20Economy%20%E2%80%93%20Extant%20and%20Hypothetical%20.pdf"
+pdf_size: "PDF, 180 KB"
+prev_url: "dividends-for-the-age-of-automation-how-economies-are-preparing-for-a-post-labor-future.html"
+prev_title: "Dividends for the Age of Automation - How Economies Are Preparing for a Post-Labor Future"
+next_url: "generational-wealth-patterns-myths-vs-reality.html"
+next_title: "Generational Wealth Patterns – Myths vs Reality"
+---

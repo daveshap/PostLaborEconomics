@@ -1,5 +1,16 @@
-# Labor’s Pendulum - Scarcity, Glut, and Power Through World History
-
-[← Research library](./) · [Download the PDF](Labor%E2%80%99s%20Pendulum%20-%20Scarcity%2C%20Glut%2C%20and%20Power%20Through%20World%20History.pdf)
-
-<embed src="Labor’s Pendulum - Scarcity, Glut, and Power Through World History.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Labor’s Pendulum"
+subtitle: "Scarcity, Glut, and Power Through World History"
+description: "Labor’s Pendulum - Scarcity, Glut, and Power Through World History: a report in the Post-Labor Economics research library, under History and economic change, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "History and economic change"
+theme_id: "history-and-economic-change"
+pdf: "Labor’s Pendulum - Scarcity, Glut, and Power Through World History.pdf"
+pdf_url: "Labor%E2%80%99s%20Pendulum%20-%20Scarcity%2C%20Glut%2C%20and%20Power%20Through%20World%20History.pdf"
+pdf_size: "PDF, 169 KB"
+prev_url: "labor-power-in-chinese-history-from-imperial-abundance-to-modern-transitions.html"
+prev_title: "Labor Power in Chinese History - From Imperial Abundance to Modern Transitions"
+next_url: "mobilizing-for-technological-revolutions-lessons-from-history.html"
+next_title: "Mobilizing for Technological Revolutions - Lessons from History"
+---

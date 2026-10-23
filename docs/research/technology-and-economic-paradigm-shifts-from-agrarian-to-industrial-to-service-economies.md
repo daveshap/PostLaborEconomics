@@ -1,5 +1,16 @@
-# Technology and Economic Paradigm Shifts - From Agrarian to Industrial to Service Economies
-
-[← Research library](./) · [Download the PDF](Technology%20and%20Economic%20Paradigm%20Shifts%20-%20From%20Agrarian%20to%20Industrial%20to%20Service%20Economies.pdf)
-
-<embed src="Technology and Economic Paradigm Shifts - From Agrarian to Industrial to Service Economies.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Technology and Economic Paradigm Shifts"
+subtitle: "From Agrarian to Industrial to Service Economies"
+description: "Technology and Economic Paradigm Shifts - From Agrarian to Industrial to Service Economies: a report in the Post-Labor Economics research library, under History and economic change, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "History and economic change"
+theme_id: "history-and-economic-change"
+pdf: "Technology and Economic Paradigm Shifts - From Agrarian to Industrial to Service Economies.pdf"
+pdf_url: "Technology%20and%20Economic%20Paradigm%20Shifts%20-%20From%20Agrarian%20to%20Industrial%20to%20Service%20Economies.pdf"
+pdf_size: "PDF, 87 KB"
+prev_url: "social-and-cultural-adaptations-to-labor-shocks-automation-s-long-historical-arc-and-the-ai-wave.html"
+prev_title: "Social and Cultural Adaptations to Labor Shocks – Automation's Long Historical Arc and the AI Wave"
+next_url: "the-political-and-social-consequences-of-labor-s-decline-a-historical-and-contemporary-analysis.html"
+next_title: "The Political and Social Consequences of Labor’s Decline - A Historical and Contemporary Analysis"
+---

@@ -1,5 +1,16 @@
-# Industrial Transformation and National Missions - From the Great Depression to the AI Era
-
-[← Research library](./) · [Download the PDF](Industrial%20Transformation%20and%20National%20Missions%20-%20From%20the%20Great%20Depression%20to%20the%20AI%20Era.pdf)
-
-<embed src="Industrial Transformation and National Missions - From the Great Depression to the AI Era.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Industrial Transformation and National Missions"
+subtitle: "From the Great Depression to the AI Era"
+description: "Industrial Transformation and National Missions - From the Great Depression to the AI Era: a report in the Post-Labor Economics research library, under History and economic change, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "History and economic change"
+theme_id: "history-and-economic-change"
+pdf: "Industrial Transformation and National Missions - From the Great Depression to the AI Era.pdf"
+pdf_url: "Industrial%20Transformation%20and%20National%20Missions%20-%20From%20the%20Great%20Depression%20to%20the%20AI%20Era.pdf"
+pdf_size: "PDF, 159 KB"
+prev_url: "implementing-grand-economic-change-a-150-year-narrative.html"
+prev_title: "Implementing Grand Economic Change - A 150-Year Narrative"
+next_url: "labor-power-in-chinese-history-from-imperial-abundance-to-modern-transitions.html"
+next_title: "Labor Power in Chinese History - From Imperial Abundance to Modern Transitions"
+---

@@ -1,5 +1,16 @@
-# The History and Impact of General-Purpose Technologies - From the Wheel to the Internet
-
-[← Research library](./) · [Download the PDF](The%20History%20and%20Impact%20of%20General-Purpose%20Technologies%20-%20From%20the%20Wheel%20to%20the%20Internet.pdf)
-
-<embed src="The History and Impact of General-Purpose Technologies - From the Wheel to the Internet.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "The History and Impact of General-Purpose Technologies"
+subtitle: "From the Wheel to the Internet"
+description: "The History and Impact of General-Purpose Technologies - From the Wheel to the Internet: a report in the Post-Labor Economics research library, under AI, automation and robotics, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "AI, automation and robotics"
+theme_id: "ai-automation-and-robotics"
+pdf: "The History and Impact of General-Purpose Technologies - From the Wheel to the Internet.pdf"
+pdf_url: "The%20History%20and%20Impact%20of%20General-Purpose%20Technologies%20-%20From%20the%20Wheel%20to%20the%20Internet.pdf"
+pdf_size: "PDF, 1.3 MB"
+prev_url: "the-future-of-advanced-ai-and-humanoid-robotics-2025-2050.html"
+prev_title: "The Future of Advanced AI and Humanoid Robotics (2025–2050)"
+next_url: "the-physical-limits-of-machine-intelligence-through-2050.html"
+next_title: "The Physical Limits of Machine Intelligence (Through 2050)"
+---

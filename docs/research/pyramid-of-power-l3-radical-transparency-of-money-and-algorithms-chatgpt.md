@@ -1,5 +1,16 @@
-# Pyramid of Power L3 - Radical Transparency of Money and Algorithms (ChatGPT)
-
-[← Research library](./) · [Download the PDF](Pyramid%20of%20Power%20L3%20-%20Radical%20Transparency%20of%20Money%20and%20Algorithms%20%28ChatGPT%29.pdf)
-
-<embed src="Pyramid of Power L3 - Radical Transparency of Money and Algorithms (ChatGPT).pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Pyramid of Power L3"
+subtitle: "Radical Transparency of Money and Algorithms (ChatGPT)"
+description: "Pyramid of Power L3 - Radical Transparency of Money and Algorithms (ChatGPT): a report in the Post-Labor Economics research library, under The Pyramid of Power, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "The Pyramid of Power"
+theme_id: "the-pyramid-of-power"
+pdf: "Pyramid of Power L3 - Radical Transparency of Money and Algorithms (ChatGPT).pdf"
+pdf_url: "Pyramid%20of%20Power%20L3%20-%20Radical%20Transparency%20of%20Money%20and%20Algorithms%20%28ChatGPT%29.pdf"
+pdf_size: "PDF, 143 KB"
+prev_url: "pyramid-of-power-l2-open-value-rails-gemini.html"
+prev_title: "Pyramid of Power L2 - Open Value Rails (Gemini)"
+next_url: "pyramid-of-power-l3-radical-transparency-of-money-gemini.html"
+next_title: "Pyramid of Power L3 - Radical Transparency of Money (Gemini)"
+---

@@ -1,5 +1,16 @@
-# Blockchain and the State - Functions, Opportunities, and Constraints
-
-[← Research library](./) · [Download the PDF](Blockchain%20and%20the%20State%20-%20Functions%2C%20Opportunities%2C%20and%20Constraints.pdf)
-
-<embed src="Blockchain and the State - Functions, Opportunities, and Constraints.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Blockchain and the State"
+subtitle: "Functions, Opportunities, and Constraints"
+description: "Blockchain and the State - Functions, Opportunities, and Constraints: a report in the Post-Labor Economics research library, under Governance, technology and the social contract, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "Governance, technology and the social contract"
+theme_id: "governance-technology-and-the-social-contract"
+pdf: "Blockchain and the State - Functions, Opportunities, and Constraints.pdf"
+pdf_url: "Blockchain%20and%20the%20State%20-%20Functions%2C%20Opportunities%2C%20and%20Constraints.pdf"
+pdf_size: "PDF, 186 KB"
+prev_url: "blockchain-and-the-new-civic-contract-in-a-post-labor-economy.html"
+prev_title: "Blockchain and the New Civic Contract in a Post-Labor Economy"
+next_url: "decentralized-and-productive-daos-building-real-world-value-by-2025.html"
+next_title: "Decentralized and Productive - DAOs Building Real-World Value by 2025"
+---

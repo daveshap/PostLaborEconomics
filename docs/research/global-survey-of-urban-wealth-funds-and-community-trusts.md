@@ -1,5 +1,15 @@
-# Global Survey of Urban Wealth Funds and Community Trusts
-
-[← Research library](./) · [Download the PDF](Global%20Survey%20of%20Urban%20Wealth%20Funds%20and%20Community%20Trusts.pdf)
-
-<embed src="Global Survey of Urban Wealth Funds and Community Trusts.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Global Survey of Urban Wealth Funds and Community Trusts"
+description: "Global Survey of Urban Wealth Funds and Community Trusts: a report in the Post-Labor Economics research library, under The Pyramid of Prosperity: household income and ownership, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "The Pyramid of Prosperity: household income and ownership"
+theme_id: "the-pyramid-of-prosperity-household-income-and-ownership"
+pdf: "Global Survey of Urban Wealth Funds and Community Trusts.pdf"
+pdf_url: "Global%20Survey%20of%20Urban%20Wealth%20Funds%20and%20Community%20Trusts.pdf"
+pdf_size: "PDF, 106 KB"
+prev_url: "geographically-constrained-income-systems-in-a-post-labor-economy.html"
+prev_title: "Geographically-Constrained Income Systems in a Post-Labor Economy"
+next_url: "inclusive-capital-a-global-survey.html"
+next_title: "Inclusive Capital - A Global Survey"
+---

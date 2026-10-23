@@ -1,5 +1,15 @@
-# The Global Collapse of Labor Arbitrage in the Age of Synthetic Labor
-
-[← Research library](./) · [Download the PDF](The%20Global%20Collapse%20of%20Labor%20Arbitrage%20in%20the%20Age%20of%20Synthetic%20Labor.pdf)
-
-<embed src="The Global Collapse of Labor Arbitrage in the Age of Synthetic Labor.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "The Global Collapse of Labor Arbitrage in the Age of Synthetic Labor"
+description: "The Global Collapse of Labor Arbitrage in the Age of Synthetic Labor: a report in the Post-Labor Economics research library, under Labor, jobs and wages, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "Labor, jobs and wages"
+theme_id: "labor-jobs-and-wages"
+pdf: "The Global Collapse of Labor Arbitrage in the Age of Synthetic Labor.pdf"
+pdf_url: "The%20Global%20Collapse%20of%20Labor%20Arbitrage%20in%20the%20Age%20of%20Synthetic%20Labor.pdf"
+pdf_size: "PDF, 148 KB"
+prev_url: "technology-automation-and-the-erosion-of-labor-demand-in-developed-economies.html"
+prev_title: "Technology, Automation, and the Erosion of Labor Demand in Developed Economies"
+next_url: "the-human-advantage-in-an-automated-age.html"
+next_title: "The Human Advantage in an Automated Age"
+---

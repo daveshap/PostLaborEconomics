@@ -1,5 +1,16 @@
-# General-Purpose Technologies - History, Impact, and Characteristics
-
-[← Research library](./) · [Download the PDF](General-Purpose%20Technologies%20-%20History%2C%20Impact%2C%20and%20Characteristics.pdf)
-
-<embed src="General-Purpose Technologies - History, Impact, and Characteristics.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "General-Purpose Technologies"
+subtitle: "History, Impact, and Characteristics"
+description: "General-Purpose Technologies - History, Impact, and Characteristics: a report in the Post-Labor Economics research library, under AI, automation and robotics, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "AI, automation and robotics"
+theme_id: "ai-automation-and-robotics"
+pdf: "General-Purpose Technologies - History, Impact, and Characteristics.pdf"
+pdf_url: "General-Purpose%20Technologies%20-%20History%2C%20Impact%2C%20and%20Characteristics.pdf"
+pdf_size: "PDF, 62 KB"
+prev_url: "from-s-curves-to-new-frontiers-the-pace-of-tech-adoption.html"
+prev_title: "From S-Curves to New Frontiers - The Pace of Tech Adoption"
+next_url: "government-adoption-of-generative-ai-late-2022-2025.html"
+next_title: "Government Adoption of Generative AI (Late 2022–2025)"
+---

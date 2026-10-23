@@ -1,5 +1,15 @@
-# Inclusive Capital Initiatives Around the World
-
-[← Research library](./) · [Download the PDF](Inclusive%20Capital%20Initiatives%20Around%20the%20World.pdf)
-
-<embed src="Inclusive Capital Initiatives Around the World.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Inclusive Capital Initiatives Around the World"
+description: "Inclusive Capital Initiatives Around the World: a report in the Post-Labor Economics research library, under The Pyramid of Prosperity: household income and ownership, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "The Pyramid of Prosperity: household income and ownership"
+theme_id: "the-pyramid-of-prosperity-household-income-and-ownership"
+pdf: "Inclusive Capital Initiatives Around the World.pdf"
+pdf_url: "Inclusive%20Capital%20Initiatives%20Around%20the%20World.pdf"
+pdf_size: "PDF, 89 KB"
+prev_url: "inclusive-capital-income-ratio-icir-in-a-post-labor-economy-a-comprehensive-u-s-perspective.html"
+prev_title: "Inclusive Capital Income Ratio (ICIR) in a Post-Labor Economy - A Comprehensive U.S. Perspective"
+next_url: "market-based-solutions-for-economic-inclusion-in-a-post-work-future.html"
+next_title: "Market-Based Solutions for Economic Inclusion in a Post-Work Future"
+---

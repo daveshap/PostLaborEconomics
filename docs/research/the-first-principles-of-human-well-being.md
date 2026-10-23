@@ -1,5 +1,15 @@
-# The First Principles of Human Well-Being
-
-[← Research library](./) · [Download the PDF](The%20First%20Principles%20of%20Human%20Well-Being.pdf)
-
-<embed src="The First Principles of Human Well-Being.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "The First Principles of Human Well-Being"
+description: "The First Principles of Human Well-Being: a report in the Post-Labor Economics research library, under Society, culture and well-being, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "Society, culture and well-being"
+theme_id: "society-culture-and-well-being"
+pdf: "The First Principles of Human Well-Being.pdf"
+pdf_url: "The%20First%20Principles%20of%20Human%20Well-Being.pdf"
+pdf_size: "PDF, 1.2 MB"
+prev_url: "post-labor-lifestyles-across-cultures-and-history.html"
+prev_title: "Post-Labor Lifestyles Across Cultures and History"
+next_url: "the-great-disconnect-economic-growth-and-the-despair-beneath-the-numbers.html"
+next_title: "The Great Disconnect - Economic Growth and the Despair Beneath the Numbers"
+---

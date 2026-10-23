@@ -1,0 +1,10 @@
+title: "Post-Labor Economics"
+description: "The public home of David Shapiro's research on Post-Labor Economics, and the free online companion to Labor Zero."
+lang: "en-US"
+author: "David Shapiro"
+plugins: [jekyll-seo-tag, jekyll-sitemap]
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: "/assets/img/social-card.png"

@@ -1,5 +1,16 @@
-# Pyramid of Power L4 - Direct, Programmable Democracy (Gemini)
-
-[← Research library](./) · [Download the PDF](Pyramid%20of%20Power%20L4%20-%20Direct%2C%20Programmable%20Democracy%20%28Gemini%29.pdf)
-
-<embed src="Pyramid of Power L4 - Direct, Programmable Democracy (Gemini).pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Pyramid of Power L4"
+subtitle: "Direct, Programmable Democracy (Gemini)"
+description: "Pyramid of Power L4 - Direct, Programmable Democracy (Gemini): a report in the Post-Labor Economics research library, under The Pyramid of Power, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "The Pyramid of Power"
+theme_id: "the-pyramid-of-power"
+pdf: "Pyramid of Power L4 - Direct, Programmable Democracy (Gemini).pdf"
+pdf_url: "Pyramid%20of%20Power%20L4%20-%20Direct%2C%20Programmable%20Democracy%20%28Gemini%29.pdf"
+pdf_size: "PDF, 357 KB"
+prev_url: "pyramid-of-power-l4-direct-programmable-democracy-chatgpt.html"
+prev_title: "Pyramid of Power L4 - Direct, Programmable Democracy (ChatGPT)"
+next_url: "pyramid-of-power-l5-forkable-constitutional-meta-governance-chatgpt.html"
+next_title: "Pyramid of Power L5 - Forkable Constitutional Meta-Governance (ChatGPT)"
+---

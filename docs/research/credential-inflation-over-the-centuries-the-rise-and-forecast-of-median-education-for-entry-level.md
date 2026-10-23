@@ -1,5 +1,16 @@
-# Credential Inflation Over the Centuries – The Rise and Forecast of Median Education for Entry-Level Jobs
-
-[← Research library](./) · [Download the PDF](Credential%20Inflation%20Over%20the%20Centuries%20%E2%80%93%20The%20Rise%20and%20Forecast%20of%20Median%20Education%20for%20Entry-Level%20.pdf)
-
-<embed src="Credential Inflation Over the Centuries – The Rise and Forecast of Median Education for Entry-Level .pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Credential Inflation Over the Centuries"
+subtitle: "The Rise and Forecast of Median Education for Entry-Level Jobs"
+description: "Credential Inflation Over the Centuries – The Rise and Forecast of Median Education for Entry-Level Jobs: a report in the Post-Labor Economics research library, under Labor, jobs and wages, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "Labor, jobs and wages"
+theme_id: "labor-jobs-and-wages"
+pdf: "Credential Inflation Over the Centuries – The Rise and Forecast of Median Education for Entry-Level .pdf"
+pdf_url: "Credential%20Inflation%20Over%20the%20Centuries%20%E2%80%93%20The%20Rise%20and%20Forecast%20of%20Median%20Education%20for%20Entry-Level%20.pdf"
+pdf_size: "PDF, 140 KB"
+prev_url: "baumol-s-cost-disease-automation-resistant-job-growth-sectors.html"
+prev_title: "Baumol's Cost Disease – Automation-Resistant Job Growth Sectors"
+next_url: "evolving-role-of-labor-unions-in-a-post-labor-future.html"
+next_title: "Evolving Role of Labor Unions in a Post-Labor Future"
+---

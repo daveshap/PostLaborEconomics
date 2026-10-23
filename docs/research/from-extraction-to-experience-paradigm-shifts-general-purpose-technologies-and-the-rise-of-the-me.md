@@ -1,5 +1,16 @@
-# From Extraction to Experience - Paradigm Shifts, General Purpose Technologies, and the Rise of the Meaning Economy
-
-[← Research library](./) · [Download the PDF](From%20Extraction%20to%20Experience%20-%20Paradigm%20Shifts%2C%20General%20Purpose%20Technologies%2C%20and%20the%20Rise%20of%20the%20Me.pdf)
-
-<embed src="From Extraction to Experience - Paradigm Shifts, General Purpose Technologies, and the Rise of the Me.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "From Extraction to Experience"
+subtitle: "Paradigm Shifts, General Purpose Technologies, and the Rise of the Meaning Economy"
+description: "From Extraction to Experience - Paradigm Shifts, General Purpose Technologies, and the Rise of the Meaning Economy: a report in the Post-Labor Economics research library, under History and economic change, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "History and economic change"
+theme_id: "history-and-economic-change"
+pdf: "From Extraction to Experience - Paradigm Shifts, General Purpose Technologies, and the Rise of the Me.pdf"
+pdf_url: "From%20Extraction%20to%20Experience%20-%20Paradigm%20Shifts%2C%20General%20Purpose%20Technologies%2C%20and%20the%20Rise%20of%20the%20Me.pdf"
+pdf_size: "PDF, 345 KB"
+prev_url: "economic-agency-and-upheaval-a-historical-narrative.html"
+prev_title: "Economic Agency and Upheaval - A Historical Narrative"
+next_url: "government-responses-to-unemployment-and-economic-crises-1920s-present.html"
+next_title: "Government Responses to Unemployment and Economic Crises - 1920s–Present"
+---

@@ -1,5 +1,16 @@
-# Pyramid of Prosperity - Modeling a 5 Tier Income for Post-Labor
-
-[← Research library](./) · [Download the PDF](Modeling%20a%20Five-Tier%20Income%20Hierarchy%20in%20a%20Post-Labor%20Economy%20%282060%29.pdf)
-
-<embed src="Modeling a Five-Tier Income Hierarchy in a Post-Labor Economy (2060).pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Pyramid of Prosperity"
+subtitle: "Modeling a 5 Tier Income for Post-Labor"
+description: "Pyramid of Prosperity - Modeling a 5 Tier Income for Post-Labor: a report in the Post-Labor Economics research library, under The Pyramid of Prosperity: household income and ownership, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "The Pyramid of Prosperity: household income and ownership"
+theme_id: "the-pyramid-of-prosperity-household-income-and-ownership"
+pdf: "Modeling a Five-Tier Income Hierarchy in a Post-Labor Economy (2060).pdf"
+pdf_url: "Modeling%20a%20Five-Tier%20Income%20Hierarchy%20in%20a%20Post-Labor%20Economy%20%282060%29.pdf"
+pdf_size: "PDF, 123 KB"
+prev_url: "participatory-ownership-models-in-a-post-labor-economy.html"
+prev_title: "Participatory Ownership Models in a Post-Labor Economy"
+next_url: "pyramid-of-prosperity-post-labor-income-gemini.html"
+next_title: "Pyramid of Prosperity - Post-Labor Income (Gemini)"
+---

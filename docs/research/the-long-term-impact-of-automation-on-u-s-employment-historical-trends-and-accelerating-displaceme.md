@@ -1,5 +1,16 @@
-# The Long-Term Impact of Automation on U.S. Employment - Historical Trends and Accelerating Displacement
-
-[← Research library](./) · [Download the PDF](The%20Long-Term%20Impact%20of%20Automation%20on%20U.S.%20Employment%20-%20Historical%20Trends%20and%20Accelerating%20Displaceme.pdf)
-
-<embed src="The Long-Term Impact of Automation on U.S. Employment - Historical Trends and Accelerating Displaceme.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "The Long-Term Impact of Automation on U.S. Employment"
+subtitle: "Historical Trends and Accelerating Displacement"
+description: "The Long-Term Impact of Automation on U.S. Employment - Historical Trends and Accelerating Displacement: a report in the Post-Labor Economics research library, under Labor, jobs and wages, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "Labor, jobs and wages"
+theme_id: "labor-jobs-and-wages"
+pdf: "The Long-Term Impact of Automation on U.S. Employment - Historical Trends and Accelerating Displaceme.pdf"
+pdf_url: "The%20Long-Term%20Impact%20of%20Automation%20on%20U.S.%20Employment%20-%20Historical%20Trends%20and%20Accelerating%20Displaceme.pdf"
+pdf_size: "PDF, 317 KB"
+prev_url: "the-human-advantage-in-an-automated-age.html"
+prev_title: "The Human Advantage in an Automated Age"
+next_url: "the-next-missing-millions-big-tech-s-productivity-outpacing-headcount.html"
+next_title: "The Next Missing Millions – Big Tech’s Productivity Outpacing Headcount"
+---

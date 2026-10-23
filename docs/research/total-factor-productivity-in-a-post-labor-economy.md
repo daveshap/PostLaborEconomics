@@ -1,5 +1,15 @@
-# Total Factor Productivity in a Post-Labor Economy
-
-[← Research library](./) · [Download the PDF](Total%20Factor%20Productivity%20in%20a%20Post%E2%80%91Labor%20Economy.pdf)
-
-<embed src="Total Factor Productivity in a Post‑Labor Economy.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Total Factor Productivity in a Post-Labor Economy"
+description: "Total Factor Productivity in a Post-Labor Economy: a report in the Post-Labor Economics research library, under The Post-Labor Economics framework, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "The Post-Labor Economics framework"
+theme_id: "the-post-labor-economics-framework"
+pdf: "Total Factor Productivity in a Post‑Labor Economy.pdf"
+pdf_url: "Total%20Factor%20Productivity%20in%20a%20Post%E2%80%91Labor%20Economy.pdf"
+pdf_size: "PDF, 122 KB"
+prev_url: "the-neoliberal-attractor-basin-trajectories-and-loops.html"
+prev_title: "The Neoliberal Attractor Basin – Trajectories and Loops"
+next_url: "useless-eaters-a-first-principles-view-of-automation.html"
+next_title: "Useless Eaters – A First Principles View of Automation"
+---

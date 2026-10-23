@@ -1,5 +1,16 @@
-# Dividends for the Age of Automation - How Economies Are Preparing for a Post-Labor Future
-
-[← Research library](./) · [Download the PDF](Dividends%20for%20the%20Age%20of%20Automation%20-%20How%20Economies%20Are%20Preparing%20for%20a%20Post-Labor%20Future.pdf)
-
-<embed src="Dividends for the Age of Automation - How Economies Are Preparing for a Post-Labor Future.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Dividends for the Age of Automation"
+subtitle: "How Economies Are Preparing for a Post-Labor Future"
+description: "Dividends for the Age of Automation - How Economies Are Preparing for a Post-Labor Future: a report in the Post-Labor Economics research library, under The Pyramid of Prosperity: household income and ownership, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "The Pyramid of Prosperity: household income and ownership"
+theme_id: "the-pyramid-of-prosperity-household-income-and-ownership"
+pdf: "Dividends for the Age of Automation - How Economies Are Preparing for a Post-Labor Future.pdf"
+pdf_url: "Dividends%20for%20the%20Age%20of%20Automation%20-%20How%20Economies%20Are%20Preparing%20for%20a%20Post-Labor%20Future.pdf"
+pdf_size: "PDF, 896 KB"
+prev_url: "distributed-decentralized-dividend-mechanisms-for-a-post-labor-economy.html"
+prev_title: "Distributed & Decentralized Dividend Mechanisms for a Post-Labor Economy"
+next_url: "dollar-matching-schemes-for-wages-and-investments-in-a-post-labor-economy-extant-and-hypothetical.html"
+next_title: "Dollar Matching Schemes for Wages and Investments in a Post-Labor Economy – Extant and Hypothetical Models"
+---

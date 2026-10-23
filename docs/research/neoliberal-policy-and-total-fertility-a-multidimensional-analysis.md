@@ -1,5 +1,16 @@
-# Neoliberal Policy and Total Fertility – A Multidimensional Analysis
-
-[← Research library](./) · [Download the PDF](Neoliberal%20Policy%20and%20Total%20Fertility%20%E2%80%93%20A%20Multidimensional%20Analysis.pdf)
-
-<embed src="Neoliberal Policy and Total Fertility – A Multidimensional Analysis.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Neoliberal Policy and Total Fertility"
+subtitle: "A Multidimensional Analysis"
+description: "Neoliberal Policy and Total Fertility – A Multidimensional Analysis: a report in the Post-Labor Economics research library, under Society, culture and well-being, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "Society, culture and well-being"
+theme_id: "society-culture-and-well-being"
+pdf: "Neoliberal Policy and Total Fertility – A Multidimensional Analysis.pdf"
+pdf_url: "Neoliberal%20Policy%20and%20Total%20Fertility%20%E2%80%93%20A%20Multidimensional%20Analysis.pdf"
+pdf_size: "PDF, 95 KB"
+prev_url: "global-burnout-cultural-receptivity-to-new-economic-paradigms.html"
+prev_title: "Global Burnout – Cultural Receptivity to New Economic Paradigms"
+next_url: "post-labor-lifestyles-across-cultures-and-history.html"
+next_title: "Post-Labor Lifestyles Across Cultures and History"
+---

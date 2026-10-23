@@ -1,5 +1,15 @@
-# Long-Term Decline in U.S. Labor Demand (1950–Present)
-
-[← Research library](./) · [Download the PDF](Long-Term%20Decline%20in%20U.S.%20Labor%20Demand%20%281950%E2%80%93Present%29.pdf)
-
-<embed src="Long-Term Decline in U.S. Labor Demand (1950–Present).pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Long-Term Decline in U.S. Labor Demand (1950–Present)"
+description: "Long-Term Decline in U.S. Labor Demand (1950–Present): a report in the Post-Labor Economics research library, under Labor, jobs and wages, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "Labor, jobs and wages"
+theme_id: "labor-jobs-and-wages"
+pdf: "Long-Term Decline in U.S. Labor Demand (1950–Present).pdf"
+pdf_url: "Long-Term%20Decline%20in%20U.S.%20Labor%20Demand%20%281950%E2%80%93Present%29.pdf"
+pdf_size: "PDF, 208 KB"
+prev_url: "from-labor-power-to-digital-commons-evolution-of-collective-economic-leverage.html"
+prev_title: "From Labor Power to Digital Commons - Evolution of Collective Economic Leverage"
+next_url: "measuring-the-great-decoupling-how-institutions-are-tracking-collapsing-wages-in-the-age-of-automat.html"
+next_title: "Measuring the Great Decoupling - How Institutions Are Tracking Collapsing Wages in the Age of Automation"
+---

@@ -1,5 +1,16 @@
-# Mobilizing for Technological Revolutions - Lessons from History
-
-[← Research library](./) · [Download the PDF](Mobilizing%20for%20Technological%20Revolutions%20-%20Lessons%20from%20History.pdf)
-
-<embed src="Mobilizing for Technological Revolutions - Lessons from History.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Mobilizing for Technological Revolutions"
+subtitle: "Lessons from History"
+description: "Mobilizing for Technological Revolutions - Lessons from History: a report in the Post-Labor Economics research library, under History and economic change, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "History and economic change"
+theme_id: "history-and-economic-change"
+pdf: "Mobilizing for Technological Revolutions - Lessons from History.pdf"
+pdf_url: "Mobilizing%20for%20Technological%20Revolutions%20-%20Lessons%20from%20History.pdf"
+pdf_size: "PDF, 110 KB"
+prev_url: "labor-s-pendulum-scarcity-glut-and-power-through-world-history.html"
+prev_title: "Labor’s Pendulum - Scarcity, Glut, and Power Through World History"
+next_url: "social-and-cultural-adaptations-to-labor-shocks-automation-s-long-historical-arc-and-the-ai-wave.html"
+next_title: "Social and Cultural Adaptations to Labor Shocks – Automation's Long Historical Arc and the AI Wave"
+---

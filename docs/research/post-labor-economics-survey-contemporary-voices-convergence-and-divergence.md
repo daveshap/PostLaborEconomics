@@ -1,5 +1,16 @@
-# Post-Labor Economics Survey - Contemporary Voices, Convergence, and Divergence
-
-[← Research library](./) · [Download the PDF](Post-Labor%20Economics%20Survey%20-%20Contemporary%20Voices%2C%20Convergence%2C%20and%20Divergence.pdf)
-
-<embed src="Post-Labor Economics Survey - Contemporary Voices, Convergence, and Divergence.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Post-Labor Economics Survey"
+subtitle: "Contemporary Voices, Convergence, and Divergence"
+description: "Post-Labor Economics Survey - Contemporary Voices, Convergence, and Divergence: a report in the Post-Labor Economics research library, under The Post-Labor Economics framework, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "The Post-Labor Economics framework"
+theme_id: "the-post-labor-economics-framework"
+pdf: "Post-Labor Economics Survey - Contemporary Voices, Convergence, and Divergence.pdf"
+pdf_url: "Post-Labor%20Economics%20Survey%20-%20Contemporary%20Voices%2C%20Convergence%2C%20and%20Divergence.pdf"
+pdf_size: "PDF, 128 KB"
+prev_url: "post-labor-economics-is-inevitable-there-is-no-fifth-paradigm.html"
+prev_title: "Post-Labor Economics is Inevitable – There is No 'Fifth Paradigm'"
+next_url: "solar-pv-and-the-post-labor-economy-energy-abundance-as-a-foundation-for-decentralized-prosperity.html"
+next_title: "Solar PV and the Post-Labor Economy - Energy Abundance as a Foundation for Decentralized Prosperity"
+---

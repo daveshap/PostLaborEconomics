@@ -1,5 +1,16 @@
-# Strange Attractors for a Solarpunk Future - Shifting Civilizational Path Dependency
-
-[← Research library](./) · [Download the PDF](Strange%20Attractors%20for%20a%20Solarpunk%20Future%20-%20Shifting%20Civilizational%20Path%20Dependency.pdf)
-
-<embed src="Strange Attractors for a Solarpunk Future - Shifting Civilizational Path Dependency.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Strange Attractors for a Solarpunk Future"
+subtitle: "Shifting Civilizational Path Dependency"
+description: "Strange Attractors for a Solarpunk Future - Shifting Civilizational Path Dependency: a report in the Post-Labor Economics research library, under The Post-Labor Economics framework, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "The Post-Labor Economics framework"
+theme_id: "the-post-labor-economics-framework"
+pdf: "Strange Attractors for a Solarpunk Future - Shifting Civilizational Path Dependency.pdf"
+pdf_url: "Strange%20Attractors%20for%20a%20Solarpunk%20Future%20-%20Shifting%20Civilizational%20Path%20Dependency.pdf"
+pdf_size: "PDF, 155 KB"
+prev_url: "solar-pv-and-the-post-labor-economy-energy-abundance-as-a-foundation-for-decentralized-prosperity.html"
+prev_title: "Solar PV and the Post-Labor Economy - Energy Abundance as a Foundation for Decentralized Prosperity"
+next_url: "the-neoliberal-attractor-basin-trajectories-and-loops.html"
+next_title: "The Neoliberal Attractor Basin – Trajectories and Loops"
+---

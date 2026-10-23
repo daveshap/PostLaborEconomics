@@ -1,5 +1,15 @@
-# AI as a General-Purpose Technology
-
-[← Research library](./) · [Download the PDF](AI%20as%20a%20General-Purpose%20Technology.pdf)
-
-<embed src="AI as a General-Purpose Technology.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "AI as a General-Purpose Technology"
+description: "AI as a General-Purpose Technology: a report in the Post-Labor Economics research library, under AI, automation and robotics, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "AI, automation and robotics"
+theme_id: "ai-automation-and-robotics"
+pdf: "AI as a General-Purpose Technology.pdf"
+pdf_url: "AI%20as%20a%20General-Purpose%20Technology.pdf"
+pdf_size: "PDF, 84 KB"
+prev_url: "ai-and-humanoid-robotics-an-era-of-exponential-acceleration.html"
+prev_title: "AI and Humanoid Robotics - An Era of Exponential Acceleration"
+next_url: "better-faster-cheaper-safer-the-march-of-labor-saving-technology.html"
+next_title: "Better, Faster, Cheaper, Safer - The March of Labor-Saving Technology"
+---

@@ -1,5 +1,16 @@
-# Levers of Power – Future Coercive Extraction of Concessions After Labor
-
-[← Research library](./) · [Download the PDF](Levers%20of%20Power%20%E2%80%93%20Future%20Coercive%20Extraction%20of%20Concessions%20After%20Labor.pdf)
-
-<embed src="Levers of Power – Future Coercive Extraction of Concessions After Labor.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Levers of Power"
+subtitle: "Future Coercive Extraction of Concessions After Labor"
+description: "Levers of Power – Future Coercive Extraction of Concessions After Labor: a report in the Post-Labor Economics research library, under Governance, technology and the social contract, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "Governance, technology and the social contract"
+theme_id: "governance-technology-and-the-social-contract"
+pdf: "Levers of Power – Future Coercive Extraction of Concessions After Labor.pdf"
+pdf_url: "Levers%20of%20Power%20%E2%80%93%20Future%20Coercive%20Extraction%20of%20Concessions%20After%20Labor.pdf"
+pdf_size: "PDF, 359 KB"
+prev_url: "how-to-avoid-elite-capture-in-a-post-labor-world.html"
+prev_title: "How to Avoid Elite Capture in a Post-Labor World"
+next_url: "toward-a-new-digital-social-contract-global-survey-of-key-technologies.html"
+next_title: "Toward a New Digital Social Contract - Global Survey of Key Technologies"
+---

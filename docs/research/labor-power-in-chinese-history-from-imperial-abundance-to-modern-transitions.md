@@ -1,5 +1,16 @@
-# Labor Power in Chinese History - From Imperial Abundance to Modern Transitions
-
-[← Research library](./) · [Download the PDF](Labor%20Power%20in%20Chinese%20History%20-%20From%20Imperial%20Abundance%20to%20Modern%20Transitions.pdf)
-
-<embed src="Labor Power in Chinese History - From Imperial Abundance to Modern Transitions.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Labor Power in Chinese History"
+subtitle: "From Imperial Abundance to Modern Transitions"
+description: "Labor Power in Chinese History - From Imperial Abundance to Modern Transitions: a report in the Post-Labor Economics research library, under History and economic change, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "History and economic change"
+theme_id: "history-and-economic-change"
+pdf: "Labor Power in Chinese History - From Imperial Abundance to Modern Transitions.pdf"
+pdf_url: "Labor%20Power%20in%20Chinese%20History%20-%20From%20Imperial%20Abundance%20to%20Modern%20Transitions.pdf"
+pdf_size: "PDF, 203 KB"
+prev_url: "industrial-transformation-and-national-missions-from-the-great-depression-to-the-ai-era.html"
+prev_title: "Industrial Transformation and National Missions - From the Great Depression to the AI Era"
+next_url: "labor-s-pendulum-scarcity-glut-and-power-through-world-history.html"
+next_title: "Labor’s Pendulum - Scarcity, Glut, and Power Through World History"
+---

@@ -1,5 +1,15 @@
-# The Future Corporation in a Fully Automated Economy
-
-[← Research library](./) · [Download the PDF](The%20Future%20Corporation%20in%20a%20Fully%20Automated%20Economy.pdf)
-
-<embed src="The Future Corporation in a Fully Automated Economy.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "The Future Corporation in a Fully Automated Economy"
+description: "The Future Corporation in a Fully Automated Economy: a report in the Post-Labor Economics research library, under AI, automation and robotics, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "AI, automation and robotics"
+theme_id: "ai-automation-and-robotics"
+pdf: "The Future Corporation in a Fully Automated Economy.pdf"
+pdf_url: "The%20Future%20Corporation%20in%20a%20Fully%20Automated%20Economy.pdf"
+pdf_size: "PDF, 125 KB"
+prev_url: "state-and-local-policies-on-generative-ai-in-the-u-s.html"
+prev_title: "State and Local Policies on Generative AI in the U.S."
+next_url: "the-future-of-advanced-ai-and-humanoid-robotics-2025-2050.html"
+next_title: "The Future of Advanced AI and Humanoid Robotics (2025–2050)"
+---

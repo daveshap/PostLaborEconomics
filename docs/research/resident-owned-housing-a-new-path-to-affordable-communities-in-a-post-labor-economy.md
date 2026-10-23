@@ -1,5 +1,16 @@
-# Resident-Owned Housing - A New Path to Affordable Communities in a Post-Labor Economy
-
-[← Research library](./) · [Download the PDF](Resident-Owned%20Housing%20-%20A%20New%20Path%20to%20Affordable%20Communities%20in%20a%20Post-Labor%20Economy.pdf)
-
-<embed src="Resident-Owned Housing - A New Path to Affordable Communities in a Post-Labor Economy.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Resident-Owned Housing"
+subtitle: "A New Path to Affordable Communities in a Post-Labor Economy"
+description: "Resident-Owned Housing - A New Path to Affordable Communities in a Post-Labor Economy: a report in the Post-Labor Economics research library, under The Pyramid of Prosperity: household income and ownership, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "The Pyramid of Prosperity: household income and ownership"
+theme_id: "the-pyramid-of-prosperity-household-income-and-ownership"
+pdf: "Resident-Owned Housing - A New Path to Affordable Communities in a Post-Labor Economy.pdf"
+pdf_url: "Resident-Owned%20Housing%20-%20A%20New%20Path%20to%20Affordable%20Communities%20in%20a%20Post-Labor%20Economy.pdf"
+pdf_size: "PDF, 161 KB"
+prev_url: "pyramid-of-prosperity-post-labor-income-gemini.html"
+prev_title: "Pyramid of Prosperity - Post-Labor Income (Gemini)"
+next_url: "shared-wealth-participatory-ownership-models-in-the-21st-century.html"
+next_title: "Shared Wealth - Participatory Ownership Models in the 21st Century"
+---

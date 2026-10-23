@@ -1,5 +1,16 @@
-# From S-Curves to New Frontiers - The Pace of Tech Adoption
-
-[← Research library](./) · [Download the PDF](From%20S-Curves%20to%20New%20Frontiers%20-%20The%20Pace%20of%20Tech%20Adoption.pdf)
-
-<embed src="From S-Curves to New Frontiers - The Pace of Tech Adoption.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "From S-Curves to New Frontiers"
+subtitle: "The Pace of Tech Adoption"
+description: "From S-Curves to New Frontiers - The Pace of Tech Adoption: a report in the Post-Labor Economics research library, under AI, automation and robotics, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "AI, automation and robotics"
+theme_id: "ai-automation-and-robotics"
+pdf: "From S-Curves to New Frontiers - The Pace of Tech Adoption.pdf"
+pdf_url: "From%20S-Curves%20to%20New%20Frontiers%20-%20The%20Pace%20of%20Tech%20Adoption.pdf"
+pdf_size: "PDF, 154 KB"
+prev_url: "forecasting-the-deployment-and-cost-trajectory-of-medium-utility-humanoid-robots-through-2060.html"
+prev_title: "Forecasting the Deployment and Cost Trajectory of Medium-Utility Humanoid Robots Through 2060"
+next_url: "general-purpose-technologies-history-impact-and-characteristics.html"
+next_title: "General-Purpose Technologies - History, Impact, and Characteristics"
+---

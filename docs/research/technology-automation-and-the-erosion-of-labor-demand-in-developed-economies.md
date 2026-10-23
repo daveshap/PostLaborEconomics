@@ -1,5 +1,15 @@
-# Technology, Automation, and the Erosion of Labor Demand in Developed Economies
-
-[← Research library](./) · [Download the PDF](Technology%2C%20Automation%2C%20and%20the%20Erosion%20of%20Labor%20Demand%20in%20Developed%20Economies.pdf)
-
-<embed src="Technology, Automation, and the Erosion of Labor Demand in Developed Economies.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Technology, Automation, and the Erosion of Labor Demand in Developed Economies"
+description: "Technology, Automation, and the Erosion of Labor Demand in Developed Economies: a report in the Post-Labor Economics research library, under Labor, jobs and wages, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "Labor, jobs and wages"
+theme_id: "labor-jobs-and-wages"
+pdf: "Technology, Automation, and the Erosion of Labor Demand in Developed Economies.pdf"
+pdf_url: "Technology%2C%20Automation%2C%20and%20the%20Erosion%20of%20Labor%20Demand%20in%20Developed%20Economies.pdf"
+pdf_size: "PDF, 205 KB"
+prev_url: "measuring-the-great-decoupling-how-institutions-are-tracking-collapsing-wages-in-the-age-of-automat.html"
+prev_title: "Measuring the Great Decoupling - How Institutions Are Tracking Collapsing Wages in the Age of Automation"
+next_url: "the-global-collapse-of-labor-arbitrage-in-the-age-of-synthetic-labor.html"
+next_title: "The Global Collapse of Labor Arbitrage in the Age of Synthetic Labor"
+---

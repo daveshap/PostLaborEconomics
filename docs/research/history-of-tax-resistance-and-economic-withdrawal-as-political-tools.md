@@ -1,5 +1,15 @@
-# History of Tax Resistance and Economic Withdrawal as Political Tools
-
-[← Research library](./) · [Download the PDF](History%20of%20Tax%20Resistance%20and%20Economic%20Withdrawal%20as%20Political%20Tools.pdf)
-
-<embed src="History of Tax Resistance and Economic Withdrawal as Political Tools.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "History of Tax Resistance and Economic Withdrawal as Political Tools"
+description: "History of Tax Resistance and Economic Withdrawal as Political Tools: a report in the Post-Labor Economics research library, under Governance, technology and the social contract, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "Governance, technology and the social contract"
+theme_id: "governance-technology-and-the-social-contract"
+pdf: "History of Tax Resistance and Economic Withdrawal as Political Tools.pdf"
+pdf_url: "History%20of%20Tax%20Resistance%20and%20Economic%20Withdrawal%20as%20Political%20Tools.pdf"
+pdf_size: "PDF, 74 KB"
+prev_url: "evolution-of-social-contracts-from-ancient-kingdoms-to-modern-nation-states.html"
+prev_title: "Evolution of Social Contracts - From Ancient Kingdoms to Modern Nation-States"
+next_url: "history-of-transparency-and-accountability-between-citizens-and-power.html"
+next_title: "History of Transparency and Accountability Between Citizens and Power"
+---

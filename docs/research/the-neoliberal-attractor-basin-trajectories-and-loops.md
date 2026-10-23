@@ -1,5 +1,16 @@
-# The Neoliberal Attractor Basin – Trajectories and Loops
-
-[← Research library](./) · [Download the PDF](The%20Neoliberal%20Attractor%20Basin%20%E2%80%93%20Trajectories%20and%20Loops.pdf)
-
-<embed src="The Neoliberal Attractor Basin – Trajectories and Loops.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "The Neoliberal Attractor Basin"
+subtitle: "Trajectories and Loops"
+description: "The Neoliberal Attractor Basin – Trajectories and Loops: a report in the Post-Labor Economics research library, under The Post-Labor Economics framework, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "The Post-Labor Economics framework"
+theme_id: "the-post-labor-economics-framework"
+pdf: "The Neoliberal Attractor Basin – Trajectories and Loops.pdf"
+pdf_url: "The%20Neoliberal%20Attractor%20Basin%20%E2%80%93%20Trajectories%20and%20Loops.pdf"
+pdf_size: "PDF, 104 KB"
+prev_url: "strange-attractors-for-a-solarpunk-future-shifting-civilizational-path-dependency.html"
+prev_title: "Strange Attractors for a Solarpunk Future - Shifting Civilizational Path Dependency"
+next_url: "total-factor-productivity-in-a-post-labor-economy.html"
+next_title: "Total Factor Productivity in a Post-Labor Economy"
+---

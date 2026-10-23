@@ -1,5 +1,15 @@
-# The Future of Advanced AI and Humanoid Robotics (2025–2050)
-
-[← Research library](./) · [Download the PDF](The%20Future%20of%20Advanced%20AI%20and%20Humanoid%20Robotics%20%282025%E2%80%932050%29.pdf)
-
-<embed src="The Future of Advanced AI and Humanoid Robotics (2025–2050).pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "The Future of Advanced AI and Humanoid Robotics (2025–2050)"
+description: "The Future of Advanced AI and Humanoid Robotics (2025–2050): a report in the Post-Labor Economics research library, under AI, automation and robotics, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "AI, automation and robotics"
+theme_id: "ai-automation-and-robotics"
+pdf: "The Future of Advanced AI and Humanoid Robotics (2025–2050).pdf"
+pdf_url: "The%20Future%20of%20Advanced%20AI%20and%20Humanoid%20Robotics%20%282025%E2%80%932050%29.pdf"
+pdf_size: "PDF, 81 KB"
+prev_url: "the-future-corporation-in-a-fully-automated-economy.html"
+prev_title: "The Future Corporation in a Fully Automated Economy"
+next_url: "the-history-and-impact-of-general-purpose-technologies-from-the-wheel-to-the-internet.html"
+next_title: "The History and Impact of General-Purpose Technologies - From the Wheel to the Internet"
+---

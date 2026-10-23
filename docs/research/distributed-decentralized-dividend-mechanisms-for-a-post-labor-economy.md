@@ -1,5 +1,15 @@
-# Distributed & Decentralized Dividend Mechanisms for a Post-Labor Economy
-
-[← Research library](./) · [Download the PDF](Distributed%20%26%20Decentralized%20Dividend%20Mechanisms%20for%20a%20Post%E2%80%91Labor%20Economy.pdf)
-
-<embed src="Distributed & Decentralized Dividend Mechanisms for a Post‑Labor Economy.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Distributed & Decentralized Dividend Mechanisms for a Post-Labor Economy"
+description: "Distributed & Decentralized Dividend Mechanisms for a Post-Labor Economy: a report in the Post-Labor Economics research library, under The Pyramid of Prosperity: household income and ownership, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "The Pyramid of Prosperity: household income and ownership"
+theme_id: "the-pyramid-of-prosperity-household-income-and-ownership"
+pdf: "Distributed & Decentralized Dividend Mechanisms for a Post‑Labor Economy.pdf"
+pdf_url: "Distributed%20%26%20Decentralized%20Dividend%20Mechanisms%20for%20a%20Post%E2%80%91Labor%20Economy.pdf"
+pdf_size: "PDF, 144 KB"
+prev_url: "capital-endowment-programs-direct-asset-grants-to-individuals.html"
+prev_title: "Capital Endowment Programs - Direct Asset Grants to Individuals"
+next_url: "dividends-for-the-age-of-automation-how-economies-are-preparing-for-a-post-labor-future.html"
+next_title: "Dividends for the Age of Automation - How Economies Are Preparing for a Post-Labor Future"
+---

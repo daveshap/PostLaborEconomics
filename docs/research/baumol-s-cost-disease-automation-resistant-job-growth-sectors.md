@@ -1,5 +1,16 @@
-# Baumol's Cost Disease – Automation-Resistant Job Growth Sectors
-
-[← Research library](./) · [Download the PDF](Baumol%27s%20Cost%20Disease%20%E2%80%93%20Automation-Resistant%20Job%20Growth%20Sectors.pdf)
-
-<embed src="Baumol's Cost Disease – Automation-Resistant Job Growth Sectors.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Baumol's Cost Disease"
+subtitle: "Automation-Resistant Job Growth Sectors"
+description: "Baumol's Cost Disease – Automation-Resistant Job Growth Sectors: a report in the Post-Labor Economics research library, under Labor, jobs and wages, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "Labor, jobs and wages"
+theme_id: "labor-jobs-and-wages"
+pdf: "Baumol's Cost Disease – Automation-Resistant Job Growth Sectors.pdf"
+pdf_url: "Baumol%27s%20Cost%20Disease%20%E2%80%93%20Automation-Resistant%20Job%20Growth%20Sectors.pdf"
+pdf_size: "PDF, 128 KB"
+prev_url: "automation-s-impact-on-developed-economies.html"
+prev_title: "Automation's Impact on Developed Economies"
+next_url: "credential-inflation-over-the-centuries-the-rise-and-forecast-of-median-education-for-entry-level.html"
+next_title: "Credential Inflation Over the Centuries – The Rise and Forecast of Median Education for Entry-Level Jobs"
+---

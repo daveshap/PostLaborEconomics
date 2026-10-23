@@ -1,5 +1,16 @@
-# Inclusive Capital Income Ratio (ICIR) in a Post-Labor Economy - A Comprehensive U.S. Perspective
-
-[← Research library](./) · [Download the PDF](Inclusive%20Capital%20Income%20Ratio%20%28ICIR%29%20in%20a%20Post-Labor%20Economy%20-%20A%20Comprehensive%20U.S.%20Perspective.pdf)
-
-<embed src="Inclusive Capital Income Ratio (ICIR) in a Post-Labor Economy - A Comprehensive U.S. Perspective.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Inclusive Capital Income Ratio (ICIR) in a Post-Labor Economy"
+subtitle: "A Comprehensive U.S. Perspective"
+description: "Inclusive Capital Income Ratio (ICIR) in a Post-Labor Economy - A Comprehensive U.S. Perspective: a report in the Post-Labor Economics research library, under The Pyramid of Prosperity: household income and ownership, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "The Pyramid of Prosperity: household income and ownership"
+theme_id: "the-pyramid-of-prosperity-household-income-and-ownership"
+pdf: "Inclusive Capital Income Ratio (ICIR) in a Post-Labor Economy - A Comprehensive U.S. Perspective.pdf"
+pdf_url: "Inclusive%20Capital%20Income%20Ratio%20%28ICIR%29%20in%20a%20Post-Labor%20Economy%20-%20A%20Comprehensive%20U.S.%20Perspective.pdf"
+pdf_size: "PDF, 129 KB"
+prev_url: "inclusive-capital-a-global-survey.html"
+prev_title: "Inclusive Capital - A Global Survey"
+next_url: "inclusive-capital-initiatives-around-the-world.html"
+next_title: "Inclusive Capital Initiatives Around the World"
+---

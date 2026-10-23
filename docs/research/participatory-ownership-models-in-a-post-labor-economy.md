@@ -1,5 +1,15 @@
-# Participatory Ownership Models in a Post-Labor Economy
-
-[← Research library](./) · [Download the PDF](Participatory%20Ownership%20Models%20in%20a%20Post%E2%80%91Labor%20Economy.pdf)
-
-<embed src="Participatory Ownership Models in a Post‑Labor Economy.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Participatory Ownership Models in a Post-Labor Economy"
+description: "Participatory Ownership Models in a Post-Labor Economy: a report in the Post-Labor Economics research library, under The Pyramid of Prosperity: household income and ownership, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "The Pyramid of Prosperity: household income and ownership"
+theme_id: "the-pyramid-of-prosperity-household-income-and-ownership"
+pdf: "Participatory Ownership Models in a Post‑Labor Economy.pdf"
+pdf_url: "Participatory%20Ownership%20Models%20in%20a%20Post%E2%80%91Labor%20Economy.pdf"
+pdf_size: "PDF, 112 KB"
+prev_url: "market-based-solutions-for-economic-inclusion-in-a-post-work-future.html"
+prev_title: "Market-Based Solutions for Economic Inclusion in a Post-Work Future"
+next_url: "modeling-a-five-tier-income-hierarchy-in-a-post-labor-economy-2060.html"
+next_title: "Pyramid of Prosperity - Modeling a 5 Tier Income for Post-Labor"
+---

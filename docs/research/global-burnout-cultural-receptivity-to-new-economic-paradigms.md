@@ -1,5 +1,16 @@
-# Global Burnout – Cultural Receptivity to New Economic Paradigms
-
-[← Research library](./) · [Download the PDF](Global%20Burnout%20%E2%80%93%20Cultural%20Receptivity%20to%20New%20Economic%20Paradigms.pdf)
-
-<embed src="Global Burnout – Cultural Receptivity to New Economic Paradigms.pdf" type="application/pdf" width="100%" height="800px">
+---
+layout: "report"
+title: "Global Burnout"
+subtitle: "Cultural Receptivity to New Economic Paradigms"
+description: "Global Burnout – Cultural Receptivity to New Economic Paradigms: a report in the Post-Labor Economics research library, under Society, culture and well-being, free to read in the browser or download as a PDF."
+nav: "research"
+theme: "Society, culture and well-being"
+theme_id: "society-culture-and-well-being"
+pdf: "Global Burnout – Cultural Receptivity to New Economic Paradigms.pdf"
+pdf_url: "Global%20Burnout%20%E2%80%93%20Cultural%20Receptivity%20to%20New%20Economic%20Paradigms.pdf"
+pdf_size: "PDF, 187 KB"
+prev_url: "cognitive-capture-in-the-post-labor-age.html"
+prev_title: "Cognitive Capture in the Post-Labor Age"
+next_url: "neoliberal-policy-and-total-fertility-a-multidimensional-analysis.html"
+next_title: "Neoliberal Policy and Total Fertility – A Multidimensional Analysis"
+---
