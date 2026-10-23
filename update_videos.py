@@ -176,9 +176,15 @@ def fill_dates(videos, channel):
 
 
 # ------------------------------------------------------------- thumbnails ---
+def thumb_name(vid):
+    """The thumbnail file name for a video. Jekyll leaves out files whose names start with an underscore, and
+    video IDs can, so those get a "v" in front."""
+    return "v" + vid if vid.startswith("_") else vid
+
+
 def thumbnails(root, vid, offline):
     """Save the video's thumbnail as 16:9 WebP files in two widths, once. True if it saved any."""
-    paths = [os.path.join(root, THUMBS, f"{vid}-{w}.webp") for w in SIZES]
+    paths = [os.path.join(root, THUMBS, f"{thumb_name(vid)}-{w}.webp") for w in SIZES]
     if all(os.path.exists(p) for p in paths):
         return False
     if offline:
@@ -237,7 +243,7 @@ def length_html(v):
 
 
 def srcset(vid):
-    base = f"../assets/thumbs/videos/{vid}"
+    base = f"../assets/thumbs/videos/{thumb_name(vid)}"
     return f'src="{base}-{SIZES[0]}.webp" srcset="{base}-{SIZES[0]}.webp {SIZES[0]}w, {base}-{SIZES[1]}.webp {SIZES[1]}w"'
 
 
@@ -372,7 +378,7 @@ def main():
     changed = []
     for v in state["videos"]:
         if thumbnails(args.root, v["id"], args.offline):
-            changed.append(f"{THUMBS}/{v['id']}-*.webp")
+            changed.append(f"{THUMBS}/{thumb_name(v['id'])}-*.webp")
     if write(data_path, json.dumps(state, indent=1, ensure_ascii=False) + "\n"):
         changed.append(DATA)
     if write(os.path.join(args.root, BODY), render(state)):
